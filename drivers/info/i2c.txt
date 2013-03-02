@@ -1,0 +1,10 @@
+0	/sys/bus/i2c/devices
+0	/sys/bus/i2c/drivers/dummy
+0	/sys/bus/i2c/drivers/mt6329_pmic
+0	/sys/bus/i2c/drivers/mt6329_pmic_bank1
+0	/sys/bus/i2c/drivers/dummy_eeprom
+0	/sys/bus/i2c/drivers/BMA250
+0	/sys/bus/i2c/drivers/mtk-tpd
+0	/sys/bus/i2c/drivers/kd_camera_hw
+0	/sys/bus/i2c/drivers
+0	/sys/bus/i2c/

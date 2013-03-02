@@ -1,0 +1,32 @@
+http://forum.china-iphone.ru/viewtopic.php?p=916105#p916105
+
+Root Shell for JB4.1.1 core 3.4.0
+
+ Ответ:#90 » FoxtrotKZ » 14 янв 2013, 15:14 
+УРА!!!
+"Порвал" Root Shell JB4.1.1 core 3.4.0
+"-Если долго биться головой об стену либо сломается голова, либо стена".  В данном случае стена.
+
+Итак по пунктам:
+1) разбираем boot 
+2) правим default.prop
+ default.prop
+ro.secure=0
+ro.allow.mock.location=1
+persist.mtk.aee.aed=on
+ro.debuggable=1
+persist.sys.usb.config=mass_storage,adb
+persist.service.acm.enable=0
+persist.service.adb.enable=1
+3) в \rmdisk\sbin кладём adbd ("нормальный", я положил от A789)
+4) собираем boot
+5) SuperSU-v0.99
+ CWM-SuperSU-v0.99.zip
+(669.1 КБ) Скачиваний: 15
+ adbd.rar
+(195.41 КБ) Скачиваний: 13
+ Screen
+
+P770  A2107_Foxtrot_v100...SMSreg-"Антиугон"
+За это сообщение автора FoxtrotKZ поблагодарили (всего 15):
+Nik_N • masson • AlexG1 • RequeLine • pvsurkov • djking • rua1 • _&Nik&_ • Stanner • X-Dron • linerty • labor12 • javum • Elf! • akulishov

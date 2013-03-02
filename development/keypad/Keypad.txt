@@ -1,0 +1,100 @@
+
+POWER
+26 
+HW keycode =116 using PMIC
+keycode=26
+
+keyCode=0x1a, scanCode=0x74
+==============
+VOLUME_UP
+24
+HW keycode = 1
+Linux keycode = 115
+scancode=115
+
+^ KeyDown:scancode=115
+HW keycode = 1
+Linux keycode = 115
+HW keycode = 10
+HW keycode = 19
+HW keycode = 28
+HW keycode = 37
+HW keycode = 46
+HW keycode = 55
+HW keycode = 64
+keycode=24
+^ KeyUp:scancode=115
+keyCode=0x18, scanCode=0x73
+==============
+
+VOLUME_DOWN
+25
+HW keycode = 10
+Linux keycode = 0
+scancode=114
+
+^ KeyDown:scancode=114
+HW keycode = 0
+Linux keycode = 114
+HW keycode = 9
+HW keycode = 18
+HW keycode = 27
+HW keycode = 36
+HW keycode = 45
+HW keycode = 54
+HW keycode = 63
+keycode=25
+keyCode=0x19, scanCode=0x72
+==============
+
+HOME
+3
+HW keycode = 46
+Linux keycode = 0
+
+keycode=3 keyCode=3
+keyCode=0x3, scanCode=0x66
+==============
+
+MENU
+82
+HW keycode = 19
+Linux keycode = 0
+
+^ KeyDown:code=82 scancode=139
+keycode=82
+^ KeyUp:code=82 scancode=139
+keyCode=0x52, scanCode=0x8b
+===============
+
+BACK
+4
+HW keycode = 28
+Linux keycode = 0
+
+^ KeyDown:code=4 scancode=158
+keycode=4
+^ KeyUp:code=4 scancode=158
+keyCode=0x4, scanCode=0x9e
+===============
+SEARCH
+84
+HW keycode = 37
+Linux keycode = 0
+
+^ KeyDown:code=84 scancode=217 
+keycode=84
+^ KeyUp:code=84 scancode=217
+keyCode=0x54, scanCode=0xd9
+===============
+
+1
+HW keycode = 55
+Linux keycode = 0
+
+2
+HW keycode = 64
+Linux keycode = 0
+
+
+
