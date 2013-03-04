@@ -1,0 +1,57 @@
+[EINT_variables]
+MT7118_WIMAX
+MT5921_WIFI
+BT
+KPD_PWRKEY
+KPD_SLIDE
+TOUCH_PANEL
+MT6326_PMIC
+HEADSET
+MHALL
+HALL_1
+HALL_2
+HALL_3
+FM_RDS
+HALL_4
+ALS
+OFN
+WIFI
+COMBO_BGF
+COMBO_ALL
+GSE_1
+GSE_2
+MSE
+GYRO
+ACCDET
+OTG_IDDIG
+CMMB
+NFC
+HEADSET_HOOK
+MT6329_PMIC
+
+[cust_eint.h_HEADER]
+#ifndef __CUST_EINTH
+#define __CUST_EINTH
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+#define CUST_EINT_POLARITY_LOW              0
+#define CUST_EINT_POLARITY_HIGH             1
+#define CUST_EINT_DEBOUNCE_DISABLE          0
+#define CUST_EINT_DEBOUNCE_ENABLE           1
+#define CUST_EINT_EDGE_SENSITIVE            0
+#define CUST_EINT_LEVEL_SENSITIVE           1
+
+//////////////////////////////////////////////////////////////////////////////
+
+[cust_eint.h_TAILER]
+
+//////////////////////////////////////////////////////////////////////////////
+#ifdef __cplusplus
+}
+
+#endif
+#endif //_CUST_EINT_H
+

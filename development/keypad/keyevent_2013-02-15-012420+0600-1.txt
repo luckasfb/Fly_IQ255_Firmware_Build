@@ -1,0 +1,169 @@
+OS Release: 2.3.6
+OS API Level: 10
+Board: tinnoes75_s8053
+Brand: alps
+CPU_ABI: armeabi-v7a
+Device: tinnoes75_s8053
+Display: ALPS.GB2.MP.V2.P6
+Fingerprint: alps/tinnoes75_s8053/tinnoes75_s8053:2.3.6/GRK39F/1348754999:eng/test-keys
+Host: luis-OptiPlex-980
+ID: GRK39F
+Manufacturer: alps
+Model: IQ255
+Product: tinnoes75_s8053
+Tags: test-keys
+Type: eng
+User: luis
+Bootloader: unknown
+CPU_ABI2: armeabi
+Hardware: mt6575
+Radio: unknown
+
+
+-----------------
+power
+
+Press buttons to see the keycodes:
+^ Logcat:       D/InputDispatcher( 161): notifyKey - eventTime=13002507110056, deviceId=0x20004, source=0x101, policyFlags=0x1, action=0x0, flags=0x8, keyCode=0x1a, scanCode=0x74, metaState=0x0, downTime=13002507110056 
+^ Kernel:       [13149.093723] kpd: (pressed) HW keycode =116 using PMIC 
+^ Logcat:       D/WindowManager( 161): interceptKeyTq keycode=26 screenIsOn=true keyguardActive=false policyFlags = #2000001 down =true canceled = false 
+^ Logcat:       D/InputDispatcher( 161): notifyKey - eventTime=13002618072661, deviceId=0x20004, source=0x101, policyFlags=0x1, action=0x1, flags=0x8, keyCode=0x1a, scanCode=0x74, metaState=0x0, downTime=13002507110056 
+^ Logcat:       D/WindowManager( 161): interceptKeyTq keycode=26 screenIsOn=true keyguardActive=false policyFlags = #2000001 down =false canceled = false 
+^ Kernel:       [13149.214273] kpd: (released) HW keycode =116 using PMIC 
+^ Logcat:       D/InputDispatcher( 161): notifyKey - eventTime=13009084672810, deviceId=0x20004, source=0x101, policyFlags=0x1, action=0x0, flags=0x8, keyCode=0x1a, scanCode=0x74, metaState=0x0, downTime=13009084672810 
+^ Logcat:       D/WindowManager( 161): interceptKeyTq keycode=26 screenIsOn=false keyguardActive=true policyFlags = #2000001 down =true canceled = false 
+^ Kernel:       [13155.687315] kpd: (pressed) HW keycode =116 using PMIC 
+^ Logcat:       D/InputDispatcher( 161): notifyKey - eventTime=13009199140470, deviceId=0x20004, source=0x101, policyFlags=0x1, action=0x1, flags=0x8, keyCode=0x1a, scanCode=0x74, metaState=0x0, downTime=13009084672810 
+^ Logcat:       D/WindowManager( 161): interceptKeyTq keycode=26 screenIsOn=false keyguardActive=true policyFlags = #2000001 down =false canceled = false 
+^ Kernel:       [13155.795368] kpd: (released) HW keycode =116 using PMIC 
+-------------------------
+vol-up
+
+^ KeyDown:      action=0 code=24 repeat=0 meta=0 scancode=115 mFlags=8 label='' chars='null' number='' 
+^ Kernel:       [13163.566178] kpd: (pressed) HW keycode = 1 
+^ Kernel:       [13163.566687] kpd: report Linux keycode = 115 
+^ Kernel:       [13163.567196] kpd: (pressed) HW keycode = 10 
+^ Kernel:       [13163.567703] kpd: Linux keycode = 0 
+^ Kernel:       [13163.568126] kpd: (pressed) HW keycode = 19 
+^ Kernel:       [13163.568635] kpd: Linux keycode = 0 
+^ Kernel:       [13163.569074] kpd: (pressed) HW keycode = 28 
+^ Kernel:       [13163.569570] kpd: Linux keycode = 0 
+^ Kernel:       [13163.569993] kpd: (pressed) HW keycode = 37 
+^ Kernel:       [13163.570501] kpd: Linux keycode = 0 
+^ Kernel:       [13163.570924] kpd: (pressed) HW keycode = 46 
+^ Kernel:       [13163.571433] kpd: Linux keycode = 0 
+^ Kernel:       [13163.571856] kpd: (pressed) HW keycode = 55 
+^ Kernel:       [13163.572364] kpd: Linux keycode = 0 
+^ Kernel:       [13163.572788] kpd: (pressed) HW keycode = 64 
+^ Kernel:       [13163.573296] kpd: Linux keycode = 0 
+^ Logcat:       D/InputDispatcher( 161): notifyKey - eventTime=13016988843778, deviceId=0x20004, source=0x101, policyFlags=0x2, action=0x0, flags=0x8, keyCode=0x18, scanCode=0x73, metaState=0x0, downTime=13016988843778 
+^ Logcat:       D/WindowManager( 161): interceptKeyTq keycode=24 screenIsOn=true keyguardActive=false policyFlags = #2000002 down =true canceled = false 
+^ Logcat:       D/WindowManager( 161): interceptKeyTi keyCode=24 down=true repeatCount=0 keyguardOn=false mHomePressed=false canceled=false 
+^ Kernel:       [13163.692324] kpd: (released) HW keycode = 1 
+^ Kernel:       [13163.692875] kpd: report Linux keycode = 115 
+^ Kernel:       [13163.693385] kpd: (released) HW keycode = 10 
+^ Kernel:       [13163.693903] kpd: Linux keycode = 0 
+^ Kernel:       [13163.694327] kpd: (released) HW keycode = 19 
+^ Kernel:       [13163.694845] kpd: Linux keycode = 0 
+^ Kernel:       [13163.695269] kpd: (released) HW keycode = 28 
+^ Kernel:       [13163.695826] kpd: Linux keycode = 0 
+^ Kernel:       [13163.696237] kpd: (released) HW keycode = 37 
+^ Kernel:       [13163.696755] kpd: Linux keycode = 0 
+^ Kernel:       [13163.697179] kpd: (released) HW keycode = 46 
+^ Kernel:       [13163.697698] kpd: Linux keycode = 0 
+^ Kernel:       [13163.698121] kpd: (released) HW keycode = 55 
+^ Kernel:       [13163.698640] kpd: Linux keycode = 0 
+^ Kernel:       [13163.699063] kpd: (released) HW keycode = 64 
+^ Kernel:       [13163.699582] kpd: Linux keycode = 0 
+^ Logcat:       D/InputDispatcher( 161): notifyKey - eventTime=13017115068702, deviceId=0x20004, source=0x101, policyFlags=0x2, action=0x1, flags=0x8, keyCode=0x18, scanCode=0x73, metaState=0x0, downTime=13016988843778 
+^ Logcat:       D/WindowManager( 161): interceptKeyTq keycode=24 screenIsOn=true keyguardActive=false policyFlags = #2000002 down =false canceled = false 
+^ Logcat:       D/WindowManager( 161): interceptKeyTi keyCode=24 down=false repeatCount=0 keyguardOn=false mHomePressed=false canceled=false 
+^ KeyUp:        action=1 code=24 repeat=0 meta=0 scancode=115 mFlags=8 label='' chars='null' number='' 
+-------------------------
+vol-down
+
+^ KeyDown:      action=0 code=25 repeat=0 meta=0 scancode=114 mFlags=8 label='' chars='null' number='' 
+^ Kernel:       [13169.120452] kpd: (pressed) HW keycode = 0 
+^ Kernel:       [13169.120972] kpd: report Linux keycode = 114 
+^ Kernel:       [13169.121480] kpd: (pressed) HW keycode = 9 
+^ Kernel:       [13169.121977] kpd: Linux keycode = 0 
+^ Kernel:       [13169.122401] kpd: (pressed) HW keycode = 18 
+^ Kernel:       [13169.122909] kpd: Linux keycode = 0 
+^ Kernel:       [13169.123332] kpd: (pressed) HW keycode = 27 
+^ Kernel:       [13169.123840] kpd: Linux keycode = 0 
+^ Kernel:       [13169.124263] kpd: (pressed) HW keycode = 36 
+^ Kernel:       [13169.124772] kpd: Linux keycode = 0 
+^ Kernel:       [13169.125195] kpd: (pressed) HW keycode = 45 
+^ Kernel:       [13169.125703] kpd: Linux keycode = 0 
+^ Kernel:       [13169.126126] kpd: (pressed) HW keycode = 54 
+^ Kernel:       [13169.126635] kpd: Linux keycode = 0 
+^ Kernel:       [13169.127058] kpd: (pressed) HW keycode = 63 
+^ Kernel:       [13169.127566] kpd: Linux keycode = 0 
+^ Logcat:       D/InputDispatcher( 161): notifyKey - eventTime=13022543033541, deviceId=0x20004, source=0x101, policyFlags=0x2, action=0x0, flags=0x8, keyCode=0x19, scanCode=0x72, metaState=0x0, downTime=13022543033541 
+^ Logcat:       D/WindowManager( 161): interceptKeyTq keycode=25 screenIsOn=true keyguardActive=false policyFlags = #2000002 down =true canceled = false 
+^ Logcat:       D/WindowManager( 161): interceptKeyTi keyCode=25 down=true repeatCount=0 keyguardOn=false mHomePressed=false canceled=false 
+^ Logcat:       D/InputDispatcher( 161): notifyKey - eventTime=13022685898240, deviceId=0x20004, source=0x101, policyFlags=0x2, action=0x1, flags=0x8, keyCode=0x19, scanCode=0x72, metaState=0x0, downTime=13022543033541 
+^ Logcat:       D/WindowManager( 161): interceptKeyTq keycode=25 screenIsOn=true keyguardActive=false policyFlags = #2000002 down =false canceled = false 
+^ KeyUp:        action=1 code=25 repeat=0 meta=0 scancode=114 mFlags=8 label='' chars='null' number='' 
+^ Kernel:       [13169.263211] kpd: (released) HW keycode = 0 
+^ Kernel:       [13169.263748] kpd: report Linux keycode = 114 
+^ Kernel:       [13169.264257] kpd: (released) HW keycode = 9 
+^ Kernel:       [13169.264765] kpd: Linux keycode = 0 
+^ Kernel:       [13169.265188] kpd: (released) HW keycode = 18 
+^ Kernel:       [13169.265707] kpd: Linux keycode = 0 
+^ Kernel:       [13169.266130] kpd: (released) HW keycode = 27 
+^ Kernel:       [13169.266649] kpd: Linux keycode = 0 
+^ Kernel:       [13169.267073] kpd: (released) HW keycode = 36 
+^ Kernel:       [13169.267592] kpd: Linux keycode = 0 
+^ Kernel:       [13169.268015] kpd: (released) HW keycode = 45 
+^ Kernel:       [13169.268534] kpd: Linux keycode = 0 
+^ Kernel:       [13169.268957] kpd: (released) HW keycode = 54 
+^ Kernel:       [13169.269476] kpd: Linux keycode = 0 
+^ Kernel:       [13169.269900] kpd: (released) HW keycode = 63 
+^ Kernel:       [13169.270419] kpd: Linux keycode = 0 
+^ Logcat:       D/WindowManager( 161): interceptKeyTi keyCode=25 down=false repeatCount=0 keyguardOn=false mHomePressed=false canceled=false 
+-------------------------
+menu
+
+^ KeyDown:      action=0 code=82 repeat=0 meta=0 scancode=139 mFlags=72 label='' chars='null' number='' 
+^ Logcat:       D/InputDispatcher( 161): notifyKey - eventTime=13027396820010, deviceId=0x10002, source=0x101, policyFlags=0x100, action=0x0, flags=0x48, keyCode=0x52, scanCode=0x8b, metaState=0x0, downTime=761011242 
+^ Logcat:       D/WindowManager( 161): interceptKeyTq keycode=82 screenIsOn=true keyguardActive=false policyFlags = #2000100 down =true canceled = false 
+^ Logcat:       D/WindowManager( 161): interceptKeyTi keyCode=82 down=true repeatCount=0 keyguardOn=false mHomePressed=false canceled=false 
+^ Logcat:       W/KeyCharacterMap(10949): Can't open keycharmap file 
+^ Logcat:       W/KeyCharacterMap(10949): Error loading keycharmap file '/system/usr/keychars/mtk-tpd.kcm.bin'. hw.keyboards.65538.devname='mtk-tpd' 
+^ Logcat:       W/KeyCharacterMap(10949): Using default keymap: /system/usr/keychars/qwerty.kcm.bin 
+^ Logcat:       D/InputDispatcher( 161): notifyKey - eventTime=13027499314548, deviceId=0x10002, source=0x101, policyFlags=0x100, action=0x1, flags=0x48, keyCode=0x52, scanCode=0x8b, metaState=0x0, downTime=761011242 
+^ Logcat:       D/WindowManager( 161): interceptKeyTq keycode=82 screenIsOn=true keyguardActive=false policyFlags = #2000100 down =false canceled = false 
+^ KeyUp:        action=1 code=82 repeat=0 meta=0 scancode=139 mFlags=72 label='' chars='null' number='' 
+^ Logcat:       D/WindowManager( 161): interceptKeyTi keyCode=82 down=false repeatCount=0 keyguardOn=false mHomePressed=false canceled=false 
+-------------------------
+back
+
+^ KeyDown:      action=0 code=4 repeat=0 meta=0 scancode=158 mFlags=72 label='' chars='null' number='' 
+^ Logcat:       D/InputDispatcher( 161): notifyKey - eventTime=13032223173046, deviceId=0x10002, source=0x101, policyFlags=0x100, action=0x0, flags=0x48, keyCode=0x4, scanCode=0x9e, metaState=0x0, downTime=1292396982 
+^ Logcat:       D/WindowManager( 161): interceptKeyTq keycode=4 screenIsOn=true keyguardActive=false policyFlags = #2000100 down =true canceled = false 
+^ Logcat:       D/WindowManager( 161): interceptKeyTi keyCode=4 down=true repeatCount=0 keyguardOn=false mHomePressed=false canceled=false 
+^ Logcat:       D/InputDispatcher( 161): notifyKey - eventTime=13032309951473, deviceId=0x10002, source=0x101, policyFlags=0x100, action=0x1, flags=0x48, keyCode=0x4, scanCode=0x9e, metaState=0x0, downTime=1292396982 
+^ Logcat:       D/WindowManager( 161): interceptKeyTq keycode=4 screenIsOn=true keyguardActive=false policyFlags = #2000100 down =false canceled = false 
+^ KeyUp:        action=1 code=4 repeat=0 meta=0 scancode=158 mFlags=72 label='' chars='null' number='' 
+^ Logcat:       D/WindowManager( 161): interceptKeyTi keyCode=4 down=false repeatCount=0 keyguardOn=false mHomePressed=false canceled=false 
+^ Logcat:       W/KeyCharacterMap(10949): Can't open keycharmap file 
+^ Logcat:       W/KeyCharacterMap(10949): Error loading keycharmap file '/system/usr/keychars/mtk-tpd.kcm.bin'. hw.keyboards.65538.devname='mtk-tpd' 
+^ Logcat:       W/KeyCharacterMap(10949): Using default keymap: /system/usr/keychars/qwerty.kcm.bin 
+-------------------------
+search
+
+^ KeyDown:      action=0 code=84 repeat=0 meta=0 scancode=217 mFlags=72 label='' chars='null' number='' 
+^ Logcat:       D/InputDispatcher( 161): notifyKey - eventTime=13040249583782, deviceId=0x10002, source=0x101, policyFlags=0x100, action=0x0, flags=0x48, keyCode=0x54, scanCode=0xd9, metaState=0x0, downTime=728873126 
+^ Logcat:       D/WindowManager( 161): interceptKeyTq keycode=84 screenIsOn=true keyguardActive=false policyFlags = #2000100 down =true canceled = false 
+^ Logcat:       D/WindowManager( 161): interceptKeyTi keyCode=84 down=true repeatCount=0 keyguardOn=false mHomePressed=false canceled=false 
+^ Logcat:       W/KeyCharacterMap( 161): No keyboard for id 0 
+^ Logcat:       W/KeyCharacterMap( 161): Using default keymap: /system/usr/keychars/qwerty.kcm.bin 
+^ Logcat:       D/InputDispatcher( 161): notifyKey - eventTime=13040282284069, deviceId=0x10002, source=0x101, policyFlags=0x100, action=0x1, flags=0x48, keyCode=0x54, scanCode=0xd9, metaState=0x0, downTime=728873126 
+^ Logcat:       D/WindowManager( 161): interceptKeyTq keycode=84 screenIsOn=true keyguardActive=false policyFlags = #2000100 down =false canceled = false 
+^ Logcat:       D/WindowManager( 161): interceptKeyTi keyCode=84 down=false repeatCount=0 keyguardOn=false mHomePressed=false canceled=false 
+^ KeyUp:        action=1 code=84 repeat=0 meta=0 scancode=217 mFlags=72 label='' chars='null' number='' 
+^ Logcat:       W/KeyCharacterMap(10949): Can't open keycharmap file 
+^ Logcat:       W/KeyCharacterMap(10949): Error loading keycharmap file '/system/usr/keychars/mtk-tpd.kcm.bin'. hw.keyboards.65538.devname='mtk-tpd' 
+^ Logcat:       W/KeyCharacterMap(10949): Using default keymap: /system/usr/keychars/qwerty.kcm.bin 
+-------------------------
