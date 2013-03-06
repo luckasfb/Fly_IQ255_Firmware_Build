@@ -1,0 +1,127 @@
+// GP 3.95" MPU Initial code
+{
+RESET()				// LCD Reset
+DelayX1ms(50);
+
+Set_NOKIA_8B_CMD(0xB9);
+Set_NOKIA_8B_PA(0xFF);
+Set_NOKIA_8B_PA(0x83);
+Set_NOKIA_8B_PA(0x57);
+DelayX1ms(5);
+
+Set_NOKIA_8B_CMD(0xB6);		//
+Set_NOKIA_8B_PA(0x52);		// VCOMDC
+
+Set_NOKIA_8B_CMD(0x11);		//Exit Sleep
+DelayX1ms(150);
+Set_NOKIA_8B_CMD(0x35);		//TE ON
+
+Set_NOKIA_8B_CMD(0x3A);		//
+Set_NOKIA_8B_PA(0x06);		// 262K
+
+Set_NOKIA_8B_CMD(0xB0);		//
+Set_NOKIA_8B_PA(0x66);		// 60Hz
+
+Set_NOKIA_8B_CMD(0xCC);		// Set Panel
+Set_NOKIA_8B_PA(0x09);		// 
+
+Set_NOKIA_8B_CMD(0xB1);		//
+Set_NOKIA_8B_PA(0x00);		// DP
+Set_NOKIA_8B_PA(0x15);		// BT
+Set_NOKIA_8B_PA(0x1E);		// VSPR
+Set_NOKIA_8B_PA(0x1E);		// VSNR
+Set_NOKIA_8B_PA(0x83);		// AP
+Set_NOKIA_8B_PA(0x48);		// FS
+
+Set_NOKIA_8B_CMD(0xC0);		//
+Set_NOKIA_8B_PA(0x50);		// OPON
+Set_NOKIA_8B_PA(0x50);		// OPON
+Set_NOKIA_8B_PA(0x01);		// STBA
+Set_NOKIA_8B_PA(0x3C);		// STBA
+Set_NOKIA_8B_PA(0xC8);		// STBA
+Set_NOKIA_8B_PA(0x08);		// GEN
+
+Set_NOKIA_8B_CMD(0xB4);		//
+Set_NOKIA_8B_PA(0x01);		// NW
+Set_NOKIA_8B_PA(0x40);		// RTN
+Set_NOKIA_8B_PA(0x00);		// DIV
+Set_NOKIA_8B_PA(0x2A);		// DUM
+Set_NOKIA_8B_PA(0x2A);		// DUM
+Set_NOKIA_8B_PA(0x0D);		// GDON
+Set_NOKIA_8B_PA(0x8F);		// GDOFF
+
+Set_NOKIA_8B_CMD(0xB5);		//
+Set_NOKIA_8B_PA(0x00);		// VREF
+
+//===2===
+
+Set_NOKIA_8B_PA(0x00);		// NVREF
+
+Set_NOKIA_8B_CMD(0xE0);		//
+Set_NOKIA_8B_PA(0x00);		// 1
+Set_NOKIA_8B_PA(0x02);		// 2
+Set_NOKIA_8B_PA(0x06);		// 3
+Set_NOKIA_8B_PA(0x15);		// 4
+Set_NOKIA_8B_PA(0x20);		// 5
+Set_NOKIA_8B_PA(0x38);		// 6
+Set_NOKIA_8B_PA(0x43);		// 7
+Set_NOKIA_8B_PA(0x4D);		// 8
+Set_NOKIA_8B_PA(0x4C);		// 9
+Set_NOKIA_8B_PA(0x44);		// 10
+Set_NOKIA_8B_PA(0x3F);		// 11
+Set_NOKIA_8B_PA(0x36);		// 12
+Set_NOKIA_8B_PA(0x30);		// 13
+Set_NOKIA_8B_PA(0x2B);		// 14
+Set_NOKIA_8B_PA(0x28);		// 15
+Set_NOKIA_8B_PA(0x1B);		// 16
+Set_NOKIA_8B_PA(0x00);		// 17 v1
+Set_NOKIA_8B_PA(0x02);		// 18
+Set_NOKIA_8B_PA(0x06);		// 19
+Set_NOKIA_8B_PA(0x15);		// 20
+Set_NOKIA_8B_PA(0x20);		// 21
+Set_NOKIA_8B_PA(0x38);		// 22
+Set_NOKIA_8B_PA(0x43);		// 23
+Set_NOKIA_8B_PA(0x4D);		// 24
+Set_NOKIA_8B_PA(0x4C);		// 25
+Set_NOKIA_8B_PA(0x44);		// 26
+Set_NOKIA_8B_PA(0x3F);		// 27
+Set_NOKIA_8B_PA(0x36);		// 28
+Set_NOKIA_8B_PA(0x30);		// 29
+Set_NOKIA_8B_PA(0x2B);		// 30
+Set_NOKIA_8B_PA(0x28);		// 31
+Set_NOKIA_8B_PA(0x1B);		// 32
+Set_NOKIA_8B_PA(0x00);		// 33
+Set_NOKIA_8B_PA(0x01);		// 34
+
+Set_NOKIA_8B_CMD(0x29);		// display on
+DelayX1ms(25);
+Set_NOKIA_8B_CMD(0x2C);		// 
+}
+
+// ========
+// ---------------------------------------------
+// | IM2 | IM1 | IM0 | Interface mode          |
+// |-------------------------------------------|
+// |  0  |  0  |  0  | DBI TYPE-B 18-bit       |
+// |  0  |  0  |  1  | DBI TYPE-B 9-bit        |
+// |  0  |  1  |  0  | DBI TYPE-B 16-bit       |
+// |  0  |  1  |  1  | DBI TYPE-B 8-bit        |
+// |  1  |  0  |  1  | DPI/DBI TYPE-C Option 1 |
+// |  1  |  1  |  1  | DPI/DBI TYPE-C Option 3 |
+// ---------------------------------------------
+
+// ----------------------------------------
+// | Capacitor    | Recomended spec       |
+// |--------------------------------------|
+// | C01 (C13A/B) | 1uF / 10 Volt.        |
+// | C02 (C11A/B) | 1uF / 10 Volt.        |
+// | C03 (VSP)    | 1uF / 10 Volt.        |
+// | C04 (C14A/B) | 1uF / 10 Volt.        |
+// | C05 (C12A/B) | 1uF / 10 Volt.        |
+// | C06 (VSN)    | 1uF / 10 Volt.        |
+// | C07 (C22A/B) | 1uF / 16 Volt.        |
+// | C08 (VGH)    | 1uF / 25 Volt.        |
+// | C09 (VDDD)   | 1uF / 6.3 Volt.       |
+// | C08 (VGL)    | VF < 0.4V/20mA        |
+// ----------------------------------------
+

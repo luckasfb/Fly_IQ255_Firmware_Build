@@ -1,0 +1,73 @@
+[BPI]
+PDATA_GSM850_PR1       =     0x20
+PDATA_GSM850_PR2       =     0x20
+PDATA_GSM850_PR3       =     0x00
+PDATA_GSM850_PT1       =     0x20
+PDATA_GSM850_PT2       =     0x30
+PDATA_GSM850_PT3       =     0x00
+PDATA_GSM_PR1          =     0x20
+PDATA_GSM_PR2          =     0x22
+PDATA_GSM_PR3          =     0x00
+PDATA_GSM_PT1          =     0x20
+PDATA_GSM_PT2          =     0x30
+PDATA_GSM_PT3          =     0x00
+PDATA_DCS_PR1          =     0x20
+PDATA_DCS_PR2          =     0x23
+PDATA_DCS_PR3          =     0x00
+PDATA_DCS_PT1          =     0x20
+PDATA_DCS_PT2          =     0x31
+PDATA_DCS_PT3          =     0x00
+PDATA_PCS_PR1          =     0x20
+PDATA_PCS_PR2          =     0x21
+PDATA_PCS_PR3          =     0x00
+PDATA_PCS_PT1          =     0x20
+PDATA_PCS_PT2          =     0x31
+PDATA_PCS_PT3          =     0x00
+                                
+PDATA_INIT             =     0x00
+PDATA_IDLE             =     0x00
+
+PDATA_GMSK             =     0x00
+PDATA_8PSK             =     0x10
+
+
+[Timing]
+
+QB_RX_FENA_2_FSYNC     =     48 
+QB_RX_FSYNC_2_FENA     =     0
+QB_TX_FENA_2_FSYNC     =     152 
+QB_TX_FSYNC_2_FENA     =     20 
+                             
+QB_SR1                 =     226
+QB_SR2                 =     84
+QB_SR2M                =     36
+QB_SR3                 =     0
+QB_PR1                 =     243
+QB_PR2                 =     35
+QB_PR3                 =     6
+QB_ST1                 =     226
+QB_ST2                 =     116
+QB_ST3                 =     35
+QB_PT1                 =     226
+QB_PT2                 =     4
+QB_PT3                 =     35
+                             
+QB_APCON               =     22 
+QB_APCMID              =     22
+QB_APCOFF              =     7 
+                             
+[APC_Comp]
+BAT_VOLTAGE_SAMPLE_PERIOD = 180
+BAT_VOLTAGE_AVERAGE_COUNT = 1
+BAT_LOW_VOLTAGE           = 3.5 
+BAT_HIGH_VOLTAGE          = 4
+
+BAT_TEMPERATURE_SAMPLE_PERIOD = 180 
+BAT_TEMPERATURE_AVERAGE_COUNT = 1
+BAT_LOW_TEMPERATURE           = 0
+BAT_HIGH_TEMPERATURE          = 50
+
+[Others]
+XO_CapID                     =30
+GSM850_GSM900_SWAP           =0
+DCS1800_PCS1900_SWAP         =0
