@@ -1,0 +1,2857 @@
+--------- beginning of /dev/log/main
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line(53,53,53,480) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,53,53,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,427,267,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,427,267,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,106,106,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,106,106,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,374,214,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,374,214,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,159,159,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (161,159,159,159) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq tpd->width=320 
+I/FTM     (   86): [Touch] tpd_fwq tpd->height=480 
+I/FTM     (   86): [Touch] tpd_fwq d=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 1... j=0 count=1 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=2 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=3 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=4 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=5 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=6 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=7 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=8 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=9 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=10 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line(53,53,53,480) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,53,53,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,427,267,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,427,267,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,106,106,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,106,106,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,374,214,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,374,214,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,159,159,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (161,159,159,159) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq tpd->width=320 
+I/FTM     (   86): [Touch] tpd_fwq tpd->height=480 
+I/FTM     (   86): [Touch] tpd_fwq d=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 1... j=0 count=1 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=2 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=3 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=4 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=5 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=6 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=7 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=8 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=9 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=10 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line(53,53,53,480) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,53,53,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,427,267,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,427,267,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,106,106,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,106,106,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,374,214,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,374,214,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,159,159,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (161,159,159,159) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq tpd->width=320 
+I/FTM     (   86): [Touch] tpd_fwq tpd->height=480 
+I/FTM     (   86): [Touch] tpd_fwq d=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 1... j=0 count=1 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=2 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=3 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=4 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=5 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=6 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=7 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=8 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=9 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=10 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line(53,53,53,480) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,53,53,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,427,267,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,427,267,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,106,106,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,106,106,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,374,214,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,374,214,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,159,159,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (161,159,159,159) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq tpd->width=320 
+I/FTM     (   86): [Touch] tpd_fwq tpd->height=480 
+I/FTM     (   86): [Touch] tpd_fwq d=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 1... j=0 count=1 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=2 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=3 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=4 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=5 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=6 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=7 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=8 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=9 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=10 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line(53,53,53,480) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,53,53,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,427,267,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,427,267,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,106,106,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,106,106,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,374,214,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,374,214,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,159,159,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (161,159,159,159) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq tpd->width=320 
+I/FTM     (   86): [Touch] tpd_fwq tpd->height=480 
+I/FTM     (   86): [Touch] tpd_fwq d=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 1... j=0 count=1 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=2 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=3 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=4 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=5 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=6 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=7 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=8 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=9 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=10 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line(53,53,53,480) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,53,53,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,427,267,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,427,267,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,106,106,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,106,106,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,374,214,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,374,214,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,159,159,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (161,159,159,159) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq tpd->width=320 
+I/FTM     (   86): [Touch] tpd_fwq tpd->height=480 
+I/FTM     (   86): [Touch] tpd_fwq d=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 1... j=0 count=1 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=2 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=3 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=4 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=5 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=6 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=7 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=8 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=9 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=10 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line(53,53,53,480) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,53,53,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,427,267,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,427,267,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,106,106,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,106,106,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,374,214,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,374,214,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,159,159,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (161,159,159,159) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq tpd->width=320 
+I/FTM     (   86): [Touch] tpd_fwq tpd->height=480 
+I/FTM     (   86): [Touch] tpd_fwq d=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 1... j=0 count=1 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=2 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=3 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=4 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=5 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=6 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=7 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=8 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=9 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=10 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line(53,53,53,480) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,53,53,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,427,267,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,427,267,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,106,106,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,106,106,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,374,214,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,374,214,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,159,159,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (161,159,159,159) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq tpd->width=320 
+I/FTM     (   86): [Touch] tpd_fwq tpd->height=480 
+I/FTM     (   86): [Touch] tpd_fwq d=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 1... j=0 count=1 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=2 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=3 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=4 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=5 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=6 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=7 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=8 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=9 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=10 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line(53,53,53,480) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,53,53,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,427,267,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,427,267,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,106,106,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,106,106,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,374,214,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,374,214,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,159,159,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (161,159,159,159) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq tpd->width=320 
+I/FTM     (   86): [Touch] tpd_fwq tpd->height=480 
+I/FTM     (   86): [Touch] tpd_fwq d=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 1... j=0 count=1 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=2 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=3 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=4 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=5 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=6 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=7 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=8 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=9 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=10 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line(53,53,53,480) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,53,53,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,427,267,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,427,267,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,106,106,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,106,106,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,374,214,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,374,214,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,159,159,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (161,159,159,159) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq tpd->width=320 
+I/FTM     (   86): [Touch] tpd_fwq tpd->height=480 
+I/FTM     (   86): [Touch] tpd_fwq d=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 1... j=0 count=1 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=2 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=3 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=4 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=5 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=6 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=7 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=8 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=9 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=10 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line(53,53,53,480) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,53,53,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,427,267,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,427,267,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,106,106,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,106,106,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,374,214,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,374,214,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,159,159,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (161,159,159,159) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq tpd->width=320 
+I/FTM     (   86): [Touch] tpd_fwq tpd->height=480 
+I/FTM     (   86): [Touch] tpd_fwq d=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 1... j=0 count=1 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=2 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=3 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=4 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=5 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=6 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=7 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=8 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=9 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=10 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line(53,53,53,480) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,53,53,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,427,267,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,427,267,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,106,106,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,106,106,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,374,214,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,374,214,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,159,159,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (161,159,159,159) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq tpd->width=320 
+I/FTM     (   86): [Touch] tpd_fwq tpd->height=480 
+I/FTM     (   86): [Touch] tpd_fwq d=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 1... j=0 count=1 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=2 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=3 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=4 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=5 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=6 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=7 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=8 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=9 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=10 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line(53,53,53,480) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,53,53,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,427,267,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,427,267,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,106,106,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,106,106,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,374,214,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,374,214,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,159,159,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (161,159,159,159) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq tpd->width=320 
+I/FTM     (   86): [Touch] tpd_fwq tpd->height=480 
+I/FTM     (   86): [Touch] tpd_fwq d=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 1... j=0 count=1 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=2 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=3 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=4 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=5 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=6 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=7 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=8 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=9 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=10 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line(53,53,53,480) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,53,53,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,427,267,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,427,267,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,106,106,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,106,106,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,374,214,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,374,214,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,159,159,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (161,159,159,159) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY: 61
+D/FTM     (   86): [Touch] exit thread
+D/FTM     (   86): [MAIN] Save test result to 
+D/FTM     (   86): [MAIN]   Version=1
+D/FTM     (   86): [MAIN]   Keys=1
+D/FTM     (   86): [MAIN]   Touch Panel=0
+D/FTM     (   86): [MAIN]   LCD Color=1
+D/FTM     (   86): [MAIN]   LCD Contrast=1
+D/FTM     (   86): [MAIN]   Memory Card=1
+D/FTM     (   86): [MAIN]   SIM1 Detect=1
+D/FTM     (   86): [MAIN]   SIM2 Detect=1
+D/FTM     (   86): [MAIN]   Vibrator=1
+D/FTM     (   86): [MAIN]   LED=1
+D/FTM     (   86): [MAIN]   Speaker Test=1
+D/FTM     (   86): [MAIN]   Receiver=1
+D/FTM     (   86): [MAIN]   Loopback=1
+D/FTM     (   86): [MAIN]   Headset=1
+D/FTM     (   86): [MAIN]   G-Sensor Calibration=1
+D/FTM     (   86): [MAIN]   G-Sensor=1
+D/FTM     (   86): [MAIN]   ALS/PS=1
+D/FTM     (   86): [MAIN]   Main Camera=1
+D/FTM     (   86): [MAIN]   Sub Camera=1
+D/FTM     (   86): [MAIN]   GPS-Power=1
+D/FTM     (   86): [MAIN]   FM Radio=1
+D/FTM     (   86): [MAIN]   Bluetooth=1
+D/FTM     (   86): [MAIN]   Wi-Fi=1
+D/FTM     (   86): [MAIN]   Battery & Charger=1
+D/FTM     (   86): [MAIN]   Idle Current=1
+D/FTM     (   86): [MIUI] itemview_run 0xbe815c24
+E/IPCThreadState(  602): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper(  604): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  603): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState(  606): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  612): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper(  614): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  613): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState(  616): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  622): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper(  624): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  623): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState(  626): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  632): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper(  634): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  633): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState(  636): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  642): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper(  644): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  643): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState(  646): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  652): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper(  654): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  653): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState(  656): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  662): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper(  664): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  663): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState(  666): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  672): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper(  674): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  673): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState(  676): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  682): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper(  684): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  683): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState(  686): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  692): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper(  694): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  693): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState(  696): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  703): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper(  705): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  704): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState(  707): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  713): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper(  715): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  714): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState(  717): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  723): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper(  725): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  724): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState(  727): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  733): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper(  735): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  734): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState(  737): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  743): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper(  745): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  744): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState(  747): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  753): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper(  755): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  754): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState(  757): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper(  760): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  759): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState(  766): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  768): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper(  770): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  769): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState(  776): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  778): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper(  781): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  780): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState(  787): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  789): IPCThread::waitForResponse checking error 3 : -32
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY:DOWN
+D/FTM     (   86): [MIUI] sel=3, maxrows=24, menu_from=1, menu_sel=3
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY:CONFIRM
+D/FTM     (   86): [MIUI] itemview_set_title
+D/FTM     (   86): [MIUI] itemview_set_items
+D/FTM     (   86): [LCD] update_imageview(0)
+I/ARMAssembler(   86): generated scanline__00000077:03545404_00000A02_00000000 [ 30 ipp] (52 ins) at [0x40187370:0x40187440] in 90615 ns
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY: 114
+D/FTM     (   86): [LCD] update_imageview(1)
+E/logwrapper(  791): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  790): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState(  797): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  799): IPCThread::waitForResponse checking error 3 : -32
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY: 114
+D/FTM     (   86): [LCD] update_imageview(2)
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY: 114
+D/FTM     (   86): [LCD] update_imageview(3)
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY: 114
+D/FTM     (   86): [LCD] update_imageview(4)
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY: 114
+D/FTM     (   86): [LCD] update_imageview(5)
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY: 114
+D/FTM     (   86): [LCD] update_imageview(6)
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY: 114
+D/FTM     (   86): [LCD] update_imageview(7)
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY: 114
+D/FTM     (   86): [MAIN] Save test result to 
+D/FTM     (   86): [MAIN]   Version=1
+D/FTM     (   86): [MAIN]   Keys=1
+D/FTM     (   86): [MAIN]   Touch Panel=0
+D/FTM     (   86): [MAIN]   LCD Color=1
+D/FTM     (   86): [MAIN]   LCD Contrast=1
+D/FTM     (   86): [MAIN]   Memory Card=1
+D/FTM     (   86): [MAIN]   SIM1 Detect=1
+D/FTM     (   86): [MAIN]   SIM2 Detect=1
+D/FTM     (   86): [MAIN]   Vibrator=1
+D/FTM     (   86): [MAIN]   LED=1
+D/FTM     (   86): [MAIN]   Speaker Test=1
+D/FTM     (   86): [MAIN]   Receiver=1
+D/FTM     (   86): [MAIN]   Loopback=1
+D/FTM     (   86): [MAIN]   Headset=1
+D/FTM     (   86): [MAIN]   G-Sensor Calibration=1
+D/FTM     (   86): [MAIN]   G-Sensor=1
+D/FTM     (   86): [MAIN]   ALS/PS=1
+D/FTM     (   86): [MAIN]   Main Camera=1
+D/FTM     (   86): [MAIN]   Sub Camera=1
+D/FTM     (   86): [MAIN]   GPS-Power=1
+D/FTM     (   86): [MAIN]   FM Radio=1
+D/FTM     (   86): [MAIN]   Bluetooth=1
+D/FTM     (   86): [MAIN]   Wi-Fi=1
+D/FTM     (   86): [MAIN]   Battery & Charger=1
+D/FTM     (   86): [MAIN]   Idle Current=1
+D/FTM     (   86): [MIUI] itemview_run 0xbe815c24
+E/logwrapper(  801): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  800): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState(  807): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  809): IPCThread::waitForResponse checking error 3 : -32
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY:DOWN
+D/FTM     (   86): [MIUI] sel=4, maxrows=24, menu_from=1, menu_sel=4
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY:CONFIRM
+D/FTM     (   86): [MIUI] itemview_set_title
+D/FTM     (   86): [MIUI] itemview_set_items
+D/FTM     (   86): [MIUI] itemview_run 0x7bfd8
+D/FTM     (   86): update_lcd_thread: Start
+D/FTM     (   86): ----led-----
+D/FTM     (   86): ----led-----
+D/FTM     (   86): ----led-----
+E/logwrapper(  814): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  812): /system/bin/ami304d terminated by exit(255)
+D/FTM     (   86): ----led-----
+E/IPCThreadState(  819): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  821): IPCThread::waitForResponse checking error 3 : -32
+D/FTM     (   86): ----led-----
+D/FTM     (   86): ----led-----
+D/FTM     (   86): ----led-----
+D/FTM     (   86): ----led-----
+D/FTM     (   86): ----led-----
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY:CONFIRM
+D/FTM     (   86): [MAIN] Save test result to 
+D/FTM     (   86): [MAIN]   Version=1
+D/FTM     (   86): [MAIN]   Keys=1
+D/FTM     (   86): [MAIN]   Touch Panel=0
+D/FTM     (   86): [MAIN]   LCD Color=1
+D/FTM     (   86): [MAIN]   LCD Contrast=1
+D/FTM     (   86): [MAIN]   Memory Card=1
+D/FTM     (   86): [MAIN]   SIM1 Detect=1
+D/FTM     (   86): [MAIN]   SIM2 Detect=1
+D/FTM     (   86): [MAIN]   Vibrator=1
+D/FTM     (   86): [MAIN]   LED=1
+D/FTM     (   86): [MAIN]   Speaker Test=1
+D/FTM     (   86): [MAIN]   Receiver=1
+D/FTM     (   86): [MAIN]   Loopback=1
+D/FTM     (   86): [MAIN]   Headset=1
+D/FTM     (   86): [MAIN]   G-Sensor Calibration=1
+D/FTM     (   86): [MAIN]   G-Sensor=1
+D/FTM     (   86): [MAIN]   ALS/PS=1
+D/FTM     (   86): [MAIN]   Main Camera=1
+D/FTM     (   86): [MAIN]   Sub Camera=1
+D/FTM     (   86): [MAIN]   GPS-Power=1
+D/FTM     (   86): [MAIN]   FM Radio=1
+D/FTM     (   86): [MAIN]   Bluetooth=1
+D/FTM     (   86): [MAIN]   Wi-Fi=1
+D/FTM     (   86): [MAIN]   Battery & Charger=1
+D/FTM     (   86): [MAIN]   Idle Current=1
+D/FTM     (   86): [MIUI] itemview_run 0xbe815c24
+E/logwrapper(  825): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  824): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState(  829): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  831): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper(  835): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  834): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState(  839): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  841): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper(  845): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  844): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState(  849): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  851): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper(  855): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  854): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState(  859): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  861): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper(  865): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  864): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState(  869): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  871): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper(  875): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  874): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState(  879): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  881): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper(  886): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  885): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState(  890): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  892): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper(  896): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  895): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState(  900): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  902): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper(  906): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  905): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState(  910): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  912): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper(  916): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  915): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState(  920): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  922): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper(  926): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  924): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState(  930): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  932): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper(  936): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  935): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState(  940): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  942): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper(  946): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  945): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState(  950): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  952): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper(  956): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  955): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState(  960): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  962): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper(  967): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  966): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState(  971): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  973): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  979): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  981): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper(  983): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  982): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState(  990): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  992): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper(  994): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  993): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 1000): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 1002): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 1004): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 1003): /system/bin/ami304d terminated by exit(255)
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY:DOWN
+D/FTM     (   86): [MIUI] sel=5, maxrows=24, menu_from=1, menu_sel=5
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY:CONFIRM
+D/FTM     (   86): [MCARD] mcard_entry
+D/FTM     (   86): mc->mounted(1),index(-1345179483)
+D/FTM     (   86): rc(-1098802064)
+D/FTM     (   86): [MIUI] itemview_set_title
+D/FTM     (   86): [MIUI] itemview_set_items
+D/FTM     (   86): [MCARD] mcard_update_iv_thread: Start
+D/FTM     (   86): [MIUI] itemview_run 0x90a90
+D/FTM     (   86): mc->mounted(1),index(-1345179483)
+D/FTM     (   86): rc(465404)
+E/IPCThreadState( 1011): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 1013): IPCThread::waitForResponse checking error 3 : -32
+D/FTM     (   86): mc->mounted(1),index(-1345179483)
+D/FTM     (   86): rc(465404)
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY:DOWN
+D/FTM     (   86): [MIUI] sel=1, maxrows=24, menu_from=1, menu_sel=1
+E/logwrapper( 1015): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 1014): /system/bin/ami304d terminated by exit(255)
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY:UP
+D/FTM     (   86): [MIUI] sel=0, maxrows=24, menu_from=1, menu_sel=0
+D/FTM     (   86): mc->mounted(1),index(-1345179483)
+D/FTM     (   86): rc(465404)
+D/FTM     (   86): mc->mounted(1),index(-1345179483)
+D/FTM     (   86): rc(465404)
+D/FTM     (   86): mc->mounted(1),index(-1345179483)
+D/FTM     (   86): rc(465404)
+D/FTM     (   86): mc->mounted(1),index(-1345179483)
+D/FTM     (   86): rc(465404)
+E/IPCThreadState( 1021): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 1023): IPCThread::waitForResponse checking error 3 : -32
+D/FTM     (   86): mc->mounted(1),index(-1345179483)
+D/FTM     (   86): rc(465404)
+E/logwrapper( 1025): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 1024): /system/bin/ami304d terminated by exit(255)
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY:CONFIRM
+D/FTM     (   86): [MAIN] Save test result to 
+D/FTM     (   86): [MAIN]   Version=1
+D/FTM     (   86): [MAIN]   Keys=1
+D/FTM     (   86): [MAIN]   Touch Panel=0
+D/FTM     (   86): [MAIN]   LCD Color=1
+D/FTM     (   86): [MAIN]   LCD Contrast=1
+D/FTM     (   86): [MAIN]   Memory Card=1
+D/FTM     (   86): [MAIN]   SIM1 Detect=1
+D/FTM     (   86): [MAIN]   SIM2 Detect=1
+D/FTM     (   86): [MAIN]   Vibrator=1
+D/FTM     (   86): [MAIN]   LED=1
+D/FTM     (   86): [MAIN]   Speaker Test=1
+D/FTM     (   86): [MAIN]   Receiver=1
+D/FTM     (   86): [MAIN]   Loopback=1
+D/FTM     (   86): [MAIN]   Headset=1
+D/FTM     (   86): [MAIN]   G-Sensor Calibration=1
+D/FTM     (   86): [MAIN]   G-Sensor=1
+D/FTM     (   86): [MAIN]   ALS/PS=1
+D/FTM     (   86): [MAIN]   Main Camera=1
+D/FTM     (   86): [MAIN]   Sub Camera=1
+D/FTM     (   86): [MAIN]   GPS-Power=1
+D/FTM     (   86): [MAIN]   FM Radio=1
+D/FTM     (   86): [MAIN]   Bluetooth=1
+D/FTM     (   86): [MAIN]   Wi-Fi=1
+D/FTM     (   86): [MAIN]   Battery & Charger=1
+D/FTM     (   86): [MAIN]   Idle Current=1
+D/FTM     (   86): [MIUI] itemview_run 0xbe815c24
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY:DOWN
+D/FTM     (   86): [MIUI] sel=6, maxrows=24, menu_from=1, menu_sel=6
+E/IPCThreadState( 1031): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 1033): IPCThread::waitForResponse checking error 3 : -32
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY:CONFIRM
+E/logwrapper( 1035): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 1034): /system/bin/ami304d terminated by exit(255)
+D/FTM     (   86): [SIM] sim_entry: Start
+D/FTM     (   86): [MIUI] itemview_set_title
+D/FTM     (   86): [MIUI] itemview_set_items
+D/FTM     (   86): [MIUI] itemview_run 0x94ad8
+D/FTM     (   86): [SIM] sim_update_thread: Start
+D/FTM     (   86): [SIM] ttyC0 has been opened...
+D/FTM     (   86): [SIM] 
+D/FTM     (   86): 
+D/FTM     (   86): [SIM] Send AT+ESIMS
+D/FTM     (   86): [SIM] ------AT+ESIMS(SIM1) start------
+D/FTM     (   86): [SIM] 
+D/FTM     (   86): +GPIOS: 10,1
+D/FTM     (   86): 
+D/FTM     (   86): +EIND: 128
+D/FTM     (   86): 
+D/FTM     (   86): [SIM] ------AT+ESIMS(SIM1) end------
+D/FTM     (   86): [SIM] 
+D/FTM     (   86): 
+D/FTM     (   86): [SIM] 
+D/FTM     (   86): [SIM] 
+D/FTM     (   86): 
+D/FTM     (   86): [SIM] Send AT+ESIMS
+D/FTM     (   86): [SIM] ------AT+ESIMS(SIM1) start------
+D/FTM     (   86): [SIM] 
+D/FTM     (   86): +ESIMS: 1
+D/FTM     (   86): 
+D/FTM     (   86): OK
+D/FTM     (   86): 
+D/FTM     (   86): [SIM] ------AT+ESIMS(SIM1) end------
+D/FTM     (   86): [SIM] 
+D/FTM     (   86): 
+D/FTM     (   86): [SIM] redraw
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY:CONFIRM
+D/FTM     (   86): [SIM] Exit thread
+D/FTM     (   86): [SIM] sim_update_thread: Exit
+D/FTM     (   86): [SIM] sim_entry: End
+D/FTM     (   86): [MAIN] Save test result to 
+D/FTM     (   86): [MAIN]   Version=1
+D/FTM     (   86): [MAIN]   Keys=1
+D/FTM     (   86): [MAIN]   Touch Panel=0
+D/FTM     (   86): [MAIN]   LCD Color=1
+D/FTM     (   86): [MAIN]   LCD Contrast=1
+D/FTM     (   86): [MAIN]   Memory Card=1
+D/FTM     (   86): [MAIN]   SIM1 Detect=1
+D/FTM     (   86): [MAIN]   SIM2 Detect=1
+D/FTM     (   86): [MAIN]   Vibrator=1
+D/FTM     (   86): [MAIN]   LED=1
+D/FTM     (   86): [MAIN]   Speaker Test=1
+D/FTM     (   86): [MAIN]   Receiver=1
+D/FTM     (   86): [MAIN]   Loopback=1
+D/FTM     (   86): [MAIN]   Headset=1
+D/FTM     (   86): [MAIN]   G-Sensor Calibration=1
+D/FTM     (   86): [MAIN]   G-Sensor=1
+D/FTM     (   86): [MAIN]   ALS/PS=1
+D/FTM     (   86): [MAIN]   Main Camera=1
+D/FTM     (   86): [MAIN]   Sub Camera=1
+D/FTM     (   86): [MAIN]   GPS-Power=1
+D/FTM     (   86): [MAIN]   FM Radio=1
+D/FTM     (   86): [MAIN]   Bluetooth=1
+D/FTM     (   86): [MAIN]   Wi-Fi=1
+D/FTM     (   86): [MAIN]   Battery & Charger=1
+D/FTM     (   86): [MAIN]   Idle Current=1
+D/FTM     (   86): [MIUI] itemview_run 0xbe815c24
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY:DOWN
+D/FTM     (   86): [MIUI] sel=7, maxrows=24, menu_from=1, menu_sel=7
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY:CONFIRM
+D/FTM     (   86): [SIM] sim2_entry: Start
+D/FTM     (   86): [MIUI] itemview_set_title
+D/FTM     (   86): [MIUI] itemview_set_items
+D/FTM     (   86): [MIUI] itemview_run 0x98b20
+D/FTM     (   86): [SIM] sim_update_thread: Start
+D/FTM     (   86): [SIM] ttyC0 has been opened...
+E/IPCThreadState( 1043): IPCThread::waitForResponse checking error 3 : -32
+D/FTM     (   86): [SIM] Send AT+ESUO=5
+D/FTM     (   86): [SIM] ------AT+ESUO=5 start------
+D/FTM     (   86): [SIM] 
+D/FTM     (   86): OK
+D/FTM     (   86): O=5
+D/FTM     (   86): 
+D/FTM     (   86): [SIM] ------AT+ESUO=5 end------
+D/FTM     (   86): [SIM] Send AT+ESIMS
+E/IPCThreadState( 1045): IPCThread::waitForResponse checking error 3 : -32
+D/FTM     (   86): [SIM] ------AT+ESIMS(SIM2) start------
+D/FTM     (   86): [SIM] 
+D/FTM     (   86): +ESIMS: 1
+D/FTM     (   86): 
+D/FTM     (   86): OK
+D/FTM     (   86): 
+D/FTM     (   86): [SIM] ------AT+ESIMS(SIM2) end------
+D/FTM     (   86): [SIM] Send AT+ESUO=4
+E/logwrapper( 1047): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 1046): /system/bin/ami304d terminated by exit(255)
+D/FTM     (   86): [SIM] ------AT+ESUO=4 start------
+D/FTM     (   86): [SIM] 
+D/FTM     (   86): OK
+D/FTM     (   86): O=4
+D/FTM     (   86): 
+D/FTM     (   86): [SIM] ------AT+ESUO=4 end------
+D/FTM     (   86): [SIM] redraw
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY:CONFIRM
+D/FTM     (   86): [SIM] Exit thread
+D/FTM     (   86): [SIM] sim_update_thread: Exit
+D/FTM     (   86): [SIM] sim2_entry: End
+D/FTM     (   86): [MAIN] Save test result to 
+D/FTM     (   86): [MAIN]   Version=1
+D/FTM     (   86): [MAIN]   Keys=1
+D/FTM     (   86): [MAIN]   Touch Panel=0
+D/FTM     (   86): [MAIN]   LCD Color=1
+D/FTM     (   86): [MAIN]   LCD Contrast=1
+D/FTM     (   86): [MAIN]   Memory Card=1
+D/FTM     (   86): [MAIN]   SIM1 Detect=1
+D/FTM     (   86): [MAIN]   SIM2 Detect=1
+D/FTM     (   86): [MAIN]   Vibrator=1
+D/FTM     (   86): [MAIN]   LED=1
+D/FTM     (   86): [MAIN]   Speaker Test=1
+D/FTM     (   86): [MAIN]   Receiver=1
+D/FTM     (   86): [MAIN]   Loopback=1
+D/FTM     (   86): [MAIN]   Headset=1
+D/FTM     (   86): [MAIN]   G-Sensor Calibration=1
+D/FTM     (   86): [MAIN]   G-Sensor=1
+D/FTM     (   86): [MAIN]   ALS/PS=1
+D/FTM     (   86): [MAIN]   Main Camera=1
+D/FTM     (   86): [MAIN]   Sub Camera=1
+D/FTM     (   86): [MAIN]   GPS-Power=1
+D/FTM     (   86): [MAIN]   FM Radio=1
+D/FTM     (   86): [MAIN]   Bluetooth=1
+D/FTM     (   86): [MAIN]   Wi-Fi=1
+D/FTM     (   86): [MAIN]   Battery & Charger=1
+D/FTM     (   86): [MAIN]   Idle Current=1
+D/FTM     (   86): [MIUI] itemview_run 0xbe815c24
+E/IPCThreadState( 1053): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 1055): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 1057): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 1056): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 1063): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 1065): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 1067): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 1066): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 1073): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 1075): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 1077): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 1076): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 1083): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 1085): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 1087): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 1086): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 1093): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 1095): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 1097): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 1096): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 1103): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 1105): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 1107): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 1106): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 1113): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 1115): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 1117): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 1116): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 1123): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 1125): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 1127): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 1126): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 1133): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 1135): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 1137): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 1136): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 1143): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 1145): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 1147): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 1146): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 1153): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 1155): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 1157): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 1156): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 1163): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 1165): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 1167): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 1166): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 1173): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 1175): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 1177): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 1176): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 1184): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 1186): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 1188): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 1187): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 1194): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 1196): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 1198): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 1197): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 1204): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 1206): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 1208): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 1207): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 1214): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 1216): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 1218): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 1217): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 1224): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 1226): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 1228): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 1227): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 1234): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 1236): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 1238): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 1237): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 1244): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 1246): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 1248): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 1247): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 1254): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 1256): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 1258): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 1257): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 1264): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 1266): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 1268): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 1267): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 1274): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 1276): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 1278): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 1277): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 1285): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 1287): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 1289): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 1288): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 1295): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 1297): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 1299): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 1298): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 1306): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 1308): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 1310): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 1309): /system/bin/ami304d terminated by exit(255)
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY:DOWN
+D/FTM     (   86): [MIUI] sel=8, maxrows=24, menu_from=1, menu_sel=8
+E/IPCThreadState( 1316): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 1318): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 1320): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 1319): /system/bin/ami304d terminated by exit(255)
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY:CONFIRM
+D/FTM     (   86): vibrator_entry
+D/FTM     (   86): [MIUI] itemview_set_title
+D/FTM     (   86): [MIUI] itemview_set_items
+D/FTM     (   86): vibrator_entry: get vibrator last time=(null)!
+D/FTM     (   86): vibrator_entry: get vibrator last time fail!
+D/FTM     (   86): update_vibrator_thread: Start
+D/FTM     (   86): [MIUI] itemview_run 0x9cb68
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY:CONFIRM
+D/FTM     (   86): [MAIN] Save test result to 
+D/FTM     (   86): [MAIN]   Version=1
+D/FTM     (   86): [MAIN]   Keys=1
+D/FTM     (   86): [MAIN]   Touch Panel=0
+D/FTM     (   86): [MAIN]   LCD Color=1
+D/FTM     (   86): [MAIN]   LCD Contrast=1
+D/FTM     (   86): [MAIN]   Memory Card=1
+D/FTM     (   86): [MAIN]   SIM1 Detect=1
+D/FTM     (   86): [MAIN]   SIM2 Detect=1
+D/FTM     (   86): [MAIN]   Vibrator=1
+D/FTM     (   86): [MAIN]   LED=1
+D/FTM     (   86): [MAIN]   Speaker Test=1
+D/FTM     (   86): [MAIN]   Receiver=1
+D/FTM     (   86): [MAIN]   Loopback=1
+D/FTM     (   86): [MAIN]   Headset=1
+D/FTM     (   86): [MAIN]   G-Sensor Calibration=1
+D/FTM     (   86): [MAIN]   G-Sensor=1
+D/FTM     (   86): [MAIN]   ALS/PS=1
+D/FTM     (   86): [MAIN]   Main Camera=1
+D/FTM     (   86): [MAIN]   Sub Camera=1
+D/FTM     (   86): [MAIN]   GPS-Power=1
+D/FTM     (   86): [MAIN]   FM Radio=1
+D/FTM     (   86): [MAIN]   Bluetooth=1
+D/FTM     (   86): [MAIN]   Wi-Fi=1
+D/FTM     (   86): [MAIN]   Battery & Charger=1
+D/FTM     (   86): [MAIN]   Idle Current=1
+D/FTM     (   86): [MIUI] itemview_run 0xbe815c24
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY:DOWN
+D/FTM     (   86): [MIUI] sel=9, maxrows=24, menu_from=1, menu_sel=9
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY:CONFIRM
+E/IPCThreadState( 1327): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 1329): IPCThread::waitForResponse checking error 3 : -32
+D/FTM     (   86): led_entry
+D/FTM     (   86): [MIUI] itemview_set_title
+D/FTM     (   86): [MIUI] itemview_set_items
+D/FTM     (   86): [MIUI] itemview_run 0xa0bb0
+D/FTM     (   86): update_led_thread: Start
+E/logwrapper( 1332): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 1331): /system/bin/ami304d terminated by exit(255)
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY:CONFIRM
+D/FTM     (   86): [MAIN] Save test result to 
+D/FTM     (   86): [MAIN]   Version=1
+D/FTM     (   86): [MAIN]   Keys=1
+D/FTM     (   86): [MAIN]   Touch Panel=0
+D/FTM     (   86): [MAIN]   LCD Color=1
+D/FTM     (   86): [MAIN]   LCD Contrast=1
+D/FTM     (   86): [MAIN]   Memory Card=1
+D/FTM     (   86): [MAIN]   SIM1 Detect=1
+D/FTM     (   86): [MAIN]   SIM2 Detect=1
+D/FTM     (   86): [MAIN]   Vibrator=1
+D/FTM     (   86): [MAIN]   LED=1
+D/FTM     (   86): [MAIN]   Speaker Test=1
+D/FTM     (   86): [MAIN]   Receiver=1
+D/FTM     (   86): [MAIN]   Loopback=1
+D/FTM     (   86): [MAIN]   Headset=1
+D/FTM     (   86): [MAIN]   G-Sensor Calibration=1
+D/FTM     (   86): [MAIN]   G-Sensor=1
+D/FTM     (   86): [MAIN]   ALS/PS=1
+D/FTM     (   86): [MAIN]   Main Camera=1
+D/FTM     (   86): [MAIN]   Sub Camera=1
+D/FTM     (   86): [MAIN]   GPS-Power=1
+D/FTM     (   86): [MAIN]   FM Radio=1
+D/FTM     (   86): [MAIN]   Bluetooth=1
+D/FTM     (   86): [MAIN]   Wi-Fi=1
+D/FTM     (   86): [MAIN]   Battery & Charger=1
+D/FTM     (   86): [MAIN]   Idle Current=1
+D/FTM     (   86): [MIUI] itemview_run 0xbe815c24
+E/IPCThreadState( 1338): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 1340): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 1342): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 1341): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 1348): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 1350): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 1352): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 1351): /system/bin/ami304d terminated by exit(255)
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY:UP
+D/FTM     (   86): [MIUI] sel=8, maxrows=24, menu_from=1, menu_sel=8
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY:DOWN
+D/FTM     (   86): [MIUI] sel=9, maxrows=24, menu_from=1, menu_sel=9
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY:DOWN
+D/FTM     (   86): [MIUI] sel=10, maxrows=24, menu_from=1, menu_sel=10
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY:CONFIRM
+D/FTM     (   86): [Audio] --------------mAudio_entry----------------
+D/FTM     (   86): [Audio] mAudio_loudpsk_entry
+D/        (   86): Common_Audio_init bMetaAudioInited = 0
+D/AudioI2S(   86): ...[open]...
+D/AudioI2S(   86): [open] ClientIndex=0, Identity=307098356
+D/AudioFtm(   86): AudFtm_Init 
+D/AudioHeadSetMessager(   86): AudioHeadSetMessager Contructor with no Lad
+D/AudioYusuVolumeController(   86): Constructor
+D/AudioYusuVolumeController(   86): InitVolumeController
+D/NVRAM   (   86): NVM_GetFileDesc ++
+D/NVRAM   (   86): NVM_GetCfgFileTable : file_lid = 15
+D/NVRAM   (   86): NVM_GetCfgFileTable done
+D/NVRAM   (   86): Open /data/nvram/APCFG/APRDCL/Audio_Sph,LID:15
+D/NVRAM   (   86): NVM_CmpFileVerNo 15  
+D/NVRAM   (   86): NVM_GetCfgFileTable : file_lid = 15
+D/NVRAM   (   86): NVM_CheckVerFile: 0
+D/NVRAM   (   86): New version info file
+D/NVRAM   (   86): Load File Version: 001, NvRam File Version: 001
+D/NVRAM   (   86): NVM_CheckFileSize : 15 ++
+D/NVRAM   (   86): iCustomBeginLID = 15
+D/NVRAM   (   86): NVM_CheckVerFile: 1
+D/NVRAM   (   86): NVM_GetCfgFileTable : file_lid = 15
+D/NVRAM   (   86): NVM_CheckFileSize:stat_size:1446,size in table:1444
+D/NVRAM   (   86): NVM_ProtectUserData
+D/NVRAM   (   86): NVM_ProtectUserData:Check File
+D/NVRAM   (   86): NVM_CheckFile: File is correct!
+D/NVRAM   (   86): NVM_ProtectUserData:Check Success
+D/NVRAM   (   86): NVM_GetFileDesc ProtectDataFile Check Success!!
+D/NVRAM   (   86): NVM_GetFileDesc --
+D/AudioYusuParam(   86): GetCustParamFromNV audio_nvram_fd = 19
+D/AudioYusuParam(   86): GetCustParamFromNV rec_size = 1444 rec_num = 1
+D/AudioYusuParam(   86): GetCustParamFromNV uMicbiasVolt = 1900
+D/NVRAM   (   86): NVM_CheckFileSize : 15 ++
+D/NVRAM   (   86): iCustomBeginLID = 15
+D/NVRAM   (   86): NVM_CheckVerFile: 1
+D/NVRAM   (   86): NVM_GetCfgFileTable : file_lid = 15
+D/NVRAM   (   86): NVM_CheckFileSize:stat_size:1446,size in table:1444
+D/NVRAM   (   86): NVM_ProtectUserData
+D/NVRAM   (   86): NVM_ProtectUserData:Set Check Num
+D/NVRAM   (   86): NVM_SetCheckNo: CheckNo:b7
+D/NVRAM   (   86): NVM_SetCheckNo: CheckFlag:0
+D/NVRAM   (   86): NVM_SetCheckNo: CheckNo generate successfully!
+D/NVRAM   (   86): NVM_ProtectUserData:Set Check Num Success
+D/NVRAM   (   86): NVM_CloseFileDesc ProtectDataFile Success!!
+D/AudioYusuVolumeController(   86): Volume = 8 MampAudioVolume DegradedB = 42.000000 
+D/AudioYusuVolumeController(   86): after map sndParam.volume[0][0]= 42 
+D/AudioYusuVolumeController(   86): Volume = 43UPLINK_GAIN_MAX DegradedB = 52.250000 
+D/AudioYusuVolumeController(   86): after map sndParam.volume[0][1]= 52 
+D/AudioYusuVolumeController(   86): Volume = 26UPLINK_GAIN_MAX DegradedB = 56.500000 
+D/AudioYusuVolumeController(   86): after map sndParam.volume[0][2]= 56 
+D/AudioYusuVolumeController(   86): Volume = 0UPLINK_GAIN_MAX DegradedB = 63.000000 
+D/AudioYusuVolumeController(   86): after map sndParam.volume[0][3]= 63 
+D/AudioYusuVolumeController(   86): Volume = 20 MampVoiceVolume DegradedB = 39.000000 
+D/AudioYusuVolumeController(   86): after map sndParam.volume[0][4]= 39 
+D/AudioYusuVolumeController(   86): Volume = 100 MampAudioVolume DegradedB = 19.000000 
+D/AudioYusuVolumeController(   86): after map sndParam.volume[0][5]= 19 
+D/AudioYusuVolumeController(   86): Volume = 25 MampAudioVolume DegradedB = 37.750000 
+D/AudioYusuVolumeController(   86): after map sndParam.volume[0][6]= 37 
+D/AudioYusuVolumeController(   86): Volume = 8 MampAudioVolume DegradedB = 42.000000 
+D/AudioYusuVolumeController(   86): after map sndParam.volume[1][0]= 42 
+D/AudioYusuVolumeController(   86): Volume = 24UPLINK_GAIN_MAX DegradedB = 57.000000 
+D/AudioYusuVolumeController(   86): after map sndParam.volume[1][1]= 57 
+D/AudioYusuVolumeController(   86): Volume = 20UPLINK_GAIN_MAX DegradedB = 58.000000 
+D/AudioYusuVolumeController(   86): after map sndParam.volume[1][2]= 58 
+D/AudioYusuVolumeController(   86): Volume = 24UPLINK_GAIN_MAX DegradedB = 57.000000 
+D/AudioYusuVolumeController(   86): after map sndParam.volume[1][3]= 57 
+D/AudioYusuVolumeController(   86): Volume = 12 MampVoiceVolume DegradedB = 41.000000 
+D/AudioYusuVolumeController(   86): after map sndParam.volume[1][4]= 41 
+D/AudioYusuVolumeController(   86): Volume = 100 MampAudioVolume DegradedB = 19.000000 
+D/AudioYusuVolumeController(   86): after map sndParam.volume[1][5]= 19 
+D/AudioYusuVolumeController(   86): Volume = 12 MampAudioVolume DegradedB = 41.000000 
+D/AudioYusuVolumeController(   86): after map sndParam.volume[1][6]= 41 
+D/AudioYusuVolumeController(   86): Volume = 8 MampAudioVolume DegradedB = 42.000000 
+D/AudioYusuVolumeController(   86): after map sndParam.volume[2][0]= 42 
+D/AudioYusuVolumeController(   86): Volume = 24UPLINK_GAIN_MAX DegradedB = 57.000000 
+D/AudioYusuVolumeController(   86): after map sndParam.volume[2][1]= 57 
+D/AudioYusuVolumeController(   86): Volume = 20UPLINK_GAIN_MAX DegradedB = 58.000000 
+D/AudioYusuVolumeController(   86): after map sndParam.volume[2][2]= 58 
+D/AudioYusuVolumeController(   86): Volume = 24UPLINK_GAIN_MAX DegradedB = 57.000000 
+D/AudioYusuVolumeController(   86): after map sndParam.volume[2][3]= 57 
+D/AudioYusuVolumeController(   86): Volume = 12 MampVoiceVolume DegradedB = 41.000000 
+D/AudioYusuVolumeController(   86): after map sndParam.volume[2][4]= 41 
+D/AudioYusuVolumeController(   86): Volume = 100 MampAudioVolume DegradedB = 19.000000 
+D/AudioYusuVolumeController(   86): after map sndParam.volume[2][5]= 19 
+D/AudioYusuVolumeController(   86): Volume = 12 MampAudioVolume DegradedB = 41.000000 
+D/AudioYusuVolumeController(   86): after map sndParam.volume[2][6]= 41 
+D/NVRAM   (   86): NVM_GetFileDesc ++
+D/NVRAM   (   86): NVM_GetCfgFileTable : file_lid = 22
+D/NVRAM   (   86): NVM_GetCfgFileTable done
+D/NVRAM   (   86): Open /data/nvram/APCFG/APRDCL/Audio_Vol_custom,LID:22
+D/NVRAM   (   86): NVM_CmpFileVerNo 22  
+D/NVRAM   (   86): NVM_GetCfgFileTable : file_lid = 22
+D/NVRAM   (   86): NVM_CheckVerFile: 0
+D/NVRAM   (   86): New version info file
+D/NVRAM   (   86): Load File Version: 001, NvRam File Version: 001
+D/NVRAM   (   86): NVM_CheckFileSize : 22 ++
+D/NVRAM   (   86): iCustomBeginLID = 15
+D/NVRAM   (   86): NVM_CheckVerFile: 1
+D/NVRAM   (   86): NVM_GetCfgFileTable : file_lid = 22
+D/NVRAM   (   86): NVM_CheckFileSize:stat_size:170,size in table:168
+D/NVRAM   (   86): NVM_ProtectUserData
+D/NVRAM   (   86): NVM_ProtectUserData:Check File
+D/NVRAM   (   86): NVM_CheckFile: File is correct!
+D/NVRAM   (   86): NVM_ProtectUserData:Check Success
+D/NVRAM   (   86): NVM_GetFileDesc ProtectDataFile Check Success!!
+D/NVRAM   (   86): NVM_GetFileDesc --
+D/NVRAM   (   86): NVM_CheckFileSize : 22 ++
+D/NVRAM   (   86): iCustomBeginLID = 15
+D/NVRAM   (   86): NVM_CheckVerFile: 1
+D/NVRAM   (   86): NVM_GetCfgFileTable : file_lid = 22
+D/NVRAM   (   86): NVM_CheckFileSize:stat_size:170,size in table:168
+D/NVRAM   (   86): NVM_ProtectUserData
+D/NVRAM   (   86): NVM_ProtectUserData:Set Check Num
+D/NVRAM   (   86): NVM_SetCheckNo: CheckNo:5e
+D/NVRAM   (   86): NVM_SetCheckNo: CheckFlag:0
+D/NVRAM   (   86): NVM_SetCheckNo: CheckNo generate successfully!
+D/NVRAM   (   86): NVM_ProtectUserData:Set Check Num Success
+D/NVRAM   (   86): NVM_CloseFileDesc ProtectDataFile Success!!
+D/NVRAM   (   86): NVM_GetFileDesc ++
+D/NVRAM   (   86): NVM_GetCfgFileTable : file_lid = 22
+D/NVRAM   (   86): NVM_GetCfgFileTable done
+D/NVRAM   (   86): Open /data/nvram/APCFG/APRDCL/Audio_Vol_custom,LID:22
+D/NVRAM   (   86): NVM_CmpFileVerNo 22  
+D/NVRAM   (   86): NVM_GetCfgFileTable : file_lid = 22
+D/NVRAM   (   86): NVM_CheckVerFile: 0
+D/NVRAM   (   86): New version info file
+D/NVRAM   (   86): Load File Version: 001, NvRam File Version: 001
+D/NVRAM   (   86): NVM_CheckFileSize : 22 ++
+D/NVRAM   (   86): iCustomBeginLID = 15
+D/NVRAM   (   86): NVM_CheckVerFile: 1
+D/NVRAM   (   86): NVM_GetCfgFileTable : file_lid = 22
+D/NVRAM   (   86): NVM_CheckFileSize:stat_size:170,size in table:168
+D/NVRAM   (   86): NVM_ProtectUserData
+D/NVRAM   (   86): NVM_ProtectUserData:Check File
+D/NVRAM   (   86): NVM_CheckFile: File is correct!
+D/NVRAM   (   86): NVM_ProtectUserData:Check Success
+D/NVRAM   (   86): NVM_GetFileDesc ProtectDataFile Check Success!!
+D/NVRAM   (   86): NVM_GetFileDesc --
+D/NVRAM   (   86): NVM_CheckFileSize : 22 ++
+D/NVRAM   (   86): iCustomBeginLID = 15
+D/NVRAM   (   86): NVM_CheckVerFile: 1
+D/NVRAM   (   86): NVM_GetCfgFileTable : file_lid = 22
+D/NVRAM   (   86): NVM_CheckFileSize:stat_size:170,size in table:168
+D/NVRAM   (   86): NVM_ProtectUserData
+D/NVRAM   (   86): NVM_ProtectUserData:Set Check Num
+D/NVRAM   (   86): NVM_SetCheckNo: CheckNo:5e
+D/NVRAM   (   86): NVM_SetCheckNo: CheckFlag:0
+D/NVRAM   (   86): NVM_SetCheckNo: CheckNo generate successfully!
+D/NVRAM   (   86): NVM_ProtectUserData:Set Check Num Success
+D/NVRAM   (   86): NVM_CloseFileDesc ProtectDataFile Success!!
+D/AudioYusuVolumeController(   86): SetVolumeRange mode=0, route=0, MaxVolume=12, MinVolume=-32 
+D/AudioYusuVolumeController(   86): Volume = 176 MampAudioVolume DegradedB = 0.000000 
+D/AudioYusuVolumeController(   86): SetVolumeRange mode=0, route=1, MaxVolume=12, MinVolume=-32 
+D/AudioYusuVolumeController(   86): Volume = 176 MampAudioVolume DegradedB = 0.000000 
+D/AudioYusuVolumeController(   86): SetVolumeRange mode=0, route=2, MaxVolume=12, MinVolume=-32 
+D/AudioYusuVolumeController(   86): SetVolumeRange mode=0, route=3, MaxVolume=12, MinVolume=-32 
+D/AudioYusuVolumeController(   86): SetVolumeRange mode=0, route=4, MaxVolume=12, MinVolume=-32 
+D/AudioYusuVolumeController(   86): SetVolumeRange mode=0, route=5, MaxVolume=12, MinVolume=-32 
+D/AudioYusuVolumeController(   86): SetVolumeRange mode=0, route=7, MaxVolume=12, MinVolume=-32 
+D/AudioYusuVolumeController(   86): SetVolumeRange mode=0, route=8, MaxVolume=12, MinVolume=-32 
+D/AudioYusuVolumeController(   86): SetVolumeRange mode=0, route=9, MaxVolume=12, MinVolume=-32 
+D/AudioYusuVolumeController(   86): SetVolumeRange mode=0, route=a, MaxVolume=12, MinVolume=-32 
+D/AudioYusuVolumeController(   86): SetVolumeRange mode=0, route=0, MaxVolume=12, MinVolume=-32 
+D/AudioYusuVolumeController(   86): Volume = 176 MampAudioVolume DegradedB = 0.000000 
+D/AudioYusuVolumeController(   86): SetVolumeRange mode=1, route=1, MaxVolume=12, MinVolume=-32 
+D/AudioYusuVolumeController(   86): SetVolumeRange mode=1, route=2, MaxVolume=12, MinVolume=-32 
+D/AudioYusuVolumeController(   86): SetVolumeRange mode=1, route=3, MaxVolume=12, MinVolume=-32 
+D/AudioYusuVolumeController(   86): SetVolumeRange mode=1, route=4, MaxVolume=12, MinVolume=-32 
+D/AudioYusuVolumeController(   86): SetVolumeRange mode=1, route=5, MaxVolume=12, MinVolume=-32 
+D/AudioYusuVolumeController(   86): SetVolumeRange mode=1, route=7, MaxVolume=12, MinVolume=-32 
+D/AudioYusuVolumeController(   86): SetVolumeRange mode=1, route=8, MaxVolume=12, MinVolume=-32 
+D/AudioYusuVolumeController(   86): SetVolumeRange mode=1, route=9, MaxVolume=12, MinVolume=-32 
+D/AudioYusuVolumeController(   86): SetVolumeRange mode=1, route=a, MaxVolume=12, MinVolume=-32 
+D/AudioYusuVolumeController(   86): SetVolumeRange mode=2, route=0, MaxVolume=12, MinVolume=-32 
+D/AudioYusuVolumeController(   86): SetVolumeRange mode=2, route=1, MaxVolume=12, MinVolume=-32 
+D/AudioYusuVolumeController(   86): SetVolumeRange mode=2, route=2, MaxVolume=12, MinVolume=-32 
+D/AudioYusuVolumeController(   86): SetVolumeRange mode=2, route=3, MaxVolume=12, MinVolume=-32 
+D/AudioYusuVolumeController(   86): SetVolumeRange mode=2, route=4, MaxVolume=12, MinVolume=-32 
+D/AudioYusuVolumeController(   86): SetVolumeRange mode=2, route=5, MaxVolume=12, MinVolume=-32 
+D/AudioYusuVolumeController(   86): SetVolumeRange mode=2, route=7, MaxVolume=12, MinVolume=-32 
+D/AudioYusuVolumeController(   86): SetVolumeRange mode=2, route=8, MaxVolume=12, MinVolume=-32 
+D/AudioYusuVolumeController(   86): SetVolumeRange mode=2, route=9, MaxVolume=12, MinVolume=-32 
+D/AudioYusuVolumeController(   86): SetVolumeRange mode=2, route=a, MaxVolume=12, MinVolume=-32 
+D/AudioYusuVolumeController(   86): Volume = 100 MampAudioVolume DegradedB = 19.000000 
+D/AudioYusuVolumeController(   86): SetVolumeRange mode=3, route=0, MaxVolume=-7, MinVolume=-32 
+D/AudioYusuVolumeController(   86): Volume = 148 MampAudioVolume DegradedB = 7.000000 
+D/AudioYusuVolumeController(   86): SetVolumeRange mode=3, route=1, MaxVolume=5, MinVolume=-32 
+D/AudioYusuVolumeController(   86): Volume = 148 MampAudioVolume DegradedB = 7.000000 
+D/AudioYusuVolumeController(   86): SetVolumeRange mode=3, route=2, MaxVolume=5, MinVolume=-32 
+D/AudioYusuVolumeController(   86): SetVolumeRange mode=3, route=3, MaxVolume=5, MinVolume=-32 
+D/AudioYusuVolumeController(   86): SetVolumeRange mode=3, route=4, MaxVolume=12, MinVolume=-32 
+D/AudioYusuVolumeController(   86): SetVolumeRange mode=3, route=5, MaxVolume=12, MinVolume=-32 
+D/AudioYusuVolumeController(   86): SetVolumeRange mode=3, route=7, MaxVolume=12, MinVolume=-32 
+D/AudioYusuVolumeController(   86): SetVolumeRange mode=3, route=8, MaxVolume=12, MinVolume=-32 
+D/AudioYusuVolumeController(   86): SetVolumeRange mode=3, route=9, MaxVolume=12, MinVolume=-32 
+D/AudioYusuVolumeController(   86): SetVolumeRange mode=3, route=a, MaxVolume=12, MinVolume=-32 
+D/AudioYusuVolumeController(   86):  not define MTK_AUDIO_GAIN_TABLE_SUPPORT
+D/AudioYusuVolumeController(   86): Volume = 252UPLINK_GAIN_MAX DegradedB = 0.000000 
+D/AudioYusuVolumeController(   86): SetMicGain MicMode=0, Gain=ffffffff
+D/AudioYusuVolumeController(   86): Volume = 200UPLINK_GAIN_MAX DegradedB = 13.000000 
+D/AudioYusuVolumeController(   86): SetMicGain MicMode=1, Gain=ffffffe6
+D/AudioYusuVolumeController(   86): Volume = 192UPLINK_GAIN_MAX DegradedB = 15.000000 
+D/AudioYusuVolumeController(   86): SetMicGain MicMode=2, Gain=ffffffe2
+D/AudioYusuVolumeController(   86): Volume = 200UPLINK_GAIN_MAX DegradedB = 13.000000 
+D/AudioYusuVolumeController(   86): SetMicGain MicMode=3, Gain=ffffffe6
+D/AudioYusuVolumeController(   86): Volume = 64UPLINK_GAIN_MAX DegradedB = 47.000000 
+D/AudioYusuVolumeController(   86): SetMicGain MicMode=5, Gain=ffffffa2
+D/AudioYusuVolumeController(   86): SetMicGain MicMode=4, Gain=fffffff4
+D/AudioYusuVolumeController(   86): Volume = 160UPLINK_GAIN_MAX DegradedB = 23.000000 
+D/AudioYusuVolumeController(   86): SetMicGain MicMode=6, Gain=ffffffd2
+D/AudioYusuVolumeController(   86): Volume = 172UPLINK_GAIN_MAX DegradedB = 20.000000 
+D/AudioYusuVolumeController(   86): SetMicGain MicMode=7, Gain=ffffffd8
+D/AudioYusuVolumeController(   86): Volume = 172UPLINK_GAIN_MAX DegradedB = 20.000000 
+D/AudioYusuVolumeController(   86): SetMicGain MicMode=8, Gain=ffffffd8
+D/AudioYusuVolumeController(   86): Volume = 252 MampLevelShiftBufferGain DegradedB = 0.000000 
+D/AudioYusuVolumeController(   86): SetMicGain MicMode=9, Gain=ffffffff
+D/AudioYusuVolumeController(   86): micgain 0 = ffffffff
+D/AudioYusuVolumeController(   86): micgain 1 = ffffffe6
+D/AudioYusuVolumeController(   86): micgain 2 = ffffffe2
+D/AudioYusuVolumeController(   86): micgain 3 = ffffffe6
+D/AudioYusuVolumeController(   86): micgain 4 = fffffff4
+D/AudioYusuVolumeController(   86): micgain 5 = ffffffa2
+D/AudioYusuVolumeController(   86): micgain 6 = ffffffd2
+D/AudioYusuVolumeController(   86): micgain 7 = ffffffd8
+D/AudioYusuVolumeController(   86): micgain 8 = ffffffd8
+D/AudioYusuVolumeController(   86): micgain 9 = ffffffff
+D/AudioYusuVolumeController(   86): Volume = 16 MampSidetoneGain DegradedB = 56.000000 
+D/AudioYusuVolumeController(   86): SetSideTone Mode=0, Gain=ffffff90
+D/AudioYusuVolumeController(   86): Volume = 32 MampSidetoneGain DegradedB = 52.000000 
+D/AudioYusuVolumeController(   86): SetSideTone Mode=1, Gain=ffffff98
+D/AudioYusuVolumeController(   86): SetSideTone Mode=3, Gain=ffffff40
+D/AudioYusuVolumeController(   86): Volume = 0 MampSidetoneGain DegradedB = 96.000000 
+D/AudioYusuVolumeController(   86): SetSideTone Mode=2, Gain=ffffff40
+D/AudioYusuVolumeController(   86): micgain 0 = ffffffff
+D/AudioYusuVolumeController(   86): micgain 1 = ffffffe6
+D/AudioYusuVolumeController(   86): micgain 2 = ffffffe2
+D/AudioYusuVolumeController(   86): micgain 3 = ffffffe6
+D/AudioYusuVolumeController(   86): micgain 4 = fffffff4
+D/AudioYusuVolumeController(   86): micgain 5 = ffffffa2
+D/AudioYusuVolumeController(   86): micgain 6 = ffffffd2
+D/AudioYusuVolumeController(   86): micgain 7 = ffffffd8
+D/AudioYusuVolumeController(   86): micgain 8 = ffffffd8
+D/AudioYusuVolumeController(   86): micgain 9 = ffffffff
+D/AudioYusuVolumeController(   86): :ApplyGain Gain:cccc, u4Gain=3333
+D/AudioYusuVolumeController(   86): :ApplyGain Setting_value = 9
+D/        (   86): Audio_Set_Speaker_Vol with level = 12
+D/        (   86): Audio_Set_Speaker_Off Channel = 3
+D/        (   86): -Common_Audio_init
+D/FTM     (   86): [MIUI] itemview_set_title
+D/FTM     (   86): [MIUI] itemview_set_items
+D/FTM     (   86): [MIUI] itemview_run 0xa6580
+D/FTM     (   86): [Audio] Audio_LoudSpk_Playabck_thread: Start
+D/FTM     (   86): preferred_ringtone_time can't get
+D/FTM     (   86): preferred_ringtone_file can't get
+D/        (   86): LouderSPKTest left_channel=1, right_channel=1
+D/AudioFtm(   86): FTM_AnaLpk_on 
+D/AudioFtm(   86): [ToDo, Charlie]PLL_CON2 is not set
+D/AudioFtm(   86): [ToDo, Charlie]ACIF_WR_PATH is not set
+D/AudioFtm(   86): [ToDo, Charlie]ACIF_WR_PATH is not set
+D/AudioFtm(   86): Afe_Enable_SineWave, bEnable:1 
+D/        (   86): Audio_Set_Speaker_On Channel = 3
+E/IPCThreadState( 1359): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 1361): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 1363): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 1362): /system/bin/ami304d terminated by exit(255)
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY:CONFIRM
+D/FTM     (   86): mAudio_loudpsk_entry set exit_thd = true
+D/        (   86): LouderSPKTest left_channel=0, right_channel=0
+D/AudioFtm(   86): Afe_Enable_SineWave, bEnable:0 
+D/AudioFtm(   86): FTM_AnaLpk_off 
+D/        (   86): Audio_Set_Speaker_Off Channel = 3
+D/FTM     (   86): [Audio] Audio_LoudSpk_Playabck_thread: Audio_LoudSpk_Playabck_thread Exit 
+D/        (   86): !Common_Audio_deinit bMetaAudioInited=1
+D/FTM     (   86): [MAIN] Save test result to 
+D/FTM     (   86): [MAIN]   Version=1
+D/FTM     (   86): [MAIN]   Keys=1
+D/FTM     (   86): [MAIN]   Touch Panel=0
+D/FTM     (   86): [MAIN]   LCD Color=1
+D/FTM     (   86): [MAIN]   LCD Contrast=1
+D/FTM     (   86): [MAIN]   Memory Card=1
+D/FTM     (   86): [MAIN]   SIM1 Detect=1
+D/FTM     (   86): [MAIN]   SIM2 Detect=1
+D/FTM     (   86): [MAIN]   Vibrator=1
+D/FTM     (   86): [MAIN]   LED=1
+D/FTM     (   86): [MAIN]   Speaker Test=1
+D/FTM     (   86): [MAIN]   Receiver=1
+D/FTM     (   86): [MAIN]   Loopback=1
+D/FTM     (   86): [MAIN]   Headset=1
+D/FTM     (   86): [MAIN]   G-Sensor Calibration=1
+D/FTM     (   86): [MAIN]   G-Sensor=1
+D/FTM     (   86): [MAIN]   ALS/PS=1
+D/FTM     (   86): [MAIN]   Main Camera=1
+D/FTM     (   86): [MAIN]   Sub Camera=1
+D/FTM     (   86): [MAIN]   GPS-Power=1
+D/FTM     (   86): [MAIN]   FM Radio=1
+D/FTM     (   86): [MAIN]   Bluetooth=1
+D/FTM     (   86): [MAIN]   Wi-Fi=1
+D/FTM     (   86): [MAIN]   Battery & Charger=1
+D/FTM     (   86): [MAIN]   Idle Current=1
+D/FTM     (   86): [MIUI] itemview_run 0xbe815c24
+E/IPCThreadState( 1369): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 1371): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 1373): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 1372): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 1379): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 1381): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 1383): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 1382): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 1389): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 1391): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 1393): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 1392): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 1399): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 1401): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 1403): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 1402): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 1409): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 1411): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 1413): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 1412): /system/bin/ami304d terminated by exit(255)
+E/logwrapper( 1415): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 1414): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 1421): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 1423): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 1425): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 1424): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 1431): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 1433): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 1435): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 1434): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 1441): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 1443): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 1445): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 1444): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 1451): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 1453): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 1455): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 1454): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 1461): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 1463): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 1466): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 1465): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 1472): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 1474): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 1476): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 1475): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 1482): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 1484): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 1486): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 1485): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 1492): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 1494): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 1496): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 1495): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 1502): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 1504): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 1506): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 1505): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 1512): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 1514): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 1516): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 1515): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 1522): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 1524): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 1526): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 1525): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 1532): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 1534): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 1537): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 1536): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 1543): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 1545): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 1547): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 1546): /system/bin/ami304d terminated by exit(255)

@@ -1,0 +1,1577 @@
+--------- beginning of /dev/log/main
+D/ccci_mdinit(   75): md_init ver:0.03
+D/ccci_mdinit(   75): boot modem
+D/AEE/AED (   73): aee_aed: Dec  8 2011 11:42:52
+E/logwrapper(   87): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(   78): /system/bin/ami304d terminated by exit(255)
+D/AEE/AED (   73): System time mapping: [Sat Mar  9 19:04:47 EET 2013] [12.960000]
+D/AEE/LIBAEE(   73): making dir:/data
+E/AEE/LIBAEE(   73): mkdir /data fail:File exists
+D/AEE/LIBAEE(   73): making dir:/data/core
+E/AEE/LIBAEE(   73): mkdir /data/core fail:File exists
+I/AEE/LIBAEE(   73): set core pattern to '/data/core/core.%p'
+I/AEE/AED (   73): dal enable '0'
+I/AEE/AED (   73): db count is '2'
+I/AEE/AED (   73): db force dump to sdcard '1'
+I/AEE/AED (   73): exp levle '1'
+D/AEE/LIBAEE(   73): making dir:/data
+D/AEE/LIBAEE(   73): making dir:/data/anr
+D/AEE/AED (   73): wait for connections (ser:10, ee:11, ke:12), cnt:3
+D/AEE/AED (   73): Looping aed main
+D/AEE/AED (   73): set/proc/wdk to 1 20 30
+I/qcom-bluetooth(   89): /system/etc/init.bt.sh: start hciattach 
+D/NVRAM   (   76): g_i4CFG_File_Count: 15
+D/NVRAM   (   76): NVM_Init Max Lid: 29
+D/NVRAM   (   76): Total nvram Lid number is 29
+D/NVRAM   (   76): [NVRAM]:FileOp_CmpBackupFileNum
+D/NVRAM   (   76): Get BackupFileNum
+D/NVRAM   (   76): [NVRAM]:cMtdDevName:/dev/nvram
+D/NVRAM   (   76): [NVRAM]:iBlockNum:22
+D/NVRAM   (   76): [NVRAM]:iBlockNum:21
+D/NVRAM   (   76): [NVRAM]:read:131072
+D/NVRAM   (   76): [NVRAM_Bitmap]:Block0,0
+D/NVRAM   (   76): [NVRAM_Bitmap]:Block1,0
+D/NVRAM   (   76): [NVRAM_Bitmap]:Block2,0
+D/NVRAM   (   76): [NVRAM_Bitmap]:Block3,0
+D/NVRAM   (   76): [NVRAM_Bitmap]:Block4,0
+D/NVRAM   (   76): [NVRAM_Bitmap]:Block5,0
+D/NVRAM   (   76): [NVRAM_Bitmap]:Block6,0
+D/NVRAM   (   76): [NVRAM_Bitmap]:Block7,0
+D/NVRAM   (   76): [NVRAM_Bitmap]:Block8,0
+D/NVRAM   (   76): [NVRAM_Bitmap]:Block9,0
+D/NVRAM   (   76): [NVRAM_Bitmap]:Block10,0
+D/NVRAM   (   76): [NVRAM_Bitmap]:Block11,0
+D/NVRAM   (   76): [NVRAM_Bitmap]:Block12,0
+D/NVRAM   (   76): [NVRAM_Bitmap]:Block13,0
+D/NVRAM   (   76): [NVRAM_Bitmap]:Block14,0
+D/NVRAM   (   76): [NVRAM_Bitmap]:Block15,0
+D/NVRAM   (   76): [NVRAM_Bitmap]:Block16,0
+D/NVRAM   (   76): [NVRAM_Bitmap]:Block17,0
+D/NVRAM   (   76): [NVRAM_Bitmap]:Block18,0
+D/NVRAM   (   76): [NVRAM_Bitmap]:Block19,0
+D/NVRAM   (   76): [NVRAM_Bitmap]:Block20,0
+D/NVRAM   (   76): [NVRAM]:Saved AP Backup File Num:1,Saved MD Backup File Num:63
+D/NVRAM   (   76): [NVRAM]:mtd Get Backup File Num success
+D/NVRAM   (   76): [NVRAM]:SavedAPBackupFileNum:1,APBackupFileNum:1 SUCCESS
+D/NVRAM   (   76): [NVRAM]:SavedMDBackupFileNum:63,MDBackupFileNum:63 SUCCESS
+D/NVRAM   (   76): [NVRAM]:Saved and Current match!
+D/NVRAM   (   76): [NVRAM]:cMtdDevName:/dev/nvram
+D/NVRAM   (   76): [NVRAM]:iBlockNum:22
+D/NVRAM   (   76): [NVRAM]:iBlockNum:21
+D/NVRAM   (   76): [NVRAM]:read:131072
+D/NVRAM   (   76): [NVRAM_Bitmap]:Block0,0
+D/NVRAM   (   76): [NVRAM_Bitmap]:Block1,0
+D/NVRAM   (   76): [NVRAM_Bitmap]:Block2,0
+D/NVRAM   (   76): [NVRAM_Bitmap]:Block3,0
+D/NVRAM   (   76): [NVRAM_Bitmap]:Block4,0
+D/NVRAM   (   76): [NVRAM_Bitmap]:Block5,0
+D/NVRAM   (   76): [NVRAM_Bitmap]:Block6,0
+D/NVRAM   (   76): [NVRAM_Bitmap]:Block7,0
+D/NVRAM   (   76): [NVRAM_Bitmap]:Block8,0
+D/NVRAM   (   76): [NVRAM_Bitmap]:Block9,0
+D/NVRAM   (   76): [NVRAM_Bitmap]:Block10,0
+D/NVRAM   (   76): [NVRAM_Bitmap]:Block11,0
+D/NVRAM   (   76): [NVRAM_Bitmap]:Block12,0
+D/NVRAM   (   76): [NVRAM_Bitmap]:Block13,0
+D/NVRAM   (   76): [NVRAM_Bitmap]:Block14,0
+D/NVRAM   (   76): [NVRAM_Bitmap]:Block15,0
+D/NVRAM   (   76): [NVRAM_Bitmap]:Block16,0
+D/NVRAM   (   76): [NVRAM_Bitmap]:Block17,0
+D/NVRAM   (   76): [NVRAM_Bitmap]:Block18,0
+D/NVRAM   (   76): [NVRAM_Bitmap]:Block19,0
+D/NVRAM   (   76): [NVRAM_Bitmap]:Block20,0
+D/NVRAM   (   76): [NVRAM]:Clean Boot Flag:ffffffff
+D/NVRAM   (   76): [NVRAM]:mtd get CleanBoot Flag success
+D/NVRAM   (   76): Set property success
+D/NVRAM   (   76): NVRAM AP_CFG_RDCL_FILE_AUXADC_LID:2 
+D/NVRAM   (   76): NVM_GetFileDesc ++
+D/NVRAM   (   76): NVM_GetCfgFileTable : file_lid = 2
+D/NVRAM   (   76): NVM_GetCfgFileTable done
+D/NVRAM   (   76): Open /data/nvram/APCFG/APRDCL/AUXADC,LID:2
+D/NVRAM   (   76): AP_CFG_RDEB_FILE_BT_ADDR_LID:1
+D/NVRAM   (   76): NVM_GetFileDesc ++
+D/NVRAM   (   76): NVM_GetCfgFileTable : file_lid = 1
+D/NVRAM   (   76): NVM_GetCfgFileTable done
+D/NVRAM   (   76): Open /data/nvram/APCFG/APRDEB/BT_Addr,LID:1
+D/NVRAM   (   76): [NVRAM Daemon]wifi lid 19 ++
+D/NVRAM   (   76): NVM_GetFileDesc ++
+D/NVRAM   (   76): NVM_GetCfgFileTable : file_lid = 19
+D/NVRAM   (   76): NVM_GetCfgFileTable done
+D/NVRAM   (   76): Open /data/nvram/APCFG/APRDEB/WIFI,LID:19
+D/NVRAM   (   76): touch panel calibration
+D/NVRAM   (   76): [NVRAM Daemon]product info lid 25 ++
+D/NVRAM   (   76): NVM_GetFileDesc ++
+D/NVRAM   (   76): NVM_GetCfgFileTable : file_lid = 25
+D/NVRAM   (   76): NVM_GetCfgFileTable done
+D/NVRAM   (   76): Open /data/nvram/APCFG/APRDEB/PRODUCT_INFO,LID:25
+D/NVRAM   (   76): NVM_CmpFileVerNo 2  
+D/NVRAM   (   76): NVM_GetCfgFileTable : file_lid = 2
+D/NVRAM   (   76): NVM_CheckVerFile: 0
+D/NVRAM   (   76): NVM_CmpFileVerNo 1  
+D/NVRAM   (   76): NVM_GetCfgFileTable : file_lid = 1
+D/NVRAM   (   76): NVM_CheckVerFile: 0
+D/NVRAM   (   76): New version info file
+D/NVRAM   (   76): New version info file
+D/NVRAM   (   76): Load File Version: 000, NvRam File Version: 000
+D/NVRAM   (   76): NVM_CheckFileSize : 2 ++
+D/NVRAM   (   76): iCustomBeginLID = 15
+D/NVRAM   (   76): NVM_CheckVerFile: 1
+D/NVRAM   (   76): NVM_GetCfgFileTable : file_lid = 2
+D/NVRAM   (   76): NVM_CheckFileSize:stat_size:78,size in table:76
+D/NVRAM   (   76): NVM_ProtectUserData
+D/NVRAM   (   76): NVM_ProtectUserData:Check File
+D/NVRAM   (   76): NVM_CmpFileVerNo 19  
+D/NVRAM   (   76): NVM_GetCfgFileTable : file_lid = 19
+D/NVRAM   (   76): NVM_CheckVerFile: 0
+D/NVRAM   (   76): New version info file
+D/NVRAM   (   76): Load File Version: 000, NvRam File Version: 000
+D/NVRAM   (   76): NVM_CheckFileSize : 1 ++
+D/NVRAM   (   76): iCustomBeginLID = 15
+D/NVRAM   (   76): NVM_CheckVerFile: 1
+D/NVRAM   (   76): NVM_GetCfgFileTable : file_lid = 1
+D/NVRAM   (   76): NVM_CheckFileSize:stat_size:98,size in table:96
+D/NVRAM   (   76): NVM_ProtectUserData
+D/NVRAM   (   76): NVM_ProtectUserData:Check File
+D/NVRAM   (   76): Load File Version: 000, NvRam File Version: 000
+D/NVRAM   (   76): NVM_CheckFileSize : 19 ++
+D/NVRAM   (   76): iCustomBeginLID = 15
+D/NVRAM   (   76): NVM_CheckVerFile: 1
+D/NVRAM   (   76): NVM_GetCfgFileTable : file_lid = 19
+D/NVRAM   (   76): NVM_CheckFileSize:stat_size:514,size in table:512
+D/NVRAM   (   76): NVM_ProtectUserData
+D/NVRAM   (   76): NVM_ProtectUserData:Check File
+D/NVRAM   (   76): NVM_CheckFile: File is correct!
+D/NVRAM   (   76): NVM_CmpFileVerNo 25  
+D/NVRAM   (   76): NVM_GetCfgFileTable : file_lid = 25
+D/NVRAM   (   76): NVM_CheckVerFile: 0
+D/NVRAM   (   76): New version info file
+D/NVRAM   (   76): NVM_CheckFile: File is correct!
+D/NVRAM   (   76): NVM_ProtectUserData:Check Success
+D/NVRAM   (   76): NVM_GetFileDesc ProtectDataFile Check Success!!
+D/NVRAM   (   76): NVM_GetFileDesc --
+D/NVRAM   (   76): NVM_CheckFile: File is correct!
+D/NVRAM   (   76): Load File Version: 000, NvRam File Version: 000
+D/NVRAM   (   76): NVM_CheckFileSize : 25 ++
+D/NVRAM   (   76): iCustomBeginLID = 15
+D/NVRAM   (   76): NVM_CheckVerFile: 1
+D/NVRAM   (   76): NVM_GetCfgFileTable : file_lid = 25
+D/NVRAM   (   76): NVM_CheckFileSize:stat_size:1026,size in table:1024
+D/NVRAM   (   76): NVM_ProtectUserData
+D/NVRAM   (   76): NVM_ProtectUserData:Check File
+D/NVRAM   (   76): NVM_ProtectUserData:Check Success
+D/NVRAM   (   76): NVM_GetFileDesc ProtectDataFile Check Success!!
+D/NVRAM   (   76): NVM_GetFileDesc --
+D/NVRAM   (   76): FD 10 rec_size 96 rec_num 1
+D/NVRAM   (   76): Read NVRAM: [BD address 000046662201][CapId 00] [Voice 60 00] [Codec 23 00 00 00]               [Radio 07 80 00 06 03 07] [Sleep 03 40 1f 40 1f 00 04] [BtFTR 80 00] [TxPowerOffset ff ff ff]               [ECLK_SEL 00]
+D/NVRAM   (   76): NVM_ProtectUserData:Check Success
+D/NVRAM   (   76): NVM_GetFileDesc ProtectDataFile Check Success!!
+D/NVRAM   (   76): NVM_GetFileDesc --
+D/NVRAM   (   76): [wifi] wifi FD 11 rec_size 512 rec_num 1
+D/NVRAM   (   76): [NVRAM Daemon]wifi custom lid 20 ++
+D/NVRAM   (   76): NVM_GetFileDesc ++
+D/NVRAM   (   76): NVM_GetCfgFileTable : file_lid = 20
+D/NVRAM   (   76): NVM_GetCfgFileTable done
+D/NVRAM   (   76): Open /data/nvram/APCFG/APRDEB/WIFI_CUSTOM,LID:20
+D/NVRAM   (   76): NVM_CheckFile: File is correct!
+D/NVRAM   (   76): NVM_ProtectUserData:Check Success
+D/NVRAM   (   76): NVM_GetFileDesc ProtectDataFile Check Success!!
+D/NVRAM   (   76): NVM_GetFileDesc --
+D/NVRAM   (   76): [NVRAM Daemon] product info FID 9 rec_size 1024 rec_num 1
+D/NVRAM   (   76): NVM_CmpFileVerNo 20  
+D/NVRAM   (   76): NVM_GetCfgFileTable : file_lid = 20
+D/NVRAM   (   76): NVM_CheckVerFile: 0
+D/NVRAM   (   76): New version info file
+D/NVRAM   (   76): Load File Version: 000, NvRam File Version: 000
+D/NVRAM   (   76): NVM_CheckFileSize : 20 ++
+D/NVRAM   (   76): iCustomBeginLID = 15
+D/NVRAM   (   76): NVM_CheckVerFile: 1
+D/NVRAM   (   76): NVM_GetCfgFileTable : file_lid = 20
+D/NVRAM   (   76): NVM_CheckFileSize:stat_size:6,size in table:4
+D/NVRAM   (   76): NVM_ProtectUserData
+D/NVRAM   (   76): NVM_ProtectUserData:Check File
+D/NVRAM   (   76): NVM_CheckFile: File is correct!
+D/NVRAM   (   76): NVM_ProtectUserData:Check Success
+D/NVRAM   (   76): NVM_GetFileDesc ProtectDataFile Check Success!!
+D/NVRAM   (   76): NVM_GetFileDesc --
+D/NVRAM   (   76): [wifi] wifi custom FD 12 rec_size 4 rec_num 1
+D/NVRAM   (   76): NVM_GetFileDesc ++
+D/NVRAM   (   76): NVM_GetCfgFileTable : file_lid = 12
+D/NVRAM   (   76): NVM_GetCfgFileTable done
+D/NVRAM   (   76): Open /data/nvram/APCFG/APRDCL/HWMON_ACC,LID:12
+D/NVRAM   (   76): NVM_CmpFileVerNo 12  
+D/NVRAM   (   76): NVM_GetCfgFileTable : file_lid = 12
+D/NVRAM   (   76): NVM_CheckVerFile: 0
+D/NVRAM   (   76): New version info file
+D/NVRAM   (   76): Load File Version: 000, NvRam File Version: 000
+D/NVRAM   (   76): NVM_CheckFileSize : 12 ++
+D/NVRAM   (   76): iCustomBeginLID = 15
+D/NVRAM   (   76): NVM_CheckVerFile: 1
+D/NVRAM   (   76): NVM_GetCfgFileTable : file_lid = 12
+D/NVRAM   (   76): NVM_CheckFileSize:stat_size:14,size in table:12
+D/NVRAM   (   76): NVM_ProtectUserData
+D/NVRAM   (   76): NVM_ProtectUserData:Check File
+D/NVRAM   (   76): NVM_CheckFile: File is correct!
+D/NVRAM   (   76): NVM_ProtectUserData:Check Success
+D/NVRAM   (   76): NVM_GetFileDesc ProtectDataFile Check Success!!
+D/NVRAM   (   76): NVM_GetFileDesc --
+D/NVRAM   (   76): NVM_CheckFileSize : 1 ++
+D/NVRAM   (   76): iCustomBeginLID = 15
+D/NVRAM   (   76): NVM_CheckVerFile: 1
+D/NVRAM   (   76): NVM_GetCfgFileTable : file_lid = 1
+D/NVRAM   (   76): NVM_CheckFileSize:stat_size:98,size in table:96
+D/NVRAM   (   76): NVM_ProtectUserData
+D/NVRAM   (   76): NVM_ProtectUserData:Set Check Num
+D/NVRAM   (   76): NVM_SetCheckNo: CheckNo:1e
+D/NVRAM   (   76): NVM_SetCheckNo: CheckFlag:0
+E/HWMLIB  (   76): gyroscope_open: Couldn't find or open file sensor (Not a typewriter)
+D/NVRAM   (   76): null gyroscope file handle pointer: -1!
+D/NVRAM   (   76): stop due to err
+D/HWMLIB  (   76): [RN]    0.0000   -0.9191    0.0000 =>     0 -6142     0
+D/NVRAM   (   76): NVM_CheckFileSize : 2 ++
+D/NVRAM   (   76): iCustomBeginLID = 15
+D/NVRAM   (   76): NVM_CheckVerFile: 1
+D/NVRAM   (   76): NVM_GetCfgFileTable : file_lid = 2
+D/NVRAM   (   76): NVM_CheckFileSize:stat_size:78,size in table:76
+D/NVRAM   (   76): NVM_ProtectUserData
+D/NVRAM   (   76): NVM_ProtectUserData:Set Check Num
+D/NVRAM   (   76): NVM_CheckFileSize : 25 ++
+D/NVRAM   (   76): iCustomBeginLID = 15
+D/NVRAM   (   76): NVM_CheckVerFile: 1
+D/NVRAM   (   76): NVM_GetCfgFileTable : file_lid = 25
+D/NVRAM   (   76): NVM_CheckFileSize:stat_size:1026,size in table:1024
+D/NVRAM   (   76): NVM_ProtectUserData
+D/NVRAM   (   76): NVM_ProtectUserData:Set Check Num
+D/NVRAM   (   76): NVM_CheckFileSize : 12 ++
+D/NVRAM   (   76): iCustomBeginLID = 15
+D/NVRAM   (   76): NVM_CheckVerFile: 1
+D/NVRAM   (   76): NVM_GetCfgFileTable : file_lid = 12
+D/NVRAM   (   76): NVM_CheckFileSize:stat_size:14,size in table:12
+D/NVRAM   (   76): NVM_ProtectUserData
+D/NVRAM   (   76): NVM_ProtectUserData:Set Check Num
+D/NVRAM   (   76): NVM_SetCheckNo: CheckNo:2b
+D/NVRAM   (   76): NVM_SetCheckNo: CheckFlag:0
+D/NVRAM   (   76): NVM_SetCheckNo: CheckNo:0
+D/NVRAM   (   76): NVM_SetCheckNo: CheckFlag:0
+D/NVRAM   (   76): NVM_SetCheckNo: CheckNo:16
+D/NVRAM   (   76): NVM_SetCheckNo: CheckFlag:0
+D/NVRAM   (   76): NVM_SetCheckNo: CheckNo generate successfully!
+D/NVRAM   (   76): NVM_ProtectUserData:Set Check Num Success
+D/NVRAM   (   76): NVM_CloseFileDesc ProtectDataFile Success!!
+D/NVRAM   (   76): NVM_SetCheckNo: CheckNo generate successfully!
+D/NVRAM   (   76): NVM_SetCheckNo: CheckNo generate successfully!
+D/NVRAM   (   76): NVM_SetCheckNo: CheckNo generate successfully!
+D/NVRAM   (   76): NVM_ProtectUserData:Set Check Num Success
+D/NVRAM   (   76): NVM_CloseFileDesc ProtectDataFile Success!!
+D/NVRAM   (   76): NVM_ProtectUserData:Set Check Num Success
+D/NVRAM   (   76): NVM_CloseFileDesc ProtectDataFile Success!!
+D/NVRAM   (   76): NVM_ProtectUserData:Set Check Num Success
+D/NVRAM   (   76): NVM_CloseFileDesc ProtectDataFile Success!!
+D/HWMLIB  (   76): [WD]    0.0000   -0.9191    0.0000 =>     0  -919     0
+D/NVRAM   (   76): write calibration done
+D/NVRAM   (   76): NVRAM daemon exits !
+D/ccci_mdinit(   75): deamon begin to run!
+D/ccci_mdinit(   75): Check whether nvram restore ready!
+D/ccci_mdinit(   75): nvram restore ready!
+D/ccci_mdinit(   75): buff.data[0] = 0xFFFFFFFF, data[1] = 0xFAF50002, channel = 2, reserved = 0x00000000
+D/ccci_mdinit(   75): MD is debug version
+D/ccci_mdinit(   75): modem boot up, set runtime data
+D/FTM     (   86): [MIUI] CUST_LCD_AVAIL_HEIGHT=480, CUST_LCD_AVAIL_WIDTH=320
+D/FTM     (   86): [MIUI] CUST_KEY_CONFIRM=60, CUST_KEY_BACK=61
+D/FTM     (   86): [MIUI] TEXT_ROWS=25, TEXT_COLS=32
+I//system/bin/factory(   80): framebuffer: fd 4 (320 x 480)
+I/ARMAssembler(   86): generated scanline__00000077:03545404_00000000_00000000 [ 29 ipp] (43 ins) at [0x401871e8:0x40187294] in 109384 ns
+I//system/bin/factory(   80): Enter factory mode...
+I/ARMAssembler(   86): generated scanline__00000077:03545404_00000A08_00000000 [ 30 ipp] (52 ins) at [0x40187298:0x40187368] in 90154 ns
+D/FTM     (   86): [FTM UTILS] Factory mode boot!
+D/FTM     (   86): [MCARD] mcard_init
+D/FTM     (   86): [MCARD] ma->mcard_no(1)
+D/FTM     (   86): mc->mounted(1),index(-1345179483)
+D/FTM     (   86): rc(0)
+D/ccci_fsd(   74): I: 8, 44064, -1342156077
+E/ccci_fsd(   74): IsReadOnly: [error]fail on file: /data/nvram/md/FATAE6CD85A.log 
+D/ccci_fsd(   74): Error_code=2
+D/ccci_fsd(   74): A: [474F4C0E21151824]: -9 
+D/ccci_fsd(   74): O: [2D2132362E0F1A3A](0x00000900): (9 1) 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): A: [213421243F24362E]: 0 
+D/ccci_fsd(   74): A: [25322F233F24362E]: 0 
+D/ccci_fsd(   74): A: [34213222292C2123]: 0 
+D/ccci_fsd(   74): A: [29252D293F24362E]: 0 
+D/ccci_fsd(   74): A: [342E34322F302D29]: 0 
+D/ccci_fsd(   74): O: [101010211010342D](0x00000700): (9 1) 
+D/ccci_fsd(   74): F: 1: 36 0 
+D/ccci_fsd(   74): S: 1 0 1: 0 
+D/ccci_fsd(   74): R: 1 36: 36 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): O: [101010221010342D](0x00000700): (9 1) 
+D/ccci_fsd(   74): F: 1: 36 0 
+D/ccci_fsd(   74): S: 1 0 1: 0 
+D/ccci_fsd(   74): R: 1 36: 36 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): O: [1010103F1110342D](0x00000700): (9 1) 
+D/ccci_fsd(   74): F: 1: 36 0 
+D/ccci_fsd(   74): S: 1 0 1: 0 
+D/ccci_fsd(   74): R: 1 36: 36 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): O: [1110103F1110342D](0x00000700): (9 1) 
+D/ccci_fsd(   74): F: 1: 36 0 
+D/ccci_fsd(   74): S: 1 0 1: 0 
+D/ccci_fsd(   74): R: 1 36: 36 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): O: [1110103F1210342D](0x00000700): (9 1) 
+D/ccci_fsd(   74): F: 1: 4 0 
+D/ccci_fsd(   74): S: 1 0 1: 0 
+D/ccci_fsd(   74): R: 1 4: 4 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F1110342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 36 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1110103F1110342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 36 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1110103F1210342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 4 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [101010211110362E](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 144 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [101010221110362E](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 144 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F1310342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 5140 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F1410342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 1078 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1210103F1510342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 262 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1210103F1610342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 666 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1210103F1710342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 666 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1210103F1810342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 666 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1210103F1910342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 666 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1210103F2110342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 666 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1210103F2210342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 666 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1210103F2310342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 666 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1210103F2410342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 666 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1210103F2510342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 66 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1210103F2610342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 66 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1210103F2710342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 66 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1210103F2810342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 66 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1210103F2910342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 10 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1410103F2A10342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 46 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1510103F2B10342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 210 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1210103F2C10342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 18 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1210103F2D10342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 18 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1210103F2E10342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 18 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1210103F2F10342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 18 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1310103F3010342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 34 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1210103F3110342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 6 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F3210342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 22 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F3310342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 22 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F3410342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 246 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F3510342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 246 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F3610342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 132 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F10112C35](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 18 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F11112C35](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 722 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F12112C35](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 722 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F13112C35](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 722 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F14112C35](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 722 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F15112C35](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 722 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F16112C35](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 722 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F17112C35](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 722 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F18112C35](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 722 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F19112C35](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 722 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F21112C35](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 722 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F22112C35](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 710 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F23112C35](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 710 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F24112C35](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 710 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F25112C35](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 710 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F26112C35](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 710 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F27112C35](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 710 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F28112C35](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 710 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F29112C35](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 710 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F2A112C35](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 710 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F2B112C35](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 710 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F2611342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 106 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1110103F1910302D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 66 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F1221302D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 314 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F1821302D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 1354 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F2D112C35](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 98 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F2E112C35](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 98 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F2F112C35](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 98 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F30112C35](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 98 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F31112C35](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 98 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F32112C35](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 98 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F33112C35](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 98 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F34112C35](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 98 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F35112C35](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 98 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F36112C35](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 98 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F3710342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 514 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F3312342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 270 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F3810342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 16 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1210103F3910342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 1667 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1410103F14103423](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 38 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1510103F1711342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 18 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F1811342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 1440 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F1911342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 18 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1710103F2111342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 8192 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F12102D35](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 26 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F13102D35](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 8 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1611103F14102D35](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 42 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F2211342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 8186 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1310103F15102D35](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 2002 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1310103F1716342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 442 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F1816342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 242 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1110103F1916342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 218 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F2116342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 185 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F2216342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 1942 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F2F16342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 1082 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F3016342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 1082 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F3116342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 258 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F2416342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 50 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F2516342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 18 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1110103F1814342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 3240 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F1914342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 8 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1110103F2114342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 228 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F2214342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 16 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1210103F2314342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 8 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1110103F2414342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 20 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1110103F1014342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 3720 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1110103F1114342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 144 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1210103F1214342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 36 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F1314342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 168 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F1414342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 48 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F1514342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 44 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1210103F1614342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 232 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1310103F2716342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 80 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1310103F2310302D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 880 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1310103F2816342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 11112 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F2916342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 124 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F3516342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 6 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1110103F2A16342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 116 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1410103F2B16342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 200 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1510103F3316342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 18 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F3716342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 4 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F3412342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 6 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F1117342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 10280 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F3512342D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 298 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F3914302D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 94 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F2615302D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 3 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F3A14302D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 3 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F1519302D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 3 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F1619302D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 3 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F1719302D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 88 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F3324302D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 10 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F2715302D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 3 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F2324302D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 978 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F2424302D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 6 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): OpenHint 
+D/ccci_fsd(   74): O: [1010103F2524302D](0x00000100): (9 1) 
+D/ccci_fsd(   74): F: 1: 10 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): O: [1410103F2B16342D](0x00000700): (9 1) 
+D/ccci_fsd(   74): F: 1: 200 0 
+D/ccci_fsd(   74): S: 1 50 1: 50 
+D/ccci_fsd(   74): R: 1 10: 10 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): O: [1410103F14103423](0x00000700): (9 1) 
+D/ccci_fsd(   74): F: 1: 38 0 
+D/ccci_fsd(   74): S: 1 0 1: 0 
+D/ccci_fsd(   74): R: 1 38: 38 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): O: [1210103F3910342D](0x00000700): (9 1) 
+D/ccci_fsd(   74): F: 1: 1667 0 
+D/ccci_fsd(   74): S: 1 0 1: 0 
+D/ccci_fsd(   74): R: 1 1667: 1667 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): O: [1210103F3910342D](0x00000700): (9 1) 
+D/ccci_fsd(   74): F: 1: 1667 0 
+D/ccci_fsd(   74): S: 1 0 1: 0 
+D/ccci_fsd(   74): R: 1 1667: 1667 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): O: [1410103F2B16342D](0x00000700): (9 1) 
+D/ccci_fsd(   74): F: 1: 200 0 
+D/ccci_fsd(   74): S: 1 40 1: 40 
+D/ccci_fsd(   74): R: 1 10: 10 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_mdinit(   75): buff.data[0] = 0xFFFFFFFF, data[1] = 0xFAF50001, channel = 2, reserved = 0x00000000
+D/ccci_mdinit(   75): modem ready
+D/ccci_mdinit(   75): start all ccci up layer services
+D/ccci_mdinit(   75): start mdlogger
+D/ccci_fsd(   74): O: [1010103F3312342D](0x00000700): (9 1) 
+D/ccci_fsd(   74): O: [1010103F1310342D](0x00000700): (10 2) 
+D/ccci_fsd(   74): F: 1: 270 0 
+D/ccci_fsd(   74): F: 2: 5140 0 
+D/ccci_fsd(   74): S: 1 0 1: 0 
+D/ccci_fsd(   74): R: 1 270: 270 0 
+D/ccci_fsd(   74): S: 2 0 1: 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): R: 2 514: 514 0 
+D/ccci_fsd(   74): O: [1010103F3412342D](0x00000700): (9 1) 
+D/ccci_fsd(   74): C: 2: 0 
+D/ccci_fsd(   74): F: 1: 6 0 
+D/ccci_fsd(   74): O: [1010103F1410342D](0x00000700): (10 2) 
+D/ccci_fsd(   74): S: 1 0 1: 0 
+D/ccci_fsd(   74): R: 1 6: 6 0 
+D/ccci_fsd(   74): F: 2: 1078 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): S: 2 0 1: 0 
+D/ccci_fsd(   74): A: [1010103F3512342D]: 0 
+D/ccci_fsd(   74): SDF: 0 
+D/ccci_fsd(   74): R: 2 1078: 1078 0 
+D/ccci_fsd(   74): O: [1010103F3512342D](0x20010400): (9 1) 
+D/ccci_fsd(   74): F: 1: 298 0 
+D/ccci_fsd(   74): C: 2: 0 
+D/ccci_fsd(   74): S: 1 0 1: 0 
+D/ccci_fsd(   74): O: [1010103F3710342D](0x00000700): (10 2) 
+D/ccci_fsd(   74): W: 1 296: 296 0 
+D/ccci_fsd(   74): F: 2: 514 0 
+D/ccci_fsd(   74): W: 1 2: 2 0 
+D/ccci_fsd(   74): S: 2 0 1: 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): R: 2 514: 514 0 
+D/ccci_fsd(   74): O: [1010103F10112C35](0x00000700): (9 1) 
+D/ccci_fsd(   74): C: 2: 0 
+D/ccci_fsd(   74): F: 1: 18 0 
+D/ccci_fsd(   74): S: 1 0 1: 0 
+D/ccci_fsd(   74): O: [1210103F1510342D](0x00000700): (10 2) 
+D/ccci_fsd(   74): R: 1 18: 18 0 
+D/ccci_fsd(   74): F: 2: 262 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): S: 2 0 1: 0 
+D/ccci_fsd(   74): O: [1010103F11112C35](0x00000700): (9 1) 
+D/ccci_fsd(   74): R: 2 262: 262 0 
+D/ccci_fsd(   74): F: 1: 722 0 
+D/ccci_fsd(   74): S: 1 0 1: 0 
+D/ccci_fsd(   74): C: 2: 0 
+D/ccci_fsd(   74): R: 1 722: 722 0 
+D/ccci_fsd(   74): O: [1210103F1610342D](0x00000700): (10 2) 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): F: 2: 666 0 
+D/ccci_fsd(   74): O: [1010103F12112C35](0x00000700): (9 1) 
+D/ccci_fsd(   74): S: 2 0 1: 0 
+D/ccci_fsd(   74): F: 1: 722 0 
+D/ccci_fsd(   74): R: 2 666: 666 0 
+D/ccci_fsd(   74): S: 1 0 1: 0 
+D/ccci_fsd(   74): R: 1 722: 722 0 
+D/ccci_fsd(   74): C: 2: 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): O: [1210103F1710342D](0x00000700): (9 1) 
+D/ccci_fsd(   74): O: [1010103F13112C35](0x00000700): (10 2) 
+D/ccci_fsd(   74): F: 1: 666 0 
+D/ccci_fsd(   74): F: 2: 722 0 
+D/ccci_fsd(   74): S: 1 0 1: 0 
+D/ccci_fsd(   74): S: 2 0 1: 0 
+D/ccci_fsd(   74): R: 1 666: 666 0 
+D/ccci_fsd(   74): R: 2 722: 722 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): C: 2: 0 
+D/ccci_fsd(   74): O: [1210103F1810342D](0x00000700): (9 1) 
+D/ccci_fsd(   74): O: [1010103F14112C35](0x00000700): (10 2) 
+D/ccci_fsd(   74): F: 1: 666 0 
+D/ccci_fsd(   74): F: 2: 722 0 
+D/ccci_fsd(   74): S: 1 0 1: 0 
+D/ccci_fsd(   74): S: 2 0 1: 0 
+D/ccci_fsd(   74): R: 1 666: 666 0 
+D/ccci_fsd(   74): R: 2 722: 722 0 
+D/ccci_fsd(   74): C: 2: 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): O: [1010103F15112C35](0x00000700): (9 1) 
+D/ccci_fsd(   74): O: [1210103F1910342D](0x00000700): (10 2) 
+D/ccci_fsd(   74): F: 1: 722 0 
+D/ccci_fsd(   74): S: 1 0 1: 0 
+D/ccci_fsd(   74): F: 2: 666 0 
+D/ccci_fsd(   74): R: 1 722: 722 0 
+D/ccci_fsd(   74): S: 2 0 1: 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): R: 2 666: 666 0 
+D/ccci_fsd(   74): O: [1010103F16112C35](0x00000700): (9 1) 
+D/ccci_fsd(   74): F: 1: 722 0 
+D/ccci_fsd(   74): C: 2: 0 
+D/ccci_fsd(   74): S: 1 0 1: 0 
+D/ccci_fsd(   74): R: 1 722: 722 0 
+D/ccci_fsd(   74): O: [1210103F2110342D](0x00000700): (10 2) 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): F: 2: 666 0 
+D/ccci_fsd(   74): O: [1010103F17112C35](0x00000700): (9 1) 
+D/ccci_fsd(   74): S: 2 0 1: 0 
+D/ccci_fsd(   74): F: 1: 722 0 
+D/ccci_fsd(   74): R: 2 666: 666 0 
+D/ccci_fsd(   74): S: 1 0 1: 0 
+D/ccci_fsd(   74): R: 1 722: 722 0 
+D/ccci_fsd(   74): C: 2: 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): O: [1210103F2210342D](0x00000700): (9 1) 
+D/ccci_fsd(   74): O: [1010103F18112C35](0x00000700): (10 2) 
+D/ccci_fsd(   74): F: 1: 666 0 
+D/ccci_fsd(   74): F: 2: 722 0 
+D/ccci_fsd(   74): S: 1 0 1: 0 
+D/ccci_fsd(   74): S: 2 0 1: 0 
+D/ccci_fsd(   74): R: 1 666: 666 0 
+D/ccci_fsd(   74): R: 2 722: 722 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): C: 2: 0 
+D/ccci_fsd(   74): O: [1210103F2310342D](0x00000700): (9 1) 
+D/ccci_fsd(   74): O: [1010103F19112C35](0x00000700): (10 2) 
+D/ccci_fsd(   74): F: 1: 666 0 
+D/ccci_fsd(   74): F: 2: 722 0 
+D/ccci_fsd(   74): S: 1 0 1: 0 
+D/ccci_fsd(   74): S: 2 0 1: 0 
+D/ccci_fsd(   74): R: 1 666: 666 0 
+D/ccci_fsd(   74): R: 2 722: 722 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): C: 2: 0 
+D/ccci_fsd(   74): O: [1210103F2410342D](0x00000700): (9 1) 
+D/ccci_fsd(   74): O: [1010103F21112C35](0x00000700): (10 2) 
+D/ccci_fsd(   74): F: 1: 666 0 
+D/ccci_fsd(   74): F: 2: 722 0 
+D/ccci_fsd(   74): S: 1 0 1: 0 
+D/ccci_fsd(   74): S: 2 0 1: 0 
+D/ccci_fsd(   74): R: 1 666: 666 0 
+D/ccci_fsd(   74): R: 2 722: 722 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): C: 2: 0 
+D/ccci_fsd(   74): O: [1210103F2510342D](0x00000700): (9 1) 
+D/ccci_fsd(   74): O: [1010103F22112C35](0x00000700): (10 2) 
+D/ccci_fsd(   74): F: 1: 66 0 
+D/ccci_fsd(   74): F: 2: 710 0 
+D/ccci_fsd(   74): S: 1 0 1: 0 
+D/ccci_fsd(   74): S: 2 0 1: 0 
+D/ccci_fsd(   74): R: 1 66: 66 0 
+D/ccci_fsd(   74): R: 2 710: 710 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): C: 2: 0 
+D/ccci_fsd(   74): O: [1210103F2610342D](0x00000700): (9 1) 
+D/ccci_fsd(   74): O: [1010103F23112C35](0x00000700): (10 2) 
+D/ccci_fsd(   74): F: 1: 66 0 
+D/ccci_fsd(   74): F: 2: 710 0 
+D/ccci_fsd(   74): S: 1 0 1: 0 
+D/ccci_fsd(   74): S: 2 0 1: 0 
+D/ccci_fsd(   74): R: 1 66: 66 0 
+D/ccci_fsd(   74): R: 2 710: 710 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): C: 2: 0 
+D/ccci_fsd(   74): O: [1210103F2710342D](0x00000700): (9 1) 
+D/ccci_fsd(   74): O: [1010103F24112C35](0x00000700): (10 2) 
+D/ccci_fsd(   74): F: 1: 66 0 
+D/ccci_fsd(   74): F: 2: 710 0 
+D/ccci_fsd(   74): S: 1 0 1: 0 
+D/ccci_fsd(   74): S: 2 0 1: 0 
+D/ccci_fsd(   74): R: 1 66: 66 0 
+D/ccci_fsd(   74): R: 2 710: 710 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): C: 2: 0 
+D/ccci_fsd(   74): O: [1210103F2810342D](0x00000700): (9 1) 
+D/ccci_fsd(   74): O: [1010103F25112C35](0x00000700): (10 2) 
+D/ccci_fsd(   74): F: 1: 66 0 
+D/ccci_fsd(   74): F: 2: 710 0 
+D/ccci_fsd(   74): S: 1 0 1: 0 
+D/ccci_fsd(   74): S: 2 0 1: 0 
+D/ccci_fsd(   74): R: 1 66: 66 0 
+D/ccci_fsd(   74): R: 2 710: 710 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): C: 2: 0 
+D/ccci_fsd(   74): O: [1210103F2910342D](0x00000700): (9 1) 
+D/ccci_fsd(   74): O: [1010103F26112C35](0x00000700): (10 2) 
+D/ccci_fsd(   74): F: 1: 10 0 
+D/ccci_fsd(   74): F: 2: 710 0 
+D/ccci_fsd(   74): S: 1 0 1: 0 
+D/ccci_fsd(   74): S: 2 0 1: 0 
+D/ccci_fsd(   74): R: 1 10: 10 0 
+D/ccci_fsd(   74): R: 2 710: 710 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): C: 2: 0 
+D/ccci_fsd(   74): O: [1010103F3710342D](0x00000700): (9 1) 
+D/ccci_fsd(   74): O: [1010103F27112C35](0x00000700): (10 2) 
+D/ccci_fsd(   74): F: 1: 514 0 
+D/ccci_fsd(   74): F: 2: 710 0 
+D/ccci_fsd(   74): S: 1 0 1: 0 
+D/ccci_fsd(   74): S: 2 0 1: 0 
+D/ccci_fsd(   74): R: 1 514: 514 0 
+D/ccci_fsd(   74): R: 2 710: 710 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): C: 2: 0 
+D/ccci_fsd(   74): A: [1010103F3710342D]: 0 
+D/ccci_fsd(   74): O: [1010103F28112C35](0x00000700): (9 1) 
+D/ccci_fsd(   74): O: [1010103F3710342D](0x20010400): (10 2) 
+D/ccci_fsd(   74): F: 1: 710 0 
+D/ccci_fsd(   74): S: 1 0 1: 0 
+D/ccci_fsd(   74): F: 2: 514 0 
+D/ccci_fsd(   74): R: 1 710: 710 0 
+D/ccci_fsd(   74): S: 2 0 1: 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): W: 2 512: 512 0 
+D/ccci_fsd(   74): O: [1010103F29112C35](0x00000700): (9 1) 
+D/ccci_fsd(   74): W: 2 2: 2 0 
+D/ccci_fsd(   74): F: 1: 710 0 
+D/ccci_fsd(   74): S: 1 0 1: 0 
+D/ccci_fsd(   74): C: 2: 0 
+D/ccci_fsd(   74): R: 1 710: 710 0 
+D/ccci_fsd(   74): O: [1410103F2A10342D](0x00000700): (10 2) 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): F: 2: 46 0 
+D/ccci_fsd(   74): O: [1010103F2A112C35](0x00000700): (9 1) 
+D/ccci_fsd(   74): S: 2 0 1: 0 
+D/ccci_fsd(   74): F: 1: 710 0 
+D/ccci_fsd(   74): R: 2 46: 46 0 
+D/ccci_fsd(   74): S: 1 0 1: 0 
+D/ccci_fsd(   74): R: 1 710: 710 0 
+D/ccci_fsd(   74): C: 2: 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): O: [1010103F3710342D](0x00000700): (9 1) 
+D/ccci_fsd(   74): O: [1010103F2B112C35](0x00000700): (10 2) 
+D/ccci_fsd(   74): F: 1: 514 0 
+D/ccci_fsd(   74): F: 2: 710 0 
+D/ccci_fsd(   74): S: 1 0 1: 0 
+D/ccci_fsd(   74): S: 2 0 1: 0 
+D/ccci_fsd(   74): R: 1 514: 514 0 
+D/ccci_fsd(   74): R: 2 710: 710 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): C: 2: 0 
+D/ccci_fsd(   74): A: [1010103F3710342D]: 0 
+D/ccci_fsd(   74): O: [1010103F2D112C35](0x00000700): (9 1) 
+D/ccci_fsd(   74): O: [1010103F3710342D](0x20010400): (10 2) 
+D/ccci_fsd(   74): F: 1: 98 0 
+D/ccci_fsd(   74): S: 1 0 1: 0 
+D/ccci_fsd(   74): F: 2: 514 0 
+D/ccci_fsd(   74): R: 1 98: 98 0 
+D/ccci_fsd(   74): S: 2 0 1: 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): W: 2 512: 512 0 
+D/ccci_fsd(   74): O: [1010103F2E112C35](0x00000700): (9 1) 
+D/ccci_fsd(   74): W: 2 2: 2 0 
+D/ccci_fsd(   74): F: 1: 98 0 
+D/ccci_fsd(   74): S: 1 0 1: 0 
+D/ccci_fsd(   74): C: 2: 0 
+D/ccci_fsd(   74): R: 1 98: 98 0 
+D/ccci_fsd(   74): O: [1510103F2B10342D](0x00000700): (10 2) 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): F: 2: 210 0 
+D/ccci_fsd(   74): O: [1010103F2F112C35](0x00000700): (9 1) 
+D/ccci_fsd(   74): S: 2 0 1: 0 
+D/ccci_fsd(   74): F: 1: 98 0 
+D/ccci_fsd(   74): R: 2 210: 210 0 
+D/ccci_fsd(   74): S: 1 0 1: 0 
+D/ccci_fsd(   74): R: 1 98: 98 0 
+D/ccci_fsd(   74): C: 2: 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): O: [1010103F30112C35](0x00000700): (9 1) 
+D/ccci_fsd(   74): O: [1210103F2C10342D](0x00000700): (10 2) 
+D/ccci_fsd(   74): F: 1: 98 0 
+D/ccci_fsd(   74): F: 2: 18 0 
+D/ccci_fsd(   74): S: 1 0 1: 0 
+D/ccci_fsd(   74): S: 2 0 1: 0 
+D/ccci_fsd(   74): R: 1 98: 98 0 
+D/ccci_fsd(   74): R: 2 18: 18 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): O: [1010103F31112C35](0x00000700): (9 1) 
+D/ccci_fsd(   74): C: 2: 0 
+D/ccci_fsd(   74): F: 1: 98 0 
+D/ccci_fsd(   74): O: [1210103F2D10342D](0x00000700): (10 2) 
+D/ccci_fsd(   74): S: 1 0 1: 0 
+D/ccci_fsd(   74): R: 1 98: 98 0 
+D/ccci_fsd(   74): F: 2: 18 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): S: 2 0 1: 0 
+D/ccci_fsd(   74): O: [1010103F32112C35](0x00000700): (9 1) 
+D/ccci_fsd(   74): R: 2 18: 18 0 
+D/ccci_fsd(   74): F: 1: 98 0 
+D/ccci_fsd(   74): S: 1 0 1: 0 
+D/ccci_fsd(   74): C: 2: 0 
+D/ccci_fsd(   74): R: 1 98: 98 0 
+D/ccci_fsd(   74): O: [1210103F2E10342D](0x00000700): (10 2) 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): F: 2: 18 0 
+D/ccci_fsd(   74): O: [1010103F33112C35](0x00000700): (9 1) 
+D/ccci_fsd(   74): S: 2 0 1: 0 
+D/ccci_fsd(   74): F: 1: 98 0 
+D/ccci_fsd(   74): R: 2 18: 18 0 
+D/ccci_fsd(   74): S: 1 0 1: 0 
+D/ccci_fsd(   74): R: 1 98: 98 0 
+D/ccci_fsd(   74): C: 2: 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): O: [1210103F2F10342D](0x00000700): (9 1) 
+D/ccci_fsd(   74): O: [1010103F34112C35](0x00000700): (10 2) 
+D/ccci_fsd(   74): F: 1: 18 0 
+D/ccci_fsd(   74): F: 2: 98 0 
+D/ccci_fsd(   74): S: 1 0 1: 0 
+D/ccci_fsd(   74): S: 2 0 1: 0 
+D/ccci_fsd(   74): R: 1 18: 18 0 
+D/ccci_fsd(   74): R: 2 98: 98 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): C: 2: 0 
+D/ccci_fsd(   74): O: [1310103F3010342D](0x00000700): (9 1) 
+D/ccci_fsd(   74): O: [1010103F35112C35](0x00000700): (10 2) 
+D/ccci_fsd(   74): F: 1: 34 0 
+D/ccci_fsd(   74): F: 2: 98 0 
+D/ccci_fsd(   74): S: 1 0 1: 0 
+D/ccci_fsd(   74): S: 2 0 1: 0 
+D/ccci_fsd(   74): R: 1 34: 34 0 
+D/ccci_fsd(   74): R: 2 98: 98 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): C: 2: 0 
+D/ccci_fsd(   74): O: [1210103F3110342D](0x00000700): (9 1) 
+D/ccci_fsd(   74): O: [1010103F36112C35](0x00000700): (10 2) 
+D/ccci_fsd(   74): F: 1: 6 0 
+D/ccci_fsd(   74): F: 2: 98 0 
+D/ccci_fsd(   74): S: 1 0 1: 0 
+D/ccci_fsd(   74): S: 2 0 1: 0 
+D/ccci_fsd(   74): R: 1 6: 6 0 
+D/ccci_fsd(   74): R: 2 98: 98 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): C: 2: 0 
+D/ccci_fsd(   74): O: [1010103F3710342D](0x00000700): (9 1) 
+D/ccci_fsd(   74): F: 1: 514 0 
+D/ccci_fsd(   74): S: 1 0 1: 0 
+D/ccci_fsd(   74): R: 1 514: 514 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): A: [1010103F3710342D]: 0 
+D/ccci_fsd(   74): O: [1010103F3710342D](0x20010400): (9 1) 
+D/ccci_fsd(   74): F: 1: 514 0 
+D/ccci_fsd(   74): S: 1 0 1: 0 
+D/ccci_fsd(   74): W: 1 512: 512 0 
+D/ccci_fsd(   74): W: 1 2: 2 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): O: [1010103F3210342D](0x00000700): (9 1) 
+D/ccci_fsd(   74): F: 1: 22 0 
+D/ccci_fsd(   74): S: 1 0 1: 0 
+D/ccci_fsd(   74): R: 1 22: 22 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): O: [1010103F3310342D](0x00000700): (9 1) 
+D/ccci_fsd(   74): F: 1: 22 0 
+D/ccci_fsd(   74): S: 1 0 1: 0 
+D/ccci_fsd(   74): R: 1 22: 22 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): O: [1010103F3410342D](0x00000700): (9 1) 
+D/ccci_fsd(   74): F: 1: 246 0 
+D/ccci_fsd(   74): S: 1 0 1: 0 
+D/ccci_fsd(   74): R: 1 246: 246 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): O: [1010103F3510342D](0x00000700): (9 1) 
+D/ccci_fsd(   74): F: 1: 246 0 
+D/ccci_fsd(   74): S: 1 0 1: 0 
+D/ccci_fsd(   74): R: 1 246: 246 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): O: [1010103F3610342D](0x00000700): (9 1) 
+D/ccci_fsd(   74): F: 1: 132 0 
+D/ccci_fsd(   74): S: 1 0 1: 0 
+D/ccci_fsd(   74): R: 1 132: 132 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): O: [1010103F2611342D](0x00000700): (9 1) 
+D/ccci_fsd(   74): F: 1: 106 0 
+D/ccci_fsd(   74): S: 1 0 1: 0 
+D/ccci_fsd(   74): R: 1 106: 106 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): O: [1410103F2B16342D](0x00000700): (9 1) 
+D/ccci_fsd(   74): F: 1: 200 0 
+D/ccci_fsd(   74): S: 1 10 1: 10 
+D/ccci_fsd(   74): R: 1 10: 10 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): O: [1110103F1916342D](0x00000700): (9 1) 
+D/ccci_fsd(   74): F: 1: 218 0 
+D/ccci_fsd(   74): S: 1 0 1: 0 
+D/ccci_fsd(   74): R: 1 218: 218 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): O: [1310103F1716342D](0x00000700): (9 1) 
+D/ccci_fsd(   74): F: 1: 442 0 
+D/ccci_fsd(   74): S: 1 0 1: 0 
+D/ccci_fsd(   74): R: 1 442: 442 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): O: [1010103F1816342D](0x00000700): (9 1) 
+D/ccci_fsd(   74): F: 1: 242 0 
+D/ccci_fsd(   74): S: 1 0 1: 0 
+D/ccci_fsd(   74): R: 1 242: 242 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/ccci_fsd(   74): O: [1010103F3516342D](0x00000700): (9 1) 
+D/ccci_fsd(   74): F: 1: 6 0 
+D/ccci_fsd(   74): S: 1 0 1: 0 
+D/ccci_fsd(   74): R: 1 6: 6 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/FTM     (   86): [Batt&Charging] battery_init
+D/FTM     (   86): [ACC] gsensor_init
+D/FTM     (   86): [GSC] gs_cali_init
+D/FTM     (   86): [IDLE] idle_init
+D/FTM     (   86): [MAG] msensor_init
+D/FTM     (   86): [NAND] flash_init
+D/FTM     (   86): [NAND] clear_flash_init
+D/FTM     (   86): camera_main_init
+D/FTM     (   86): camera_sub_init
+D/FTM     (   86): [Audio] audio_init
+D/FTM     (   86): [Audio] -------Audio_init------------------
+D/FTM     (   86): [HEADSET] headset_init
+D/FTM     (   86): [FT_BT] bt_init
+D/FTM     (   86): [FT_BT_TESTMODE] bt_testmode_init
+D/FTM     (   86): [Touch] touch_init
+D/FTM     (   86): tpupgrade_init
+D/FTM     (   86): [GPS]   gps_init
+D/FTM     (   86): [GPS]   gps_power_init
+D/FTM     (   86): [FM] ===========bcm_fm_init
+D/FTM     (   86): led_init
+D/FTM     (   86): [SIM] sim_init: Start
+D/FTM     (   86): vibrator_init
+D/FTM     (   86): [FT_WIFI] wifi_init
+D/FTM     (   86): [FT_WIFI] wifi_init_rx
+D/FTM     (   86): [FT_WIFI] wifi_init_tx
+D/FTM     (   86): [LPS] alsps_init
+D/FTM     (   86): [Signal Test] sigtest_init
+D/FTM     (   86): [Signal Test] ftm_register success!
+D/FTM     (   86): version_init
+D/FTM     (   86): [MIUI] itemview_set_title
+D/FTM     (   86): [MIUI] itemview_set_items
+D/FTM     (   86): [MAIN] Load test result from 
+D/FTM     (   86): [MAIN]   Version=1
+D/FTM     (   86): [MAIN]   Keys=1
+D/FTM     (   86): [MAIN]   Touch Panel=0
+D/FTM     (   86): [MAIN]   LCD Color=1
+D/FTM     (   86): [MAIN]   LCD Contrast=1
+D/FTM     (   86): [MAIN]   Memory Card=1
+D/FTM     (   86): [MAIN]   SIM1 Detect=1
+D/FTM     (   86): [MAIN]   SIM2 Detect=1
+D/FTM     (   86): [MAIN]   Vibrator=1
+D/FTM     (   86): [MAIN]   LED=1
+D/FTM     (   86): [MAIN]   Speaker Test=1
+D/FTM     (   86): [MAIN]   Receiver=1
+D/FTM     (   86): [MAIN]   Loopback=1
+D/FTM     (   86): [MAIN]   Headset=1
+D/FTM     (   86): [MAIN]   G-Sensor Calibration=1
+D/FTM     (   86): [MAIN]   G-Sensor=1
+D/FTM     (   86): [MAIN]   ALS/PS=1
+D/FTM     (   86): [MAIN]   Main Camera=1
+D/FTM     (   86): [MAIN]   Sub Camera=1
+D/FTM     (   86): [MAIN]   GPS-Power=1
+D/FTM     (   86): [MAIN]   FM Radio=1
+D/FTM     (   86): [MAIN]   Bluetooth=1
+D/FTM     (   86): [MAIN]   Wi-Fi=1
+D/FTM     (   86): [MAIN]   Battery & Charger=1
+D/FTM     (   86): [MAIN]   Idle Current=1
+D/FTM     (   86): [MIUI] itemview_run 0xbeb90cf8
+E/logwrapper(  103): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  102): /system/bin/ami304d terminated by exit(255)
+D/wifi_nvram(   88): main: file "/system/etc/nvram.txt" exist
+D/wifi_nvram(   88): main: filelen = 833 
+D/wifi_nvram(   88): main: rd_len = 833 
+D/wifi_nvram(   88): main: mac ptr = 200 
+D/NVRAM   (   88): NVM_GetFileDesc ++
+D/NVRAM   (   88): NVM_GetCfgFileTable : file_lid = 19
+D/NVRAM   (   88): NVM_GetCfgFileTable done
+D/NVRAM   (   88): Open /data/nvram/APCFG/APRDEB/WIFI,LID:19
+D/NVRAM   (   88): NVM_CmpFileVerNo 19  
+D/NVRAM   (   88): NVM_GetCfgFileTable : file_lid = 19
+D/NVRAM   (   88): NVM_CheckVerFile: 0
+D/NVRAM   (   88): New version info file
+D/NVRAM   (   88): Load File Version: 000, NvRam File Version: 000
+D/NVRAM   (   88): NVM_CheckFileSize : 19 ++
+D/NVRAM   (   88): iCustomBeginLID = 15
+D/NVRAM   (   88): NVM_CheckVerFile: 1
+D/NVRAM   (   88): NVM_GetCfgFileTable : file_lid = 19
+D/NVRAM   (   88): NVM_CheckFileSize:stat_size:514,size in table:512
+D/NVRAM   (   88): NVM_ProtectUserData
+D/NVRAM   (   88): NVM_ProtectUserData:Check File
+D/NVRAM   (   88): NVM_CheckFile: File is correct!
+D/NVRAM   (   88): NVM_ProtectUserData:Check Success
+D/NVRAM   (   88): NVM_GetFileDesc ProtectDataFile Check Success!!
+D/NVRAM   (   88): NVM_GetFileDesc --
+D/wifi_nvram(   88): main: FD 19 rec_size 512 rec_num 1
+D/wifi_nvram(   88): main: Read NVRAM : WIFI address d0b33f47c3e5
+D/wifi_nvram(   88): main: itoa_buff=[d0:b3:3f:47:c3:e5]
+D/wifi_nvram(   88): 
+D/NVRAM   (   88): NVM_CheckFileSize : 19 ++
+D/NVRAM   (   88): iCustomBeginLID = 15
+D/NVRAM   (   88): NVM_CheckVerFile: 1
+D/NVRAM   (   88): NVM_GetCfgFileTable : file_lid = 19
+D/NVRAM   (   88): NVM_CheckFileSize:stat_size:514,size in table:512
+D/NVRAM   (   88): NVM_ProtectUserData
+D/NVRAM   (   88): NVM_ProtectUserData:Set Check Num
+D/NVRAM   (   88): NVM_SetCheckNo: CheckNo:29
+D/NVRAM   (   88): NVM_SetCheckNo: CheckFlag:0
+D/NVRAM   (   88): NVM_SetCheckNo: CheckNo generate successfully!
+D/NVRAM   (   88): NVM_ProtectUserData:Set Check Num Success
+D/NVRAM   (   88): NVM_CloseFileDesc ProtectDataFile Success!!
+I/logwrapper(   79): /system/xbin/bcwifinvram terminated by exit(0)
+E/logwrapper(  106): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  105): /system/bin/ami304d terminated by exit(255)
+E/logwrapper(  109): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  108): /system/bin/ami304d terminated by exit(255)
+E/logwrapper(  111): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  110): /system/bin/ami304d terminated by exit(255)
+E/logwrapper(  113): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  112): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState(  159): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  161): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper(  163): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  162): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState(  169): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  171): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper(  173): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  172): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState(  179): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  181): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper(  183): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  182): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState(  189): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  191): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper(  193): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  192): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState(  199): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  201): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper(  203): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  202): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState(  209): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  211): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper(  213): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  212): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState(  219): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  221): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper(  224): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  223): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState(  230): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  232): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper(  234): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  233): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState(  240): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  242): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper(  244): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  243): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState(  250): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  252): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper(  254): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  253): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState(  260): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  262): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper(  264): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  263): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState(  271): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  273): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper(  275): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  274): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState(  281): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  283): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper(  285): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  284): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState(  292): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  294): IPCThread::waitForResponse checking error 3 : -32
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY:DOWN
+D/FTM     (   86): [MIUI] sel=1, maxrows=24, menu_from=1, menu_sel=1
+E/logwrapper(  296): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  295): /system/bin/ami304d terminated by exit(255)
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY:DOWN
+D/FTM     (   86): [MIUI] sel=2, maxrows=24, menu_from=1, menu_sel=2
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY:CONFIRM
+D/FTM     (   86): [MAIN] item_test_mode
+D/FTM     (   86): [MIUI] itemview_set_title
+D/FTM     (   86): [MIUI] itemview_set_items
+D/FTM     (   86): [MIUI] itemview_run 0xbeb88c24
+E/IPCThreadState(  302): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  304): IPCThread::waitForResponse checking error 3 : -32
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY:DOWN
+D/FTM     (   86): [MIUI] sel=1, maxrows=24, menu_from=1, menu_sel=1
+E/logwrapper(  306): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  305): /system/bin/ami304d terminated by exit(255)
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY:UP
+D/FTM     (   86): [MIUI] sel=0, maxrows=24, menu_from=1, menu_sel=0
+E/IPCThreadState(  312): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  314): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper(  316): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  315): /system/bin/ami304d terminated by exit(255)
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY:CONFIRM
+D/FTM     (   86): version_entry
+D/ccci_fsd(   74): O: [1110103F2210302D](0x00000700): (9 1) 
+D/ccci_fsd(   74): F: 1: 120 0 
+D/ccci_fsd(   74): S: 1 0 1: 0 
+D/ccci_fsd(   74): R: 1 12: 12 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/FTM     (   86): getIMEIf=
+D/FTM     (   86): +GPIOS: 10,1
+D/FTM     (   86): 
+D/FTM     (   86): +EIND: 128
+D/FTM     (   86): 
+D/FTM     (   86): +EGMR: "868054010869111"
+D/FTM     (   86): 
+D/FTM     (   86): OK
+D/ccci_fsd(   74): O: [1110103F2210302D](0x00000700): (9 1) 
+D/ccci_fsd(   74): F: 1: 120 0 
+D/ccci_fsd(   74): S: 1 12 1: 12 
+D/ccci_fsd(   74): R: 1 12: 12 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/FTM     (   86): getIMEIf=
+D/FTM     (   86): +EGMR: "868054010890018"
+D/FTM     (   86): 
+D/FTM     (   86): OK
+D/ccci_fsd(   74): O: [1110103F1910302D](0x00000700): (9 1) 
+D/ccci_fsd(   74): F: 1: 66 0 
+D/ccci_fsd(   74): S: 1 0 1: 0 
+D/ccci_fsd(   74): R: 1 66: 66 0 
+D/ccci_fsd(   74): C: 1: 0 
+D/FTM     (   86): getBarcode=
+D/FTM     (   86): +EGMR: "LE431238082932                                              10"
+D/FTM     (   86): 
+D/FTM     (   86): OK
+D/NVRAM   (   86): NVM_GetFileDesc ++
+D/NVRAM   (   86): NVM_GetCfgFileTable : file_lid = 19
+D/NVRAM   (   86): NVM_GetCfgFileTable done
+D/NVRAM   (   86): Open /data/nvram/APCFG/APRDEB/WIFI,LID:19
+D/NVRAM   (   86): NVM_CmpFileVerNo 19  
+D/NVRAM   (   86): NVM_GetCfgFileTable : file_lid = 19
+D/NVRAM   (   86): NVM_CheckVerFile: 0
+D/NVRAM   (   86): New version info file
+D/NVRAM   (   86): Load File Version: 000, NvRam File Version: 000
+D/NVRAM   (   86): NVM_CheckFileSize : 19 ++
+D/NVRAM   (   86): iCustomBeginLID = 15
+D/NVRAM   (   86): NVM_CheckVerFile: 1
+D/NVRAM   (   86): NVM_GetCfgFileTable : file_lid = 19
+D/NVRAM   (   86): NVM_CheckFileSize:stat_size:514,size in table:512
+D/NVRAM   (   86): NVM_ProtectUserData
+D/NVRAM   (   86): NVM_ProtectUserData:Check File
+D/NVRAM   (   86): NVM_CheckFile: File is correct!
+D/NVRAM   (   86): NVM_ProtectUserData:Check Success
+D/NVRAM   (   86): NVM_GetFileDesc ProtectDataFile Check Success!!
+D/NVRAM   (   86): NVM_GetFileDesc --
+D/FTM     (   86): Read NVRAM 11: WIFI address d0-b3-3f-47-c3-e5
+D/FTM     (   86): Read NVRAM: BD address: 34-50-c3-ba-3d-1a
+D/FTM     (   86): [MIUI] itemview_set_title
+D/FTM     (   86): [MIUI] itemview_set_items
+D/FTM     (   86): [MIUI] itemview_run 0x8c748
+E/IPCThreadState(  322): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  324): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper(  326): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  325): /system/bin/ami304d terminated by exit(255)
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY:DOWN
+D/FTM     (   86): [MIUI] sel=1, maxrows=24, menu_from=1, menu_sel=1
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY:UP
+D/FTM     (   86): [MIUI] sel=0, maxrows=24, menu_from=1, menu_sel=0
+E/IPCThreadState(  332): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  334): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper(  336): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  335): /system/bin/ami304d terminated by exit(255)
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY:CONFIRM
+D/FTM     (   86): [MAIN] Save test result to 
+D/FTM     (   86): [MAIN]   Version=1
+D/FTM     (   86): [MAIN]   Keys=1
+D/FTM     (   86): [MAIN]   Touch Panel=0
+D/FTM     (   86): [MAIN]   LCD Color=1
+D/FTM     (   86): [MAIN]   LCD Contrast=1
+D/FTM     (   86): [MAIN]   Memory Card=1
+D/FTM     (   86): [MAIN]   SIM1 Detect=1
+D/FTM     (   86): [MAIN]   SIM2 Detect=1
+D/FTM     (   86): [MAIN]   Vibrator=1
+D/FTM     (   86): [MAIN]   LED=1
+D/FTM     (   86): [MAIN]   Speaker Test=1
+D/FTM     (   86): [MAIN]   Receiver=1
+D/FTM     (   86): [MAIN]   Loopback=1
+D/FTM     (   86): [MAIN]   Headset=1
+D/FTM     (   86): [MAIN]   G-Sensor Calibration=1
+D/FTM     (   86): [MAIN]   G-Sensor=1
+D/FTM     (   86): [MAIN]   ALS/PS=1
+D/FTM     (   86): [MAIN]   Main Camera=1
+D/FTM     (   86): [MAIN]   Sub Camera=1
+D/FTM     (   86): [MAIN]   GPS-Power=1
+D/FTM     (   86): [MAIN]   FM Radio=1
+D/FTM     (   86): [MAIN]   Bluetooth=1
+D/FTM     (   86): [MAIN]   Wi-Fi=1
+D/FTM     (   86): [MAIN]   Battery & Charger=1
+D/FTM     (   86): [MAIN]   Idle Current=1
+D/FTM     (   86): [MIUI] itemview_run 0xbeb88c24
+E/IPCThreadState(  342): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  344): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper(  346): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  345): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState(  352): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  354): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper(  356): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  355): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState(  362): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  364): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper(  366): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  365): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState(  372): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  374): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper(  376): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  375): /system/bin/ami304d terminated by exit(255)

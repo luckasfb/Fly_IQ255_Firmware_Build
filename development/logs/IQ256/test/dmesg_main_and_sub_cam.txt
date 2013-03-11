@@ -1,0 +1,2393 @@
+>[ 1122.472149] [2319:logwrapper] fork [2320:logwrapper]
+<7>[ 1122.472657] [2320:logwrapper] exit
+<7>[ 1122.472781] [2320:logwrapper] sig 17 to [2319:logwrapper]
+<7>[ 1122.472958] [2319:logwrapper] exit
+<7>[ 1122.473155] [2319:logwrapper] sig 17 to [1:init]
+<5>[ 1122.750312] [Power/clkmgr] [disable_clock] disable wpll clksrc 0x2 for clock 16
+<5>[ 1122.751212] [Power/clkmgr] [disable_wpll_clksrc_op] wpll_clksrc_mask=0x2, wpll_clksrc_state=0x4001, WPLL_CON=0x4039
+<7>[ 1122.800377] [82:adbd] fork [2321:adbd]
+<7>[ 1122.801152] [2321:adbd] set proc[2321] name: -> [sh]
+<7>[ 1123.344141] [82:adbd] fork [2322:adbd]
+<7>[ 1123.344934] [2322:adbd] set proc[2322] name: -> [sh]
+<7>[ 1123.346487] [2322:sh] fork [2323:sh]
+<7>[ 1123.347027] [2323:sh] set proc[2323] name: -> [df]
+<7>[ 1123.349187] [2323:df] exit
+<7>[ 1123.349322] [2323:df] sig 17 to [2322:sh]
+<7>[ 1123.349414] [2322:sh] exit
+<7>[ 1123.349694] [82:adbd] sig 1 to [2322:sh]
+<7>[ 1123.349709] [82:adbd] sig 18 to [2322:sh]
+<7>[ 1123.349911] [2322:sh] sig 1 to [2322:sh]
+<7>[ 1123.349923] [2322:sh] sig 18 to [2322:sh]
+<7>[ 1123.349959] [2322:sh] sig 17 to [82:adbd]
+<7>[ 1123.400423] [82:adbd] fork [2324:adbd]
+<7>[ 1123.401233] [2324:adbd] set proc[2324] name: -> [sh]
+<7>[ 1123.402784] [2324:sh] fork [2325:sh]
+<7>[ 1123.403333] [2325:sh] set proc[2325] name: -> [getprop]
+<7>[ 1123.405322] [2325:getprop] exit
+<7>[ 1123.405456] [2325:getprop] sig 17 to [2324:sh]
+<7>[ 1123.405548] [2324:sh] exit
+<7>[ 1123.405829] [82:adbd] sig 1 to [2324:sh]
+<7>[ 1123.405843] [82:adbd] sig 18 to [2324:sh]
+<7>[ 1123.406063] [2324:sh] sig 1 to [2324:sh]
+<7>[ 1123.406074] [2324:sh] sig 18 to [2324:sh]
+<7>[ 1123.406088] [2324:sh] sig 17 to [82:adbd]
+<7>[ 1123.445291] [82:adbd] fork [2326:adbd]
+<7>[ 1123.446076] [2326:adbd] set proc[2326] name: -> [sh]
+<7>[ 1123.447623] [2326:sh] fork [2327:sh]
+<7>[ 1123.448159] [2327:sh] set proc[2327] name: -> [dumpsys]
+<6>[ 1123.454427] binder: 2327:2327 refcount change on invalid ref 0
+<6>[ 1123.454440] binder: 2327:2327 refcount change on invalid ref 0
+<6>[ 1123.454454] binder: 2327:2327 binder_context_mgr_node is NULL
+<6>[ 1123.454465] binder: 2327:2327 transaction failed 29189, size 96-0
+<7>[ 1123.454964] [2327:dumpsys] exit
+<7>[ 1123.455311] [2327:dumpsys] sig 17 to [2326:sh]
+<7>[ 1123.455400] [2326:sh] exit
+<7>[ 1123.455537] [2326:sh] sig 1 to [2326:sh]
+<7>[ 1123.455556] [2326:sh] sig 17 to [82:adbd]
+<7>[ 1123.497364] [82:adbd] fork [2328:adbd]
+<7>[ 1123.498142] [2328:adbd] set proc[2328] name: -> [sh]
+<7>[ 1123.499687] [2328:sh] fork [2329:sh]
+<7>[ 1123.500226] [2329:sh] set proc[2329] name: -> [dumpsys]
+<6>[ 1123.506437] binder: 2329:2329 refcount change on invalid ref 0
+<6>[ 1123.506450] binder: 2329:2329 refcount change on invalid ref 0
+<6>[ 1123.506464] binder: 2329:2329 binder_context_mgr_node is NULL
+<6>[ 1123.506475] binder: 2329:2329 transaction failed 29189, size 100-0
+<7>[ 1123.506974] [2329:dumpsys] exit
+<7>[ 1123.507325] [2329:dumpsys] sig 17 to [2328:sh]
+<7>[ 1123.507413] [2328:sh] exit
+<7>[ 1123.507548] [2328:sh] sig 1 to [2328:sh]
+<7>[ 1123.507568] [2328:sh] sig 17 to [82:adbd]
+<4>[ 1123.980336] 2013-03-09 17:35:12.45376 UTC; android time 2013-03-09 17:35:12.45376
+<7>[ 1127.478532] [1:init] fork [2330:init]
+<7>[ 1127.479051] [2330:init] set proc[2330] name: -> [logwrapper]
+<7>[ 1127.480453] [2330:logwrapper] fork [2331:logwrapper]
+<7>[ 1127.480978] [2331:logwrapper] exit
+<7>[ 1127.481131] [2331:logwrapper] sig 17 to [2330:logwrapper]
+<7>[ 1127.481296] [2330:logwrapper] exit
+<7>[ 1127.481468] [2330:logwrapper] sig 17 to [1:init]
+<4>[ 1127.503968] MSG_X = 0,MSG_Y = 463
+<4>[ 1127.513699] MSG_X = 0,MSG_Y = 463
+<4>[ 1127.523711] MSG_X = 0,MSG_Y = 463
+<4>[ 1127.533662] MSG_X = 0,MSG_Y = 463
+<4>[ 1127.543612] MSG_X = 0,MSG_Y = 463
+<4>[ 1127.553564] MSG_X = 0,MSG_Y = 463
+<4>[ 1127.563506] MSG_X = 0,MSG_Y = 463
+<4>[ 1127.573471] MSG_X = 0,MSG_Y = 463
+<4>[ 1127.583425] MSG_X = 0,MSG_Y = 463
+<4>[ 1127.593380] MSG_X = 0,MSG_Y = 463
+<4>[ 1127.603338] MSG_X = 0,MSG_Y = 463
+<4>[ 1127.613292] MSG_X = 0,MSG_Y = 463
+<4>[ 1127.623246] MSG_X = 0,MSG_Y = 463
+<4>[ 1127.633201] MSG_X = 0,MSG_Y = 463
+<4>[ 1127.643140] MSG_X = 0,MSG_Y = 463
+<4>[ 1127.653110] MSG_X = 0,MSG_Y = 463
+<4>[ 1127.663068] MSG_X = 0,MSG_Y = 463
+<4>[ 1127.673026] MSG_X = 0,MSG_Y = 463
+<4>[ 1127.682984] MSG_X = 0,MSG_Y = 463
+<4>[ 1127.692939] MSG_X = 0,MSG_Y = 463
+<4>[ 1127.702882] MSG_X = 0,MSG_Y = 463
+<4>[ 1127.712848] MSG_X = 0,MSG_Y = 463
+<4>[ 1127.722802] MSG_X = 0,MSG_Y = 463
+<4>[ 1127.732751] MSG_X = 0,MSG_Y = 463
+<4>[ 1127.742695] MSG_X = 0,MSG_Y = 463
+<4>[ 1127.752662] MSG_X = 0,MSG_Y = 463
+<4>[ 1127.762626] MSG_X = 0,MSG_Y = 463
+<4>[ 1127.772587] MSG_X = 0,MSG_Y = 463
+<4>[ 1127.782530] MSG_X = 0,MSG_Y = 463
+<4>[ 1127.792485] MSG_X = 0,MSG_Y = 463
+<4>[ 1127.802438] MSG_X = 0,MSG_Y = 463
+<4>[ 1127.812398] MSG_X = 0,MSG_Y = 463
+<4>[ 1127.822354] MSG_X = 0,MSG_Y = 463
+<4>[ 1127.832310] MSG_X = 0,MSG_Y = 463
+<4>[ 1127.861998] MSG_X = 0,MSG_Y = 463
+<4>[ 1127.872057] MSG_X = 0,MSG_Y = 463
+<4>[ 1127.882037] MSG_X = 0,MSG_Y = 463
+<4>[ 1127.892031] MSG_X = 0,MSG_Y = 463
+<4>[ 1127.901988] MSG_X = 0,MSG_Y = 463
+<4>[ 1127.911951] MSG_X = 0,MSG_Y = 463
+<4>[ 1127.921894] MSG_X = 0,MSG_Y = 463
+<4>[ 1127.931849] MSG_X = 0,MSG_Y = 463
+<4>[ 1127.941803] MSG_X = 0,MSG_Y = 463
+<4>[ 1127.951757] MSG_X = 0,MSG_Y = 463
+<4>[ 1127.961713] MSG_X = 0,MSG_Y = 463
+<4>[ 1127.971670] MSG_X = 0,MSG_Y = 463
+<4>[ 1127.981626] MSG_X = 0,MSG_Y = 463
+<4>[ 1127.991581] MSG_X = 0,MSG_Y = 463
+<4>[ 1128.001536] MSG_X = 0,MSG_Y = 463
+<4>[ 1128.011485] MSG_X = 0,MSG_Y = 463
+<4>[ 1128.021461] MSG_X = 0,MSG_Y = 463
+<4>[ 1128.031414] MSG_X = 0,MSG_Y = 463
+<4>[ 1128.061152] MSG_X = 0,MSG_Y = 463
+<4>[ 1128.071198] MSG_X = 0,MSG_Y = 463
+<4>[ 1128.081174] MSG_X = 0,MSG_Y = 463
+<4>[ 1128.091120] MSG_X = 0,MSG_Y = 463
+<7>[ 1128.343113] [82:adbd] fork [2332:adbd]
+<7>[ 1128.343907] [2332:adbd] set proc[2332] name: -> [sh]
+<7>[ 1128.345469] [2332:sh] fork [2333:sh]
+<7>[ 1128.346014] [2333:sh] set proc[2333] name: -> [df]
+<7>[ 1128.348175] [2333:df] exit
+<7>[ 1128.348313] [2333:df] sig 17 to [2332:sh]
+<7>[ 1128.348402] [2332:sh] exit
+<7>[ 1128.348687] [82:adbd] sig 1 to [2332:sh]
+<7>[ 1128.348701] [82:adbd] sig 18 to [2332:sh]
+<7>[ 1128.348905] [2332:sh] sig 1 to [2332:sh]
+<7>[ 1128.348917] [2332:sh] sig 18 to [2332:sh]
+<7>[ 1128.348930] [2332:sh] sig 17 to [82:adbd]
+<7>[ 1128.391557] [82:adbd] fork [2334:adbd]
+<7>[ 1128.392336] [2334:adbd] set proc[2334] name: -> [sh]
+<7>[ 1128.393881] [2334:sh] fork [2335:sh]
+<7>[ 1128.394426] [2335:sh] set proc[2335] name: -> [getprop]
+<7>[ 1128.396414] [2335:getprop] exit
+<7>[ 1128.396547] [2335:getprop] sig 17 to [2334:sh]
+<7>[ 1128.396640] [2334:sh] exit
+<7>[ 1128.396922] [82:adbd] sig 1 to [2334:sh]
+<7>[ 1128.396937] [82:adbd] sig 18 to [2334:sh]
+<7>[ 1128.397137] [2334:sh] sig 1 to [2334:sh]
+<7>[ 1128.397149] [2334:sh] sig 18 to [2334:sh]
+<7>[ 1128.397162] [2334:sh] sig 17 to [82:adbd]
+<7>[ 1128.440833] [82:adbd] fork [2336:adbd]
+<7>[ 1128.441615] [2336:adbd] set proc[2336] name: -> [sh]
+<7>[ 1128.443159] [2336:sh] fork [2337:sh]
+<7>[ 1128.443696] [2337:sh] set proc[2337] name: -> [dumpsys]
+<6>[ 1128.449852] binder: 2337:2337 refcount change on invalid ref 0
+<6>[ 1128.449864] binder: 2337:2337 refcount change on invalid ref 0
+<6>[ 1128.449878] binder: 2337:2337 binder_context_mgr_node is NULL
+<6>[ 1128.449889] binder: 2337:2337 transaction failed 29189, size 96-0
+<7>[ 1128.450675] [2337:dumpsys] exit
+<7>[ 1128.451161] [2337:dumpsys] sig 17 to [2336:sh]
+<7>[ 1128.451245] [2336:sh] exit
+<7>[ 1128.451384] [2336:sh] sig 1 to [2336:sh]
+<7>[ 1128.451404] [2336:sh] sig 17 to [82:adbd]
+<7>[ 1128.496559] [82:adbd] fork [2338:adbd]
+<7>[ 1128.497332] [2338:adbd] set proc[2338] name: -> [sh]
+<7>[ 1128.498893] [2338:sh] fork [2339:sh]
+<7>[ 1128.499434] [2339:sh] set proc[2339] name: -> [dumpsys]
+<6>[ 1128.505672] binder: 2339:2339 refcount change on invalid ref 0
+<6>[ 1128.505685] binder: 2339:2339 refcount change on invalid ref 0
+<6>[ 1128.505698] binder: 2339:2339 binder_context_mgr_node is NULL
+<6>[ 1128.505709] binder: 2339:2339 transaction failed 29189, size 100-0
+<7>[ 1128.506209] [2339:dumpsys] exit
+<7>[ 1128.506561] [2339:dumpsys] sig 17 to [2338:sh]
+<7>[ 1128.506647] [2338:sh] exit
+<7>[ 1128.506786] [2338:sh] sig 1 to [2338:sh]
+<7>[ 1128.506806] [2338:sh] sig 17 to [82:adbd]
+<5>[ 1128.673411] [Power/PMIC] [mt6329_pmic_eint_irq] receive interrupt
+<5>[ 1128.674160] [Power/PMIC] [wake_up_pmic]
+<6>[ 1128.674678] [Power/PMIC] [pmic_thread_kthread] running
+<6>[ 1128.674900] [Power/PMIC] [BATTERY] Reg[0x21]=0x7b, Reg[0x22]=0xa2, Reg[0x38]=0xf4
+<5>[ 1128.675242] [Power/PMIC] [pmic_thread_kthread_E2] Get HomeKey EINT
+<5>[ 1128.676077] [Power/PMIC] [pmic_thread_kthread_E2] Press HomeKey
+<4>[ 1128.676812] kpd: PMIC reset Key generate, pressed=1
+<4>[ 1128.680396] kpd: (pressed) HW keycode =114 using PMIC
+<5>[ 1128.820749] [Power/PMIC] [mt6329_pmic_eint_irq] receive interrupt
+<5>[ 1128.821499] [Power/PMIC] [wake_up_pmic]
+<6>[ 1128.822009] [Power/PMIC] [pmic_thread_kthread] running
+<6>[ 1128.822224] [Power/PMIC] [BATTERY] Reg[0x21]=0x7b, Reg[0x22]=0xa2, Reg[0x38]=0xf4
+<5>[ 1128.822551] [Power/PMIC] [pmic_thread_kthread_E2] Get HomeKey EINT
+<5>[ 1128.823382] [Power/PMIC] [pmic_thread_kthread_E2] Release HomeKey
+<4>[ 1128.824139] kpd: PMIC reset Key generate, pressed=0
+<4>[ 1128.824838] kpd: (released) HW keycode =114 using PMIC
+<4>[ 1130.559463] MSG_X = 53,MSG_Y = 510
+<4>[ 1130.569432] MSG_X = 53,MSG_Y = 510
+<4>[ 1130.579359] MSG_X = 53,MSG_Y = 510
+<4>[ 1130.589327] MSG_X = 53,MSG_Y = 510
+<4>[ 1130.599299] MSG_X = 53,MSG_Y = 510
+<4>[ 1130.609227] MSG_X = 53,MSG_Y = 510
+<4>[ 1130.619187] MSG_X = 53,MSG_Y = 510
+<4>[ 1130.629162] MSG_X = 53,MSG_Y = 510
+<4>[ 1130.639088] MSG_X = 53,MSG_Y = 510
+<4>[ 1130.649063] MSG_X = 53,MSG_Y = 510
+<4>[ 1130.658989] MSG_X = 53,MSG_Y = 510
+<4>[ 1130.668960] MSG_X = 53,MSG_Y = 510
+<4>[ 1130.678933] MSG_X = 53,MSG_Y = 510
+<5>[ 1130.685667] [Power/Battery] [FGADC] 1,2224,0,54,3791,49,29,26,1135,1135,-38,0,0,1000,0,3829,1000,74,70,2139,104,103
+<4>[ 1130.688848] MSG_X = 53,MSG_Y = 510
+<7>[ 1130.741844] [ISP][mt_isp_open]
+<4>[ 1130.743167] [MINGJI]HI253_YUV_SensorInit() calling;
+<6>[ 1130.743769] [kd_sensorlist]kdSetDriver: [kdSetDriver] :1,0,hi253yuv,32
+<6>[ 1130.743802] [Power/PMIC] [hwPowerOn] 0,NOP,0
+<5>[ 1130.743814] [Power/PMIC] [hwPowerOn] acquire powerId:8 index:0 mod_name: kd_camera_hw
+<5>[ 1130.744787] [Power/PMIC] [8] PMU LDO Enable
+<6>[ 1130.745317] [Power/PMIC] [hwPowerOn] enable 8 by kd_camera_hw 
+<6>[ 1130.745328] [Power/PMIC] [pmic_ldo_vol_sel] Receive powerId 8, action is 2800
+<6>[ 1130.745341] [Power/PMIC] ****[dct_pmic_VCAM_IO_sel] value=2800 
+<6>[ 1130.745480] [Power/PMIC] [pmic_ldo_enable] Receive powerId 8, action is 1
+<6>[ 1130.745495] [Power/PMIC] [dct_pmic_VCAM_IO_enable] 1
+<6>[ 1130.745614] [Power/PMIC] [hwPowerOn] 0,NOP,0
+<5>[ 1130.745626] [Power/PMIC] [hwPowerOn] acquire powerId:19 index:0 mod_name: kd_camera_hw
+<5>[ 1130.746610] [Power/PMIC] [19] PMU LDO Enable
+<6>[ 1130.747151] [Power/PMIC] [hwPowerOn] enable 19 by kd_camera_hw 
+<6>[ 1130.747162] [Power/PMIC] [pmic_ldo_vol_sel] Receive powerId 19, action is 2800
+<6>[ 1130.747174] [Power/PMIC] ****[dct_pmic_VCAMA_sel] value=2800 
+<6>[ 1130.747293] [Power/PMIC] [pmic_ldo_enable] Receive powerId 19, action is 1
+<6>[ 1130.747307] [Power/PMIC] [dct_pmic_VCAMA_enable] 1
+<6>[ 1130.747424] [Power/PMIC] [hwPowerOn] 0,NOP,0
+<5>[ 1130.747435] [Power/PMIC] [hwPowerOn] acquire powerId:7 index:0 mod_name: kd_camera_hw
+<5>[ 1130.748408] [Power/PMIC] [7] PMU LDO Enable
+<6>[ 1130.748938] [Power/PMIC] [hwPowerOn] enable 7 by kd_camera_hw 
+<6>[ 1130.748949] [Power/PMIC] [pmic_ldo_vol_sel] Receive powerId 7, action is 1800
+<6>[ 1130.748961] [Power/PMIC] ****[dct_pmic_VCAMD_sel] value=1800 
+<6>[ 1130.749079] [Power/PMIC] [pmic_ldo_enable] Receive powerId 7, action is 1
+<6>[ 1130.749092] [Power/PMIC] [dct_pmic_VCAMD_enable] 1
+<6>[ 1130.749209] [Power/PMIC] [hwPowerOn] 0,NOP,0
+<5>[ 1130.749221] [Power/PMIC] [hwPowerOn] acquire powerId:9 index:0 mod_name: kd_camera_hw
+<5>[ 1130.750193] [Power/PMIC] [9] PMU LDO Enable
+<6>[ 1130.750747] [Power/PMIC] [hwPowerOn] enable 9 by kd_camera_hw 
+<6>[ 1130.750758] [Power/PMIC] [pmic_ldo_vol_sel] Receive powerId 9, action is 2800
+<6>[ 1130.750771] [Power/PMIC] ****[dct_pmic_VCAM_AF_sel] value=2800 
+<6>[ 1130.750896] [Power/PMIC] [pmic_ldo_enable] Receive powerId 9, action is 1
+<6>[ 1130.750910] [Power/PMIC] [dct_pmic_VCAM_AF_enable] 1
+<4>[ 1130.767030] Camera SW_I2C_GPIO_Open!! 
+<4>[ 1130.767035] 
+<6>[ 1130.778133] [kd_sensorlist]KD_IMGSENSOR_PROFILE: [kdModulePowerOn]Profile = 34332
+<4>[ 1130.778147] [MINGJI]HI253FeatureControl() calling;
+<4>[ 1130.778741] [MINGJI]HI253GetSensorID() calling;
+<4>[ 1130.784228] Camera iReadRegI2C addr=40 
+<4>[ 1130.789511] [HI253]HI253GetSensorID: Sensor ID ff
+<6>[ 1130.790085] [kd_sensorlist]adopt_CAMERA_HW_CheckIsAlive:  No Sensor Found
+<6>[ 1130.790094] [kd_sensorlist]adopt_CAMERA_HW_CheckIsAlive: ERROR:adopt_CAMERA_HW_CheckIsAlive(), No imgsensor alive 
+<6>[ 1130.790110] [Power/PMIC] [hwPowerDown] 0,kd_camera_hw,1
+<5>[ 1130.790121] [Power/PMIC] [hwPowerDown] powerId:19 index:0 mod_name: kd_camera_hw
+<5>[ 1130.791051] [Power/PMIC] [19] PMU LDO Disable
+<6>[ 1130.791603] [Power/PMIC] [hwPowerDown] disable 19 by kd_camera_hw 
+<6>[ 1130.791614] [Power/PMIC] [pmic_ldo_enable] Receive powerId 19, action is 0
+<6>[ 1130.791627] [Power/PMIC] [dct_pmic_VCAMA_enable] 0
+<6>[ 1130.791765] [Power/PMIC] [hwPowerDown] 0,kd_camera_hw,1
+<5>[ 1130.791778] [Power/PMIC] [hwPowerDown] powerId:9 index:0 mod_name: kd_camera_hw
+<5>[ 1130.792686] [Power/PMIC] [9] PMU LDO Disable
+<6>[ 1130.793227] [Power/PMIC] [hwPowerDown] disable 9 by kd_camera_hw 
+<6>[ 1130.793238] [Power/PMIC] [pmic_ldo_enable] Receive powerId 9, action is 0
+<6>[ 1130.793250] [Power/PMIC] [dct_pmic_VCAM_AF_enable] 0
+<6>[ 1130.793381] [Power/PMIC] [hwPowerDown] 0,kd_camera_hw,1
+<5>[ 1130.793394] [Power/PMIC] [hwPowerDown] powerId:7 index:0 mod_name: kd_camera_hw
+<5>[ 1130.794301] [Power/PMIC] [7] PMU LDO Disable
+<6>[ 1130.794843] [Power/PMIC] [hwPowerDown] disable 7 by kd_camera_hw 
+<6>[ 1130.794854] [Power/PMIC] [pmic_ldo_enable] Receive powerId 7, action is 0
+<6>[ 1130.794865] [Power/PMIC] [dct_pmic_VCAMD_enable] 0
+<6>[ 1130.794994] [Power/PMIC] [hwPowerDown] 0,kd_camera_hw,1
+<5>[ 1130.795006] [Power/PMIC] [hwPowerDown] powerId:8 index:0 mod_name: kd_camera_hw
+<5>[ 1130.795913] [Power/PMIC] [8] PMU LDO Disable
+<6>[ 1130.796455] [Power/PMIC] [hwPowerDown] disable 8 by kd_camera_hw 
+<6>[ 1130.796466] [Power/PMIC] [pmic_ldo_enable] Receive powerId 8, action is 0
+<6>[ 1130.796478] [Power/PMIC] [dct_pmic_VCAM_IO_enable] 0
+<4>[ 1130.796606] Camera SW_I2C_GPIO_Close!! 
+<4>[ 1130.796611] 
+<6>[ 1130.797250] [kd_sensorlist]KD_IMGSENSOR_PROFILE: [CheckIsAlive]Profile = 19120
+<6>[ 1130.797331] [kd_sensorlist]kdSetDriver: [kdSetDriver] :1,1,ov2659yuv,32
+<6>[ 1130.797359] [Power/PMIC] [hwPowerOn] 0,NOP,0
+<5>[ 1130.797370] [Power/PMIC] [hwPowerOn] acquire powerId:8 index:0 mod_name: kd_camera_hw
+<5>[ 1130.798343] [Power/PMIC] [8] PMU LDO Enable
+<6>[ 1130.798873] [Power/PMIC] [hwPowerOn] enable 8 by kd_camera_hw 
+<6>[ 1130.798884] [Power/PMIC] [pmic_ldo_vol_sel] Receive powerId 8, action is 2800
+<6>[ 1130.798896] [Power/PMIC] ****[dct_pmic_VCAM_IO_sel] value=2800 
+<6>[ 1130.799035] [Power/PMIC] [pmic_ldo_enable] Receive powerId 8, action is 1
+<6>[ 1130.799049] [Power/PMIC] [dct_pmic_VCAM_IO_enable] 1
+<6>[ 1130.799178] [Power/PMIC] [hwPowerOn] 0,NOP,0
+<5>[ 1130.799190] [Power/PMIC] [hwPowerOn] acquire powerId:19 index:0 mod_name: kd_camera_hw
+<5>[ 1130.800173] [Power/PMIC] [19] PMU LDO Enable
+<6>[ 1130.800723] [Power/PMIC] [hwPowerOn] enable 19 by kd_camera_hw 
+<6>[ 1130.800735] [Power/PMIC] [pmic_ldo_vol_sel] Receive powerId 19, action is 2800
+<6>[ 1130.800748] [Power/PMIC] ****[dct_pmic_VCAMA_sel] value=2800 
+<6>[ 1130.800880] [Power/PMIC] [pmic_ldo_enable] Receive powerId 19, action is 1
+<6>[ 1130.800894] [Power/PMIC] [dct_pmic_VCAMA_enable] 1
+<6>[ 1130.801023] [Power/PMIC] [hwPowerOn] 0,NOP,0
+<5>[ 1130.801035] [Power/PMIC] [hwPowerOn] acquire powerId:7 index:0 mod_name: kd_camera_hw
+<5>[ 1130.802008] [Power/PMIC] [7] PMU LDO Enable
+<6>[ 1130.802538] [Power/PMIC] [hwPowerOn] enable 7 by kd_camera_hw 
+<6>[ 1130.802549] [Power/PMIC] [pmic_ldo_vol_sel] Receive powerId 7, action is 1800
+<6>[ 1130.802561] [Power/PMIC] ****[dct_pmic_VCAMD_sel] value=1800 
+<6>[ 1130.802691] [Power/PMIC] [pmic_ldo_enable] Receive powerId 7, action is 1
+<6>[ 1130.802705] [Power/PMIC] [dct_pmic_VCAMD_enable] 1
+<6>[ 1130.802833] [Power/PMIC] [hwPowerOn] 0,NOP,0
+<5>[ 1130.802845] [Power/PMIC] [hwPowerOn] acquire powerId:9 index:0 mod_name: kd_camera_hw
+<5>[ 1130.803817] [Power/PMIC] [9] PMU LDO Enable
+<6>[ 1130.804348] [Power/PMIC] [hwPowerOn] enable 9 by kd_camera_hw 
+<6>[ 1130.804358] [Power/PMIC] [pmic_ldo_vol_sel] Receive powerId 9, action is 2800
+<6>[ 1130.804370] [Power/PMIC] ****[dct_pmic_VCAM_AF_sel] value=2800 
+<6>[ 1130.804500] [Power/PMIC] [pmic_ldo_enable] Receive powerId 9, action is 1
+<6>[ 1130.804514] [Power/PMIC] [dct_pmic_VCAM_AF_enable] 1
+<4>[ 1130.820654] Camera SW_I2C_GPIO_Open!! 
+<4>[ 1130.820659] 
+<6>[ 1130.831289] [kd_sensorlist]KD_IMGSENSOR_PROFILE: [kdModulePowerOn]Profile = 33931
+<4>[ 1130.831302] [OV2659][OV2659FeatureControl]feature id=3035 
+<4>[ 1130.843522] Camera iReadRegI2C addr=60 
+<4>[ 1130.846110] Camera iReadRegI2C addr=60 
+<4>[ 1130.848696] OV2659 READ ID: 2656Camera iReadRegI2C addr=60 
+<4>[ 1130.851518] Camera iReadRegI2C addr=60 
+<4>[ 1130.854104] OV2659 READ ID: 2656Camera iReadRegI2C addr=60 
+<4>[ 1130.856906] Camera iReadRegI2C addr=60 
+<4>[ 1130.859491] OV2659 READ ID: 2656
+<6>[ 1130.859858] [kd_sensorlist]adopt_CAMERA_HW_CheckIsAlive:  Not implement!!, use old open function to check
+<4>[ 1130.859879] MINGJI test func calling OV2659Open()
+<4>[ 1130.860481] [OV2659]OV2659Open enter :
+<4>[ 1130.860486]  Camera iReadRegI2C addr=60 
+<4>[ 1130.875054] Camera iReadRegI2C addr=60 
+<4>[ 1130.877640] OV2659 READ ID :2656Camera iReadRegI2C addr=60 
+<4>[ 1130.880459] Camera iReadRegI2C addr=60 
+<4>[ 1130.883046] OV2659 READ ID :2656Camera iReadRegI2C addr=60 
+<4>[ 1130.885847] Camera iReadRegI2C addr=60 
+<4>[ 1130.888432] OV2659 READ ID :2656MINGJI test func calling OV2659InitialSetting()
+<4>[ 1131.166560] [OV2659]OV2659Open exit :
+<4>[ 1131.166565]  
+<6>[ 1131.167183] [Power/PMIC] [hwPowerDown] 0,kd_camera_hw,1
+<5>[ 1131.167207] [Power/PMIC] [hwPowerDown] powerId:19 index:0 mod_name: kd_camera_hw
+<5>[ 1131.168133] [Power/PMIC] [19] PMU LDO Disable
+<6>[ 1131.168685] [Power/PMIC] [hwPowerDown] disable 19 by kd_camera_hw 
+<6>[ 1131.168696] [Power/PMIC] [pmic_ldo_enable] Receive powerId 19, action is 0
+<6>[ 1131.168708] [Power/PMIC] [dct_pmic_VCAMA_enable] 0
+<6>[ 1131.168843] [Power/PMIC] [hwPowerDown] 0,kd_camera_hw,1
+<5>[ 1131.168856] [Power/PMIC] [hwPowerDown] powerId:9 index:0 mod_name: kd_camera_hw
+<5>[ 1131.169763] [Power/PMIC] [9] PMU LDO Disable
+<6>[ 1131.170325] [Power/PMIC] [hwPowerDown] disable 9 by kd_camera_hw 
+<6>[ 1131.170337] [Power/PMIC] [pmic_ldo_enable] Receive powerId 9, action is 0
+<6>[ 1131.170349] [Power/PMIC] [dct_pmic_VCAM_AF_enable] 0
+<6>[ 1131.170478] [Power/PMIC] [hwPowerDown] 0,kd_camera_hw,1
+<5>[ 1131.170491] [Power/PMIC] [hwPowerDown] powerId:7 index:0 mod_name: kd_camera_hw
+<5>[ 1131.171399] [Power/PMIC] [7] PMU LDO Disable
+<6>[ 1131.171940] [Power/PMIC] [hwPowerDown] disable 7 by kd_camera_hw 
+<6>[ 1131.171951] [Power/PMIC] [pmic_ldo_enable] Receive powerId 7, action is 0
+<6>[ 1131.171963] [Power/PMIC] [dct_pmic_VCAMD_enable] 0
+<6>[ 1131.172092] [Power/PMIC] [hwPowerDown] 0,kd_camera_hw,1
+<5>[ 1131.172104] [Power/PMIC] [hwPowerDown] powerId:8 index:0 mod_name: kd_camera_hw
+<5>[ 1131.173011] [Power/PMIC] [8] PMU LDO Disable
+<6>[ 1131.173553] [Power/PMIC] [hwPowerDown] disable 8 by kd_camera_hw 
+<6>[ 1131.173564] [Power/PMIC] [pmic_ldo_enable] Receive powerId 8, action is 0
+<6>[ 1131.173576] [Power/PMIC] [dct_pmic_VCAM_IO_enable] 0
+<4>[ 1131.173703] Camera SW_I2C_GPIO_Close!! 
+<4>[ 1131.173708] 
+<6>[ 1131.174347] [kd_sensorlist]KD_IMGSENSOR_PROFILE: [CheckIsAlive]Profile = 343058
+<4>[ 1131.174460] [MINGJI]HI253_YUV_SensorInit() calling;
+<6>[ 1131.175060] [kd_sensorlist]kdSetDriver: [kdSetDriver] :2,0,hi253yuv,32
+<6>[ 1131.175089] [Power/PMIC] [hwPowerOn] 0,NOP,0
+<5>[ 1131.175100] [Power/PMIC] [hwPowerOn] acquire powerId:8 index:0 mod_name: kd_camera_hw
+<5>[ 1131.176073] [Power/PMIC] [8] PMU LDO Enable
+<6>[ 1131.176603] [Power/PMIC] [hwPowerOn] enable 8 by kd_camera_hw 
+<6>[ 1131.176614] [Power/PMIC] [pmic_ldo_vol_sel] Receive powerId 8, action is 2800
+<6>[ 1131.176626] [Power/PMIC] ****[dct_pmic_VCAM_IO_sel] value=2800 
+<6>[ 1131.176769] [Power/PMIC] [pmic_ldo_enable] Receive powerId 8, action is 1
+<6>[ 1131.176783] [Power/PMIC] [dct_pmic_VCAM_IO_enable] 1
+<6>[ 1131.176913] [Power/PMIC] [hwPowerOn] 0,NOP,0
+<5>[ 1131.176925] [Power/PMIC] [hwPowerOn] acquire powerId:19 index:0 mod_name: kd_camera_hw
+<5>[ 1131.177909] [Power/PMIC] [19] PMU LDO Enable
+<6>[ 1131.178450] [Power/PMIC] [hwPowerOn] enable 19 by kd_camera_hw 
+<6>[ 1131.178461] [Power/PMIC] [pmic_ldo_vol_sel] Receive powerId 19, action is 2800
+<6>[ 1131.178473] [Power/PMIC] ****[dct_pmic_VCAMA_sel] value=2800 
+<6>[ 1131.178603] [Power/PMIC] [pmic_ldo_enable] Receive powerId 19, action is 1
+<6>[ 1131.178617] [Power/PMIC] [dct_pmic_VCAMA_enable] 1
+<6>[ 1131.178746] [Power/PMIC] [hwPowerOn] 0,NOP,0
+<5>[ 1131.178757] [Power/PMIC] [hwPowerOn] acquire powerId:7 index:0 mod_name: kd_camera_hw
+<5>[ 1131.179730] [Power/PMIC] [7] PMU LDO Enable
+<6>[ 1131.180260] [Power/PMIC] [hwPowerOn] enable 7 by kd_camera_hw 
+<6>[ 1131.180271] [Power/PMIC] [pmic_ldo_vol_sel] Receive powerId 7, action is 1800
+<6>[ 1131.180283] [Power/PMIC] ****[dct_pmic_VCAMD_sel] value=1800 
+<6>[ 1131.180439] [Power/PMIC] [pmic_ldo_enable] Receive powerId 7, action is 1
+<6>[ 1131.180453] [Power/PMIC] [dct_pmic_VCAMD_enable] 1
+<6>[ 1131.180582] [Power/PMIC] [hwPowerOn] 0,NOP,0
+<5>[ 1131.180593] [Power/PMIC] [hwPowerOn] acquire powerId:9 index:0 mod_name: kd_camera_hw
+<5>[ 1131.181566] [Power/PMIC] [9] PMU LDO Enable
+<6>[ 1131.182097] [Power/PMIC] [hwPowerOn] enable 9 by kd_camera_hw 
+<6>[ 1131.182107] [Power/PMIC] [pmic_ldo_vol_sel] Receive powerId 9, action is 2800
+<6>[ 1131.182119] [Power/PMIC] ****[dct_pmic_VCAM_AF_sel] value=2800 
+<6>[ 1131.182249] [Power/PMIC] [pmic_ldo_enable] Receive powerId 9, action is 1
+<6>[ 1131.182262] [Power/PMIC] [dct_pmic_VCAM_AF_enable] 1
+<4>[ 1131.198387] Camera SW_I2C_GPIO_Open!! 
+<4>[ 1131.198392] 
+<6>[ 1131.209022] [kd_sensorlist]KD_IMGSENSOR_PROFILE: [kdModulePowerOn]Profile = 33934
+<4>[ 1131.209035] [MINGJI]HI253FeatureControl() calling;
+<4>[ 1131.209629] [MINGJI]HI253GetSensorID() calling;
+<4>[ 1131.215093] Camera iReadRegI2C addr=40 
+<4>[ 1131.220392] [HI253]HI253GetSensorID: Sensor ID ff
+<6>[ 1131.220966] [kd_sensorlist]adopt_CAMERA_HW_CheckIsAlive:  No Sensor Found
+<6>[ 1131.220976] [kd_sensorlist]adopt_CAMERA_HW_CheckIsAlive: ERROR:adopt_CAMERA_HW_CheckIsAlive(), No imgsensor alive 
+<6>[ 1131.220990] [Power/PMIC] [hwPowerDown] 0,kd_camera_hw,1
+<5>[ 1131.221001] [Power/PMIC] [hwPowerDown] powerId:19 index:0 mod_name: kd_camera_hw
+<5>[ 1131.221919] [Power/PMIC] [19] PMU LDO Disable
+<6>[ 1131.222472] [Power/PMIC] [hwPowerDown] disable 19 by kd_camera_hw 
+<6>[ 1131.222483] [Power/PMIC] [pmic_ldo_enable] Receive powerId 19, action is 0
+<6>[ 1131.222495] [Power/PMIC] [dct_pmic_VCAMA_enable] 0
+<6>[ 1131.222627] [Power/PMIC] [hwPowerDown] 0,kd_camera_hw,1
+<5>[ 1131.222640] [Power/PMIC] [hwPowerDown] powerId:9 index:0 mod_name: kd_camera_hw
+<5>[ 1131.223547] [Power/PMIC] [9] PMU LDO Disable
+<6>[ 1131.224089] [Power/PMIC] [hwPowerDown] disable 9 by kd_camera_hw 
+<6>[ 1131.224100] [Power/PMIC] [pmic_ldo_enable] Receive powerId 9, action is 0
+<6>[ 1131.224111] [Power/PMIC] [dct_pmic_VCAM_AF_enable] 0
+<6>[ 1131.224240] [Power/PMIC] [hwPowerDown] 0,kd_camera_hw,1
+<5>[ 1131.224252] [Power/PMIC] [hwPowerDown] powerId:7 index:0 mod_name: kd_camera_hw
+<5>[ 1131.225160] [Power/PMIC] [7] PMU LDO Disable
+<6>[ 1131.225701] [Power/PMIC] [hwPowerDown] disable 7 by kd_camera_hw 
+<6>[ 1131.225712] [Power/PMIC] [pmic_ldo_enable] Receive powerId 7, action is 0
+<6>[ 1131.225724] [Power/PMIC] [dct_pmic_VCAMD_enable] 0
+<6>[ 1131.225852] [Power/PMIC] [hwPowerDown] 0,kd_camera_hw,1
+<5>[ 1131.225864] [Power/PMIC] [hwPowerDown] powerId:8 index:0 mod_name: kd_camera_hw
+<5>[ 1131.226772] [Power/PMIC] [8] PMU LDO Disable
+<6>[ 1131.227313] [Power/PMIC] [hwPowerDown] disable 8 by kd_camera_hw 
+<6>[ 1131.227324] [Power/PMIC] [pmic_ldo_enable] Receive powerId 8, action is 0
+<6>[ 1131.227336] [Power/PMIC] [dct_pmic_VCAM_IO_enable] 0
+<4>[ 1131.227463] Camera SW_I2C_GPIO_Close!! 
+<4>[ 1131.227468] 
+<6>[ 1131.228107] [kd_sensorlist]KD_IMGSENSOR_PROFILE: [CheckIsAlive]Profile = 19085
+<6>[ 1131.228176] [kd_sensorlist]kdSetDriver: [kdSetDriver] :2,2,hi704yuv,32
+<6>[ 1131.228202] [Power/PMIC] [hwPowerOn] 0,NOP,0
+<5>[ 1131.228214] [Power/PMIC] [hwPowerOn] acquire powerId:8 index:0 mod_name: kd_camera_hw
+<5>[ 1131.229186] [Power/PMIC] [8] PMU LDO Enable
+<6>[ 1131.229717] [Power/PMIC] [hwPowerOn] enable 8 by kd_camera_hw 
+<6>[ 1131.229728] [Power/PMIC] [pmic_ldo_vol_sel] Receive powerId 8, action is 2800
+<6>[ 1131.229740] [Power/PMIC] ****[dct_pmic_VCAM_IO_sel] value=2800 
+<6>[ 1131.229876] [Power/PMIC] [pmic_ldo_enable] Receive powerId 8, action is 1
+<6>[ 1131.229889] [Power/PMIC] [dct_pmic_VCAM_IO_enable] 1
+<6>[ 1131.230019] [Power/PMIC] [hwPowerOn] 0,NOP,0
+<5>[ 1131.230030] [Power/PMIC] [hwPowerOn] acquire powerId:19 index:0 mod_name: kd_camera_hw
+<5>[ 1131.231025] [Power/PMIC] [19] PMU LDO Enable
+<6>[ 1131.231566] [Power/PMIC] [hwPowerOn] enable 19 by kd_camera_hw 
+<6>[ 1131.231576] [Power/PMIC] [pmic_ldo_vol_sel] Receive powerId 19, action is 2800
+<6>[ 1131.231589] [Power/PMIC] ****[dct_pmic_VCAMA_sel] value=2800 
+<6>[ 1131.231719] [Power/PMIC] [pmic_ldo_enable] Receive powerId 19, action is 1
+<6>[ 1131.231733] [Power/PMIC] [dct_pmic_VCAMA_enable] 1
+<6>[ 1131.231862] [Power/PMIC] [hwPowerOn] 0,NOP,0
+<5>[ 1131.231874] [Power/PMIC] [hwPowerOn] acquire powerId:7 index:0 mod_name: kd_camera_hw
+<5>[ 1131.232846] [Power/PMIC] [7] PMU LDO Enable
+<6>[ 1131.233377] [Power/PMIC] [hwPowerOn] enable 7 by kd_camera_hw 
+<6>[ 1131.233387] [Power/PMIC] [pmic_ldo_vol_sel] Receive powerId 7, action is 1800
+<6>[ 1131.233399] [Power/PMIC] ****[dct_pmic_VCAMD_sel] value=1800 
+<6>[ 1131.233529] [Power/PMIC] [pmic_ldo_enable] Receive powerId 7, action is 1
+<6>[ 1131.233542] [Power/PMIC] [dct_pmic_VCAMD_enable] 1
+<6>[ 1131.233671] [Power/PMIC] [hwPowerOn] 0,NOP,0
+<5>[ 1131.233682] [Power/PMIC] [hwPowerOn] acquire powerId:9 index:0 mod_name: kd_camera_hw
+<5>[ 1131.234655] [Power/PMIC] [9] PMU LDO Enable
+<6>[ 1131.235185] [Power/PMIC] [hwPowerOn] enable 9 by kd_camera_hw 
+<6>[ 1131.235196] [Power/PMIC] [pmic_ldo_vol_sel] Receive powerId 9, action is 2800
+<6>[ 1131.235208] [Power/PMIC] ****[dct_pmic_VCAM_AF_sel] value=2800 
+<6>[ 1131.235338] [Power/PMIC] [pmic_ldo_enable] Receive powerId 9, action is 1
+<6>[ 1131.235351] [Power/PMIC] [dct_pmic_VCAM_AF_enable] 1
+<4>[ 1131.251491] Camera SW_I2C_GPIO_Open!! 
+<4>[ 1131.251496] 
+<6>[ 1131.262126] [kd_sensorlist]KD_IMGSENSOR_PROFILE: [kdModulePowerOn]Profile = 33924
+<4>[ 1131.262139] [Enter]:HI704 Open func Camera iReadRegI2C addr=60 
+<4>[ 1131.268342] [HI704YUV]:read Sensor ID:96
+<4>[ 1131.270036] Camera iReadRegI2C addr=60 
+<4>[ 1131.272341] Camera iReadRegI2C addr=60 
+<4>[ 1131.274627] Camera iReadRegI2C addr=60 
+<4>[ 1131.276913] MINGJI HI704_power_on HI704_pv_exposure_lines=50000
+<6>[ 1131.277640] [kd_sensorlist]adopt_CAMERA_HW_CheckIsAlive:  Sensor found ID = 0x96
+<6>[ 1131.277652] [Power/PMIC] [hwPowerDown] 0,kd_camera_hw,1
+<5>[ 1131.277663] [Power/PMIC] [hwPowerDown] powerId:19 index:0 mod_name: kd_camera_hw
+<5>[ 1131.278581] [Power/PMIC] [19] PMU LDO Disable
+<6>[ 1131.279133] [Power/PMIC] [hwPowerDown] disable 19 by kd_camera_hw 
+<6>[ 1131.279144] [Power/PMIC] [pmic_ldo_enable] Receive powerId 19, action is 0
+<6>[ 1131.279156] [Power/PMIC] [dct_pmic_VCAMA_enable] 0
+<6>[ 1131.279288] [Power/PMIC] [hwPowerDown] 0,kd_camera_hw,1
+<5>[ 1131.279300] [Power/PMIC] [hwPowerDown] powerId:9 index:0 mod_name: kd_camera_hw
+<5>[ 1131.280208] [Power/PMIC] [9] PMU LDO Disable
+<6>[ 1131.280754] [Power/PMIC] [hwPowerDown] disable 9 by kd_camera_hw 
+<6>[ 1131.280765] [Power/PMIC] [pmic_ldo_enable] Receive powerId 9, action is 0
+<6>[ 1131.280777] [Power/PMIC] [dct_pmic_VCAM_AF_enable] 0
+<6>[ 1131.280907] [Power/PMIC] [hwPowerDown] 0,kd_camera_hw,1
+<5>[ 1131.280920] [Power/PMIC] [hwPowerDown] powerId:7 index:0 mod_name: kd_camera_hw
+<5>[ 1131.281827] [Power/PMIC] [7] PMU LDO Disable
+<6>[ 1131.282369] [Power/PMIC] [hwPowerDown] disable 7 by kd_camera_hw 
+<6>[ 1131.282380] [Power/PMIC] [pmic_ldo_enable] Receive powerId 7, action is 0
+<6>[ 1131.282392] [Power/PMIC] [dct_pmic_VCAMD_enable] 0
+<6>[ 1131.282520] [Power/PMIC] [hwPowerDown] 0,kd_camera_hw,1
+<5>[ 1131.282533] [Power/PMIC] [hwPowerDown] powerId:8 index:0 mod_name: kd_camera_hw
+<5>[ 1131.283440] [Power/PMIC] [8] PMU LDO Disable
+<6>[ 1131.283982] [Power/PMIC] [hwPowerDown] disable 8 by kd_camera_hw 
+<6>[ 1131.283993] [Power/PMIC] [pmic_ldo_enable] Receive powerId 8, action is 0
+<6>[ 1131.284004] [Power/PMIC] [dct_pmic_VCAM_IO_enable] 0
+<4>[ 1131.284131] Camera SW_I2C_GPIO_Close!! 
+<4>[ 1131.284136] 
+<6>[ 1131.284775] [kd_sensorlist]KD_IMGSENSOR_PROFILE: [CheckIsAlive]Profile = 22650
+<7>[ 1131.284928] [ISP][mt_isp_release]
+<4>[ 1131.285023] [MDPK] [MDPK W]: MT6575_MDP_Flush(): FLUSH() by different process. owner:0, current = ( process, pid, tgid ) = ( factory, 86, 86 ) Rsc=0x00000000
+<4>[ 1131.290499] concurrency scenario CON_SCE_CAM_PREVIEW OFF
+<6>[ 1131.291544] [KD_CAMERA_FLASHLIGHT]flashlight_open: [flashlight_open] E
+<6>[ 1131.291569] [KD_CAMERA_FLASHLIGHT]kdSetFlashlightDrv: [kdSetFlashlightDrv] flashlightIdx: 1 
+<7>[ 1131.291648] [ISP][mt_isp_open]
+<6>[ 1131.291832] [kd_sensorlist]kdSetDriver: [kdSetDriver] :1,1,ov2659yuv,32
+<4>[ 1131.291847] MINGJI test func calling OV2659GetResolution()
+<4>[ 1131.292518] [OV2659][OV2659GetResolution enter] :
+<4>[ 1131.292523]  [OV2659][OV2659GetInfo exit] :
+<4>[ 1131.293278]  [OV2659][OV2659FeatureControl]feature id=3003 
+<4>[ 1131.294320] [OV2659][OV2659FeatureControl]feature id=3002 
+<4>[ 1131.295001] MINGJI test func calling OV2659GetResolution()
+<4>[ 1131.295681] [OV2659][OV2659GetResolution enter] :
+<4>[ 1131.295686]  [OV2659][OV2659GetInfo exit] :
+<4>[ 1131.296441]  MINGJI test func calling OV2659GetInfo()
+<4>[ 1131.297416] [OV2659]OV2659GetInfo enter :
+<4>[ 1131.297421]  [OV2659]OV2659GetInfo exit :
+<4>[ 1131.298089]  MINGJI test func calling OV2659GetInfo()
+<4>[ 1131.299041] [OV2659]OV2659GetInfo enter :
+<4>[ 1131.299045]  [OV2659]OV2659GetInfo exit :
+<4>[ 1131.299713]  MINGJI test func calling OV2659GetInfo()
+<4>[ 1131.300716] [OV2659]OV2659GetInfo enter :
+<4>[ 1131.300722]  [OV2659]OV2659GetInfo exit :
+<4>[ 1131.301381]  
+<6>[ 1131.303046] [Power/PMIC] [hwPowerOn] 0,NOP,0
+<5>[ 1131.303061] [Power/PMIC] [hwPowerOn] acquire powerId:8 index:0 mod_name: kd_camera_hw
+<5>[ 1131.304042] [Power/PMIC] [8] PMU LDO Enable
+<6>[ 1131.304572] [Power/PMIC] [hwPowerOn] enable 8 by kd_camera_hw 
+<6>[ 1131.304584] [Power/PMIC] [pmic_ldo_vol_sel] Receive powerId 8, action is 2800
+<6>[ 1131.304596] [Power/PMIC] ****[dct_pmic_VCAM_IO_sel] value=2800 
+<6>[ 1131.304737] [Power/PMIC] [pmic_ldo_enable] Receive powerId 8, action is 1
+<6>[ 1131.304752] [Power/PMIC] [dct_pmic_VCAM_IO_enable] 1
+<6>[ 1131.304872] [Power/PMIC] [hwPowerOn] 0,NOP,0
+<5>[ 1131.304883] [Power/PMIC] [hwPowerOn] acquire powerId:19 index:0 mod_name: kd_camera_hw
+<5>[ 1131.305867] [Power/PMIC] [19] PMU LDO Enable
+<6>[ 1131.306408] [Power/PMIC] [hwPowerOn] enable 19 by kd_camera_hw 
+<6>[ 1131.306419] [Power/PMIC] [pmic_ldo_vol_sel] Receive powerId 19, action is 2800
+<6>[ 1131.306431] [Power/PMIC] ****[dct_pmic_VCAMA_sel] value=2800 
+<6>[ 1131.306550] [Power/PMIC] [pmic_ldo_enable] Receive powerId 19, action is 1
+<6>[ 1131.306563] [Power/PMIC] [dct_pmic_VCAMA_enable] 1
+<6>[ 1131.306680] [Power/PMIC] [hwPowerOn] 0,NOP,0
+<5>[ 1131.306691] [Power/PMIC] [hwPowerOn] acquire powerId:7 index:0 mod_name: kd_camera_hw
+<5>[ 1131.307663] [Power/PMIC] [7] PMU LDO Enable
+<6>[ 1131.308194] [Power/PMIC] [hwPowerOn] enable 7 by kd_camera_hw 
+<6>[ 1131.308205] [Power/PMIC] [pmic_ldo_vol_sel] Receive powerId 7, action is 1800
+<6>[ 1131.308217] [Power/PMIC] ****[dct_pmic_VCAMD_sel] value=1800 
+<6>[ 1131.308335] [Power/PMIC] [pmic_ldo_enable] Receive powerId 7, action is 1
+<6>[ 1131.308348] [Power/PMIC] [dct_pmic_VCAMD_enable] 1
+<6>[ 1131.308464] [Power/PMIC] [hwPowerOn] 0,NOP,0
+<5>[ 1131.308476] [Power/PMIC] [hwPowerOn] acquire powerId:9 index:0 mod_name: kd_camera_hw
+<5>[ 1131.309448] [Power/PMIC] [9] PMU LDO Enable
+<6>[ 1131.309979] [Power/PMIC] [hwPowerOn] enable 9 by kd_camera_hw 
+<6>[ 1131.309990] [Power/PMIC] [pmic_ldo_vol_sel] Receive powerId 9, action is 2800
+<6>[ 1131.310002] [Power/PMIC] ****[dct_pmic_VCAM_AF_sel] value=2800 
+<6>[ 1131.310119] [Power/PMIC] [pmic_ldo_enable] Receive powerId 9, action is 1
+<6>[ 1131.310133] [Power/PMIC] [dct_pmic_VCAM_AF_enable] 1
+<4>[ 1131.326439] Camera SW_I2C_GPIO_Open!! 
+<4>[ 1131.326443] 
+<6>[ 1131.337075] [kd_sensorlist]KD_IMGSENSOR_PROFILE: [kdModulePowerOn]Profile = 34032
+<4>[ 1131.337088] MINGJI test func calling OV2659Open()
+<4>[ 1131.337671] [OV2659]OV2659Open enter :
+<4>[ 1131.337675]  Camera iReadRegI2C addr=60 
+<4>[ 1131.352303] Camera iReadRegI2C addr=60 
+<4>[ 1131.354890] OV2659 READ ID :2656Camera iReadRegI2C addr=60 
+<4>[ 1131.357692] Camera iReadRegI2C addr=60 
+<4>[ 1131.360277] OV2659 READ ID :2656Camera iReadRegI2C addr=60 
+<4>[ 1131.363082] Camera iReadRegI2C addr=60 
+<4>[ 1131.365667] OV2659 READ ID :2656MINGJI test func calling OV2659InitialSetting()
+<4>[ 1131.643849] [OV2659]OV2659Open exit :
+<4>[ 1131.643855]  
+<6>[ 1131.644473] [kd_sensorlist]KD_IMGSENSOR_PROFILE: [SensorOpen]Profile = 307399
+<7>[ 1131.646370] [SYSRAM][LockOwner][EIS][184 bytes] succeed [Lock Time: 1131.000620][000144DA]
+<7>[ 1131.646384] [SYSRAM][CheckClock]u4AllocatedTbl = 0x00008000, EnableClk = 1
+<7>[ 1131.646409] [SYSRAM][ALLOC_TIMEOUT][User: EIS]alloc 184 bytes successfully
+<4>[ 1131.652592] [MT6575FDVT] [FDVT_DEBUG] FDVT_open
+<4>[ 1131.653166] [MT6575FDVT]  ioctl allocate mem ok
+<4>[ 1131.653718] [MT6575FDVT]  ioctl allocate mem ok
+<4>[ 1131.654286] [MT6575FDVT] [FDVT] FDVT_INIT_CMD
+<7>[ 1131.656512] [86:factory] fork [2340:factory]
+<7>[ 1131.656661] [86:factory] fork [2341:factory]
+<4>[ 1131.688042] [mtkfb_ioctl]MTKFB_REGISTER_OVERLAYBUFFER
+<4>[ 1131.688664] [mtkfb_ioctl] before add a node,list node Addr:
+<4>[ 1131.689358] 0xd5853000,  
+<4>[ 1131.689662] [mtkfb_ioctl]MTKFB_REGISTER_OVERLAYBUFFER,va = 0x4155f020,size = 252928
+<4>[ 1131.691002] [mtkfb_ioctl]MTKFB_REGISTER_OVERLAYBUFFER,allocated mva = 0x2c1020
+<4>[ 1131.691895] [current process ID = 86, current process name:factory]
+<4>[ 1131.692672] [mtkfb_ioctl] after add a node,list node Addr:
+<4>[ 1131.693354] 0xd5853000,  0xd5800000,  
+<4>[ 1131.693845] [mtkfb_ioctl]MTKFB_REGISTER_OVERLAYBUFFER
+<4>[ 1131.694462] [mtkfb_ioctl] before add a node,list node Addr:
+<4>[ 1131.695155] 0xd5853000,  0xd5800000,  
+<4>[ 1131.695601] [mtkfb_ioctl]MTKFB_REGISTER_OVERLAYBUFFER,va = 0x4159cc20,size = 252928
+<4>[ 1131.696895] [mtkfb_ioctl]MTKFB_REGISTER_OVERLAYBUFFER,allocated mva = 0x301c20
+<4>[ 1131.697785] [current process ID = 86, current process name:factory]
+<4>[ 1131.698564] [mtkfb_ioctl] after add a node,list node Addr:
+<4>[ 1131.699246] 0xd5853000,  0xd5800000,  0xd5803000,  
+<4>[ 1131.699871] [mtkfb_ioctl]MTKFB_REGISTER_OVERLAYBUFFER
+<4>[ 1131.700518] [mtkfb_ioctl] before add a node,list node Addr:
+<4>[ 1131.701201] 0xd5853000,  0xd5800000,  0xd5803000,  
+<4>[ 1131.701786] [mtkfb_ioctl]MTKFB_REGISTER_OVERLAYBUFFER,va = 0x415da820,size = 252928
+<4>[ 1131.703082] [mtkfb_ioctl]MTKFB_REGISTER_OVERLAYBUFFER,allocated mva = 0x381820
+<4>[ 1131.703973] [current process ID = 86, current process name:factory]
+<4>[ 1131.704751] [mtkfb_ioctl] after add a node,list node Addr:
+<4>[ 1131.705433] 0xd5853000,  0xd5800000,  0xd5803000,  0xd5806000,  
+<4>[ 1131.706200] [mtkfb_ioctl]MTKFB_REGISTER_OVERLAYBUFFER
+<4>[ 1131.706817] [mtkfb_ioctl] before add a node,list node Addr:
+<4>[ 1131.707510] 0xd5853000,  0xd5800000,  0xd5803000,  0xd5806000,  
+<4>[ 1131.708237] [mtkfb_ioctl]MTKFB_REGISTER_OVERLAYBUFFER,va = 0x41618420,size = 252928
+<4>[ 1131.709527] [mtkfb_ioctl]MTKFB_REGISTER_OVERLAYBUFFER,allocated mva = 0x401420
+<4>[ 1131.710442] [current process ID = 86, current process name:factory]
+<4>[ 1131.711211] [mtkfb_ioctl] after add a node,list node Addr:
+<4>[ 1131.711894] 0xd5853000,  0xd5800000,  0xd5803000,  0xd5806000,  0xd5809000,  
+<4>[ 1131.712799] [mtkfb_ioctl]MTKFB_REGISTER_OVERLAYBUFFER
+<4>[ 1131.713417] [mtkfb_ioctl] before add a node,list node Addr:
+<4>[ 1131.714109] 0xd5853000,  0xd5800000,  0xd5803000,  0xd5806000,  0xd5809000,  
+<4>[ 1131.714977] [mtkfb_ioctl]MTKFB_REGISTER_OVERLAYBUFFER,va = 0x41656020,size = 252928
+<4>[ 1131.716260] [mtkfb_ioctl]MTKFB_REGISTER_OVERLAYBUFFER,allocated mva = 0x481020
+<4>[ 1131.717151] [current process ID = 86, current process name:factory]
+<4>[ 1131.717929] [mtkfb_ioctl] after add a node,list node Addr:
+<4>[ 1131.718612] 0xd5853000,  0xd5800000,  0xd5803000,  0xd5806000,  0xd5809000,  0xd580c000,  
+<4>[ 1131.750001] concurrency scenario CON_SCE_CAM_PREVIEW ON
+<7>[ 1131.758120] [ISP][mt_isp_ioctl]RESET
+<7>[ 1131.758264] [ISP][mt_isp_reset_buf]hold_reg(0), BufAmount(0)
+<7>[ 1131.758274] [ISP][mt_isp_reset_buf]End
+<4>[ 1131.758301] MINGJI test func calling OV2659GetInfo()
+<4>[ 1131.758907] [OV2659]OV2659GetInfo enter :
+<4>[ 1131.758911]  [OV2659]OV2659GetInfo exit :
+<4>[ 1131.759580]  MINGJI test func calling OV2659GetInfo()
+<4>[ 1131.760579] [OV2659]OV2659GetInfo enter :
+<4>[ 1131.760584]  [OV2659]OV2659GetInfo exit :
+<4>[ 1131.761243]  MINGJI test func calling OV2659Control()
+<4>[ 1131.762194] [OV2659]OV2659Control enter :
+<4>[ 1131.762199]  [OV2659][OV2659Control]MSDK_SCENARIO_ID_CAMERA_ZSD :
+<4>[ 1131.762869]  MINGJI test func calling OV2659Preview()
+<4>[ 1131.764079] [OV2659]OV2659Preview enter :
+<4>[ 1131.764083]  Camera iReadRegI2C addr=60 
+<4>[ 1131.768710] MINGJI test func calling OV2659_set_AWB_mode()
+<4>[ 1131.769381] Camera iReadRegI2C addr=60 
+<4>[ 1131.773529] MINGJI test func calling OV2659PreviewSetting()
+<4>[ 1131.786212] MINGJI test func calling OV2659InitialSetting()
+<6>[ 1132.040324] yaffs: userdata sync do_checkpoint 0,gc_urgen 0
+<6>[ 1132.040335] yaffs: userdata yaffs_FlushSuperBlock 0
+<4>[ 1132.104013] Camera iReadRegI2C addr=60 
+<4>[ 1132.177904] [OV2659]OV2659Preview exit :
+<4>[ 1132.177908]  [OV2659]OV2659Control exit :
+<4>[ 1132.178557]  [OV2659][OV2659FeatureControl]feature id=3003 
+<4>[ 1132.179577] [OV2659][OV2659FeatureControl]feature id=3002 
+<4>[ 1132.182190] MINGJI test func calling OV2659GetInfo()
+<4>[ 1132.182800] [OV2659]OV2659GetInfo enter :
+<4>[ 1132.182805]  [OV2659]OV2659GetInfo exit :
+<4>[ 1132.183473]  MINGJI test func calling OV2659GetResolution()
+<4>[ 1132.184489] [OV2659][OV2659GetResolution enter] :
+<4>[ 1132.184494]  [OV2659][OV2659GetInfo exit] :
+<4>[ 1132.185249]  [OV2659][OV2659FeatureControl]feature id=3042 
+<4>[ 1132.186389] [OV2659][OV2659FeatureControl]feature id=3025 
+<4>[ 1132.187062] MINGJI test func calling OV2659YUVSensorSetting()
+<4>[ 1132.187777] OV2659YUVSensorSetting:iCmd=2,iPara=2, 0 
+<4>[ 1132.188428] [OV2659][OV2659FeatureControl]feature id=3030 
+<4>[ 1132.189099] OV2659FeatureControl:default 
+<4>[ 1132.189601] [OV2659][OV2659FeatureControl]feature id=3025 
+<4>[ 1132.190279] MINGJI test func calling OV2659YUVSensorSetting()
+<4>[ 1132.191041] OV2659YUVSensorSetting:iCmd=21,iPara=1, 0 
+<4>[ 1132.191694] [OV2659][OV2659FeatureControl]feature id=3025 
+<4>[ 1132.192366] MINGJI test func calling OV2659YUVSensorSetting()
+<4>[ 1132.193082] OV2659YUVSensorSetting:iCmd=22,iPara=1, 0 
+<4>[ 1132.193744] [OV2659][OV2659FeatureControl]feature id=3025 
+<4>[ 1132.194415] MINGJI test func calling OV2659YUVSensorSetting()
+<4>[ 1132.195130] OV2659YUVSensorSetting:iCmd=18,iPara=0, 0 
+<4>[ 1132.195785] [OV2659][OV2659FeatureControl]feature id=3025 
+<4>[ 1132.196456] MINGJI test func calling OV2659YUVSensorSetting()
+<4>[ 1132.197172] OV2659YUVSensorSetting:iCmd=20,iPara=0, 0 
+<4>[ 1132.197810] Set EV:0
+<4>[ 1132.198081] MINGJI test func calling OV2659_set_param_exposure()
+<4>[ 1132.198829] Camera iReadRegI2C addr=60 
+<4>[ 1132.201458] Camera iReadRegI2C addr=60 
+<4>[ 1132.213207] [OV2659][OV2659FeatureControl]feature id=3025 
+<4>[ 1132.213879] MINGJI test func calling OV2659YUVSensorSetting()
+<4>[ 1132.214595] OV2659YUVSensorSetting:iCmd=23,iPara=1, 0 
+<4>[ 1132.215233] Set AWB Mode:1
+<4>[ 1132.215569] MINGJI test func calling OV2659_set_param_wb()
+<4>[ 1132.216252] OV2659_set_param_wb iPara=1, -734167872 
+<4>[ 1132.216868] MINGJI test func calling OV2659_set_AWB_mode()
+<4>[ 1132.217551] Camera iReadRegI2C addr=60 
+<4>[ 1132.221712] [OV2659][OV2659FeatureControl]feature id=3025 
+<4>[ 1132.222384] MINGJI test func calling OV2659YUVSensorSetting()
+<4>[ 1132.223100] OV2659YUVSensorSetting:iCmd=19,iPara=0, 0 
+<4>[ 1132.223755] [OV2659][OV2659FeatureControl]feature id=3025 
+<4>[ 1132.224426] MINGJI test func calling OV2659YUVSensorSetting()
+<4>[ 1132.225142] OV2659YUVSensorSetting:iCmd=19,iPara=0, 0 
+<4>[ 1132.225796] [OV2659][OV2659FeatureControl]feature id=3025 
+<4>[ 1132.226467] MINGJI test func calling OV2659YUVSensorSetting()
+<4>[ 1132.227183] OV2659YUVSensorSetting:iCmd=17,iPara=1, 0 
+<4>[ 1132.227821] Set AE Mode:1
+<4>[ 1132.228146] Camera iReadRegI2C addr=60 
+<4>[ 1132.232411] [OV2659][OV2659FeatureControl]feature id=3025 
+<4>[ 1132.233084] MINGJI test func calling OV2659YUVSensorSetting()
+<4>[ 1132.233810] OV2659YUVSensorSetting:iCmd=27,iPara=1, 0 
+<4>[ 1132.234467] [OV2659][OV2659FeatureControl]feature id=3025 
+<4>[ 1132.235138] MINGJI test func calling OV2659YUVSensorSetting()
+<4>[ 1132.235854] OV2659YUVSensorSetting:iCmd=25,iPara=1, 0 
+<4>[ 1132.236515] [OV2659][OV2659FeatureControl]feature id=3025 
+<4>[ 1132.237186] MINGJI test func calling OV2659YUVSensorSetting()
+<4>[ 1132.237902] OV2659YUVSensorSetting:iCmd=26,iPara=0, 0 
+<4>[ 1132.238563] [OV2659][OV2659FeatureControl]feature id=3025 
+<4>[ 1132.239234] MINGJI test func calling OV2659YUVSensorSetting()
+<4>[ 1132.239950] OV2659YUVSensorSetting:iCmd=24,iPara=1, 0 
+<4>[ 1132.240644] [OV2659][OV2659FeatureControl]feature id=3025 
+<4>[ 1132.241316] MINGJI test func calling OV2659YUVSensorSetting()
+<4>[ 1132.242032] OV2659YUVSensorSetting:iCmd=28,iPara=1, 0 
+<4>[ 1132.242695] [OV2659][OV2659FeatureControl]feature id=3025 
+<4>[ 1132.243366] MINGJI test func calling OV2659YUVSensorSetting()
+<4>[ 1132.244082] OV2659YUVSensorSetting:iCmd=6,iPara=0, 0 
+<4>[ 1132.244709] Night Mode:0
+<4>[ 1132.245024] MINGJI test func calling OV2659_night_mode()
+<4>[ 1132.245685] Camera iReadRegI2C addr=60 
+<4>[ 1132.255935] [OV2659][OV2659FeatureControl]feature id=3025 
+<4>[ 1132.256606] MINGJI test func calling OV2659YUVSensorSetting()
+<4>[ 1132.257322] OV2659YUVSensorSetting:iCmd=7,iPara=0, 0 
+<4>[ 1132.257949] Set Color Effect:0
+<4>[ 1132.258328] MINGJI test func calling OV2659_set_param_effect()
+<4>[ 1132.259054] OV2659_set_param_effect iPara=0, -734167872 
+<4>[ 1132.270425] [OV2659][OV2659FeatureControl]feature id=3025 
+<4>[ 1132.271097] MINGJI test func calling OV2659YUVSensorSetting()
+<4>[ 1132.271812] OV2659YUVSensorSetting:iCmd=0,iPara=4000, 0 
+<4>[ 1132.272558] [OV2659][OV2659FeatureControl]feature id=3025 
+<4>[ 1132.273230] MINGJI test func calling OV2659YUVSensorSetting()
+<4>[ 1132.273945] OV2659YUVSensorSetting:iCmd=13,iPara=0, 0 
+<4>[ 1132.274583] Set Flicker:0
+<4>[ 1132.274908] MINGJI test func calling OV2659_set_param_banding()
+<4>[ 1132.275645] MINGJI test func calling OV2659Sensor.IsPVmode == KAL_TRUE
+<4>[ 1132.276457] Camera iReadRegI2C addr=60 
+<4>[ 1132.279056] MINGJI test func calling AE_FLICKER_MODE_60HZ
+<7>[ 1132.283104] [86:factory] fork [2342:factory]
+<7>[ 1132.290490] [1:init] fork [2343:init]
+<7>[ 1132.291017] [2343:init] set proc[2343] name: -> [logwrapper]
+<7>[ 1132.292375] [2343:logwrapper] fork [2344:logwrapper]
+<7>[ 1132.292894] [2344:logwrapper] exit
+<7>[ 1132.293019] [2344:logwrapper] sig 17 to [2343:logwrapper]
+<7>[ 1132.293197] [2343:logwrapper] exit
+<7>[ 1132.293389] [2343:logwrapper] sig 17 to [1:init]
+<4>[ 1132.378288] MINGJI test func calling OV2659GetInfo()
+<4>[ 1132.378898] [OV2659]OV2659GetInfo enter :
+<4>[ 1132.378902]  [OV2659]OV2659GetInfo exit :
+<4>[ 1132.379571]  mtkfb_ioctl(MTKFB_ENABLE_OVERLAY)
+<7>[ 1133.338149] [82:adbd] fork [2345:adbd]
+<7>[ 1133.339851] [2345:adbd] set proc[2345] name: -> [sh]
+<7>[ 1133.341596] [2345:sh] fork [2346:sh]
+<7>[ 1133.342706] [2346:sh] set proc[2346] name: -> [df]
+<7>[ 1133.344902] [2346:df] exit
+<7>[ 1133.345038] [2346:df] sig 17 to [2345:sh]
+<7>[ 1133.345128] [2345:sh] exit
+<7>[ 1133.345261] [2345:sh] sig 1 to [2345:sh]
+<7>[ 1133.345280] [2345:sh] sig 17 to [82:adbd]
+<7>[ 1133.391267] [82:adbd] fork [2347:adbd]
+<7>[ 1133.392048] [2347:adbd] set proc[2347] name: -> [sh]
+<7>[ 1133.393606] [2347:sh] fork [2348:sh]
+<7>[ 1133.394153] [2348:sh] set proc[2348] name: -> [getprop]
+<7>[ 1133.396132] [2348:getprop] exit
+<7>[ 1133.396265] [2348:getprop] sig 17 to [2347:sh]
+<7>[ 1133.396356] [2347:sh] exit
+<7>[ 1133.396639] [82:adbd] sig 1 to [2347:sh]
+<7>[ 1133.396653] [82:adbd] sig 18 to [2347:sh]
+<7>[ 1133.396858] [2347:sh] sig 1 to [2347:sh]
+<7>[ 1133.396869] [2347:sh] sig 18 to [2347:sh]
+<7>[ 1133.396884] [2347:sh] sig 17 to [82:adbd]
+<7>[ 1133.439059] [82:adbd] fork [2349:adbd]
+<7>[ 1133.439862] [2349:adbd] set proc[2349] name: -> [sh]
+<7>[ 1133.441477] [2349:sh] fork [2350:sh]
+<7>[ 1133.442013] [2350:sh] set proc[2350] name: -> [dumpsys]
+<6>[ 1133.448157] binder: 2350:2350 refcount change on invalid ref 0
+<6>[ 1133.448170] binder: 2350:2350 refcount change on invalid ref 0
+<6>[ 1133.448183] binder: 2350:2350 binder_context_mgr_node is NULL
+<6>[ 1133.448193] binder: 2350:2350 transaction failed 29189, size 96-0
+<7>[ 1133.448703] [2350:dumpsys] exit
+<7>[ 1133.449053] [2350:dumpsys] sig 17 to [2349:sh]
+<7>[ 1133.449139] [2349:sh] exit
+<7>[ 1133.449278] [2349:sh] sig 1 to [2349:sh]
+<7>[ 1133.449298] [2349:sh] sig 17 to [82:adbd]
+<7>[ 1133.490009] [82:adbd] fork [2351:adbd]
+<7>[ 1133.490826] [2351:adbd] set proc[2351] name: -> [sh]
+<7>[ 1133.492376] [2351:sh] fork [2352:sh]
+<7>[ 1133.492913] [2352:sh] set proc[2352] name: -> [dumpsys]
+<6>[ 1133.500703] binder: 2352:2352 refcount change on invalid ref 0
+<6>[ 1133.500716] binder: 2352:2352 refcount change on invalid ref 0
+<6>[ 1133.500730] binder: 2352:2352 binder_context_mgr_node is NULL
+<6>[ 1133.500740] binder: 2352:2352 transaction failed 29189, size 100-0
+<7>[ 1133.501252] [2352:dumpsys] exit
+<7>[ 1133.501607] [2352:dumpsys] sig 17 to [2351:sh]
+<7>[ 1133.501736] [2351:sh] exit
+<7>[ 1133.502410] [2351:sh] sig 1 to [2351:sh]
+<7>[ 1133.502432] [2351:sh] sig 17 to [82:adbd]
+<4>[ 1135.499008] MSG_X = 157,MSG_Y = 457
+<4>[ 1135.509124] MSG_X = 157,MSG_Y = 457
+<4>[ 1135.518923] MSG_X = 157,MSG_Y = 457
+<4>[ 1135.528934] MSG_X = 157,MSG_Y = 457
+<4>[ 1135.538895] MSG_X = 157,MSG_Y = 457
+<4>[ 1135.548834] MSG_X = 157,MSG_Y = 457
+<4>[ 1135.558816] MSG_X = 157,MSG_Y = 457
+<4>[ 1135.568749] MSG_X = 157,MSG_Y = 457
+<4>[ 1135.578705] MSG_X = 157,MSG_Y = 457
+<4>[ 1135.588648] MSG_X = 157,MSG_Y = 457
+<4>[ 1135.598629] MSG_X = 157,MSG_Y = 457
+<4>[ 1135.608580] MSG_X = 157,MSG_Y = 457
+<4>[ 1135.618516] MSG_X = 157,MSG_Y = 457
+<4>[ 1135.628506] MSG_X = 157,MSG_Y = 457
+<4>[ 1135.638426] MSG_X = 157,MSG_Y = 457
+<4>[ 1135.648389] MSG_X = 157,MSG_Y = 457
+<4>[ 1135.658520] MSG_X = 157,MSG_Y = 457
+<4>[ 1135.668334] MSG_X = 157,MSG_Y = 457
+<4>[ 1135.975158] MSG_X = 159,MSG_Y = 510
+<4>[ 1135.985086] MSG_X = 159,MSG_Y = 510
+<4>[ 1135.995051] MSG_X = 159,MSG_Y = 510
+<4>[ 1136.005425] MSG_X = 159,MSG_Y = 510
+<4>[ 1136.014937] MSG_X = 159,MSG_Y = 510
+<4>[ 1136.024913] MSG_X = 159,MSG_Y = 510
+<4>[ 1136.034873] MSG_X = 159,MSG_Y = 510
+<4>[ 1136.044838] MSG_X = 159,MSG_Y = 510
+<4>[ 1136.054758] MSG_X = 159,MSG_Y = 510
+<4>[ 1136.064729] MSG_X = 159,MSG_Y = 510
+<4>[ 1136.074698] MSG_X = 159,MSG_Y = 510
+<4>[ 1136.084620] MSG_X = 159,MSG_Y = 510
+<4>[ 1136.094680] MSG_X = 159,MSG_Y = 510
+<4>[ 1136.104574] MSG_X = 159,MSG_Y = 510
+<4>[ 1136.114530] MSG_X = 159,MSG_Y = 510
+<4>[ 1136.124448] MSG_X = 159,MSG_Y = 510
+<4>[ 1136.134415] MSG_X = 159,MSG_Y = 510
+<4>[ 1136.144381] MSG_X = 159,MSG_Y = 510
+<4>[ 1136.154299] MSG_X = 159,MSG_Y = 510
+<4>[ 1136.164266] MSG_X = 159,MSG_Y = 510
+<4>[ 1136.174232] MSG_X = 159,MSG_Y = 510
+<4>[ 1136.184198] MSG_X = 159,MSG_Y = 510
+<4>[ 1136.194181] MSG_X = 159,MSG_Y = 510
+<4>[ 1136.204084] MSG_X = 159,MSG_Y = 510
+<4>[ 1136.214045] MSG_X = 159,MSG_Y = 510
+<4>[ 1136.224018] MSG_X = 159,MSG_Y = 510
+<4>[ 1136.512764] MSG_X = 159,MSG_Y = 510
+<4>[ 1136.522698] MSG_X = 159,MSG_Y = 510
+<4>[ 1136.532621] MSG_X = 159,MSG_Y = 510
+<4>[ 1136.542588] MSG_X = 159,MSG_Y = 510
+<4>[ 1136.552558] MSG_X = 159,MSG_Y = 510
+<4>[ 1136.562553] MSG_X = 159,MSG_Y = 510
+<4>[ 1136.572458] MSG_X = 159,MSG_Y = 510
+<4>[ 1136.582411] MSG_X = 159,MSG_Y = 510
+<4>[ 1136.592382] MSG_X = 159,MSG_Y = 510
+<4>[ 1136.602342] MSG_X = 159,MSG_Y = 510
+<4>[ 1136.612259] MSG_X = 159,MSG_Y = 510
+<4>[ 1136.622225] MSG_X = 159,MSG_Y = 510
+<4>[ 1136.632191] MSG_X = 159,MSG_Y = 510
+<4>[ 1136.642158] MSG_X = 159,MSG_Y = 510
+<4>[ 1136.652365] MSG_X = 159,MSG_Y = 510
+<4>[ 1136.662059] MSG_X = 159,MSG_Y = 510
+<4>[ 1136.672014] MSG_X = 159,MSG_Y = 510
+<4>[ 1136.681990] MSG_X = 159,MSG_Y = 510
+<4>[ 1136.691908] MSG_X = 159,MSG_Y = 510
+<4>[ 1136.701877] MSG_X = 159,MSG_Y = 510
+<4>[ 1136.711849] MSG_X = 159,MSG_Y = 510
+<4>[ 1136.721773] MSG_X = 159,MSG_Y = 510
+<4>[ 1136.731745] MSG_X = 159,MSG_Y = 510
+<4>[ 1136.741718] MSG_X = 159,MSG_Y = 510
+<4>[ 1136.751654] MSG_X = 159,MSG_Y = 510
+<4>[ 1136.761618] MSG_X = 159,MSG_Y = 510
+<4>[ 1136.771585] MSG_X = 159,MSG_Y = 510
+<4>[ 1136.781513] MSG_X = 159,MSG_Y = 510
+<4>[ 1136.791485] MSG_X = 159,MSG_Y = 510
+<4>[ 1136.801457] MSG_X = 159,MSG_Y = 510
+<4>[ 1136.811378] MSG_X = 159,MSG_Y = 510
+<4>[ 1136.821345] MSG_X = 159,MSG_Y = 510
+<4>[ 1136.831318] MSG_X = 159,MSG_Y = 510
+<4>[ 1136.841267] MSG_X = 159,MSG_Y = 510
+<4>[ 1136.851227] MSG_X = 159,MSG_Y = 510
+<4>[ 1136.861193] MSG_X = 159,MSG_Y = 510
+<4>[ 1136.871114] MSG_X = 159,MSG_Y = 510
+<4>[ 1136.881086] MSG_X = 159,MSG_Y = 510
+<4>[ 1136.891057] MSG_X = 159,MSG_Y = 510
+<4>[ 1136.900972] MSG_X = 159,MSG_Y = 510
+<4>[ 1136.910944] MSG_X = 159,MSG_Y = 510
+<4>[ 1136.920922] MSG_X = 159,MSG_Y = 510
+<4>[ 1136.931175] MSG_X = 159,MSG_Y = 510
+<4>[ 1136.940837] MSG_X = 159,MSG_Y = 510
+<4>[ 1136.950794] MSG_X = 159,MSG_Y = 510
+<4>[ 1136.960719] MSG_X = 159,MSG_Y = 510
+<4>[ 1136.970689] MSG_X = 159,MSG_Y = 510
+<4>[ 1136.980611] MSG_X = 159,MSG_Y = 510
+<4>[ 1136.990585] MSG_X = 159,MSG_Y = 510
+<4>[ 1137.000555] MSG_X = 159,MSG_Y = 510
+<4>[ 1137.010483] MSG_X = 159,MSG_Y = 510
+<4>[ 1137.020455] MSG_X = 159,MSG_Y = 510
+<4>[ 1137.030454] MSG_X = 159,MSG_Y = 510
+<4>[ 1137.040362] MSG_X = 159,MSG_Y = 510
+<4>[ 1137.050337] MSG_X = 159,MSG_Y = 510
+<4>[ 1137.060256] MSG_X = 159,MSG_Y = 510
+<4>[ 1137.070230] MSG_X = 159,MSG_Y = 510
+<4>[ 1137.080197] MSG_X = 159,MSG_Y = 510
+<4>[ 1137.090165] MSG_X = 159,MSG_Y = 510
+<4>[ 1137.100091] MSG_X = 159,MSG_Y = 510
+<4>[ 1137.110055] MSG_X = 159,MSG_Y = 510
+<4>[ 1137.120056] MSG_X = 159,MSG_Y = 510
+<4>[ 1137.129962] MSG_X = 159,MSG_Y = 510
+<4>[ 1137.139922] MSG_X = 159,MSG_Y = 510
+<7>[ 1137.298763] [1:init] fork [2353:init]
+<7>[ 1137.299286] [2353:init] set proc[2353] name: -> [logwrapper]
+<7>[ 1137.301331] [2353:logwrapper] fork [2354:logwrapper]
+<7>[ 1137.301936] [2354:logwrapper] exit
+<7>[ 1137.302102] [2354:logwrapper] sig 17 to [2353:logwrapper]
+<7>[ 1137.303134] [2353:logwrapper] exit
+<7>[ 1137.303336] [2353:logwrapper] sig 17 to [1:init]
+<4>[ 1137.428633] MSG_X = 159,MSG_Y = 510
+<4>[ 1137.438578] MSG_X = 159,MSG_Y = 510
+<4>[ 1137.448540] MSG_X = 159,MSG_Y = 510
+<4>[ 1137.458507] MSG_X = 159,MSG_Y = 510
+<4>[ 1137.468424] MSG_X = 159,MSG_Y = 510
+<4>[ 1137.478399] MSG_X = 159,MSG_Y = 510
+<4>[ 1137.488856] MSG_X = 159,MSG_Y = 510
+<4>[ 1137.508298] MSG_X = 159,MSG_Y = 510
+<4>[ 1137.518223] MSG_X = 159,MSG_Y = 510
+<4>[ 1137.528140] MSG_X = 159,MSG_Y = 510
+<4>[ 1137.538107] MSG_X = 159,MSG_Y = 510
+<4>[ 1137.548074] MSG_X = 159,MSG_Y = 510
+<4>[ 1137.558038] MSG_X = 159,MSG_Y = 510
+<4>[ 1137.568006] MSG_X = 159,MSG_Y = 510
+<4>[ 1137.577926] MSG_X = 159,MSG_Y = 510
+<4>[ 1137.587918] MSG_X = 159,MSG_Y = 510
+<4>[ 1137.597873] MSG_X = 159,MSG_Y = 510
+<4>[ 1137.607796] MSG_X = 159,MSG_Y = 510
+<4>[ 1137.617768] MSG_X = 159,MSG_Y = 510
+<4>[ 1137.627739] MSG_X = 159,MSG_Y = 510
+<4>[ 1137.637659] MSG_X = 159,MSG_Y = 510
+<4>[ 1137.657593] MSG_X = 159,MSG_Y = 510
+<4>[ 1137.667537] MSG_X = 159,MSG_Y = 510
+<4>[ 1137.677542] MSG_X = 159,MSG_Y = 510
+<4>[ 1137.687445] MSG_X = 159,MSG_Y = 510
+<4>[ 1137.697411] MSG_X = 159,MSG_Y = 510
+<4>[ 1137.986172] MSG_X = 159,MSG_Y = 510
+<4>[ 1137.996060] MSG_X = 159,MSG_Y = 510
+<4>[ 1138.006022] MSG_X = 159,MSG_Y = 510
+<4>[ 1138.015988] MSG_X = 159,MSG_Y = 510
+<4>[ 1138.025932] MSG_X = 159,MSG_Y = 510
+<4>[ 1138.035895] MSG_X = 159,MSG_Y = 510
+<6>[ 1138.040333] yaffs: userdata sync do_checkpoint 0,gc_urgen 0
+<6>[ 1138.040343] yaffs: userdata yaffs_FlushSuperBlock 0
+<4>[ 1138.046550] MSG_X = 159,MSG_Y = 510
+<4>[ 1138.055851] MSG_X = 159,MSG_Y = 510
+<4>[ 1138.065756] MSG_X = 159,MSG_Y = 510
+<4>[ 1138.075728] MSG_X = 159,MSG_Y = 510
+<4>[ 1138.085651] MSG_X = 159,MSG_Y = 510
+<4>[ 1138.095622] MSG_X = 159,MSG_Y = 510
+<4>[ 1138.105594] MSG_X = 159,MSG_Y = 510
+<4>[ 1138.115563] MSG_X = 159,MSG_Y = 510
+<4>[ 1138.125488] MSG_X = 159,MSG_Y = 510
+<4>[ 1138.135461] MSG_X = 159,MSG_Y = 510
+<4>[ 1138.145406] MSG_X = 159,MSG_Y = 510
+<4>[ 1138.155359] MSG_X = 159,MSG_Y = 510
+<4>[ 1138.165331] MSG_X = 159,MSG_Y = 510
+<4>[ 1138.175257] MSG_X = 159,MSG_Y = 510
+<4>[ 1138.185228] MSG_X = 159,MSG_Y = 510
+<4>[ 1138.195197] MSG_X = 159,MSG_Y = 510
+<4>[ 1138.205121] MSG_X = 159,MSG_Y = 510
+<4>[ 1138.215092] MSG_X = 159,MSG_Y = 510
+<4>[ 1138.225063] MSG_X = 159,MSG_Y = 510
+<4>[ 1138.235177] MSG_X = 159,MSG_Y = 510
+<4>[ 1138.244977] MSG_X = 159,MSG_Y = 510
+<4>[ 1138.254939] MSG_X = 159,MSG_Y = 510
+<4>[ 1138.264864] MSG_X = 159,MSG_Y = 510
+<4>[ 1138.274834] MSG_X = 159,MSG_Y = 510
+<4>[ 1138.284797] MSG_X = 159,MSG_Y = 510
+<4>[ 1138.294721] MSG_X = 159,MSG_Y = 510
+<4>[ 1138.304687] MSG_X = 159,MSG_Y = 510
+<4>[ 1138.314664] MSG_X = 159,MSG_Y = 510
+<4>[ 1138.325404] MSG_X = 159,MSG_Y = 510
+<4>[ 1138.334579] MSG_X = 159,MSG_Y = 510
+<4>[ 1138.344531] MSG_X = 159,MSG_Y = 510
+<4>[ 1138.354454] MSG_X = 159,MSG_Y = 510
+<7>[ 1138.355538] [82:adbd] fork [2355:adbd]
+<7>[ 1138.356326] [2355:adbd] set proc[2355] name: -> [sh]
+<7>[ 1138.357878] [2355:sh] fork [2356:sh]
+<7>[ 1138.358429] [2356:sh] set proc[2356] name: -> [df]
+<7>[ 1138.360642] [2356:df] exit
+<7>[ 1138.360780] [2356:df] sig 17 to [2355:sh]
+<7>[ 1138.360869] [2355:sh] exit
+<7>[ 1138.361150] [82:adbd] sig 1 to [2355:sh]
+<7>[ 1138.361164] [82:adbd] sig 18 to [2355:sh]
+<7>[ 1138.361367] [2355:sh] sig 1 to [2355:sh]
+<7>[ 1138.361378] [2355:sh] sig 18 to [2355:sh]
+<7>[ 1138.361414] [2355:sh] sig 17 to [82:adbd]
+<4>[ 1138.364432] MSG_X = 159,MSG_Y = 510
+<4>[ 1138.374382] MSG_X = 159,MSG_Y = 510
+<4>[ 1138.384301] MSG_X = 159,MSG_Y = 510
+<4>[ 1138.394267] MSG_X = 159,MSG_Y = 510
+<7>[ 1138.402451] [82:adbd] fork [2357:adbd]
+<7>[ 1138.403320] [2357:adbd] set proc[2357] name: -> [sh]
+<4>[ 1138.404282] MSG_X = 159,MSG_Y = 510
+<7>[ 1138.405384] [2357:sh] fork [2358:sh]
+<7>[ 1138.405925] [2358:sh] set proc[2358] name: -> [getprop]
+<7>[ 1138.407921] [2358:getprop] exit
+<7>[ 1138.408054] [2358:getprop] sig 17 to [2357:sh]
+<7>[ 1138.408145] [2357:sh] exit
+<7>[ 1138.408277] [2357:sh] sig 1 to [2357:sh]
+<7>[ 1138.408297] [2357:sh] sig 17 to [82:adbd]
+<7>[ 1138.451627] [82:adbd] fork [2359:adbd]
+<7>[ 1138.452415] [2359:adbd] set proc[2359] name: -> [sh]
+<7>[ 1138.453961] [2359:sh] fork [2360:sh]
+<7>[ 1138.454498] [2360:sh] set proc[2360] name: -> [dumpsys]
+<6>[ 1138.460709] binder: 2360:2360 refcount change on invalid ref 0
+<6>[ 1138.460722] binder: 2360:2360 refcount change on invalid ref 0
+<6>[ 1138.460736] binder: 2360:2360 binder_context_mgr_node is NULL
+<6>[ 1138.460747] binder: 2360:2360 transaction failed 29189, size 96-0
+<7>[ 1138.461252] [2360:dumpsys] exit
+<7>[ 1138.461600] [2360:dumpsys] sig 17 to [2359:sh]
+<7>[ 1138.461689] [2359:sh] exit
+<7>[ 1138.461825] [2359:sh] sig 1 to [2359:sh]
+<7>[ 1138.461846] [2359:sh] sig 17 to [82:adbd]
+<7>[ 1138.503065] [82:adbd] fork [2361:adbd]
+<7>[ 1138.503843] [2361:adbd] set proc[2361] name: -> [sh]
+<7>[ 1138.505390] [2361:sh] fork [2362:sh]
+<7>[ 1138.505931] [2362:sh] set proc[2362] name: -> [dumpsys]
+<6>[ 1138.514402] binder: 2362:2362 refcount change on invalid ref 0
+<6>[ 1138.514415] binder: 2362:2362 refcount change on invalid ref 0
+<6>[ 1138.514428] binder: 2362:2362 binder_context_mgr_node is NULL
+<6>[ 1138.514438] binder: 2362:2362 transaction failed 29189, size 100-0
+<7>[ 1138.514930] [2362:dumpsys] exit
+<7>[ 1138.515281] [2362:dumpsys] sig 17 to [2361:sh]
+<7>[ 1138.515370] [2361:sh] exit
+<7>[ 1138.515507] [2361:sh] sig 1 to [2361:sh]
+<7>[ 1138.515528] [2361:sh] sig 17 to [82:adbd]
+<4>[ 1138.692972] MSG_X = 159,MSG_Y = 510
+<4>[ 1138.702923] MSG_X = 159,MSG_Y = 510
+<4>[ 1138.794011] MSG_X = 201,MSG_Y = 467
+<4>[ 1138.803975] MSG_X = 201,MSG_Y = 467
+<4>[ 1138.813959] MSG_X = 201,MSG_Y = 467
+<4>[ 1138.823911] MSG_X = 201,MSG_Y = 467
+<4>[ 1138.833862] MSG_X = 201,MSG_Y = 467
+<4>[ 1138.843796] MSG_X = 198,MSG_Y = 468
+<4>[ 1138.853787] MSG_X = 198,MSG_Y = 468
+<4>[ 1138.863744] MSG_X = 198,MSG_Y = 468
+<4>[ 1138.873697] MSG_X = 198,MSG_Y = 468
+<4>[ 1138.884073] MSG_X = 198,MSG_Y = 468
+<4>[ 1139.200657] MSG_X = 159,MSG_Y = 510
+<4>[ 1139.210594] MSG_X = 159,MSG_Y = 510
+<4>[ 1139.220560] MSG_X = 159,MSG_Y = 510
+<4>[ 1139.230484] MSG_X = 159,MSG_Y = 510
+<4>[ 1139.240457] MSG_X = 159,MSG_Y = 510
+<4>[ 1139.250441] MSG_X = 159,MSG_Y = 510
+<4>[ 1139.260375] MSG_X = 159,MSG_Y = 510
+<4>[ 1139.270332] MSG_X = 159,MSG_Y = 510
+<4>[ 1139.280303] MSG_X = 159,MSG_Y = 510
+<4>[ 1139.290223] MSG_X = 159,MSG_Y = 510
+<4>[ 1139.300194] MSG_X = 159,MSG_Y = 510
+<4>[ 1139.310117] MSG_X = 159,MSG_Y = 510
+<4>[ 1139.320095] MSG_X = 159,MSG_Y = 510
+<4>[ 1139.330063] MSG_X = 159,MSG_Y = 510
+<4>[ 1139.339983] MSG_X = 159,MSG_Y = 510
+<4>[ 1139.349970] MSG_X = 159,MSG_Y = 510
+<4>[ 1139.359942] MSG_X = 159,MSG_Y = 510
+<4>[ 1139.369847] MSG_X = 159,MSG_Y = 510
+<4>[ 1139.560849] MSG_X = 155,MSG_Y = 454
+<4>[ 1139.570928] MSG_X = 155,MSG_Y = 454
+<4>[ 1139.580717] MSG_X = 155,MSG_Y = 454
+<4>[ 1139.590709] MSG_X = 155,MSG_Y = 454
+<4>[ 1139.600678] MSG_X = 155,MSG_Y = 454
+<4>[ 1139.610607] MSG_X = 155,MSG_Y = 454
+<4>[ 1139.620583] MSG_X = 155,MSG_Y = 454
+<4>[ 1139.630541] MSG_X = 155,MSG_Y = 454
+<4>[ 1139.640518] MSG_X = 155,MSG_Y = 454
+<4>[ 1139.650442] MSG_X = 155,MSG_Y = 454
+<4>[ 1139.660436] MSG_X = 155,MSG_Y = 454
+<4>[ 1139.670393] MSG_X = 155,MSG_Y = 454
+<4>[ 1139.680323] MSG_X = 157,MSG_Y = 452
+<4>[ 1139.690245] MSG_X = 157,MSG_Y = 452
+<4>[ 1139.700224] MSG_X = 157,MSG_Y = 452
+<4>[ 1139.710184] MSG_X = 157,MSG_Y = 452
+<4>[ 1139.720574] MSG_X = 158,MSG_Y = 458
+<4>[ 1139.730065] MSG_X = 158,MSG_Y = 458
+<4>[ 1139.739988] MSG_X = 159,MSG_Y = 463
+<4>[ 1139.749941] MSG_X = 158,MSG_Y = 469
+<4>[ 1139.759896] MSG_X = 157,MSG_Y = 473
+<4>[ 1139.769838] MSG_X = 157,MSG_Y = 473
+<4>[ 1139.779785] MSG_X = 156,MSG_Y = 479
+<4>[ 1139.789717] MSG_X = 156,MSG_Y = 479
+<4>[ 1139.799686] MSG_X = 156,MSG_Y = 479
+<4>[ 1139.809549] MSG_X = 160,MSG_Y = 479
+<4>[ 1139.819452] MSG_X = 160,MSG_Y = 479
+<4>[ 1139.829397] MSG_X = 160,MSG_Y = 479
+<4>[ 1139.839341] MSG_X = 160,MSG_Y = 479
+<4>[ 1139.849282] MSG_X = 160,MSG_Y = 479
+<4>[ 1139.859220] MSG_X = 160,MSG_Y = 479
+<4>[ 1139.869153] MSG_X = 160,MSG_Y = 479
+<4>[ 1139.879151] MSG_X = 160,MSG_Y = 479
+<4>[ 1139.889099] MSG_X = 160,MSG_Y = 479
+<4>[ 1139.899026] MSG_X = 160,MSG_Y = 479
+<4>[ 1139.909202] MSG_X = 160,MSG_Y = 479
+<4>[ 1139.919036] MSG_X = 160,MSG_Y = 479
+<4>[ 1139.929131] MSG_X = 156,MSG_Y = 479
+<4>[ 1139.939036] MSG_X = 156,MSG_Y = 479
+<4>[ 1139.949027] MSG_X = 156,MSG_Y = 479
+<4>[ 1139.958952] MSG_X = 150,MSG_Y = 479
+<4>[ 1139.968934] MSG_X = 150,MSG_Y = 479
+<4>[ 1139.978870] MSG_X = 146,MSG_Y = 479
+<4>[ 1139.988853] MSG_X = 146,MSG_Y = 479
+<4>[ 1139.999425] MSG_X = 146,MSG_Y = 479
+<4>[ 1140.008759] MSG_X = 146,MSG_Y = 479
+<4>[ 1140.018707] MSG_X = 146,MSG_Y = 479
+<4>[ 1140.028677] MSG_X = 149,MSG_Y = 476
+<4>[ 1140.038619] MSG_X = 149,MSG_Y = 476
+<4>[ 1140.048576] MSG_X = 149,MSG_Y = 476
+<4>[ 1140.058514] MSG_X = 149,MSG_Y = 476
+<4>[ 1140.068515] MSG_X = 149,MSG_Y = 476
+<4>[ 1140.078445] MSG_X = 149,MSG_Y = 476
+<4>[ 1140.088394] MSG_X = 149,MSG_Y = 476
+<4>[ 1140.098329] MSG_X = 149,MSG_Y = 476
+<4>[ 1140.108476] MSG_X = 149,MSG_Y = 476
+<4>[ 1140.118359] MSG_X = 145,MSG_Y = 474
+<4>[ 1140.128146] MSG_X = 145,MSG_Y = 474
+<4>[ 1140.504826] MSG_X = 265,MSG_Y = 510
+<4>[ 1140.514757] MSG_X = 265,MSG_Y = 510
+<4>[ 1140.524672] MSG_X = 265,MSG_Y = 510
+<4>[ 1140.534636] MSG_X = 265,MSG_Y = 510
+<4>[ 1140.544604] MSG_X = 265,MSG_Y = 510
+<4>[ 1140.554601] MSG_X = 265,MSG_Y = 510
+<4>[ 1140.564509] MSG_X = 265,MSG_Y = 510
+<4>[ 1140.574461] MSG_X = 265,MSG_Y = 510
+<4>[ 1140.584425] MSG_X = 265,MSG_Y = 510
+<4>[ 1140.594393] MSG_X = 265,MSG_Y = 510
+<4>[ 1140.604310] MSG_X = 265,MSG_Y = 510
+<5>[ 1140.687150] [Power/Battery] [FGADC] 1,1738,0,55,3791,49,29,26,1135,1135,-29,0,0,1000,0,3820,1000,74,70,1672,104,103
+<7>[ 1140.837601] [2342:factory] exit
+<4>[ 1140.838702] concurrency scenario CON_SCE_CAM_PREVIEW OFF
+<4>[ 1140.839516] mtkfb_ioctl(MTKFB_DISABLE_OVERLAY)
+<4>[ 1142.087612] MSG_X = 53,MSG_Y = 510
+<4>[ 1142.097564] MSG_X = 53,MSG_Y = 510
+<4>[ 1142.107521] MSG_X = 53,MSG_Y = 510
+<4>[ 1142.117483] MSG_X = 53,MSG_Y = 510
+<4>[ 1142.127447] MSG_X = 53,MSG_Y = 510
+<4>[ 1142.137374] MSG_X = 53,MSG_Y = 510
+<4>[ 1142.147331] MSG_X = 53,MSG_Y = 510
+<4>[ 1142.157298] MSG_X = 53,MSG_Y = 510
+<4>[ 1142.167265] MSG_X = 53,MSG_Y = 510
+<4>[ 1142.177188] MSG_X = 53,MSG_Y = 510
+<4>[ 1142.187158] MSG_X = 53,MSG_Y = 510
+<4>[ 1142.197129] MSG_X = 53,MSG_Y = 510
+<4>[ 1142.207051] MSG_X = 53,MSG_Y = 510
+<4>[ 1142.217021] MSG_X = 53,MSG_Y = 510
+<4>[ 1142.226984] MSG_X = 53,MSG_Y = 510
+<4>[ 1142.236947] MSG_X = 53,MSG_Y = 510
+<4>[ 1142.246906] MSG_X = 53,MSG_Y = 510
+<7>[ 1142.281778] [2340:factory] exit
+<7>[ 1142.281884] [2341:factory] exit
+<6>[ 1142.282033] [Power/PMIC] [hwPowerDown] 0,kd_camera_hw,1
+<5>[ 1142.282047] [Power/PMIC] [hwPowerDown] powerId:19 index:0 mod_name: kd_camera_hw
+<5>[ 1142.282967] [Power/PMIC] [19] PMU LDO Disable
+<6>[ 1142.283519] [Power/PMIC] [hwPowerDown] disable 19 by kd_camera_hw 
+<6>[ 1142.283531] [Power/PMIC] [pmic_ldo_enable] Receive powerId 19, action is 0
+<6>[ 1142.283544] [Power/PMIC] [dct_pmic_VCAMA_enable] 0
+<6>[ 1142.283692] [Power/PMIC] [hwPowerDown] 0,kd_camera_hw,1
+<5>[ 1142.283705] [Power/PMIC] [hwPowerDown] powerId:9 index:0 mod_name: kd_camera_hw
+<5>[ 1142.284613] [Power/PMIC] [9] PMU LDO Disable
+<6>[ 1142.285154] [Power/PMIC] [hwPowerDown] disable 9 by kd_camera_hw 
+<6>[ 1142.285165] [Power/PMIC] [pmic_ldo_enable] Receive powerId 9, action is 0
+<6>[ 1142.285177] [Power/PMIC] [dct_pmic_VCAM_AF_enable] 0
+<6>[ 1142.285298] [Power/PMIC] [hwPowerDown] 0,kd_camera_hw,1
+<5>[ 1142.285310] [Power/PMIC] [hwPowerDown] powerId:7 index:0 mod_name: kd_camera_hw
+<5>[ 1142.286218] [Power/PMIC] [7] PMU LDO Disable
+<6>[ 1142.286759] [Power/PMIC] [hwPowerDown] disable 7 by kd_camera_hw 
+<6>[ 1142.286770] [Power/PMIC] [pmic_ldo_enable] Receive powerId 7, action is 0
+<6>[ 1142.286782] [Power/PMIC] [dct_pmic_VCAMD_enable] 0
+<6>[ 1142.286899] [Power/PMIC] [hwPowerDown] 0,kd_camera_hw,1
+<5>[ 1142.286911] [Power/PMIC] [hwPowerDown] powerId:8 index:0 mod_name: kd_camera_hw
+<5>[ 1142.287818] [Power/PMIC] [8] PMU LDO Disable
+<6>[ 1142.288360] [Power/PMIC] [hwPowerDown] disable 8 by kd_camera_hw 
+<6>[ 1142.288371] [Power/PMIC] [pmic_ldo_enable] Receive powerId 8, action is 0
+<6>[ 1142.288383] [Power/PMIC] [dct_pmic_VCAM_IO_enable] 0
+<4>[ 1142.288499] Camera SW_I2C_GPIO_Close!! 
+<4>[ 1142.288504] 
+<7>[ 1142.289312] [ISP][mt_isp_release]
+<4>[ 1142.289762] [MT6575FDVT] [FDVT_DEBUG] FDVT_release
+<7>[ 1142.290503] [SYSRAM][UnlockOwner][EIS][184 bytes]...[Lock Time: 1131.000620][Lock Period:10650000 usec]
+<7>[ 1142.290517] [SYSRAM][CheckClock]u4AllocatedTbl = 0x00000000, EnableClk = 0
+<7>[ 1142.290539] [SYSRAM][Free][User: EIS]try to free
+<6>[ 1142.290727] [KD_CAMERA_FLASHLIGHT]flashlight_release: [flashlight_release] E
+<4>[ 1142.291019] [mtkfb_ioctl]MTKFB_UNREGISTER_OVERLAYBUFFER
+<4>[ 1142.291662] [mtkfb_ioctl]MTKFB_UNREGISTER_OVERLAYBUFFER,va0 = 0x4155f020
+<4>[ 1142.292498] [mtkfb_ioctl]MTKFB_UNREGISTER_OVERLAYBUFFER,va1 = 0x4155f020, size = 252928
+<4>[ 1142.298287] [mtkfb_ioctl] before delete a node,list node Addr:
+<4>[ 1142.299004] 0xd5853000,  0xd5800000,  0xd5803000,  0xd5806000,  0xd5809000,  0xd580c000,  
+<4>[ 1142.300017] [mtkfb_ioctl] after delete a node,list node Addr:
+<4>[ 1142.300797] 0xd5853000,  
+<4>[ 1142.301109] 0xd5803000,  
+<4>[ 1142.301434] 0xd5806000,  
+<4>[ 1142.301758] 0xd5809000,  
+<4>[ 1142.302083] 0xd580c000,  
+<4>[ 1142.302433] [mtkfb_ioctl]MTKFB_UNREGISTER_OVERLAYBUFFER
+<4>[ 1142.303072] [mtkfb_ioctl]MTKFB_UNREGISTER_OVERLAYBUFFER,va0 = 0x4159cc20
+<4>[ 1142.303908] [mtkfb_ioctl]MTKFB_UNREGISTER_OVERLAYBUFFER,va1 = 0x4159cc20, size = 252928
+<4>[ 1142.304942] [mtkfb_ioctl] before delete a node,list node Addr:
+<4>[ 1142.305656] 0xd5853000,  0xd5803000,  0xd5806000,  0xd5809000,  0xd580c000,  
+<4>[ 1142.306527] [mtkfb_ioctl] after delete a node,list node Addr:
+<4>[ 1142.307259] 0xd5853000,  
+<4>[ 1142.307584] 0xd5806000,  
+<4>[ 1142.307909] 0xd5809000,  
+<4>[ 1142.308234] 0xd580c000,  
+<7>[ 1142.308749] [1:init] fork [2363:init]
+<4>[ 1142.308900] [mtkfb_ioctl]MTKFB_UNREGISTER_OVERLAYBUFFER
+<4>[ 1142.309542] [mtkfb_ioctl]MTKFB_UNREGISTER_OVERLAYBUFFER,va0 = 0x415da820
+<4>[ 1142.310426] [mtkfb_ioctl]MTKFB_UNREGISTER_OVERLAYBUFFER,va1 = 0x415da820, size = 252928
+<4>[ 1142.311458] [mtkfb_ioctl] before delete a node,list node Addr:
+<4>[ 1142.312173] 0xd5853000,  0xd5806000,  0xd5809000,  0xd580c000,  
+<4>[ 1142.312906] [mtkfb_ioctl] after delete a node,list node Addr:
+<4>[ 1142.313635] 0xd5853000,  
+<4>[ 1142.313960] 0xd5809000,  
+<4>[ 1142.314285] 0xd580c000,  
+<4>[ 1142.314629] [mtkfb_ioctl]MTKFB_UNREGISTER_OVERLAYBUFFER
+<4>[ 1142.315268] [mtkfb_ioctl]MTKFB_UNREGISTER_OVERLAYBUFFER,va0 = 0x41618420
+<7>[ 1142.316723] [2363:init] set proc[2363] name: -> [logwrapper]
+<7>[ 1142.318076] [2363:logwrapper] fork [2364:logwrapper]
+<7>[ 1142.318583] [2364:logwrapper] exit
+<4>[ 1142.318717] [mtkfb_ioctl]MTKFB_UNREGISTER_OVERLAYBUFFER,va1 = 0x41618420, size = 252928
+<4>[ 1142.319755] [mtkfb_ioctl] before delete a node,list node Addr:
+<7>[ 1142.320544] [2364:logwrapper] sig 17 to [2363:logwrapper]
+<7>[ 1142.320716] [2363:logwrapper] exit
+<7>[ 1142.320920] [2363:logwrapper] sig 17 to [1:init]
+<4>[ 1142.321129] 0xd5853000,  0xd5809000,  0xd580c000,  
+<4>[ 1142.321711] [mtkfb_ioctl] after delete a node,list node Addr:
+<4>[ 1142.322440] 0xd5853000,  
+<4>[ 1142.322764] 0xd580c000,  
+<4>[ 1142.323127] [mtkfb_ioctl]MTKFB_UNREGISTER_OVERLAYBUFFER
+<4>[ 1142.323767] [mtkfb_ioctl]MTKFB_UNREGISTER_OVERLAYBUFFER,va0 = 0x41656020
+<4>[ 1142.324602] [mtkfb_ioctl]MTKFB_UNREGISTER_OVERLAYBUFFER,va1 = 0x41656020, size = 252928
+<4>[ 1142.325641] [mtkfb_ioctl] before delete a node,list node Addr:
+<4>[ 1142.326356] 0xd5853000,  0xd580c000,  
+<4>[ 1142.326804] [mtkfb_ioctl] after delete a node,list node Addr:
+<4>[ 1142.327536] 0xd5853000,  
+<5>[ 1142.750372] [Power/clkmgr] [enable_clock] enable wpll clksrc 0x2 for clock 16
+<5>[ 1142.751252] [Power/clkmgr] [enable_wpll_clksrc_op] wpll_clksrc_mask=0x2, wpll_clksrc_state=0x4003, WPLL_CON=0x403b
+<7>[ 1142.780372] [2:kthreadd] fork [2365:kthreadd]
+<7>[ 1143.359083] [82:adbd] fork [2366:adbd]
+<7>[ 1143.359871] [2366:adbd] set proc[2366] name: -> [sh]
+<7>[ 1143.361503] [2366:sh] fork [2367:sh]
+<7>[ 1143.362057] [2367:sh] set proc[2367] name: -> [df]
+<7>[ 1143.364207] [2367:df] exit
+<7>[ 1143.364342] [2367:df] sig 17 to [2366:sh]
+<7>[ 1143.364432] [2366:sh] exit
+<7>[ 1143.364573] [2366:sh] sig 1 to [2366:sh]
+<7>[ 1143.364593] [2366:sh] sig 17 to [82:adbd]
+<7>[ 1143.407921] [82:adbd] fork [2368:adbd]
+<7>[ 1143.408706] [2368:adbd] set proc[2368] name: -> [sh]
+<7>[ 1143.410266] [2368:sh] fork [2369:sh]
+<7>[ 1143.410849] [2369:sh] set proc[2369] name: -> [getprop]
+<7>[ 1143.412839] [2369:getprop] exit
+<7>[ 1143.412971] [2369:getprop] sig 17 to [2368:sh]
+<7>[ 1143.413080] [2368:sh] exit
+<7>[ 1143.413366] [82:adbd] sig 1 to [2368:sh]
+<7>[ 1143.413380] [82:adbd] sig 18 to [2368:sh]
+<7>[ 1143.413583] [2368:sh] sig 1 to [2368:sh]
+<7>[ 1143.413594] [2368:sh] sig 18 to [2368:sh]
+<7>[ 1143.413608] [2368:sh] sig 17 to [82:adbd]
+<7>[ 1143.456024] [82:adbd] fork [2370:adbd]
+<7>[ 1143.456804] [2370:adbd] set proc[2370] name: -> [sh]
+<7>[ 1143.458355] [2370:sh] fork [2371:sh]
+<7>[ 1143.458884] [2371:sh] set proc[2371] name: -> [dumpsys]
+<6>[ 1143.465109] binder: 2371:2371 refcount change on invalid ref 0
+<6>[ 1143.465122] binder: 2371:2371 refcount change on invalid ref 0
+<6>[ 1143.465135] binder: 2371:2371 binder_context_mgr_node is NULL
+<6>[ 1143.465146] binder: 2371:2371 transaction failed 29189, size 96-0
+<7>[ 1143.465646] [2371:dumpsys] exit
+<7>[ 1143.465995] [2371:dumpsys] sig 17 to [2370:sh]
+<7>[ 1143.466082] [2370:sh] exit
+<7>[ 1143.466218] [2370:sh] sig 1 to [2370:sh]
+<7>[ 1143.466237] [2370:sh] sig 17 to [82:adbd]
+<7>[ 1143.509011] [82:adbd] fork [2372:adbd]
+<7>[ 1143.509789] [2372:adbd] set proc[2372] name: -> [sh]
+<7>[ 1143.511396] [2372:sh] fork [2373:sh]
+<7>[ 1143.511935] [2373:sh] set proc[2373] name: -> [dumpsys]
+<6>[ 1143.518088] binder: 2373:2373 refcount change on invalid ref 0
+<6>[ 1143.518101] binder: 2373:2373 refcount change on invalid ref 0
+<6>[ 1143.518115] binder: 2373:2373 binder_context_mgr_node is NULL
+<6>[ 1143.518126] binder: 2373:2373 transaction failed 29189, size 100-0
+<7>[ 1143.518634] [2373:dumpsys] exit
+<7>[ 1143.518981] [2373:dumpsys] sig 17 to [2372:sh]
+<7>[ 1143.519067] [2372:sh] exit
+<7>[ 1143.519205] [2372:sh] sig 1 to [2372:sh]
+<7>[ 1143.519224] [2372:sh] sig 17 to [82:adbd]
+<5>[ 1143.523083] [Power/PMIC] [mt6329_pmic_eint_irq] receive interrupt
+<5>[ 1143.523832] [Power/PMIC] [wake_up_pmic]
+<6>[ 1143.524339] [Power/PMIC] [pmic_thread_kthread] running
+<6>[ 1143.524544] [Power/PMIC] [BATTERY] Reg[0x21]=0x7b, Reg[0x22]=0xa2, Reg[0x38]=0xf4
+<5>[ 1143.524854] [Power/PMIC] [pmic_thread_kthread_E2] Get HomeKey EINT
+<5>[ 1143.525682] [Power/PMIC] [pmic_thread_kthread_E2] Press HomeKey
+<4>[ 1143.526417] kpd: PMIC reset Key generate, pressed=1
+<4>[ 1143.530437] kpd: (pressed) HW keycode =114 using PMIC
+<5>[ 1143.661941] [Power/PMIC] [mt6329_pmic_eint_irq] receive interrupt
+<5>[ 1143.662690] [Power/PMIC] [wake_up_pmic]
+<6>[ 1143.663202] [Power/PMIC] [pmic_thread_kthread] running
+<6>[ 1143.663416] [Power/PMIC] [BATTERY] Reg[0x21]=0x7b, Reg[0x22]=0xa2, Reg[0x38]=0xf4
+<5>[ 1143.663741] [Power/PMIC] [pmic_thread_kthread_E2] Get HomeKey EINT
+<5>[ 1143.664572] [Power/PMIC] [pmic_thread_kthread_E2] Release HomeKey
+<4>[ 1143.665330] kpd: PMIC reset Key generate, pressed=0
+<4>[ 1143.666030] kpd: (released) HW keycode =114 using PMIC
+<4>[ 1143.990329] 2013-03-09 17:35:32.55371 UTC; android time 2013-03-09 17:35:32.55371
+<6>[ 1144.040336] yaffs: userdata sync do_checkpoint 0,gc_urgen 0
+<6>[ 1144.040347] yaffs: userdata yaffs_FlushSuperBlock 0
+<4>[ 1145.233566] MSG_X = 53,MSG_Y = 510
+<4>[ 1145.243522] MSG_X = 53,MSG_Y = 510
+<4>[ 1145.253483] MSG_X = 53,MSG_Y = 510
+<4>[ 1145.263450] MSG_X = 53,MSG_Y = 510
+<4>[ 1145.273418] MSG_X = 53,MSG_Y = 510
+<4>[ 1145.283346] MSG_X = 53,MSG_Y = 510
+<4>[ 1145.293306] MSG_X = 53,MSG_Y = 510
+<4>[ 1145.303271] MSG_X = 53,MSG_Y = 510
+<4>[ 1145.313235] MSG_X = 53,MSG_Y = 510
+<4>[ 1145.323151] MSG_X = 53,MSG_Y = 510
+<4>[ 1145.333114] MSG_X = 53,MSG_Y = 510
+<4>[ 1145.343078] MSG_X = 53,MSG_Y = 510
+<4>[ 1145.353041] MSG_X = 53,MSG_Y = 510
+<7>[ 1145.394977] [ISP][mt_isp_open]
+<7>[ 1145.396325] [ISP][mt_isp_release]
+<4>[ 1145.396605] concurrency scenario CON_SCE_CAM_PREVIEW OFF
+<6>[ 1145.397467] [KD_CAMERA_FLASHLIGHT]flashlight_open: [flashlight_open] E
+<6>[ 1145.397493] [KD_CAMERA_FLASHLIGHT]kdSetFlashlightDrv: [kdSetFlashlightDrv] flashlightIdx: 0 
+<6>[ 1145.397505] [KD_CAMERA_FLASHLIGHT]default_flashlight_open: [default_flashlight_open] E
+<7>[ 1145.397557] [ISP][mt_isp_open]
+<6>[ 1145.397729] [kd_sensorlist]kdSetDriver: [kdSetDriver] :2,2,hi704yuv,32
+<4>[ 1145.397743] [Enter]:HI704 get Resolution func
+<4>[ 1145.398272] [Exit]:HI704 get Resolution func
+<4>[ 1145.398811] [Enter]:HI704 get Resolution func
+<4>[ 1145.399356] [Exit]:HI704 get Resolution func
+<4>[ 1145.399895] [Enter]:HI704 getInfo func:ScenarioId = 0
+<4>[ 1145.400554] [Exit]:HI704 getInfo func
+<4>[ 1145.401013] [Enter]:HI704 getInfo func:ScenarioId = 1
+<4>[ 1145.401630] [Exit]:HI704 getInfo func
+<4>[ 1145.402088] [Enter]:HI704 getInfo func:ScenarioId = 0
+<4>[ 1145.402712] [Exit]:HI704 getInfo func
+<6>[ 1145.404327] [Power/PMIC] [hwPowerOn] 0,NOP,0
+<5>[ 1145.404339] [Power/PMIC] [hwPowerOn] acquire powerId:8 index:0 mod_name: kd_camera_hw
+<5>[ 1145.405312] [Power/PMIC] [8] PMU LDO Enable
+<6>[ 1145.405843] [Power/PMIC] [hwPowerOn] enable 8 by kd_camera_hw 
+<6>[ 1145.405854] [Power/PMIC] [pmic_ldo_vol_sel] Receive powerId 8, action is 2800
+<6>[ 1145.405867] [Power/PMIC] ****[dct_pmic_VCAM_IO_sel] value=2800 
+<6>[ 1145.406004] [Power/PMIC] [pmic_ldo_enable] Receive powerId 8, action is 1
+<6>[ 1145.406019] [Power/PMIC] [dct_pmic_VCAM_IO_enable] 1
+<6>[ 1145.406138] [Power/PMIC] [hwPowerOn] 0,NOP,0
+<5>[ 1145.406149] [Power/PMIC] [hwPowerOn] acquire powerId:19 index:0 mod_name: kd_camera_hw
+<5>[ 1145.407132] [Power/PMIC] [19] PMU LDO Enable
+<6>[ 1145.407674] [Power/PMIC] [hwPowerOn] enable 19 by kd_camera_hw 
+<6>[ 1145.407685] [Power/PMIC] [pmic_ldo_vol_sel] Receive powerId 19, action is 2800
+<6>[ 1145.407698] [Power/PMIC] ****[dct_pmic_VCAMA_sel] value=2800 
+<6>[ 1145.407816] [Power/PMIC] [pmic_ldo_enable] Receive powerId 19, action is 1
+<6>[ 1145.407830] [Power/PMIC] [dct_pmic_VCAMA_enable] 1
+<6>[ 1145.407947] [Power/PMIC] [hwPowerOn] 0,NOP,0
+<5>[ 1145.407958] [Power/PMIC] [hwPowerOn] acquire powerId:7 index:0 mod_name: kd_camera_hw
+<5>[ 1145.408937] [Power/PMIC] [7] PMU LDO Enable
+<6>[ 1145.409461] [Power/PMIC] [hwPowerOn] enable 7 by kd_camera_hw 
+<6>[ 1145.409472] [Power/PMIC] [pmic_ldo_vol_sel] Receive powerId 7, action is 1800
+<6>[ 1145.409484] [Power/PMIC] ****[dct_pmic_VCAMD_sel] value=1800 
+<6>[ 1145.409601] [Power/PMIC] [pmic_ldo_enable] Receive powerId 7, action is 1
+<6>[ 1145.409615] [Power/PMIC] [dct_pmic_VCAMD_enable] 1
+<6>[ 1145.409731] [Power/PMIC] [hwPowerOn] 0,NOP,0
+<5>[ 1145.409742] [Power/PMIC] [hwPowerOn] acquire powerId:9 index:0 mod_name: kd_camera_hw
+<5>[ 1145.410812] [Power/PMIC] [9] PMU LDO Enable
+<6>[ 1145.411331] [Power/PMIC] [hwPowerOn] enable 9 by kd_camera_hw 
+<6>[ 1145.411342] [Power/PMIC] [pmic_ldo_vol_sel] Receive powerId 9, action is 2800
+<6>[ 1145.411354] [Power/PMIC] ****[dct_pmic_VCAM_AF_sel] value=2800 
+<6>[ 1145.411490] [Power/PMIC] [pmic_ldo_enable] Receive powerId 9, action is 1
+<6>[ 1145.411504] [Power/PMIC] [dct_pmic_VCAM_AF_enable] 1
+<4>[ 1145.427829] Camera SW_I2C_GPIO_Open!! 
+<4>[ 1145.427834] 
+<6>[ 1145.438512] [kd_sensorlist]KD_IMGSENSOR_PROFILE: [kdModulePowerOn]Profile = 34188
+<4>[ 1145.438525] MINGJI Test HI704Open() calling![Enter]:HI704 Open func:Camera iReadRegI2C addr=60 
+<4>[ 1145.445099] [HI704YUV]:read Sensor ID:96
+<4>[ 1145.446795] Camera iReadRegI2C addr=60 
+<4>[ 1145.449080] Camera iReadRegI2C addr=60 
+<4>[ 1145.451385] Camera iReadRegI2C addr=60 
+<4>[ 1145.453672] MINGJI HI704_power_on HI704_pv_exposure_lines=50000
+<4>[ 1145.866094] [Exit]:HI704 Open func
+<6>[ 1145.866508] [kd_sensorlist]KD_IMGSENSOR_PROFILE: [SensorOpen]Profile = 427998
+<7>[ 1145.867111] [SYSRAM][LockOwner][EIS][184 bytes] succeed [Lock Time: 1145.000840][00014A68]
+<7>[ 1145.867125] [SYSRAM][CheckClock]u4AllocatedTbl = 0x00008000, EnableClk = 1
+<7>[ 1145.867151] [SYSRAM][ALLOC_TIMEOUT][User: EIS]alloc 184 bytes successfully
+<4>[ 1145.867333] [MT6575FDVT] [FDVT_DEBUG] FDVT_open
+<4>[ 1145.867897] [MT6575FDVT]  ioctl allocate mem ok
+<4>[ 1145.868449] [MT6575FDVT]  ioctl allocate mem ok
+<4>[ 1145.869016] [MT6575FDVT] [FDVT] FDVT_INIT_CMD
+<7>[ 1145.871018] [86:factory] fork [2374:factory]
+<7>[ 1145.871164] [86:factory] fork [2375:factory]
+<4>[ 1145.902516] [mtkfb_ioctl]MTKFB_REGISTER_OVERLAYBUFFER
+<4>[ 1145.903139] [mtkfb_ioctl] before add a node,list node Addr:
+<4>[ 1145.903832] 0xd5853000,  
+<4>[ 1145.904137] [mtkfb_ioctl]MTKFB_REGISTER_OVERLAYBUFFER,va = 0x4155f020,size = 252928
+<4>[ 1145.905448] [mtkfb_ioctl]MTKFB_REGISTER_OVERLAYBUFFER,allocated mva = 0x2c1020
+<4>[ 1145.906340] [current process ID = 86, current process name:factory]
+<4>[ 1145.907118] [mtkfb_ioctl] after add a node,list node Addr:
+<4>[ 1145.907800] 0xd5853000,  0xd580f000,  
+<4>[ 1145.908285] [mtkfb_ioctl]MTKFB_REGISTER_OVERLAYBUFFER
+<4>[ 1145.908903] [mtkfb_ioctl] before add a node,list node Addr:
+<4>[ 1145.909595] 0xd5853000,  0xd580f000,  
+<4>[ 1145.910041] [mtkfb_ioctl]MTKFB_REGISTER_OVERLAYBUFFER,va = 0x4159cc20,size = 252928
+<4>[ 1145.911371] [mtkfb_ioctl]MTKFB_REGISTER_OVERLAYBUFFER,allocated mva = 0x301c20
+<4>[ 1145.912262] [current process ID = 86, current process name:factory]
+<4>[ 1145.913040] [mtkfb_ioctl] after add a node,list node Addr:
+<4>[ 1145.913723] 0xd5853000,  0xd580f000,  0xd5812000,  
+<4>[ 1145.914350] [mtkfb_ioctl]MTKFB_REGISTER_OVERLAYBUFFER
+<4>[ 1145.914967] [mtkfb_ioctl] before add a node,list node Addr:
+<4>[ 1145.915660] 0xd5853000,  0xd580f000,  0xd5812000,  
+<4>[ 1145.916246] [mtkfb_ioctl]MTKFB_REGISTER_OVERLAYBUFFER,va = 0x415da820,size = 252928
+<4>[ 1145.917535] [mtkfb_ioctl]MTKFB_REGISTER_OVERLAYBUFFER,allocated mva = 0x381820
+<4>[ 1145.918426] [current process ID = 86, current process name:factory]
+<4>[ 1145.919204] [mtkfb_ioctl] after add a node,list node Addr:
+<4>[ 1145.919941] 0xd5853000,  0xd580f000,  0xd5812000,  0xd5815000,  
+<4>[ 1145.920801] [mtkfb_ioctl]MTKFB_REGISTER_OVERLAYBUFFER
+<4>[ 1145.921443] [mtkfb_ioctl] before add a node,list node Addr:
+<4>[ 1145.922147] 0xd5853000,  0xd580f000,  0xd5812000,  0xd5815000,  
+<4>[ 1145.922869] [mtkfb_ioctl]MTKFB_REGISTER_OVERLAYBUFFER,va = 0x41618420,size = 252928
+<4>[ 1145.924163] [mtkfb_ioctl]MTKFB_REGISTER_OVERLAYBUFFER,allocated mva = 0x401420
+<4>[ 1145.925054] [current process ID = 86, current process name:factory]
+<4>[ 1145.925832] [mtkfb_ioctl] after add a node,list node Addr:
+<4>[ 1145.926515] 0xd5853000,  0xd580f000,  0xd5812000,  0xd5815000,  0xd5818000,  
+<4>[ 1145.927422] [mtkfb_ioctl]MTKFB_REGISTER_OVERLAYBUFFER
+<4>[ 1145.928040] [mtkfb_ioctl] before add a node,list node Addr:
+<4>[ 1145.928733] 0xd5853000,  0xd580f000,  0xd5812000,  0xd5815000,  0xd5818000,  
+<4>[ 1145.929601] [mtkfb_ioctl]MTKFB_REGISTER_OVERLAYBUFFER,va = 0x41656020,size = 252928
+<4>[ 1145.930928] [mtkfb_ioctl]MTKFB_REGISTER_OVERLAYBUFFER,allocated mva = 0x481020
+<4>[ 1145.931820] [current process ID = 86, current process name:factory]
+<4>[ 1145.932598] [mtkfb_ioctl] after add a node,list node Addr:
+<4>[ 1145.933280] 0xd5853000,  0xd580f000,  0xd5812000,  0xd5815000,  0xd5818000,  0xd581b000,  
+<4>[ 1145.950147] concurrency scenario CON_SCE_CAM_PREVIEW ON
+<7>[ 1145.952417] [ISP][mt_isp_ioctl]RESET
+<7>[ 1145.952562] [ISP][mt_isp_reset_buf]hold_reg(0), BufAmount(0)
+<7>[ 1145.952572] [ISP][mt_isp_reset_buf]End
+<4>[ 1145.952597] [Enter]:HI704 getInfo func:ScenarioId = 0
+<4>[ 1145.953215] [Exit]:HI704 getInfo func
+<4>[ 1145.953674] [Enter]:HI704 getInfo func:ScenarioId = 0
+<4>[ 1145.954298] [Exit]:HI704 getInfo func
+<4>[ 1145.954757] [Enter]:HI704 Control func:ScenarioId = 0
+<4>[ 1145.955381] [Enter]:HI704 preview func:HI704_sensor.video_mode = 0
+<4>[ 1145.956150] [HI704]preview set_VGA_mode
+<4>[ 1145.956628] Camera iReadRegI2C addr=60 
+<4>[ 1145.973652] Camera iReadRegI2C addr=60 
+<4>[ 1145.977160] Camera iReadRegI2C addr=60 
+<4>[ 1145.996586] Camera iReadRegI2C addr=60 
+<4>[ 1146.001334] Camera iReadRegI2C addr=60 
+<4>[ 1146.004841] Camera iReadRegI2C addr=60 
+<4>[ 1146.008346] [Enter]:HI704 set Mirror_flip func:image_mirror=3
+<4>[ 1146.010270] Camera iReadRegI2C addr=60 
+<4>[ 1146.013794] [Exit]:HI704 set Mirror_flip func mirror=147
+<4>[ 1146.014443] [Exit]:HI704 preview func
+<4>[ 1146.014898] [Exit]:HI704 Control func
+<4>[ 1146.017159] [Enter]:HI704 getInfo func:ScenarioId = 0
+<4>[ 1146.017779] [Exit]:HI704 getInfo func
+<4>[ 1146.018237] [Enter]:HI704 get Resolution func
+<4>[ 1146.018774] [Exit]:HI704 get Resolution func
+<4>[ 1146.019394] [Enter]HI704YUVSensorSetting func:cmd = 2
+<4>[ 1146.020038] [Enter]HI704YUVSensorSetting func:cmd = 21
+<4>[ 1146.020863] [Enter]HI704YUVSensorSetting func:cmd = 22
+<4>[ 1146.021517] [Enter]HI704YUVSensorSetting func:cmd = 18
+<4>[ 1146.022162] [Enter]HI704YUVSensorSetting func:cmd = 20
+<4>[ 1146.022790] [Enter]HI704 set_param_exposure func:para = 0
+<4>[ 1146.023477] [Enter]HI704YUVSensorSetting func:cmd = 23
+<4>[ 1146.024105] [Enter]HI704 set_param_wb func:para = 1
+<4>[ 1146.034536] [Enter]HI704YUVSensorSetting func:cmd = 19
+<4>[ 1146.035181] [Enter]HI704YUVSensorSetting func:cmd = 19
+<4>[ 1146.035825] [Enter]HI704YUVSensorSetting func:cmd = 17
+<4>[ 1146.036521] [Enter]HI704YUVSensorSetting func:cmd = 27
+<4>[ 1146.037175] [Enter]HI704YUVSensorSetting func:cmd = 25
+<4>[ 1146.037825] [Enter]HI704YUVSensorSetting func:cmd = 26
+<4>[ 1146.038475] [Enter]HI704YUVSensorSetting func:cmd = 24
+<4>[ 1146.039125] [Enter]HI704YUVSensorSetting func:cmd = 28
+<4>[ 1146.039776] [Enter]HI704YUVSensorSetting func:cmd = 6
+<4>[ 1146.040427] [Enter]HI704 night mode func:enable = 0
+<4>[ 1146.041023] HI704_sensor.video_mode = 0
+<4>[ 1146.041499] HI704_sensor.night_mode = 0
+<4>[ 1146.041976] [HI704] HI704_Cal_Min_Frame_Rate:min_fps=100
+<4>[ 1146.042637] Camera iReadRegI2C addr=60 
+<4>[ 1146.047376] Camera iReadRegI2C addr=60 
+<4>[ 1146.052123] Camera iReadRegI2C addr=60 
+<4>[ 1146.056849] Camera iReadRegI2C addr=60 
+<4>[ 1146.064033] Camera iReadRegI2C addr=60 
+<4>[ 1146.066319] Camera iReadRegI2C addr=60 
+<4>[ 1146.073502] Camera iReadRegI2C addr=60 
+<4>[ 1146.078228] Camera iReadRegI2C addr=60 
+<4>[ 1146.081751] Camera iReadRegI2C addr=60 
+<4>[ 1146.085291] [Enter]HI704YUVSensorSetting func:cmd = 7
+<4>[ 1146.085909] [Enter]HI704 set_param_effect func:para = 0
+<4>[ 1146.086589] [Enter]HI704YUVSensorSetting func:cmd = 0
+<4>[ 1146.087291] [Enter]HI704YUVSensorSetting func:cmd = 13
+<4>[ 1146.087921] [Enter]HI704 set_param_banding func:para = 0
+<7>[ 1146.098636] [86:factory] fork [2376:factory]
+<4>[ 1146.303184] [Enter]:HI704 getInfo func:ScenarioId = 0
+<4>[ 1146.303804] [Exit]:HI704 getInfo func
+<4>[ 1146.634364] mtkfb_ioctl(MTKFB_ENABLE_OVERLAY)
+<7>[ 1147.326317] [1:init] fork [2377:init]
+<7>[ 1147.326869] [2377:init] set proc[2377] name: -> [logwrapper]
+<7>[ 1147.328835] [2377:logwrapper] fork [2378:logwrapper]
+<7>[ 1147.329357] [2378:logwrapper] exit
+<7>[ 1147.329506] [2378:logwrapper] sig 17 to [2377:logwrapper]
+<7>[ 1147.329666] [2377:logwrapper] exit
+<7>[ 1147.329840] [2377:logwrapper] sig 17 to [1:init]
+<7>[ 1148.371056] [82:adbd] fork [2379:adbd]
+<7>[ 1148.371844] [2379:adbd] set proc[2379] name: -> [sh]
+<7>[ 1148.373399] [2379:sh] fork [2380:sh]
+<7>[ 1148.373941] [2380:sh] set proc[2380] name: -> [df]
+<7>[ 1148.376100] [2380:df] exit
+<7>[ 1148.376236] [2380:df] sig 17 to [2379:sh]
+<7>[ 1148.376328] [2379:sh] exit
+<7>[ 1148.376617] [82:adbd] sig 1 to [2379:sh]
+<7>[ 1148.376631] [82:adbd] sig 18 to [2379:sh]
+<7>[ 1148.376838] [2379:sh] sig 1 to [2379:sh]
+<7>[ 1148.376850] [2379:sh] sig 18 to [2379:sh]
+<7>[ 1148.376864] [2379:sh] sig 17 to [82:adbd]
+<7>[ 1148.417956] [82:adbd] fork [2381:adbd]
+<7>[ 1148.418737] [2381:adbd] set proc[2381] name: -> [sh]
+<7>[ 1148.420846] [2382:sh] set proc[2382] name: -> [getprop]
+<7>[ 1148.422837] [2382:getprop] exit
+<7>[ 1148.422970] [2382:getprop] sig 17 to [2381:sh]
+<7>[ 1148.423005] [2381:sh] fork [2382:getprop]
+<7>[ 1148.423091] [2381:sh] exit
+<7>[ 1148.423375] [82:adbd] sig 1 to [2381:sh]
+<7>[ 1148.423389] [82:adbd] sig 18 to [2381:sh]
+<7>[ 1148.423589] [2381:sh] sig 1 to [2381:sh]
+<7>[ 1148.423600] [2381:sh] sig 18 to [2381:sh]
+<7>[ 1148.423636] [2381:sh] sig 17 to [82:adbd]
+<7>[ 1148.471245] [82:adbd] fork [2383:adbd]
+<7>[ 1148.472029] [2383:adbd] set proc[2383] name: -> [sh]
+<7>[ 1148.473566] [2383:sh] fork [2384:sh]
+<7>[ 1148.474104] [2384:sh] set proc[2384] name: -> [dumpsys]
+<6>[ 1148.480230] binder: 2384:2384 refcount change on invalid ref 0
+<6>[ 1148.480243] binder: 2384:2384 refcount change on invalid ref 0
+<6>[ 1148.480256] binder: 2384:2384 binder_context_mgr_node is NULL
+<6>[ 1148.480267] binder: 2384:2384 transaction failed 29189, size 96-0
+<7>[ 1148.480833] [2384:dumpsys] exit
+<7>[ 1148.481186] [2384:dumpsys] sig 17 to [2383:sh]
+<7>[ 1148.481271] [2383:sh] exit
+<7>[ 1148.481406] [2383:sh] sig 1 to [2383:sh]
+<7>[ 1148.481426] [2383:sh] sig 17 to [82:adbd]
+<7>[ 1148.522091] [82:adbd] fork [2385:adbd]
+<7>[ 1148.522872] [2385:adbd] set proc[2385] name: -> [sh]
+<7>[ 1148.524419] [2385:sh] fork [2386:sh]
+<7>[ 1148.524957] [2386:sh] set proc[2386] name: -> [dumpsys]
+<6>[ 1148.531146] binder: 2386:2386 refcount change on invalid ref 0
+<6>[ 1148.531159] binder: 2386:2386 refcount change on invalid ref 0
+<6>[ 1148.531172] binder: 2386:2386 binder_context_mgr_node is NULL
+<6>[ 1148.531183] binder: 2386:2386 transaction failed 29189, size 100-0
+<7>[ 1148.531682] [2386:dumpsys] exit
+<7>[ 1148.532030] [2386:dumpsys] sig 17 to [2385:sh]
+<7>[ 1148.532118] [2385:sh] exit
+<7>[ 1148.532255] [2385:sh] sig 1 to [2385:sh]
+<7>[ 1148.532276] [2385:sh] sig 17 to [82:adbd]
+<4>[ 1148.538930] MSG_X = 159,MSG_Y = 510
+<4>[ 1148.548891] MSG_X = 159,MSG_Y = 510
+<4>[ 1148.558847] MSG_X = 159,MSG_Y = 510
+<4>[ 1148.568756] MSG_X = 159,MSG_Y = 510
+<4>[ 1148.578737] MSG_X = 159,MSG_Y = 510
+<4>[ 1148.588716] MSG_X = 159,MSG_Y = 510
+<4>[ 1148.598673] MSG_X = 159,MSG_Y = 510
+<4>[ 1148.608599] MSG_X = 159,MSG_Y = 510
+<4>[ 1148.618566] MSG_X = 159,MSG_Y = 510
+<4>[ 1148.628530] MSG_X = 159,MSG_Y = 510
+<4>[ 1148.638497] MSG_X = 159,MSG_Y = 510
+<4>[ 1148.648666] MSG_X = 159,MSG_Y = 510
+<4>[ 1148.658397] MSG_X = 159,MSG_Y = 510
+<4>[ 1148.668357] MSG_X = 159,MSG_Y = 510
+<4>[ 1148.678324] MSG_X = 159,MSG_Y = 510
+<4>[ 1148.688242] MSG_X = 159,MSG_Y = 510
+<4>[ 1148.698208] MSG_X = 159,MSG_Y = 510
+<4>[ 1148.708172] MSG_X = 159,MSG_Y = 510
+<4>[ 1148.718137] MSG_X = 159,MSG_Y = 510
+<4>[ 1148.728057] MSG_X = 159,MSG_Y = 510
+<4>[ 1148.738027] MSG_X = 159,MSG_Y = 510
+<4>[ 1148.748012] MSG_X = 159,MSG_Y = 510
+<4>[ 1148.757982] MSG_X = 159,MSG_Y = 510
+<4>[ 1149.046708] MSG_X = 159,MSG_Y = 510
+<4>[ 1149.056660] MSG_X = 159,MSG_Y = 510
+<4>[ 1149.066617] MSG_X = 159,MSG_Y = 510
+<4>[ 1149.076540] MSG_X = 159,MSG_Y = 510
+<4>[ 1149.086512] MSG_X = 159,MSG_Y = 510
+<4>[ 1149.096449] MSG_X = 159,MSG_Y = 510
+<4>[ 1149.106403] MSG_X = 159,MSG_Y = 510
+<4>[ 1149.116372] MSG_X = 159,MSG_Y = 510
+<4>[ 1149.126340] MSG_X = 159,MSG_Y = 510
+<4>[ 1149.136263] MSG_X = 159,MSG_Y = 510
+<4>[ 1149.146237] MSG_X = 159,MSG_Y = 510
+<4>[ 1149.156383] MSG_X = 159,MSG_Y = 510
+<4>[ 1149.166136] MSG_X = 159,MSG_Y = 510
+<4>[ 1149.176104] MSG_X = 159,MSG_Y = 510
+<4>[ 1149.186072] MSG_X = 159,MSG_Y = 510
+<4>[ 1149.196038] MSG_X = 159,MSG_Y = 510
+<4>[ 1149.205958] MSG_X = 159,MSG_Y = 510
+<4>[ 1149.215928] MSG_X = 159,MSG_Y = 510
+<4>[ 1149.225904] MSG_X = 159,MSG_Y = 510
+<4>[ 1149.235828] MSG_X = 159,MSG_Y = 510
+<4>[ 1149.245800] MSG_X = 159,MSG_Y = 510
+<4>[ 1149.255792] MSG_X = 159,MSG_Y = 510
+<4>[ 1149.892963] MSG_X = 265,MSG_Y = 510
+<4>[ 1149.902889] MSG_X = 265,MSG_Y = 510
+<4>[ 1149.912860] MSG_X = 265,MSG_Y = 510
+<4>[ 1149.922831] MSG_X = 265,MSG_Y = 510
+<4>[ 1149.932764] MSG_X = 265,MSG_Y = 510
+<4>[ 1149.942744] MSG_X = 265,MSG_Y = 510
+<4>[ 1149.952701] MSG_X = 265,MSG_Y = 510
+<4>[ 1149.963121] MSG_X = 265,MSG_Y = 510
+<4>[ 1149.972612] MSG_X = 265,MSG_Y = 510
+<4>[ 1149.982558] MSG_X = 265,MSG_Y = 510
+<4>[ 1149.992529] MSG_X = 265,MSG_Y = 510
+<4>[ 1150.002452] MSG_X = 265,MSG_Y = 510
+<4>[ 1150.012419] MSG_X = 265,MSG_Y = 510
+<4>[ 1150.022394] MSG_X = 265,MSG_Y = 510
+<6>[ 1150.171256] [KD_CAMERA_FLASHLIGHT]default_flashlight_ioctl: [default_flashlight_ioctl]
+<4>[ 1150.171704] concurrency scenario CON_SCE_CAM_PREVIEW OFF
+<7>[ 1150.172524] [2376:factory] exit
+<4>[ 1150.172646] mtkfb_ioctl(MTKFB_DISABLE_OVERLAY)
+<5>[ 1150.688977] [Power/Battery] [FGADC] 1,1865,0,55,3791,49,29,26,1135,1135,-32,0,0,1000,0,3820,1000,74,70,1794,104,103
+<4>[ 1151.465973] MSG_X = 53,MSG_Y = 510
+<4>[ 1151.475928] MSG_X = 53,MSG_Y = 510
+<4>[ 1151.485891] MSG_X = 53,MSG_Y = 510
+<4>[ 1151.495849] MSG_X = 53,MSG_Y = 510
+<4>[ 1151.505811] MSG_X = 53,MSG_Y = 510
+<4>[ 1151.515734] MSG_X = 53,MSG_Y = 510
+<4>[ 1151.525692] MSG_X = 53,MSG_Y = 510
+<4>[ 1151.535656] MSG_X = 53,MSG_Y = 510
+<4>[ 1151.545626] MSG_X = 53,MSG_Y = 510
+<4>[ 1151.555547] MSG_X = 53,MSG_Y = 510
+<4>[ 1151.565513] MSG_X = 53,MSG_Y = 510
+<4>[ 1151.575479] MSG_X = 53,MSG_Y = 510
+<4>[ 1151.585445] MSG_X = 53,MSG_Y = 510
+<4>[ 1151.595363] MSG_X = 53,MSG_Y = 510
+<4>[ 1151.605326] MSG_X = 53,MSG_Y = 510
+<4>[ 1151.615292] MSG_X = 53,MSG_Y = 510
+<4>[ 1151.625255] MSG_X = 53,MSG_Y = 510
+<4>[ 1151.635217] MSG_X = 53,MSG_Y = 510
+<4>[ 1151.645131] MSG_X = 53,MSG_Y = 510
+<4>[ 1151.655093] MSG_X = 53,MSG_Y = 510
+<7>[ 1151.690364] [2374:factory] exit
+<7>[ 1151.690475] [2375:factory] exit
+<6>[ 1151.690621] [Power/PMIC] [hwPowerDown] 0,kd_camera_hw,1
+<5>[ 1151.690635] [Power/PMIC] [hwPowerDown] powerId:19 index:0 mod_name: kd_camera_hw
+<5>[ 1151.691555] [Power/PMIC] [19] PMU LDO Disable
+<6>[ 1151.692107] [Power/PMIC] [hwPowerDown] disable 19 by kd_camera_hw 
+<6>[ 1151.692119] [Power/PMIC] [pmic_ldo_enable] Receive powerId 19, action is 0
+<6>[ 1151.692131] [Power/PMIC] [dct_pmic_VCAMA_enable] 0
+<6>[ 1151.692277] [Power/PMIC] [hwPowerDown] 0,kd_camera_hw,1
+<5>[ 1151.692291] [Power/PMIC] [hwPowerDown] powerId:9 index:0 mod_name: kd_camera_hw
+<5>[ 1151.693199] [Power/PMIC] [9] PMU LDO Disable
+<6>[ 1151.693740] [Power/PMIC] [hwPowerDown] disable 9 by kd_camera_hw 
+<6>[ 1151.693751] [Power/PMIC] [pmic_ldo_enable] Receive powerId 9, action is 0
+<6>[ 1151.693763] [Power/PMIC] [dct_pmic_VCAM_AF_enable] 0
+<6>[ 1151.693882] [Power/PMIC] [hwPowerDown] 0,kd_camera_hw,1
+<5>[ 1151.693894] [Power/PMIC] [hwPowerDown] powerId:7 index:0 mod_name: kd_camera_hw
+<5>[ 1151.694802] [Power/PMIC] [7] PMU LDO Disable
+<6>[ 1151.695343] [Power/PMIC] [hwPowerDown] disable 7 by kd_camera_hw 
+<6>[ 1151.695354] [Power/PMIC] [pmic_ldo_enable] Receive powerId 7, action is 0
+<6>[ 1151.695366] [Power/PMIC] [dct_pmic_VCAMD_enable] 0
+<6>[ 1151.695483] [Power/PMIC] [hwPowerDown] 0,kd_camera_hw,1
+<5>[ 1151.695496] [Power/PMIC] [hwPowerDown] powerId:8 index:0 mod_name: kd_camera_hw
+<5>[ 1151.696403] [Power/PMIC] [8] PMU LDO Disable
+<6>[ 1151.696944] [Power/PMIC] [hwPowerDown] disable 8 by kd_camera_hw 
+<6>[ 1151.696955] [Power/PMIC] [pmic_ldo_enable] Receive powerId 8, action is 0
+<6>[ 1151.696967] [Power/PMIC] [dct_pmic_VCAM_IO_enable] 0
+<4>[ 1151.697084] Camera SW_I2C_GPIO_Close!! 
+<4>[ 1151.697088] 
+<7>[ 1151.697888] [ISP][mt_isp_release]
+<4>[ 1151.698335] [MT6575FDVT] [FDVT_DEBUG] FDVT_release
+<7>[ 1151.699016] [SYSRAM][UnlockOwner][EIS][184 bytes]...[Lock Time: 1145.000840][Lock Period:5830000 usec]
+<7>[ 1151.699030] [SYSRAM][CheckClock]u4AllocatedTbl = 0x00000000, EnableClk = 0
+<7>[ 1151.699052] [SYSRAM][Free][User: EIS]try to free
+<6>[ 1151.699217] [KD_CAMERA_FLASHLIGHT]default_flashlight_ioctl: [default_flashlight_ioctl]
+<6>[ 1151.699245] [KD_CAMERA_FLASHLIGHT]flashlight_release: [flashlight_release] E
+<6>[ 1151.699256] [KD_CAMERA_FLASHLIGHT]default_flashlight_release: [default_flashlight_release] E
+<4>[ 1151.699548] [mtkfb_ioctl]MTKFB_UNREGISTER_OVERLAYBUFFER
+<4>[ 1151.700190] [mtkfb_ioctl]MTKFB_UNREGISTER_OVERLAYBUFFER,va0 = 0x4155f020
+<4>[ 1151.701073] [mtkfb_ioctl]MTKFB_UNREGISTER_OVERLAYBUFFER,va1 = 0x4155f020, size = 252928
+<4>[ 1151.715335] [mtkfb_ioctl] before delete a node,list node Addr:
+<4>[ 1151.716052] 0xd5853000,  0xd580f000,  0xd5812000,  0xd5815000,  0xd5818000,  0xd581b000,  
+<4>[ 1151.717066] [mtkfb_ioctl] after delete a node,list node Addr:
+<4>[ 1151.717795] 0xd5853000,  
+<4>[ 1151.718120] 0xd5812000,  
+<4>[ 1151.718445] 0xd5815000,  
+<4>[ 1151.718770] 0xd5818000,  
+<4>[ 1151.719095] 0xd581b000,  
+<4>[ 1151.719446] [mtkfb_ioctl]MTKFB_UNREGISTER_OVERLAYBUFFER
+<4>[ 1151.720085] [mtkfb_ioctl]MTKFB_UNREGISTER_OVERLAYBUFFER,va0 = 0x4159cc20
+<4>[ 1151.720949] [mtkfb_ioctl]MTKFB_UNREGISTER_OVERLAYBUFFER,va1 = 0x4159cc20, size = 252928
+<4>[ 1151.721977] [mtkfb_ioctl] before delete a node,list node Addr:
+<4>[ 1151.722691] 0xd5853000,  0xd5812000,  0xd5815000,  0xd5818000,  0xd581b000,  
+<4>[ 1151.723561] [mtkfb_ioctl] after delete a node,list node Addr:
+<4>[ 1151.724294] 0xd5853000,  
+<4>[ 1151.724619] 0xd5815000,  
+<4>[ 1151.724944] 0xd5818000,  
+<4>[ 1151.725269] 0xd581b000,  
+<4>[ 1151.725608] [mtkfb_ioctl]MTKFB_UNREGISTER_OVERLAYBUFFER
+<4>[ 1151.726247] [mtkfb_ioctl]MTKFB_UNREGISTER_OVERLAYBUFFER,va0 = 0x415da820
+<4>[ 1151.727082] [mtkfb_ioctl]MTKFB_UNREGISTER_OVERLAYBUFFER,va1 = 0x415da820, size = 252928
+<4>[ 1151.728114] [mtkfb_ioctl] before delete a node,list node Addr:
+<4>[ 1151.728829] 0xd5853000,  0xd5815000,  0xd5818000,  0xd581b000,  
+<4>[ 1151.729557] [mtkfb_ioctl] after delete a node,list node Addr:
+<4>[ 1151.730314] 0xd5853000,  
+<4>[ 1151.730625] 0xd5818000,  
+<4>[ 1151.730950] 0xd581b000,  
+<4>[ 1151.731288] [mtkfb_ioctl]MTKFB_UNREGISTER_OVERLAYBUFFER
+<4>[ 1151.731927] [mtkfb_ioctl]MTKFB_UNREGISTER_OVERLAYBUFFER,va0 = 0x41618420
+<4>[ 1151.732763] [mtkfb_ioctl]MTKFB_UNREGISTER_OVERLAYBUFFER,va1 = 0x41618420, size = 252928
+<4>[ 1151.733795] [mtkfb_ioctl] before delete a node,list node Addr:
+<4>[ 1151.734509] 0xd5853000,  0xd5818000,  0xd581b000,  
+<4>[ 1151.735098] [mtkfb_ioctl] after delete a node,list node Addr:
+<4>[ 1151.735830] 0xd5853000,  
+<4>[ 1151.736155] 0xd581b000,  
+<4>[ 1151.736492] [mtkfb_ioctl]MTKFB_UNREGISTER_OVERLAYBUFFER
+<4>[ 1151.737131] [mtkfb_ioctl]MTKFB_UNREGISTER_OVERLAYBUFFER,va0 = 0x41656020
+<4>[ 1151.737966] [mtkfb_ioctl]MTKFB_UNREGISTER_OVERLAYBUFFER,va1 = 0x41656020, size = 252928
+<4>[ 1151.738998] [mtkfb_ioctl] before delete a node,list node Addr:
+<4>[ 1151.739712] 0xd5853000,  0xd581b000,  
+<4>[ 1151.740159] [mtkfb_ioctl] after delete a node,list node Addr:
+<4>[ 1151.740947] 0xd5853000,  
+<7>[ 1152.335231] [1:init] fork [2387:init]
+<7>[ 1152.335764] [2387:init] set proc[2387] name: -> [logwrapper]
+<7>[ 1152.337111] [2387:logwrapper] fork [2388:logwrapper]
+<7>[ 1152.337623] [2388:logwrapper] exit
+<7>[ 1152.337744] [2388:logwrapper] sig 17 to [2387:logwrapper]
+<7>[ 1152.337920] [2387:logwrapper] exit
+<7>[ 1152.338116] [2387:logwrapper] sig 17 to [1:init]
+<5>[ 1152.760310] [Power/clkmgr] [disable_clock] disable wpll clksrc 0x2 for clock 16
+<5>[ 1152.761211] [Power/clkmgr] [disable_wpll_clksrc_op] wpll_clksrc_mask=0x2, wpll_clksrc_state=0x4001, WPLL_CON=0x4039
+<7>[ 1153.375555] [82:adbd] fork [2389:adbd]
+<7>[ 1153.376330] [2389:adbd] set proc[2389] name: -> [sh]
+<7>[ 1153.377884] [2389:sh] fork [2390:sh]
+<7>[ 1153.378437] [2390:sh] set proc[2390] name: -> [df]
+<7>[ 1153.380658] [2390:df] exit
+<7>[ 1153.380795] [2390:df] sig 17 to [2389:sh]
+<7>[ 1153.380886] [2389:sh] exit
+<7>[ 1153.381179] [82:adbd] sig 1 to [2389:sh]
+<7>[ 1153.381192] [82:adbd] sig 18 to [2389:sh]
+<7>[ 1153.381392] [2389:sh] sig 1 to [2389:sh]
+<7>[ 1153.381404] [2389:sh] sig 18 to [2389:sh]
+<7>[ 1153.381418] [2389:sh] sig 17 to [82:adbd]
+<7>[ 1153.423270] [82:adbd] fork [2391:adbd]
+<7>[ 1153.424051] [2391:adbd] set proc[2391] name: -> [sh]
+<7>[ 1153.425608] [2391:sh] fork [2392:sh]
+<7>[ 1153.426154] [2392:sh] set proc[2392] name: -> [getprop]
+<7>[ 1153.428135] [2392:getprop] exit
+<7>[ 1153.428270] [2392:getprop] sig 17 to [2391:sh]
+<7>[ 1153.428363] [2391:sh] exit
+<7>[ 1153.428643] [82:adbd] sig 1 to [2391:sh]
+<7>[ 1153.428658] [82:adbd] sig 18 to [2391:sh]
+<7>[ 1153.428860] [2391:sh] sig 1 to [2391:sh]
+<7>[ 1153.428871] [2391:sh] sig 18 to [2391:sh]
+<7>[ 1153.428884] [2391:sh] sig 17 to [82:adbd]
+<7>[ 1153.469157] [82:adbd] fork [2393:adbd]
+<7>[ 1153.469939] [2393:adbd] set proc[2393] name: -> [sh]
+<7>[ 1153.471560] [2393:sh] fork [2394:sh]
+<7>[ 1153.472101] [2394:sh] set proc[2394] name: -> [dumpsys]
+<6>[ 1153.478264] binder: 2394:2394 refcount change on invalid ref 0
+<6>[ 1153.478277] binder: 2394:2394 refcount change on invalid ref 0
+<6>[ 1153.478291] binder: 2394:2394 binder_context_mgr_node is NULL
+<6>[ 1153.478302] binder: 2394:2394 transaction failed 29189, size 96-0
+<7>[ 1153.478800] [2394:dumpsys] exit
+<7>[ 1153.479838] [2394:dumpsys] sig 17 to [2393:sh]
+<7>[ 1153.479933] [2393:sh] exit
+<7>[ 1153.480079] [2393:sh] sig 1 to [2393:sh]
+<7>[ 1153.480099] [2393:sh] sig 17 to [82:adbd]
+<7>[ 1153.522268] [82:adbd] fork [2395:adbd]
+<7>[ 1153.523051] [2395:adbd] set proc[2395] name: -> [sh]
+<7>[ 1153.524603] [2395:sh] fork [2396:sh]
+<7>[ 1153.525137] [2396:sh] set proc[2396] name: -> [dumpsys]
+<6>[ 1153.531354] binder: 2396:2396 refcount change on invalid ref 0
+<6>[ 1153.531366] binder: 2396:2396 refcount change on invalid ref 0
+<6>[ 1153.531380] binder: 2396:2396 binder_context_mgr_node is NULL
+<6>[ 1153.531390] binder: 2396:2396 transaction failed 29189, size 100-0
+<7>[ 1153.531888] [2396:dumpsys] exit
+<7>[ 1153.532234] [2396:dumpsys] sig 17 to [2395:sh]
+<7>[ 1153.532321] [2395:sh] exit
+<7>[ 1153.532459] [2395:sh] sig 1 to [2395:sh]
+<7>[ 1153.532479] [2395:sh] sig 17 to [82:adbd]
+<6>[ 1156.040325] yaffs: userdata sync do_checkpoint 0,gc_urgen 0
+<6>[ 1156.040337] yaffs: userdata yaffs_FlushSuperBlock 0
+<7>[ 1157.343484] [1:init] fork [2397:init]
+<7>[ 1157.344008] [2397:init] set proc[2397] name: -> [logwrapper]
+<7>[ 1157.345370] [2397:logwrapper] fork [2398:logwrapper]
+<7>[ 1157.345880] [2398:logwrapper] exit
+<7>[ 1157.346005] [2398:logwrapper] sig 17 to [2397:logwrapper]
+<7>[ 1157.346185] [2397:logwrapper] exit
+<7>[ 1157.346378] [2397:logwrapper] sig 17 to [1:init]
+<7>[ 1158.391252] [82:adbd] fork [2399:adbd]
+<7>[ 1158.392039] [2399:adbd] set proc[2399] name: -> [sh]
+<7>[ 1158.393599] [2399:sh] fork [2400:sh]
+<7>[ 1158.394141] [2400:sh] set proc[2400] name: -> [df]
+<7>[ 1158.396297] [2400:df] exit
+<7>[ 1158.396433] [2400:df] sig 17 to [2399:sh]
+<7>[ 1158.396524] [2399:sh] exit
+<7>[ 1158.396808] [82:adbd] sig 1 to [2399:sh]
+<7>[ 1158.396822] [82:adbd] sig 18 to [2399:sh]
+<7>[ 1158.397046] [2399:sh] sig 1 to [2399:sh]
+<7>[ 1158.397058] [2399:sh] sig 18 to [2399:sh]
+<7>[ 1158.397072] [2399:sh] sig 17 to [82:adbd]
+<7>[ 1158.439234] [82:adbd] fork [2401:adbd]
+<7>[ 1158.440014] [2401:adbd] set proc[2401] name: -> [sh]
+<7>[ 1158.441640] [2401:sh] fork [2402:sh]
+<7>[ 1158.442185] [2402:sh] set proc[2402] name: -> [getprop]
+<7>[ 1158.444161] [2402:getprop] exit
+<7>[ 1158.444295] [2402:getprop] sig 17 to [2401:sh]
+<7>[ 1158.444387] [2401:sh] exit
+<7>[ 1158.444520] [2401:sh] sig 1 to [2401:sh]
+<7>[ 1158.444539] [2401:sh] sig 17 to [82:adbd]
+<7>[ 1158.489238] [82:adbd] fork [2403:adbd]
+<7>[ 1158.490010] [2403:adbd] set proc[2403] name: -> [sh]
+<7>[ 1158.491610] [2403:sh] fork [2404:sh]
+<7>[ 1158.492158] [2404:sh] set proc[2404] name: -> [dumpsys]
+<6>[ 1158.498298] binder: 2404:2404 refcount change on invalid ref 0
+<6>[ 1158.498311] binder: 2404:2404 refcount change on invalid ref 0
+<6>[ 1158.498324] binder: 2404:2404 binder_context_mgr_node is NULL
+<6>[ 1158.498335] binder: 2404:2404 transaction failed 29189, size 96-0
+<7>[ 1158.498838] [2404:dumpsys] exit
+<7>[ 1158.499189] [2404:dumpsys] sig 17 to [2403:sh]
+<7>[ 1158.499278] [2403:sh] exit
+<7>[ 1158.499413] [2403:sh] sig 1 to [2403:sh]
+<7>[ 1158.499433] [2403:sh] sig 17 to [82:adbd]
+<7>[ 1158.540969] [82:adbd] fork [2405:adbd]
+<7>[ 1158.541745] [2405:adbd] set proc[2405] name: -> [sh]
+<7>[ 1158.543297] [2405:sh] fork [2406:sh]
+<7>[ 1158.543837] [2406:sh] set proc[2406] name: -> [dumpsys]
+<6>[ 1158.549965] binder: 2406:2406 refcount change on invalid ref 0
+<6>[ 1158.549978] binder: 2406:2406 refcount change on invalid ref 0
+<6>[ 1158.549992] binder: 2406:2406 binder_context_mgr_node is NULL
+<6>[ 1158.550002] binder: 2406:2406 transaction failed 29189, size 100-0
+<7>[ 1158.550800] [2406:dumpsys] exit
+<7>[ 1158.551292] [2406:dumpsys] sig 17 to [2405:sh]
+<7>[ 1158.551377] [2405:sh] exit
+<7>[ 1158.551514] [2405:sh] sig 1 to [2405:sh]
+<7>[ 1158.551533] [2405:sh] sig 17 to [82:adbd]
+<5>[ 1160.691011] [Power/Battery] [FGADC] 1,2267,0,55,3791,49,29,26,1135,1135,-38,0,0,1000,0,3825,1000,74,70,2180,104,103
+<7>[ 1162.351742] [1:init] fork [2407:init]
+<7>[ 1162.352268] [2407:init] set proc[2407] name: -> [logwrapper]
+<7>[ 1162.353633] [2407:logwrapper] fork [2408:logwrapper]
+<7>[ 1162.354156] [2408:logwrapper] exit
+<7>[ 1162.354280] [2408:logwrapper] sig 17 to [2407:logwrapper]
+<7>[ 1162.354460] [2407:logwrapper] exit
+<7>[ 1162.354655] [2407:logwrapper] sig 17 to [1:init]
+<7>[ 1163.393313] [82:adbd] fork [2409:adbd]
+<7>[ 1163.394092] [2409:adbd] set proc[2409] name: -> [sh]
+<7>[ 1163.395652] [2409:sh] fork [2410:sh]
+<7>[ 1163.396203] [2410:sh] set proc[2410] name: -> [df]
+<7>[ 1163.398362] [2410:df] exit
+<7>[ 1163.398499] [2410:df] sig 17 to [2409:sh]
+<7>[ 1163.398591] [2409:sh] exit
+<7>[ 1163.398874] [82:adbd] sig 1 to [2409:sh]
+<7>[ 1163.398888] [82:adbd] sig 18 to [2409:sh]
+<7>[ 1163.399092] [2409:sh] sig 1 to [2409:sh]
+<7>[ 1163.399125] [2409:sh] sig 18 to [2409:sh]
+<7>[ 1163.399139] [2409:sh] sig 17 to [82:adbd]
+<7>[ 1163.441659] [82:adbd] fork [2411:adbd]
+<7>[ 1163.442761] [2411:adbd] set proc[2411] name: -> [sh]
+<7>[ 1163.444332] [2411:sh] fork [2412:sh]
+<7>[ 1163.444872] [2412:sh] set proc[2412] name: -> [getprop]
+<7>[ 1163.446851] [2412:getprop] exit
+<7>[ 1163.446980] [2412:getprop] sig 17 to [2411:sh]
+<7>[ 1163.447072] [2411:sh] exit
+<7>[ 1163.447202] [2411:sh] sig 1 to [2411:sh]
+<7>[ 1163.447221] [2411:sh] sig 17 to [82:adbd]
+<7>[ 1163.487286] [82:adbd] fork [2413:adbd]
+<7>[ 1163.488061] [2413:adbd] set proc[2413] name: -> [sh]
+<7>[ 1163.489609] [2413:sh] fork [2414:sh]
+<7>[ 1163.490144] [2414:sh] set proc[2414] name: -> [dumpsys]
+<6>[ 1163.496362] binder: 2414:2414 refcount change on invalid ref 0
+<6>[ 1163.496375] binder: 2414:2414 refcount change on invalid ref 0
+<6>[ 1163.496389] binder: 2414:2414 binder_context_mgr_node is NULL
+<6>[ 1163.496399] binder: 2414:2414 transaction failed 29189, size 96-0
+<7>[ 1163.496899] [2414:dumpsys] exit
+<7>[ 1163.497246] [2414:dumpsys] sig 17 to [2413:sh]
+<7>[ 1163.497334] [2413:sh] exit
+<7>[ 1163.497470] [2413:sh] sig 1 to [2413:sh]
+<7>[ 1163.497491] [2413:sh] sig 17 to [82:adbd]
+<7>[ 1163.540789] [82:adbd] fork [2415:adbd]
+<7>[ 1163.541568] [2415:adbd] set proc[2415] name: -> [sh]
+<7>[ 1163.543114] [2415:sh] fork [2416:sh]
+<7>[ 1163.543651] [2416:sh] set proc[2416] name: -> [dumpsys]
+<6>[ 1163.549829] binder: 2416:2416 refcount change on invalid ref 0
+<6>[ 1163.549842] binder: 2416:2416 refcount change on invalid ref 0
+<6>[ 1163.549856] binder: 2416:2416 binder_context_mgr_node is NULL
+<6>[ 1163.549867] binder: 2416:2416 transaction failed 29189, size 100-0
+<7>[ 1163.550652] [2416:dumpsys] exit
+<7>[ 1163.551159] [2416:dumpsys] sig 17 to [2415:sh]
+<7>[ 1163.551243] [2415:sh] exit
+<7>[ 1163.551384] [2415:sh] sig 1 to [2415:sh]
+<7>[ 1163.551404] [2415:sh] sig 17 to [82:adbd]
+<4>[ 1164.000336] 2013-03-09 17:35:52.65376 UTC; android time 2013-03-09 17:35:52.65376
+<7>[ 1167.360015] [1:init] fork [2417:init]
+<7>[ 1167.360580] [2417:init] set proc[2417] name: -> [logwrapper]
+<7>[ 1167.361930] [2417:logwrapper] fork [2418:logwrapper]
+<7>[ 1167.362441] [2418:logwrapper] exit
+<7>[ 1167.362593] [2418:logwrapper] sig 17 to [2417:logwrapper]
+<7>[ 1167.362755] [2417:logwrapper] exit
+<7>[ 1167.362932] [2417:logwrapper] sig 17 to [1:init]
+<6>[ 1168.040336] yaffs: userdata sync do_checkpoint 0,gc_urgen 0
+<6>[ 1168.040348] yaffs: userdata yaffs_FlushSuperBlock 0
+<7>[ 1168.408183] [82:adbd] fork [2419:adbd]
+<7>[ 1168.408972] [2419:adbd] set proc[2419] name: -> [sh]
+<7>[ 1168.410576] [2419:sh] fork [2420:sh]
+<7>[ 1168.411122] [2420:sh] set proc[2420] name: -> [df]
+<7>[ 1168.413283] [2420:df] exit
+<7>[ 1168.413422] [2420:df] sig 17 to [2419:sh]
+<7>[ 1168.413511] [2419:sh] exit
+<7>[ 1168.413645] [2419:sh] sig 1 to [2419:sh]
+<7>[ 1168.413664] [2419:sh] sig 17 to [82:adbd]
+<7>[ 1168.456605] [82:adbd] fork [2421:adbd]
+<7>[ 1168.457383] [2421:adbd] set proc[2421] name: -> [sh]
+<7>[ 1168.458938] [2421:sh] fork [2422:sh]
+<7>[ 1168.459484] [2422:sh] set proc[2422] name: -> [getprop]
+<7>[ 1168.461570] [2422:getprop] exit
+<7>[ 1168.461704] [2422:getprop] sig 17 to [2421:sh]
+<7>[ 1168.461792] [2421:sh] exit
+<7>[ 1168.462075] [82:adbd] sig 1 to [2421:sh]
+<7>[ 1168.462090] [82:adbd] sig 18 to [2421:sh]
+<7>[ 1168.462294] [2421:sh] sig 1 to [2421:sh]
+<7>[ 1168.462306] [2421:sh] sig 18 to [2421:sh]
+<7>[ 1168.462319] [2421:sh] sig 17 to [82:adbd]
+<7>[ 1168.504105] [82:adbd] fork [2423:adbd]
+<7>[ 1168.504886] [2423:adbd] set proc[2423] name: -> [sh]
+<7>[ 1168.506434] [2423:sh] fork [2424:sh]
+<7>[ 1168.506971] [2424:sh] set proc[2424] name: -> [dumpsys]
+<6>[ 1168.513193] binder: 2424:2424 refcount change on invalid ref 0
+<6>[ 1168.513206] binder: 2424:2424 refcount change on invalid ref 0
+<6>[ 1168.513220] binder: 2424:2424 binder_context_mgr_node is NULL
+<6>[ 1168.513231] binder: 2424:2424 transaction failed 29189, size 96-0
+<7>[ 1168.513726] [2424:dumpsys] exit
+<7>[ 1168.514075] [2424:dumpsys] sig 17 to [2423:sh]
+<7>[ 1168.514163] [2423:sh] exit
+<7>[ 1168.514302] [2423:sh] sig 1 to [2423:sh]
+<7>[ 1168.514322] [2423:sh] sig 17 to [82:adbd]
+<7>[ 1168.556979] [82:adbd] fork [2425:adbd]
+<7>[ 1168.557756] [2425:adbd] set proc[2425] name: -> [sh]
+<7>[ 1168.559309] [2425:sh] fork [2426:sh]
+<7>[ 1168.559854] [2426:sh] set proc[2426] name: -> [dumpsys]
+<6>[ 1168.566080] binder: 2426:2426 refcount change on invalid ref 0
+<6>[ 1168.566093] binder: 2426:2426 refcount change on invalid ref 0
+<6>[ 1168.566106] binder: 2426:2426 binder_context_mgr_node is NULL
+<6>[ 1168.566117] binder: 2426:2426 transaction failed 29189, size 100-0
+<7>[ 1168.566615] [2426:dumpsys] exit
+<7>[ 1168.566966] [2426:dumpsys] sig 17 to [2425:sh]
+<7>[ 1168.567053] [2425:sh] exit
+<7>[ 1168.567189] [2425:sh] sig 1 to [2425:sh]
+<7>[ 1168.567209] [2425:sh] sig 17 to [82:adbd]
+<5>[ 1170.693033] [Power/Battery] [FGADC] 1,2270,0,56,3791,49,29,26,1135,1135,-39,0,0,1000,0,3829,1000,74,70,2183,104,103
+<7>[ 1172.368314] [1:init] fork [2427:init]
+<7>[ 1172.368842] [2427:init] set proc[2427] name: -> [logwrapper]
+<7>[ 1172.370201] [2427:logwrapper] fork [2428:logwrapper]
+<7>[ 1172.370751] [2428:logwrapper] exit
+<7>[ 1172.370865] [2428:logwrapper] sig 17 to [2427:logwrapper]
+<7>[ 1172.371086] [2427:logwrapper] exit
+<7>[ 1172.371280] [2427:logwrapper] sig 17 to [1:init]
+<7>[ 1173.391426] [82:adbd] fork [2429:adbd]
+<7>[ 1173.392210] [2429:adbd] set proc[2429] name: -> [sh]
+<7>[ 1173.393772] [2429:sh] fork [2430:sh]
+<7>[ 1173.394322] [2430:sh] set proc[2430] name: -> [df]
+<7>[ 1173.396482] [2430:df] exit
+<7>[ 1173.396616] [2430:df] sig 17 to [2429:sh]
+<7>[ 1173.396708] [2429:sh] exit
+<7>[ 1173.396996] [82:adbd] sig 1 to [2429:sh]
+<7>[ 1173.397011] [82:adbd] sig 18 to [2429:sh]
+<7>[ 1173.397215] [2429:sh] sig 1 to [2429:sh]
+<7>[ 1173.397226] [2429:sh] sig 18 to [2429:sh]
+<7>[ 1173.397239] [2429:sh] sig 17 to [82:adbd]
+<7>[ 1173.439294] [82:adbd] fork [2431:adbd]
+<7>[ 1173.440077] [2431:adbd] set proc[2431] name: -> [sh]
+<7>[ 1173.441687] [2431:sh] fork [2432:sh]
+<7>[ 1173.442228] [2432:sh] set proc[2432] name: -> [getprop]
+<7>[ 1173.444204] [2432:getprop] exit
+<7>[ 1173.444338] [2432:getprop] sig 17 to [2431:sh]
+<7>[ 1173.444427] [2431:sh] exit
+<7>[ 1173.444559] [2431:sh] sig 1 to [2431:sh]
+<7>[ 1173.444578] [2431:sh] sig 17 to [82:adbd]
+<7>[ 1173.484305] [82:adbd] fork [2433:adbd]
+<7>[ 1173.485087] [2433:adbd] set proc[2433] name: -> [sh]
+<7>[ 1173.486638] [2433:sh] fork [2434:sh]
+<7>[ 1173.487175] [2434:sh] set proc[2434] name: -> [dumpsys]
+<6>[ 1173.493379] binder: 2434:2434 refcount change on invalid ref 0
+<6>[ 1173.493392] binder: 2434:2434 refcount change on invalid ref 0
+<6>[ 1173.493406] binder: 2434:2434 binder_context_mgr_node is NULL
+<6>[ 1173.493416] binder: 2434:2434 transaction failed 29189, size 96-0
+<7>[ 1173.493914] [2434:dumpsys] exit
+<7>[ 1173.494260] [2434:dumpsys] sig 17 to [2433:sh]
+<7>[ 1173.494348] [2433:sh] exit
+<7>[ 1173.494482] [2433:sh] sig 1 to [2433:sh]
+<7>[ 1173.494501] [2433:sh] sig 17 to [82:adbd]
+<7>[ 1173.537542] [82:adbd] fork [2435:adbd]
+<7>[ 1173.538327] [2435:adbd] set proc[2435] name: -> [sh]
+<7>[ 1173.539875] [2435:sh] fork [2436:sh]
+<7>[ 1173.540469] [2436:sh] set proc[2436] name: -> [dumpsys]
+<6>[ 1173.546643] binder: 2436:2436 refcount change on invalid ref 0
+<6>[ 1173.546656] binder: 2436:2436 refcount change on invalid ref 0
+<6>[ 1173.546670] binder: 2436:2436 binder_context_mgr_node is NULL
+<6>[ 1173.546680] binder: 2436:2436 transaction failed 29189, size 100-0
+<7>[ 1173.547182] [2436:dumpsys] exit
+<7>[ 1173.547529] [2436:dumpsys] sig 17 to [2435:sh]
+<7>[ 1173.547616] [2435:sh] exit
+<7>[ 1173.547750] [2435:sh] sig 1 to [2435:sh]
+<7>[ 1173.547770] [2435:sh] sig 17 to [82:adbd]
+<6>[ 1174.040337] yaffs: userdata sync do_checkpoint 0,gc_urgen 0
+<6>[ 1174.040349] yaffs: userdata yaffs_FlushSuperBlock 0
+<7>[ 1177.376651] [1:init] fork [2437:init]
+<7>[ 1177.377176] [2437:init] set proc[2437] name: -> [logwrapper]
+<7>[ 1177.378541] [2437:logwrapper] fork [2438:logwrapper]
+<7>[ 1177.379050] [2438:logwrapper] exit
+<7>[ 1177.379172] [2438:logwrapper] sig 17 to [2437:logwrapper]
+<7>[ 1177.379351] [2437:logwrapper] exit
+<7>[ 1177.379548] [2437:logwrapper] sig 17 to [1:init]
+<7>[ 1178.406902] [82:adbd] fork [2439:adbd]
+<7>[ 1178.407685] [2439:adbd] set proc[2439] name: -> [sh]
+<7>[ 1178.409239] [2439:sh] fork [2440:sh]
+<7>[ 1178.409780] [2440:sh] set proc[2440] name: -> [df]
+<7>[ 1178.412010] [2440:df] exit
+<7>[ 1178.412145] [2440:df] sig 17 to [2439:sh]
+<7>[ 1178.412236] [2439:sh] exit
+<7>[ 1178.412519] [82:adbd] sig 1 to [2439:sh]
+<7>[ 1178.412533] [82:adbd] sig 18 to [2439:sh]
+<7>[ 1178.412734] [2439:sh] sig 1 to [2439:sh]
+<7>[ 1178.412746] [2439:sh] sig 18 to [2439:sh]
+<7>[ 1178.412760] [2439:sh] sig 17 to [82:adbd]
+<7>[ 1178.458610] [82:adbd] fork [2441:adbd]
+<7>[ 1178.459713] [2441:adbd] set proc[2441] name: -> [sh]
+<7>[ 1178.461343] [2441:sh] fork [2442:sh]
+<7>[ 1178.461887] [2442:sh] set proc[2442] name: -> [getprop]
+<7>[ 1178.463870] [2442:getprop] exit
+<7>[ 1178.464002] [2442:getprop] sig 17 to [2441:sh]
+<7>[ 1178.464092] [2441:sh] exit
+<7>[ 1178.464224] [2441:sh] sig 1 to [2441:sh]
+<7>[ 1178.464243] [2441:sh] sig 17 to [82:adbd]
+<7>[ 1178.507218] [82:adbd] fork [2443:adbd]
+<7>[ 1178.508001] [2443:adbd] set proc[2443] name: -> [sh]
+<7>[ 1178.509543] [2443:sh] fork [2444:sh]
+<7>[ 1178.510079] [2444:sh] set proc[2444] name: -> [dumpsys]
+<6>[ 1178.516339] binder: 2444:2444 refcount change on invalid ref 0
+<6>[ 1178.516353] binder: 2444:2444 refcount change on invalid ref 0
+<6>[ 1178.516366] binder: 2444:2444 binder_context_mgr_node is NULL
+<6>[ 1178.516376] binder: 2444:2444 transaction failed 29189, size 96-0
+<7>[ 1178.516875] [2444:dumpsys] exit
+<7>[ 1178.517225] [2444:dumpsys] sig 17 to [2443:sh]
+<7>[ 1178.517312] [2443:sh] exit
+<7>[ 1178.517451] [2443:sh] sig 1 to [2443:sh]
+<7>[ 1178.517470] [2443:sh] sig 17 to [82:adbd]
+<7>[ 1178.557856] [82:adbd] fork [2445:adbd]
+<7>[ 1178.558638] [2445:adbd] set proc[2445] name: -> [sh]
+<7>[ 1178.560184] [2445:sh] fork [2446:sh]
+<7>[ 1178.560778] [2446:sh] set proc[2446] name: -> [dumpsys]
+<6>[ 1178.566906] binder: 2446:2446 refcount change on invalid ref 0
+<6>[ 1178.566919] binder: 2446:2446 refcount change on invalid ref 0
+<6>[ 1178.566932] binder: 2446:2446 binder_context_mgr_node is NULL
+<6>[ 1178.566943] binder: 2446:2446 transaction failed 29189, size 100-0
+<7>[ 1178.567444] [2446:dumpsys] exit
+<7>[ 1178.567793] [2446:dumpsys] sig 17 to [2445:sh]
+<7>[ 1178.567881] [2445:sh] exit
+<7>[ 1178.568020] [2445:sh] sig 1 to [2445:sh]
+<7>[ 1178.568039] [2445:sh] sig 17 to [82:adbd]
+<6>[ 1180.040355] yaffs: userdata sync do_checkpoint 0,gc_urgen 0
+<6>[ 1180.040367] yaffs: userdata yaffs_FlushSuperBlock 0
+<5>[ 1180.694889] [Power/Battery] [FGADC] 1,2269,0,57,3791,49,31,26,1135,1135,-39,0,0,1000,0,3829,1000,74,69,2182,104,103
+<7>[ 1182.384911] [1:init] fork [2447:init]
+<7>[ 1182.385436] [2447:init] set proc[2447] name: -> [logwrapper]
+<7>[ 1182.386793] [2447:logwrapper] fork [2448:logwrapper]
+<7>[ 1182.387316] [2448:logwrapper] exit
+<7>[ 1182.387439] [2448:logwrapper] sig 17 to [2447:logwrapper]
+<7>[ 1182.387623] [2447:logwrapper] exit
+<7>[ 1182.387819] [2447:logwrapper] sig 17 to [1:init]
+<7>[ 1183.414604] [82:adbd] fork [2449:adbd]
+<7>[ 1183.415389] [2449:adbd] set proc[2449] name: -> [sh]
+<7>[ 1183.416954] [2449:sh] fork [2450:sh]
+<7>[ 1183.417500] [2450:sh] set proc[2450] name: -> [df]
+<7>[ 1183.419665] [2450:df] exit
+<7>[ 1183.419799] [2450:df] sig 17 to [2449:sh]
+<7>[ 1183.419891] [2449:sh] exit
+<7>[ 1183.420173] [82:adbd] sig 1 to [2449:sh]
+<7>[ 1183.420188] [82:adbd] sig 18 to [2449:sh]
+<7>[ 1183.420440] [2449:sh] sig 1 to [2449:sh]
+<7>[ 1183.420451] [2449:sh] sig 18 to [2449:sh]
+<7>[ 1183.420465] [2449:sh] sig 17 to [82:adbd]
+<7>[ 1183.461671] [82:adbd] fork [2451:adbd]
+<7>[ 1183.462460] [2451:adbd] set proc[2451] name: -> [sh]
+<7>[ 1183.464020] [2451:sh] fork [2452:sh]
+<7>[ 1183.464564] [2452:sh] set proc[2452] name: -> [getprop]
+<7>[ 1183.466907] [2452:getprop] exit
+<7>[ 1183.467041] [2452:getprop] sig 17 to [2451:sh]
+<7>[ 1183.467131] [2451:sh] exit
+<7>[ 1183.467409] [82:adbd] sig 1 to [2451:sh]
+<7>[ 1183.467423] [82:adbd] sig 18 to [2451:sh]
+<7>[ 1183.467623] [2451:sh] sig 1 to [2451:sh]
+<7>[ 1183.467635] [2451:sh] sig 18 to [2451:sh]
+<7>[ 1183.467648] [2451:sh] sig 17 to [82:adbd]
+<7>[ 1183.512672] [82:adbd] fork [2453:adbd]
+<7>[ 1183.513450] [2453:adbd] set proc[2453] name: -> [sh]
+<7>[ 1183.514994] [2453:sh] fork [2454:sh]
+<7>[ 1183.515529] [2454:sh] set proc[2454] name: -> [dumpsys]
+<6>[ 1183.521733] binder: 2454:2454 refcount change on invalid ref 0
+<6>[ 1183.521745] binder: 2454:2454 refcount change on invalid ref 0
+<6>[ 1183.521758] binder: 2454:2454 binder_context_mgr_node is NULL
+<6>[ 1183.521769] binder: 2454:2454 transaction failed 29189, size 96-0
+<7>[ 1183.522269] [2454:dumpsys] exit
+<7>[ 1183.522617] [2454:dumpsys] sig 17 to [2453:sh]
+<7>[ 1183.522704] [2453:sh] exit
+<7>[ 1183.522841] [2453:sh] sig 1 to [2453:sh]
+<7>[ 1183.522860] [2453:sh] sig 17 to [82:adbd]
+<7>[ 1183.563056] [82:adbd] fork [2455:adbd]
+<7>[ 1183.563835] [2455:adbd] set proc[2455] name: -> [sh]
+<7>[ 1183.565394] [2455:sh] fork [2456:sh]
+<7>[ 1183.565932] [2456:sh] set proc[2456] name: -> [dumpsys]
+<6>[ 1183.572180] binder: 2456:2456 refcount change on invalid ref 0
+<6>[ 1183.572193] binder: 2456:2456 refcount change on invalid ref 0
+<6>[ 1183.572206] binder: 2456:2456 binder_context_mgr_node is NULL
+<6>[ 1183.572216] binder: 2456:2456 transaction failed 29189, size 100-0
+<7>[ 1183.572715] [2456:dumpsys] exit
+<7>[ 1183.573064] [2456:dumpsys] sig 17 to [2455:sh]
+<7>[ 1183.573150] [2455:sh] exit
+<7>[ 1183.573286] [2455:sh] sig 1 to [2455:sh]
+<7>[ 1183.573306] [2455:sh] sig 17 to [82:adbd]
+<4>[ 1184.010334] 2013-03-09 17:36:12.75374 UTC; android time 2013-03-09 17:36:12.75374
+<7>[ 1187.393173] [1:init] fork [2457:init]
+<7>[ 1187.393702] [2457:init] set proc[2457] name: -> [logwrapper]
+<7>[ 1187.395053] [2457:logwrapper] fork [2458:logwrapper]
+<7>[ 1187.395564] [2458:logwrapper] exit
+<7>[ 1187.395685] [2458:logwrapper] sig 17 to [2457:logwrapper]
+<7>[ 1187.395863] [2457:logwrapper] exit
+<7>[ 1187.396054] [2457:logwrapper] sig 17 to [1:init]
+<7>[ 1188.429777] [82:adbd] fork [2459:adbd]
+<7>[ 1188.430658] [2459:adbd] set proc[2459] name: -> [sh]
+<7>[ 1188.432222] [2459:sh] fork [2460:sh]
+<7>[ 1188.432764] [2460:sh] set proc[2460] name: -> [df]
+<7>[ 1188.434918] [2460:df] exit
+<7>[ 1188.435053] [2460:df] sig 17 to [2459:sh]
+<7>[ 1188.435144] [2459:sh] exit
+<7>[ 1188.435277] [2459:sh] sig 1 to [2459:sh]
+<7>[ 1188.435297] [2459:sh] sig 17 to [82:adbd]
+<7>[ 1188.477124] [82:adbd] fork [2461:adbd]
+<7>[ 1188.477903] [2461:adbd] set proc[2461] name: -> [sh]
+<7>[ 1188.479464] [2461:sh] fork [2462:sh]
+<7>[ 1188.480015] [2462:sh] set proc[2462] name: -> [getprop]
+<7>[ 1188.482066] [2462:getprop] exit
+<7>[ 1188.482201] [2462:getprop] sig 17 to [2461:sh]
+<7>[ 1188.482290] [2461:sh] exit
+<7>[ 1188.482573] [82:adbd] sig 1 to [2461:sh]
+<7>[ 1188.482587] [82:adbd] sig 18 to [2461:sh]
+<7>[ 1188.482790] [2461:sh] sig 1 to [2461:sh]
+<7>[ 1188.482825] [2461:sh] sig 18 to [2461:sh]
+<7>[ 1188.482840] [2461:sh] sig 17 to [82:adbd]
+<7>[ 1188.527869] [82:adbd] fork [2463:adbd]
+<7>[ 1188.528643] [2463:adbd] set proc[2463] name: -> [sh]
+<7>[ 1188.530186] [2463:sh] fork [2464:sh]
+<7>[ 1188.530783] [2464:sh] set proc[2464] name: -> [dumpsys]
+<6>[ 1188.536934] binder: 2464:2464 refcount change on invalid ref 0
+<6>[ 1188.536947] binder: 2464:2464 refcount change on invalid ref 0
+<6>[ 1188.536961] binder: 2464:2464 binder_context_mgr_node is NULL
+<6>[ 1188.536971] binder: 2464:2464 transaction failed 29189, size 96-0
+<7>[ 1188.537473] [2464:dumpsys] exit
+<7>[ 1188.537822] [2464:dumpsys] sig 17 to [2463:sh]
+<7>[ 1188.537910] [2463:sh] exit
+<7>[ 1188.538050] [2463:sh] sig 1 to [2463:sh]
+<7>[ 1188.538070] [2463:sh] sig 17 to [82:adbd]
+<7>[ 1188.578261] [82:adbd] fork [2465:adbd]
+<7>[ 1188.579041] [2465:adbd] set proc[2465] name: -> [sh]
+<7>[ 1188.580635] [2465:sh] fork [2466:sh]
+<7>[ 1188.581176] [2466:sh] set proc[2466] name: -> [dumpsys]
+<6>[ 1188.587332] binder: 2466:2466 refcount change on invalid ref 0
+<6>[ 1188.587346] binder: 2466:2466 refcount change on invalid ref 0
+<6>[ 1188.587359] binder: 2466:2466 binder_context_mgr_node is NULL
+<6>[ 1188.587370] binder: 2466:2466 transaction failed 29189, size 100-0
+<7>[ 1188.587869] [2466:dumpsys] exit
+<7>[ 1188.588216] [2466:dumpsys] sig 17 to [2465:sh]
+<7>[ 1188.588302] [2465:sh] exit
+<7>[ 1188.588439] [2465:sh] sig 1 to [2465:sh]
+<7>[ 1188.588459] [2465:sh] sig 17 to [82:adbd]
+<5>[ 1190.696853] [Power/Battery] [FGADC] 1,2269,0,57,3791,49,31,26,1135,1135,-39,0,0,1000,0,3829,1000,74,69,2182,104,103
+<7>[ 1192.401441] [1:init] fork [2467:init]
+<7>[ 1192.401961] [2467:init] set proc[2467] name: -> [logwrapper]
+<7>[ 1192.403315] [2467:logwrapper] fork [2468:logwrapper]
+<7>[ 1192.403844] [2468:logwrapper] exit
+<7>[ 1192.403965] [2468:logwrapper] sig 17 to [2467:logwrapper]
+<7>[ 1192.404151] [2467:logwrapper] exit
+<7>[ 1192.404345] [2467:logwrapper] sig 17 to [1:init]
+<7>[ 1193.436635] [82:adbd] fork [2469:adbd]
+<7>[ 1193.437422] [2469:adbd] set proc[2469] name: -> [sh]
+<7>[ 1193.438993] [2469:sh] fork [2470:sh]
+<7>[ 1193.439543] [2470:sh] set proc[2470] name: -> [df]
+<7>[ 1193.441775] [2470:df] exit
+<7>[ 1193.441911] [2470:df] sig 17 to [2469:sh]
+<7>[ 1193.442002] [2469:sh] exit
+<7>[ 1193.442289] [82:adbd] sig 1 to [2469:sh]
+<7>[ 1193.442303] [82:adbd] sig 18 to [2469:sh]
+<7>[ 1193.442509] [2469:sh] sig 1 to [2469:sh]
+<7>[ 1193.442520] [2469:sh] sig 18 to [2469:sh]
+<7>[ 1193.442534] [2469:sh] sig 17 to [82:adbd]
+<7>[ 1193.486834] [82:adbd] fork [2471:adbd]
+<7>[ 1193.487619] [2471:adbd] set proc[2471] name: -> [sh]
+<7>[ 1193.489168] [2471:sh] fork [2472:sh]
+<7>[ 1193.489709] [2472:sh] set proc[2472] name: -> [getprop]
+<7>[ 1193.491759] [2472:getprop] exit
+<7>[ 1193.491893] [2472:getprop] sig 17 to [2471:sh]
+<7>[ 1193.491982] [2471:sh] exit
+<7>[ 1193.492265] [82:adbd] sig 1 to [2471:sh]
+<7>[ 1193.492280] [82:adbd] sig 18 to [2471:sh]
+<7>[ 1193.492500] [2471:sh] sig 1 to [2471:sh]
+<7>[ 1193.492512] [2471:sh] sig 18 to [2471:sh]
+<7>[ 1193.492527] [2471:sh] sig 17 to [82:adbd]
+<7>[ 1193.531442] [82:adbd] fork [2473:adbd]
+<7>[ 1193.532226] [2473:adbd] set proc[2473] name: -> [sh]
+<7>[ 1193.533778] [2473:sh] fork [2474:sh]
+<7>[ 1193.534318] [2474:sh] set proc[2474] name: -> [dumpsys]
+<6>[ 1193.540530] binder: 2474:2474 refcount change on invalid ref 0
+<6>[ 1193.540542] binder: 2474:2474 refcount change on invalid ref 0
+<6>[ 1193.540555] binder: 2474:2474 binder_context_mgr_node is NULL
+<6>[ 1193.540566] binder: 2474:2474 transaction failed 29189, size 96-0
+<7>[ 1193.541063] [2474:dumpsys] exit
+<7>[ 1193.541409] [2474:dumpsys] sig 17 to [2473:sh]
+<7>[ 1193.541498] [2473:sh] exit
+<7>[ 1193.541633] [2473:sh] sig 1 to [2473:sh]
+<7>[ 1193.541653] [2473:sh] sig 17 to [82:adbd]
+<7>[ 1193.586804] [82:adbd] fork [2475:adbd]
+<7>[ 1193.587590] [2475:adbd] set proc[2475] name: -> [sh]
+<7>[ 1193.589133] [2475:sh] fork [2476:sh]
+<7>[ 1193.589669] [2476:sh] set proc[2476] name: -> [dumpsys]
+<6>[ 1193.595907] binder: 2476:2476 refcount change on invalid ref 0
+<6>[ 1193.595920] binder: 2476:2476 refcount change on invalid ref 0
+<6>[ 1193.595933] binder: 2476:2476 binder_context_mgr_node is NULL
+<6>[ 1193.595944] binder: 2476:2476 transaction failed 29189, size 100-0
+<7>[ 1193.596446] [2476:dumpsys] exit
+<7>[ 1193.597354] [2476:dumpsys] sig 17 to [2475:sh]
+<7>[ 1193.597453] [2475:sh] exit
+<7>[ 1193.597600] [2475:sh] sig 1 to [2475:sh]
+<7>[ 1193.597619] [2475:sh] sig 17 to [82:adbd]
+<7>[ 1197.409690] [1:init] fork [2477:init]
+<7>[ 1197.410209] [2477:init] set proc[2477] name: -> [logwrapper]
+<7>[ 1197.411630] [2477:logwrapper] fork [2478:logwrapper]
+<7>[ 1197.412146] [2478:logwrapper] exit
+<7>[ 1197.412296] [2478:logwrapper] sig 17 to [2477:logwrapper]
+<7>[ 1197.412459] [2477:logwrapper] exit
+<7>[ 1197.412636] [2477:logwrapper] sig 17 to [1:init]
+<6>[ 1198.040336] yaffs: userdata sync do_checkpoint 0,gc_urgen 0
+<6>[ 1198.040348] yaffs: userdata yaffs_FlushSuperBlock 0
+<7>[ 1198.436791] [82:adbd] fork [2479:adbd]
+<7>[ 1198.437576] [2479:adbd] set proc[2479] name: -> [sh]
+<7>[ 1198.439132] [2479:sh] fork [2480:sh]
+<7>[ 1198.439679] [2480:sh] set proc[2480] name: -> [df]
+<7>[ 1198.441945] [2480:df] exit
+<7>[ 1198.442081] [2480:df] sig 17 to [2479:sh]
+<7>[ 1198.442173] [2479:sh] exit
+<7>[ 1198.442454] [82:adbd] sig 1 to [2479:sh]
+<7>[ 1198.442469] [82:adbd] sig 18 to [2479:sh]
+<7>[ 1198.442693] [2479:sh] sig 1 to [2479:sh]
+<7>[ 1198.442704] [2479:sh] sig 18 to [2479:sh]
+<7>[ 1198.442718] [2479:sh] sig 17 to [82:adbd]
+<7>[ 1198.489006] [82:adbd] fork [2481:adbd]
+<7>[ 1198.489790] [2481:adbd] set proc[2481] name: -> [sh]
+<7>[ 1198.491410] [2481:sh] fork [2482:sh]
+<7>[ 1198.491959] [2482:sh] set proc[2482] name: -> [getprop]
+<7>[ 1198.493930] [2482:getprop] exit
+<7>[ 1198.494064] [2482:getprop] sig 17 to [2481:sh]
+<7>[ 1198.494154] [2481:sh] exit
+<7>[ 1198.494287] [2481:sh] sig 1 to [2481:sh]
+<7>[ 1198.494306] [2481:sh] sig 17 to [82:adbd]
+<7>[ 1198.540250] [82:adbd] fork [2483:adbd]
+<7>[ 1198.541084] [2483:adbd] set proc[2483] name: -> [sh]
+<7>[ 1198.542623] [2483:sh] fork [2484:sh]
+<7>[ 1198.543160] [2484:sh] set proc[2484] name: -> [dumpsys]
+<6>[ 1198.549312] binder: 2484:2484 refcount change on invalid ref 0
+<6>[ 1198.549325] binder: 2484:2484 refcount change on invalid ref 0
+<6>[ 1198.549339] binder: 2484:2484 binder_context_mgr_node is NULL
+<6>[ 1198.549349] binder: 2484:2484 transaction failed 29189, size 96-0
+<7>[ 1198.549851] [2484:dumpsys] exit
+<7>[ 1198.550203] [2484:dumpsys] sig 17 to [2483:sh]
+<7>[ 1198.550554] [2483:sh] exit
+<7>[ 1198.550705] [2483:sh] sig 1 to [2483:sh]
+<7>[ 1198.550724] [2483:sh] sig 17 to [82:adbd]
+<7>[ 1198.590120] [82:adbd] fork [2485:adbd]
+<7>[ 1198.590960] [2485:adbd] set proc[2485] name: -> [sh]
+<7>[ 1198.592511] [2485:sh] fork [2486:sh]
+<7>[ 1198.593050] [2486:sh] set proc[2486] name: -> [dumpsys]
+<6>[ 1198.599207] binder: 2486:2486 refcount change on invalid ref 0
+<6>[ 1198.599220] binder: 2486:2486 refcount change on invalid ref 0
+<6>[ 1198.599234] binder: 2486:2486 binder_context_mgr_node is NULL
+<6>[ 1198.599245] binder: 2486:2486 transaction failed 29189, size 100-0
+<7>[ 1198.599745] [2486:dumpsys] exit
+<7>[ 1198.600093] [2486:dumpsys] sig 17 to [2485:sh]
+<7>[ 1198.600179] [2485:sh] exit
+<7>[ 1198.600578] [2485:sh] sig 1 to [2485:sh]
+<7>[ 1198.600599] [2485:sh] sig 17 to [82:adbd]
+<5>[ 1200.698829] [Power/Battery] [FGADC] 1,2267,0,58,3791,49,31,26,1135,1135,-39,0,0,1000,0,3829,1000,74,69,2180,104,103
+<7>[ 1202.418027] [1:init] fork [2487:init]
+<7>[ 1202.418553] [2487:init] set proc[2487] name: -> [logwrapper]
+<7>[ 1202.419908] [2487:logwrapper] fork [2488:logwrapper]
+<7>[ 1202.420511] [2488:logwrapper] exit
+<7>[ 1202.420632] [2488:logwrapper] sig 17 to [2487:logwrapper]
+<7>[ 1202.420814] [2487:logwrapper] exit
+<7>[ 1202.421002] [2487:logwrapper] sig 17 to [1:init]
+<7>[ 1203.445745] [82:adbd] fork [2489:adbd]
+<7>[ 1203.446528] [2489:adbd] set proc[2489] name: -> [sh]
+<7>[ 1203.448084] [2489:sh] fork [2490:sh]
+<7>[ 1203.448631] [2490:sh] set proc[2490] name: -> [df]
+<7>[ 1203.450858] [2490:df] exit
+<7>[ 1203.450996] [2490:df] sig 17 to [2489:sh]
+<7>[ 1203.451086] [2489:sh] exit
+<7>[ 1203.451376] [82:adbd] sig 1 to [2489:sh]
+<7>[ 1203.451391] [82:adbd] sig 18 to [2489:sh]
+<7>[ 1203.451597] [2489:sh] sig 1 to [2489:sh]
+<7>[ 1203.451608] [2489:sh] sig 18 to [2489:sh]
+<7>[ 1203.451621] [2489:sh] sig 17 to [82:adbd]
+<7>[ 1203.500961] [82:adbd] fork [2491:adbd]
+<7>[ 1203.501748] [2491:adbd] set proc[2491] name: -> [sh]
+<7>[ 1203.503298] [2491:sh] fork [2492:sh]
+<7>[ 1203.503839] [2492:sh] set proc[2492] name: -> [getprop]
+<7>[ 1203.505813] [2492:getprop] exit
+<7>[ 1203.505944] [2492:getprop] sig 17 to [2491:sh]
+<7>[ 1203.506036] [2491:sh] exit
+<7>[ 1203.506316] [82:adbd] sig 1 to [2491:sh]
+<7>[ 1203.506331] [82:adbd] sig 18 to [2491:sh]
+<7>[ 1203.506533] [2491:sh] sig 1 to [2491:sh]
+<7>[ 1203.506544] [2491:sh] sig 18 to [2491:sh]
+<7>[ 1203.506558] [2491:sh] sig 17 to [82:adbd]
+<7>[ 1203.546948] [82:adbd] fork [2493:adbd]
+<7>[ 1203.547728] [2493:adbd] set proc[2493] name: -> [sh]
+<7>[ 1203.549278] [2493:sh] fork [2494:sh]
+<7>[ 1203.549818] [2494:sh] set proc[2494] name: -> [dumpsys]
+<6>[ 1203.556038] binder: 2494:2494 refcount change on invalid ref 0
+<6>[ 1203.556052] binder: 2494:2494 refcount change on invalid ref 0
+<6>[ 1203.556065] binder: 2494:2494 binder_context_mgr_node is NULL
+<6>[ 1203.556076] binder: 2494:2494 transaction failed 29189, size 96-0
+<7>[ 1203.556580] [2494:dumpsys] exit
+<7>[ 1203.556927] [2494:dumpsys] sig 17 to [2493:sh]
+<7>[ 1203.557014] [2493:sh] exit
+<7>[ 1203.557149] [2493:sh] sig 1 to [2493:sh]
+<7>[ 1203.557169] [2493:sh] sig 17 to [82:adbd]
+<7>[ 1203.601821] [82:adbd] fork [2495:adbd]
+<7>[ 1203.602604] [2495:adbd] set proc[2495] name: -> [sh]
+<7>[ 1203.604151] [2495:sh] fork [2496:sh]
+<7>[ 1203.604695] [2496:sh] set proc[2496] name: -> [dumpsys]
+<6>[ 1203.610911] binder: 2496:2496 refcount change on invalid ref 0
+<6>[ 1203.610924] binder: 2496:2496 refcount change on invalid ref 0
+<6>[ 1203.610937] binder: 2496:2496 binder_context_mgr_node is NULL
+<6>[ 1203.610947] binder: 2496:2496 transaction failed 29189, size 100-0
+<7>[ 1203.611449] [2496:dumpsys] exit
+<7>[ 1203.611790] [2496:dumpsys] sig 17 to [2495:sh]
+<7>[ 1203.611878] [2495:sh] exit
+<7>[ 1203.612016] [2495:sh] sig 1 to [2495:sh]
+<7>[ 1203.612036] [2495:sh] sig 17 to [82:adbd]
+<4>[ 1204.020341] 2013-03-09 17:36:32.85381 UTC; android time 2013-03-09 17:36:32.85381
+<7>[ 1207.426390] [1:init] fork [2497:init]
+<7>[ 1207.426915] [2497:init] set proc[2497] name: -> [logwrapper]
+<7>[ 1207.428279] [2497:logwrapper] fork [2498:logwrapper]
+<7>[ 1207.428797] [2498:logwrapper] exit
+<7>[ 1207.428918] [2498:logwrapper] sig 17 to [2497:logwrapper]
+<7>[ 1207.429096] [2497:logwrapper] exit
+<7>[ 1207.429289] [2497:logwrapper] sig 17 to [1:init]
+<7>[ 1208.458341] [82:adbd] fork [2499:adbd]
+<7>[ 1208.459127] [2499:adbd] set proc[2499] name: -> [sh]
+<7>[ 1208.460749] [2499:sh] fork [2500:sh]
+<7>[ 1208.461297] [2500:sh] set proc[2500] name: -> [df]
+<7>[ 1208.463470] [2500:df] exit
+<7>[ 1208.463606] [2500:df] sig 17 to [2499:sh]
+<7>[ 1208.463698] [2499:sh] exit
+<7>[ 1208.463831] [2499:sh] sig 1 to [2499:sh]
+<7>[ 1208.463851] [2499:sh] sig 17 to [82:adbd]
+<7>[ 1208.506630] [82:adbd] fork [2501:adbd]
+<7>[ 1208.507413] [2501:adbd] set proc[2501] name: -> [sh]
+<7>[ 1208.508972] [2501:sh] fork [2502:sh]
+<7>[ 1208.509511] [2502:sh] set proc[2502] name: -> [getprop]
+<7>[ 1208.511563] [2502:getprop] exit
+<7>[ 1208.511696] [2502:getprop] sig 17 to [2501:sh]
+<7>[ 1208.511789] [2501:sh] exit
+<7>[ 1208.512069] [82:adbd] sig 1 to [2501:sh]
+<7>[ 1208.512084] [82:adbd] sig 18 to [2501:sh]
+<7>[ 1208.512288] [2501:sh] sig 1 to [2501:sh]
+<7>[ 1208.512323] [2501:sh] sig 18 to [2501:sh]
+<7>[ 1208.512337] [2501:sh] sig 17 to [82:adbd]
+<7>[ 1208.563638] [82:adbd] fork [2503:adbd]
+<7>[ 1208.564415] [2503:adbd] set proc[2503] name: -> [sh]
+<7>[ 1208.565949] [2503:sh] fork [2504:sh]
+<7>[ 1208.566487] [2504:sh] set proc[2504] name: -> [dumpsys]
+<6>[ 1208.572698] binder: 2504:2504 refcount change on invalid ref 0
+<6>[ 1208.572711] binder: 2504:2504 refcount change on invalid ref 0
+<6>[ 1208.572724] binder: 2504:2504 binder_context_mgr_node is NULL
+<6>[ 1208.572734] binder: 2504:2504 transaction failed 29189, size 96-0
+<7>[ 1208.573236] [2504:dumpsys] exit
+<7>[ 1208.573583] [2504:dumpsys] sig 17 to [2503:sh]
+<7>[ 1208.573671] [2503:sh] exit
+<7>[ 1208.573810] [2503:sh] sig 1 to [2503:sh]
+<7>[ 1208.573829] [2503:sh] sig 17 to [82:adbd]
+<7>[ 1208.613267] [82:adbd] fork [2505:adbd]
+<7>[ 1208.614051] [2505:adbd] set proc[2505] name: -> [sh]
+<7>[ 1208.615603] [2505:sh] fork [2506:sh]
+<7>[ 1208.616138] [2506:sh] set proc[2506] name: -> [dumpsys]
+<6>[ 1208.622340] binder: 2506:2506 refcount change on invalid ref 0
+<6>[ 1208.622353] binder: 2506:2506 refcount change on invalid ref 0
+<6>[ 1208.622366] binder: 2506:2506 binder_context_mgr_node is NULL
+<6>[ 1208.622377] binder: 2506:2506 transaction failed 29189, size 100-0
+<7>[ 1208.622874] [2506:dumpsys] exit
+<7>[ 1208.623218] [2506:dumpsys] sig 17 to [2505:sh]
+<7>[ 1208.623307] [2505:sh] exit
+<7>[ 1208.623445] [2505:sh] sig 1 to [2505:sh]
+<7>[ 1208.623466] [2505:sh] sig 17 to [82:adbd]
+<5>[ 1210.700765] [Power/Battery] [FGADC] 1,2272,0,58,3791,49,31,26,1135,1135,-39,0,0,1000,0,3829,1000,74,69,2185,104,103
+<7>[ 1212.220764] [2321:sh] fork [2507:sh]
+<5>[ 1212.221344] [Power/clkmgr] [enable_clock] enable wpll clksrc 0x2 for clock 16
+<5>[ 1212.222223] [Power/clkmgr] [enable_wpll_clksrc_op] wpll_clksrc_mask=0x2, wpll_clksrc_state=0x4003, WPLL_CON=0x403b
+<7>[ 1212.225114] [2507:sh] set proc[2507] name: -> [dmesg]

@@ -1,0 +1,2394 @@
+fo enter :
+<4>[  260.626741]  [OV2659]OV2659GetInfo exit :
+<4>[  260.627409]  MINGJI test func calling OV2659Control()
+<4>[  260.628361] [OV2659]OV2659Control enter :
+<4>[  260.628365]  [OV2659][OV2659Control]MSDK_SCENARIO_ID_CAMERA_ZSD :
+<4>[  260.629036]  MINGJI test func calling OV2659Preview()
+<4>[  260.630246] [OV2659]OV2659Preview enter :
+<4>[  260.630250]  Camera iReadRegI2C addr=60 
+<4>[  260.634904] MINGJI test func calling OV2659_set_AWB_mode()
+<4>[  260.635575] Camera iReadRegI2C addr=60 
+<4>[  260.639693] MINGJI test func calling OV2659PreviewSetting()
+<4>[  260.652433] MINGJI test func calling OV2659InitialSetting()
+<4>[  260.978292] Camera iReadRegI2C addr=60 
+<4>[  261.054239] [OV2659]OV2659Preview exit :
+<4>[  261.054244]  [OV2659]OV2659Control exit :
+<4>[  261.054892]  [OV2659][OV2659FeatureControl]feature id=3003 
+<4>[  261.055912] [OV2659][OV2659FeatureControl]feature id=3002 
+<4>[  261.058476] MINGJI test func calling OV2659GetInfo()
+<4>[  261.059085] [OV2659]OV2659GetInfo enter :
+<4>[  261.059090]  [OV2659]OV2659GetInfo exit :
+<4>[  261.059758]  MINGJI test func calling OV2659GetResolution()
+<4>[  261.060816] [OV2659][OV2659GetResolution enter] :
+<4>[  261.060822]  [OV2659][OV2659GetInfo exit] :
+<4>[  261.061568]  [OV2659][OV2659FeatureControl]feature id=3042 
+<4>[  261.062717] [OV2659][OV2659FeatureControl]feature id=3025 
+<4>[  261.063390] MINGJI test func calling OV2659YUVSensorSetting()
+<4>[  261.064105] OV2659YUVSensorSetting:iCmd=2,iPara=2, 0 
+<4>[  261.064757] [OV2659][OV2659FeatureControl]feature id=3030 
+<4>[  261.065428] OV2659FeatureControl:default 
+<4>[  261.065929] [OV2659][OV2659FeatureControl]feature id=3025 
+<4>[  261.066609] MINGJI test func calling OV2659YUVSensorSetting()
+<4>[  261.067324] OV2659YUVSensorSetting:iCmd=21,iPara=1, 0 
+<4>[  261.067979] [OV2659][OV2659FeatureControl]feature id=3025 
+<4>[  261.068650] MINGJI test func calling OV2659YUVSensorSetting()
+<4>[  261.069366] OV2659YUVSensorSetting:iCmd=22,iPara=1, 0 
+<4>[  261.070025] [OV2659][OV2659FeatureControl]feature id=3025 
+<4>[  261.070760] MINGJI test func calling OV2659YUVSensorSetting()
+<4>[  261.071496] OV2659YUVSensorSetting:iCmd=18,iPara=0, 0 
+<4>[  261.072174] [OV2659][OV2659FeatureControl]feature id=3025 
+<4>[  261.072873] MINGJI test func calling OV2659YUVSensorSetting()
+<4>[  261.073601] OV2659YUVSensorSetting:iCmd=20,iPara=0, 0 
+<4>[  261.074251] Set EV:0
+<4>[  261.074531] MINGJI test func calling OV2659_set_param_exposure()
+<4>[  261.075289] Camera iReadRegI2C addr=60 
+<4>[  261.078320] Camera iReadRegI2C addr=60 
+<4>[  261.090443] [OV2659][OV2659FeatureControl]feature id=3025 
+<4>[  261.091143] MINGJI test func calling OV2659YUVSensorSetting()
+<4>[  261.091871] OV2659YUVSensorSetting:iCmd=23,iPara=1, 0 
+<4>[  261.092521] Set AWB Mode:1
+<4>[  261.092864] MINGJI test func calling OV2659_set_param_wb()
+<4>[  261.093557] OV2659_set_param_wb iPara=1, 1073741824 
+<4>[  261.094171] MINGJI test func calling OV2659_set_AWB_mode()
+<4>[  261.094846] Camera iReadRegI2C addr=60 
+<4>[  261.098988] [OV2659][OV2659FeatureControl]feature id=3025 
+<4>[  261.099660] MINGJI test func calling OV2659YUVSensorSetting()
+<4>[  261.100397] OV2659YUVSensorSetting:iCmd=19,iPara=0, 0 
+<4>[  261.101046] [OV2659][OV2659FeatureControl]feature id=3025 
+<4>[  261.101717] MINGJI test func calling OV2659YUVSensorSetting()
+<4>[  261.102433] OV2659YUVSensorSetting:iCmd=19,iPara=0, 0 
+<4>[  261.103088] [OV2659][OV2659FeatureControl]feature id=3025 
+<4>[  261.103759] MINGJI test func calling OV2659YUVSensorSetting()
+<4>[  261.104475] OV2659YUVSensorSetting:iCmd=17,iPara=1, 0 
+<4>[  261.105113] Set AE Mode:1
+<4>[  261.105438] Camera iReadRegI2C addr=60 
+<4>[  261.109631] [OV2659][OV2659FeatureControl]feature id=3025 
+<4>[  261.110348] MINGJI test func calling OV2659YUVSensorSetting()
+<4>[  261.111080] OV2659YUVSensorSetting:iCmd=27,iPara=1, 0 
+<4>[  261.111793] [OV2659][OV2659FeatureControl]feature id=3025 
+<4>[  261.112491] MINGJI test func calling OV2659YUVSensorSetting()
+<4>[  261.113218] OV2659YUVSensorSetting:iCmd=25,iPara=1, 0 
+<4>[  261.113895] [OV2659][OV2659FeatureControl]feature id=3025 
+<4>[  261.114591] MINGJI test func calling OV2659YUVSensorSetting()
+<4>[  261.115320] OV2659YUVSensorSetting:iCmd=26,iPara=0, 0 
+<4>[  261.116021] [OV2659][OV2659FeatureControl]feature id=3025 
+<4>[  261.116714] MINGJI test func calling OV2659YUVSensorSetting()
+<4>[  261.117441] OV2659YUVSensorSetting:iCmd=24,iPara=1, 0 
+<4>[  261.118141] [OV2659][OV2659FeatureControl]feature id=3025 
+<4>[  261.118835] MINGJI test func calling OV2659YUVSensorSetting()
+<4>[  261.119562] OV2659YUVSensorSetting:iCmd=28,iPara=1, 0 
+<4>[  261.120262] [OV2659][OV2659FeatureControl]feature id=3025 
+<4>[  261.120980] MINGJI test func calling OV2659YUVSensorSetting()
+<4>[  261.121708] OV2659YUVSensorSetting:iCmd=6,iPara=0, 0 
+<4>[  261.122346] Night Mode:0
+<4>[  261.122669] MINGJI test func calling OV2659_night_mode()
+<4>[  261.123340] Camera iReadRegI2C addr=60 
+<4>[  261.133788] [OV2659][OV2659FeatureControl]feature id=3025 
+<4>[  261.134460] MINGJI test func calling OV2659YUVSensorSetting()
+<4>[  261.135175] OV2659YUVSensorSetting:iCmd=7,iPara=0, 0 
+<4>[  261.135802] Set Color Effect:0
+<4>[  261.136182] MINGJI test func calling OV2659_set_param_effect()
+<4>[  261.136908] OV2659_set_param_effect iPara=0, -740082496 
+<4>[  261.148615] [OV2659][OV2659FeatureControl]feature id=3025 
+<4>[  261.149287] MINGJI test func calling OV2659YUVSensorSetting()
+<4>[  261.150003] OV2659YUVSensorSetting:iCmd=0,iPara=4000, 0 
+<4>[  261.150777] [OV2659][OV2659FeatureControl]feature id=3025 
+<4>[  261.151449] MINGJI test func calling OV2659YUVSensorSetting()
+<4>[  261.152181] OV2659YUVSensorSetting:iCmd=13,iPara=0, 0 
+<4>[  261.152809] Set Flicker:0
+<4>[  261.153139] MINGJI test func calling OV2659_set_param_banding()
+<4>[  261.153870] MINGJI test func calling OV2659Sensor.IsPVmode == KAL_TRUE
+<4>[  261.154682] Camera iReadRegI2C addr=60 
+<4>[  261.157282] MINGJI test func calling AE_FLICKER_MODE_60HZ
+<7>[  261.162034] [89:factory] fork [638:factory]
+<4>[  261.234203] MINGJI test func calling OV2659GetInfo()
+<4>[  261.234813] [OV2659]OV2659GetInfo enter :
+<4>[  261.234817]  [OV2659]OV2659GetInfo exit :
+<4>[  261.235486]  mtkfb_ioctl(MTKFB_ENABLE_OVERLAY)
+<7>[  262.155841] [1:init] fork [639:init]
+<7>[  262.156761] [639:init] set proc[639] name: -> [logwrapper]
+<7>[  262.159729] [639:logwrapper] fork [640:logwrapper]
+<7>[  262.160833] [640:logwrapper] exit
+<7>[  262.161085] [640:logwrapper] sig 17 to [639:logwrapper]
+<7>[  262.161262] [639:logwrapper] exit
+<7>[  262.161444] [639:logwrapper] sig 17 to [1:init]
+<7>[  262.562640] [82:adbd] fork [641:adbd]
+<7>[  262.563432] [641:adbd] set proc[641] name: -> [sh]
+<7>[  262.564987] [641:sh] fork [642:sh]
+<7>[  262.565532] [642:sh] set proc[642] name: -> [df]
+<7>[  262.567699] [642:df] exit
+<7>[  262.567836] [642:df] sig 17 to [641:sh]
+<7>[  262.567928] [641:sh] exit
+<7>[  262.568213] [82:adbd] sig 1 to [641:sh]
+<7>[  262.568227] [82:adbd] sig 18 to [641:sh]
+<7>[  262.568432] [641:sh] sig 1 to [641:sh]
+<7>[  262.568444] [641:sh] sig 18 to [641:sh]
+<7>[  262.568457] [641:sh] sig 17 to [82:adbd]
+<7>[  262.611916] [82:adbd] fork [643:adbd]
+<7>[  262.612717] [643:adbd] set proc[643] name: -> [sh]
+<7>[  262.614285] [643:sh] fork [644:sh]
+<7>[  262.614827] [644:sh] set proc[644] name: -> [getprop]
+<7>[  262.616891] [644:getprop] exit
+<7>[  262.617021] [644:getprop] sig 17 to [643:sh]
+<7>[  262.617112] [643:sh] exit
+<7>[  262.617388] [82:adbd] sig 1 to [643:sh]
+<7>[  262.617402] [82:adbd] sig 18 to [643:sh]
+<7>[  262.617601] [643:sh] sig 1 to [643:sh]
+<7>[  262.617613] [643:sh] sig 18 to [643:sh]
+<7>[  262.617626] [643:sh] sig 17 to [82:adbd]
+<7>[  262.660607] [82:adbd] fork [645:adbd]
+<7>[  262.661389] [645:adbd] set proc[645] name: -> [sh]
+<7>[  262.662942] [645:sh] fork [646:sh]
+<7>[  262.663478] [646:sh] set proc[646] name: -> [dumpsys]
+<6>[  262.669648] binder: 646:646 refcount change on invalid ref 0
+<6>[  262.669661] binder: 646:646 refcount change on invalid ref 0
+<6>[  262.669675] binder: 646:646 binder_context_mgr_node is NULL
+<6>[  262.669685] binder: 646:646 transaction failed 29189, size 96-0
+<7>[  262.670187] [646:dumpsys] exit
+<7>[  262.670830] [646:dumpsys] sig 17 to [645:sh]
+<7>[  262.670951] [645:sh] exit
+<7>[  262.671080] [645:sh] sig 1 to [645:sh]
+<7>[  262.671100] [645:sh] sig 17 to [82:adbd]
+<7>[  262.711253] [82:adbd] fork [647:adbd]
+<7>[  262.712040] [647:adbd] set proc[647] name: -> [sh]
+<7>[  262.713583] [647:sh] fork [648:sh]
+<7>[  262.714114] [648:sh] set proc[648] name: -> [dumpsys]
+<6>[  262.720349] binder: 648:648 refcount change on invalid ref 0
+<6>[  262.720362] binder: 648:648 refcount change on invalid ref 0
+<6>[  262.720375] binder: 648:648 binder_context_mgr_node is NULL
+<6>[  262.720385] binder: 648:648 transaction failed 29189, size 100-0
+<7>[  262.720896] [648:dumpsys] exit
+<7>[  262.721242] [648:dumpsys] sig 17 to [647:sh]
+<7>[  262.721327] [647:sh] exit
+<7>[  262.721464] [647:sh] sig 1 to [647:sh]
+<7>[  262.721484] [647:sh] sig 17 to [82:adbd]
+<4>[  263.078933] MSG_X = 159,MSG_Y = 510
+<4>[  263.088876] MSG_X = 159,MSG_Y = 510
+<4>[  263.098848] MSG_X = 159,MSG_Y = 510
+<4>[  263.108762] MSG_X = 159,MSG_Y = 510
+<4>[  263.118733] MSG_X = 159,MSG_Y = 510
+<4>[  263.128714] MSG_X = 159,MSG_Y = 510
+<4>[  263.138679] MSG_X = 159,MSG_Y = 510
+<4>[  263.148667] MSG_X = 159,MSG_Y = 510
+<4>[  263.158635] MSG_X = 159,MSG_Y = 510
+<4>[  263.168548] MSG_X = 159,MSG_Y = 510
+<4>[  263.178520] MSG_X = 159,MSG_Y = 510
+<4>[  263.188484] MSG_X = 159,MSG_Y = 510
+<4>[  263.198456] MSG_X = 159,MSG_Y = 510
+<4>[  263.208428] MSG_X = 159,MSG_Y = 510
+<4>[  263.218350] MSG_X = 159,MSG_Y = 510
+<4>[  263.228321] MSG_X = 159,MSG_Y = 510
+<4>[  263.238789] MSG_X = 159,MSG_Y = 510
+<4>[  263.248277] MSG_X = 159,MSG_Y = 510
+<4>[  263.537221] MSG_X = 159,MSG_Y = 510
+<4>[  263.547146] MSG_X = 159,MSG_Y = 510
+<4>[  263.550310] 2013-03-09 18:05:19.615425 UTC; android time 2013-03-09 18:05:19.615425
+<4>[  263.557120] MSG_X = 159,MSG_Y = 510
+<4>[  263.567041] MSG_X = 159,MSG_Y = 510
+<4>[  263.577004] MSG_X = 159,MSG_Y = 510
+<4>[  263.586982] MSG_X = 159,MSG_Y = 510
+<4>[  263.596945] MSG_X = 159,MSG_Y = 510
+<4>[  263.606914] MSG_X = 159,MSG_Y = 510
+<4>[  263.616898] MSG_X = 159,MSG_Y = 510
+<4>[  263.626849] MSG_X = 159,MSG_Y = 510
+<4>[  263.636765] MSG_X = 159,MSG_Y = 510
+<4>[  263.646738] MSG_X = 159,MSG_Y = 510
+<4>[  263.935692] MSG_X = 265,MSG_Y = 510
+<4>[  263.945618] MSG_X = 265,MSG_Y = 510
+<4>[  263.955585] MSG_X = 265,MSG_Y = 510
+<4>[  263.965546] MSG_X = 265,MSG_Y = 510
+<4>[  263.975517] MSG_X = 265,MSG_Y = 510
+<4>[  263.985505] MSG_X = 265,MSG_Y = 510
+<4>[  263.995478] MSG_X = 265,MSG_Y = 510
+<6>[  264.080330] yaffs: userdata sync do_checkpoint 0,gc_urgen 0
+<6>[  264.080342] yaffs: userdata yaffs_FlushSuperBlock 0
+<4>[  264.266638] concurrency scenario CON_SCE_CAM_PREVIEW OFF
+<7>[  264.267459] [638:factory] exit
+<4>[  264.267584] mtkfb_ioctl(MTKFB_DISABLE_OVERLAY)
+<4>[  266.326543] MSG_X = 53,MSG_Y = 510
+<4>[  266.336497] MSG_X = 53,MSG_Y = 510
+<4>[  266.346461] MSG_X = 53,MSG_Y = 510
+<4>[  266.356423] MSG_X = 53,MSG_Y = 510
+<4>[  266.366389] MSG_X = 53,MSG_Y = 510
+<4>[  266.376363] MSG_X = 53,MSG_Y = 510
+<4>[  266.386324] MSG_X = 53,MSG_Y = 510
+<4>[  266.396292] MSG_X = 53,MSG_Y = 510
+<4>[  266.406209] MSG_X = 53,MSG_Y = 510
+<4>[  266.416172] MSG_X = 53,MSG_Y = 510
+<4>[  266.426138] MSG_X = 53,MSG_Y = 510
+<4>[  266.436100] MSG_X = 53,MSG_Y = 510
+<4>[  266.446065] MSG_X = 53,MSG_Y = 510
+<4>[  266.456034] MSG_X = 53,MSG_Y = 510
+<4>[  266.465999] MSG_X = 53,MSG_Y = 510
+<4>[  266.475964] MSG_X = 53,MSG_Y = 510
+<7>[  266.510631] [636:factory] exit
+<7>[  266.510735] [637:factory] exit
+<6>[  266.510882] [Power/PMIC] [hwPowerDown] 0,kd_camera_hw,1
+<5>[  266.510896] [Power/PMIC] [hwPowerDown] powerId:19 index:0 mod_name: kd_camera_hw
+<5>[  266.511816] [Power/PMIC] [19] PMU LDO Disable
+<6>[  266.512368] [Power/PMIC] [hwPowerDown] disable 19 by kd_camera_hw 
+<6>[  266.512380] [Power/PMIC] [pmic_ldo_enable] Receive powerId 19, action is 0
+<6>[  266.512392] [Power/PMIC] [dct_pmic_VCAMA_enable] 0
+<6>[  266.512540] [Power/PMIC] [hwPowerDown] 0,kd_camera_hw,1
+<5>[  266.512553] [Power/PMIC] [hwPowerDown] powerId:9 index:0 mod_name: kd_camera_hw
+<5>[  266.513461] [Power/PMIC] [9] PMU LDO Disable
+<6>[  266.514002] [Power/PMIC] [hwPowerDown] disable 9 by kd_camera_hw 
+<6>[  266.514013] [Power/PMIC] [pmic_ldo_enable] Receive powerId 9, action is 0
+<6>[  266.514025] [Power/PMIC] [dct_pmic_VCAM_AF_enable] 0
+<6>[  266.514145] [Power/PMIC] [hwPowerDown] 0,kd_camera_hw,1
+<5>[  266.514157] [Power/PMIC] [hwPowerDown] powerId:7 index:0 mod_name: kd_camera_hw
+<5>[  266.515064] [Power/PMIC] [7] PMU LDO Disable
+<6>[  266.515606] [Power/PMIC] [hwPowerDown] disable 7 by kd_camera_hw 
+<6>[  266.515617] [Power/PMIC] [pmic_ldo_enable] Receive powerId 7, action is 0
+<6>[  266.515629] [Power/PMIC] [dct_pmic_VCAMD_enable] 0
+<6>[  266.515747] [Power/PMIC] [hwPowerDown] 0,kd_camera_hw,1
+<5>[  266.515759] [Power/PMIC] [hwPowerDown] powerId:8 index:0 mod_name: kd_camera_hw
+<5>[  266.516667] [Power/PMIC] [8] PMU LDO Disable
+<6>[  266.517208] [Power/PMIC] [hwPowerDown] disable 8 by kd_camera_hw 
+<6>[  266.517219] [Power/PMIC] [pmic_ldo_enable] Receive powerId 8, action is 0
+<6>[  266.517231] [Power/PMIC] [dct_pmic_VCAM_IO_enable] 0
+<4>[  266.517348] Camera SW_I2C_GPIO_Close!! 
+<4>[  266.517353] 
+<7>[  266.518150] [ISP][mt_isp_release]
+<4>[  266.518593] [MT6575FDVT] [FDVT_DEBUG] FDVT_release
+<7>[  266.519278] [SYSRAM][UnlockOwner][EIS][184 bytes]...[Lock Time:  260.000490][Lock Period:6000000 usec]
+<7>[  266.519293] [SYSRAM][CheckClock]u4AllocatedTbl = 0x00000000, EnableClk = 0
+<7>[  266.519313] [SYSRAM][Free][User: EIS]try to free
+<6>[  266.519492] [KD_CAMERA_FLASHLIGHT]flashlight_release: [flashlight_release] E
+<4>[  266.519792] [mtkfb_ioctl]MTKFB_UNREGISTER_OVERLAYBUFFER
+<4>[  266.520475] [mtkfb_ioctl]MTKFB_UNREGISTER_OVERLAYBUFFER,va0 = 0x41589020
+<4>[  266.521304] [mtkfb_ioctl]MTKFB_UNREGISTER_OVERLAYBUFFER,va1 = 0x41589020, size = 252928
+<4>[  266.530994] [mtkfb_ioctl] before delete a node,list node Addr:
+<4>[  266.531711] 0xd5853000,  0xd5800000,  0xd5803000,  0xd5806000,  0xd5809000,  0xd580c000,  
+<4>[  266.532725] [mtkfb_ioctl] after delete a node,list node Addr:
+<4>[  266.533454] 0xd5853000,  
+<4>[  266.533779] 0xd5803000,  
+<4>[  266.534104] 0xd5806000,  
+<4>[  266.534428] 0xd5809000,  
+<4>[  266.534753] 0xd580c000,  
+<4>[  266.535103] [mtkfb_ioctl]MTKFB_UNREGISTER_OVERLAYBUFFER
+<4>[  266.535743] [mtkfb_ioctl]MTKFB_UNREGISTER_OVERLAYBUFFER,va0 = 0x415c6c20
+<4>[  266.536579] [mtkfb_ioctl]MTKFB_UNREGISTER_OVERLAYBUFFER,va1 = 0x415c6c20, size = 252928
+<4>[  266.537612] [mtkfb_ioctl] before delete a node,list node Addr:
+<4>[  266.538326] 0xd5853000,  0xd5803000,  0xd5806000,  0xd5809000,  0xd580c000,  
+<4>[  266.539196] [mtkfb_ioctl] after delete a node,list node Addr:
+<4>[  266.539929] 0xd5853000,  
+<4>[  266.540254] 0xd5806000,  
+<4>[  266.540586] 0xd5809000,  
+<4>[  266.540910] 0xd580c000,  
+<4>[  266.541249] [mtkfb_ioctl]MTKFB_UNREGISTER_OVERLAYBUFFER
+<4>[  266.541888] [mtkfb_ioctl]MTKFB_UNREGISTER_OVERLAYBUFFER,va0 = 0x41604820
+<4>[  266.542723] [mtkfb_ioctl]MTKFB_UNREGISTER_OVERLAYBUFFER,va1 = 0x41604820, size = 252928
+<4>[  266.543756] [mtkfb_ioctl] before delete a node,list node Addr:
+<4>[  266.544470] 0xd5853000,  0xd5806000,  0xd5809000,  0xd580c000,  
+<4>[  266.545199] [mtkfb_ioctl] after delete a node,list node Addr:
+<4>[  266.545932] 0xd5853000,  
+<4>[  266.546257] 0xd5809000,  
+<4>[  266.546582] 0xd580c000,  
+<4>[  266.546919] [mtkfb_ioctl]MTKFB_UNREGISTER_OVERLAYBUFFER
+<4>[  266.547558] [mtkfb_ioctl]MTKFB_UNREGISTER_OVERLAYBUFFER,va0 = 0x41642420
+<4>[  266.548394] [mtkfb_ioctl]MTKFB_UNREGISTER_OVERLAYBUFFER,va1 = 0x41642420, size = 252928
+<4>[  266.549426] [mtkfb_ioctl] before delete a node,list node Addr:
+<4>[  266.550140] 0xd5853000,  0xd5809000,  0xd580c000,  
+<4>[  266.550732] [mtkfb_ioctl] after delete a node,list node Addr:
+<4>[  266.551465] 0xd5853000,  
+<4>[  266.551790] 0xd580c000,  
+<4>[  266.552128] [mtkfb_ioctl]MTKFB_UNREGISTER_OVERLAYBUFFER
+<4>[  266.552768] [mtkfb_ioctl]MTKFB_UNREGISTER_OVERLAYBUFFER,va0 = 0x41680020
+<4>[  266.553603] [mtkfb_ioctl]MTKFB_UNREGISTER_OVERLAYBUFFER,va1 = 0x41680020, size = 252928
+<4>[  266.554634] [mtkfb_ioctl] before delete a node,list node Addr:
+<4>[  266.555348] 0xd5853000,  0xd580c000,  
+<4>[  266.555796] [mtkfb_ioctl] after delete a node,list node Addr:
+<4>[  266.556529] 0xd5853000,  
+<7>[  266.564645] [ISP][mt_isp_open]
+<7>[  266.565988] [ISP][mt_isp_release]
+<4>[  266.566266] concurrency scenario CON_SCE_CAM_PREVIEW OFF
+<6>[  266.567125] [KD_CAMERA_FLASHLIGHT]flashlight_open: [flashlight_open] E
+<6>[  266.567150] [KD_CAMERA_FLASHLIGHT]kdSetFlashlightDrv: [kdSetFlashlightDrv] flashlightIdx: 0 
+<6>[  266.567162] [KD_CAMERA_FLASHLIGHT]default_flashlight_open: [default_flashlight_open] E
+<7>[  266.567214] [ISP][mt_isp_open]
+<6>[  266.567388] [kd_sensorlist]kdSetDriver: [kdSetDriver] :2,2,hi704yuv,32
+<4>[  266.567401] [Enter]:HI704 get Resolution func
+<4>[  266.567931] [Exit]:HI704 get Resolution func
+<4>[  266.568469] [Enter]:HI704 get Resolution func
+<4>[  266.569003] [Exit]:HI704 get Resolution func
+<4>[  266.569551] [Enter]:HI704 getInfo func:ScenarioId = 0
+<4>[  266.570180] [Exit]:HI704 getInfo func
+<4>[  266.570677] [Enter]:HI704 getInfo func:ScenarioId = 1
+<4>[  266.571294] [Exit]:HI704 getInfo func
+<4>[  266.571752] [Enter]:HI704 getInfo func:ScenarioId = 0
+<4>[  266.572377] [Exit]:HI704 getInfo func
+<6>[  266.573993] [Power/PMIC] [hwPowerOn] 0,NOP,0
+<5>[  266.574007] [Power/PMIC] [hwPowerOn] acquire powerId:8 index:0 mod_name: kd_camera_hw
+<5>[  266.574980] [Power/PMIC] [8] PMU LDO Enable
+<6>[  266.575510] [Power/PMIC] [hwPowerOn] enable 8 by kd_camera_hw 
+<6>[  266.575521] [Power/PMIC] [pmic_ldo_vol_sel] Receive powerId 8, action is 2800
+<6>[  266.575534] [Power/PMIC] ****[dct_pmic_VCAM_IO_sel] value=2800 
+<6>[  266.575672] [Power/PMIC] [pmic_ldo_enable] Receive powerId 8, action is 1
+<6>[  266.575687] [Power/PMIC] [dct_pmic_VCAM_IO_enable] 1
+<6>[  266.575807] [Power/PMIC] [hwPowerOn] 0,NOP,0
+<5>[  266.575819] [Power/PMIC] [hwPowerOn] acquire powerId:19 index:0 mod_name: kd_camera_hw
+<5>[  266.576802] [Power/PMIC] [19] PMU LDO Enable
+<6>[  266.577344] [Power/PMIC] [hwPowerOn] enable 19 by kd_camera_hw 
+<6>[  266.577354] [Power/PMIC] [pmic_ldo_vol_sel] Receive powerId 19, action is 2800
+<6>[  266.577367] [Power/PMIC] ****[dct_pmic_VCAMA_sel] value=2800 
+<6>[  266.577486] [Power/PMIC] [pmic_ldo_enable] Receive powerId 19, action is 1
+<6>[  266.577500] [Power/PMIC] [dct_pmic_VCAMA_enable] 1
+<6>[  266.577617] [Power/PMIC] [hwPowerOn] 0,NOP,0
+<5>[  266.577629] [Power/PMIC] [hwPowerOn] acquire powerId:7 index:0 mod_name: kd_camera_hw
+<5>[  266.578601] [Power/PMIC] [7] PMU LDO Enable
+<6>[  266.579132] [Power/PMIC] [hwPowerOn] enable 7 by kd_camera_hw 
+<6>[  266.579143] [Power/PMIC] [pmic_ldo_vol_sel] Receive powerId 7, action is 1800
+<6>[  266.579155] [Power/PMIC] ****[dct_pmic_VCAMD_sel] value=1800 
+<6>[  266.579276] [Power/PMIC] [pmic_ldo_enable] Receive powerId 7, action is 1
+<6>[  266.579289] [Power/PMIC] [dct_pmic_VCAMD_enable] 1
+<6>[  266.579406] [Power/PMIC] [hwPowerOn] 0,NOP,0
+<5>[  266.579417] [Power/PMIC] [hwPowerOn] acquire powerId:9 index:0 mod_name: kd_camera_hw
+<5>[  266.580424] [Power/PMIC] [9] PMU LDO Enable
+<6>[  266.580943] [Power/PMIC] [hwPowerOn] enable 9 by kd_camera_hw 
+<6>[  266.580954] [Power/PMIC] [pmic_ldo_vol_sel] Receive powerId 9, action is 2800
+<6>[  266.580966] [Power/PMIC] ****[dct_pmic_VCAM_AF_sel] value=2800 
+<6>[  266.581101] [Power/PMIC] [pmic_ldo_enable] Receive powerId 9, action is 1
+<6>[  266.581115] [Power/PMIC] [dct_pmic_VCAM_AF_enable] 1
+<4>[  266.597237] Camera SW_I2C_GPIO_Open!! 
+<4>[  266.597242] 
+<6>[  266.607870] [kd_sensorlist]KD_IMGSENSOR_PROFILE: [kdModulePowerOn]Profile = 33882
+<4>[  266.607883] MINGJI Test HI704Open() calling![Enter]:HI704 Open func:Camera iReadRegI2C addr=60 
+<4>[  266.614450] [HI704YUV]:read Sensor ID:96
+<4>[  266.616144] Camera iReadRegI2C addr=60 
+<4>[  266.618430] Camera iReadRegI2C addr=60 
+<4>[  266.620734] Camera iReadRegI2C addr=60 
+<4>[  266.623021] MINGJI HI704_power_on HI704_pv_exposure_lines=50000
+<4>[  267.035659] [Exit]:HI704 Open func
+<6>[  267.036073] [kd_sensorlist]KD_IMGSENSOR_PROFILE: [SensorOpen]Profile = 428203
+<7>[  267.036660] [SYSRAM][LockOwner][EIS][184 bytes] succeed [Lock Time:  267.000010][FFFFF31D]
+<7>[  267.036673] [SYSRAM][CheckClock]u4AllocatedTbl = 0x00008000, EnableClk = 1
+<7>[  267.036698] [SYSRAM][ALLOC_TIMEOUT][User: EIS]alloc 184 bytes successfully
+<4>[  267.036875] [MT6575FDVT] [FDVT_DEBUG] FDVT_open
+<4>[  267.037437] [MT6575FDVT]  ioctl allocate mem ok
+<4>[  267.037991] [MT6575FDVT]  ioctl allocate mem ok
+<4>[  267.038558] [MT6575FDVT] [FDVT] FDVT_INIT_CMD
+<7>[  267.040561] [89:factory] fork [649:factory]
+<7>[  267.040704] [89:factory] fork [650:factory]
+<4>[  267.072097] [mtkfb_ioctl]MTKFB_REGISTER_OVERLAYBUFFER
+<4>[  267.072719] [mtkfb_ioctl] before add a node,list node Addr:
+<4>[  267.073412] 0xd5853000,  
+<4>[  267.073717] [mtkfb_ioctl]MTKFB_REGISTER_OVERLAYBUFFER,va = 0x41589020,size = 252928
+<4>[  267.075030] [mtkfb_ioctl]MTKFB_REGISTER_OVERLAYBUFFER,allocated mva = 0x2c1020
+<4>[  267.075922] [current process ID = 89, current process name:factory]
+<4>[  267.076700] [mtkfb_ioctl] after add a node,list node Addr:
+<4>[  267.077382] 0xd5853000,  0xd580f000,  
+<4>[  267.077870] [mtkfb_ioctl]MTKFB_REGISTER_OVERLAYBUFFER
+<4>[  267.078486] [mtkfb_ioctl] before add a node,list node Addr:
+<4>[  267.079179] 0xd5853000,  0xd580f000,  
+<4>[  267.079625] [mtkfb_ioctl]MTKFB_REGISTER_OVERLAYBUFFER,va = 0x415c6c20,size = 252928
+<4>[  267.080950] [mtkfb_ioctl]MTKFB_REGISTER_OVERLAYBUFFER,allocated mva = 0x301c20
+<4>[  267.081842] [current process ID = 89, current process name:factory]
+<4>[  267.082619] [mtkfb_ioctl] after add a node,list node Addr:
+<4>[  267.083302] 0xd5853000,  0xd580f000,  0xd5812000,  
+<4>[  267.083929] [mtkfb_ioctl]MTKFB_REGISTER_OVERLAYBUFFER
+<4>[  267.084546] [mtkfb_ioctl] before add a node,list node Addr:
+<4>[  267.085239] 0xd5853000,  0xd580f000,  0xd5812000,  
+<4>[  267.085825] [mtkfb_ioctl]MTKFB_REGISTER_OVERLAYBUFFER,va = 0x41604820,size = 252928
+<4>[  267.087115] [mtkfb_ioctl]MTKFB_REGISTER_OVERLAYBUFFER,allocated mva = 0x381820
+<4>[  267.088006] [current process ID = 89, current process name:factory]
+<4>[  267.088784] [mtkfb_ioctl] after add a node,list node Addr:
+<4>[  267.089467] 0xd5853000,  0xd580f000,  0xd5812000,  0xd5815000,  
+<4>[  267.090229] [mtkfb_ioctl]MTKFB_REGISTER_OVERLAYBUFFER
+<4>[  267.090870] [mtkfb_ioctl] before add a node,list node Addr:
+<4>[  267.091553] 0xd5853000,  0xd580f000,  0xd5812000,  0xd5815000,  
+<4>[  267.092279] [mtkfb_ioctl]MTKFB_REGISTER_OVERLAYBUFFER,va = 0x41642420,size = 252928
+<4>[  267.093566] [mtkfb_ioctl]MTKFB_REGISTER_OVERLAYBUFFER,allocated mva = 0x401420
+<4>[  267.094457] [current process ID = 89, current process name:factory]
+<4>[  267.095235] [mtkfb_ioctl] after add a node,list node Addr:
+<4>[  267.095918] 0xd5853000,  0xd580f000,  0xd5812000,  0xd5815000,  0xd5818000,  
+<4>[  267.096824] [mtkfb_ioctl]MTKFB_REGISTER_OVERLAYBUFFER
+<4>[  267.097442] [mtkfb_ioctl] before add a node,list node Addr:
+<4>[  267.098134] 0xd5853000,  0xd580f000,  0xd5812000,  0xd5815000,  0xd5818000,  
+<4>[  267.099002] [mtkfb_ioctl]MTKFB_REGISTER_OVERLAYBUFFER,va = 0x41680020,size = 252928
+<4>[  267.100306] [mtkfb_ioctl]MTKFB_REGISTER_OVERLAYBUFFER,allocated mva = 0x481020
+<4>[  267.101197] [current process ID = 89, current process name:factory]
+<4>[  267.101975] [mtkfb_ioctl] after add a node,list node Addr:
+<4>[  267.102658] 0xd5853000,  0xd580f000,  0xd5812000,  0xd5815000,  0xd5818000,  0xd581b000,  
+<4>[  267.119461] concurrency scenario CON_SCE_CAM_PREVIEW ON
+<7>[  267.121718] [ISP][mt_isp_ioctl]RESET
+<7>[  267.121862] [ISP][mt_isp_reset_buf]hold_reg(0), BufAmount(0)
+<7>[  267.121872] [ISP][mt_isp_reset_buf]End
+<4>[  267.121898] [Enter]:HI704 getInfo func:ScenarioId = 0
+<4>[  267.122516] [Exit]:HI704 getInfo func
+<4>[  267.122975] [Enter]:HI704 getInfo func:ScenarioId = 0
+<4>[  267.123599] [Exit]:HI704 getInfo func
+<4>[  267.124058] [Enter]:HI704 Control func:ScenarioId = 0
+<4>[  267.124682] [Enter]:HI704 preview func:HI704_sensor.video_mode = 0
+<4>[  267.125451] [HI704]preview set_VGA_mode
+<4>[  267.125929] Camera iReadRegI2C addr=60 
+<4>[  267.142936] Camera iReadRegI2C addr=60 
+<4>[  267.146450] Camera iReadRegI2C addr=60 
+<4>[  267.165859] Camera iReadRegI2C addr=60 
+<7>[  267.166866] [1:init] fork [651:init]
+<4>[  267.170936] Camera iReadRegI2C addr=60 
+<4>[  267.174444] Camera iReadRegI2C addr=60 
+<4>[  267.177951] [Enter]:HI704 set Mirror_flip func:image_mirror=3
+<4>[  267.179874] Camera iReadRegI2C addr=60 
+<7>[  267.180794] [651:init] set proc[651] name: -> [logwrapper]
+<7>[  267.182178] [651:logwrapper] fork [652:logwrapper]
+<4>[  267.185347] [Exit]:HI704 set Mirror_flip func mirror=147
+<4>[  267.185998] [Exit]:HI704 preview func
+<4>[  267.186452] [Exit]:HI704 Control func
+<4>[  267.188755] [Enter]:HI704 getInfo func:ScenarioId = 0
+<4>[  267.189376] [Exit]:HI704 getInfo func
+<4>[  267.189833] [Enter]:HI704 get Resolution func
+<4>[  267.190419] [Exit]:HI704 get Resolution func
+<4>[  267.191037] [Enter]HI704YUVSensorSetting func:cmd = 2
+<4>[  267.191681] [Enter]HI704YUVSensorSetting func:cmd = 21
+<4>[  267.192326] [Enter]HI704YUVSensorSetting func:cmd = 22
+<4>[  267.192974] [Enter]HI704YUVSensorSetting func:cmd = 18
+<4>[  267.193618] [Enter]HI704YUVSensorSetting func:cmd = 20
+<4>[  267.194247] [Enter]HI704 set_param_exposure func:para = 0
+<4>[  267.194933] [Enter]HI704YUVSensorSetting func:cmd = 23
+<4>[  267.195562] [Enter]HI704 set_param_wb func:para = 1
+<7>[  267.200706] [652:logwrapper] exit
+<7>[  267.200833] [652:logwrapper] sig 17 to [651:logwrapper]
+<4>[  267.206573] [Enter]HI704YUVSensorSetting func:cmd = 19
+<4>[  267.207221] [Enter]HI704YUVSensorSetting func:cmd = 19
+<4>[  267.207866] [Enter]HI704YUVSensorSetting func:cmd = 17
+<4>[  267.208559] [Enter]HI704YUVSensorSetting func:cmd = 27
+<4>[  267.209214] [Enter]HI704YUVSensorSetting func:cmd = 25
+<4>[  267.209864] [Enter]HI704YUVSensorSetting func:cmd = 26
+<4>[  267.210566] [Enter]HI704YUVSensorSetting func:cmd = 24
+<4>[  267.211218] [Enter]HI704YUVSensorSetting func:cmd = 28
+<4>[  267.211870] [Enter]HI704YUVSensorSetting func:cmd = 6
+<4>[  267.212488] [Enter]HI704 night mode func:enable = 0
+<4>[  267.213094] HI704_sensor.video_mode = 0
+<4>[  267.213570] HI704_sensor.night_mode = 0
+<4>[  267.214047] [HI704] HI704_Cal_Min_Frame_Rate:min_fps=100
+<4>[  267.214708] Camera iReadRegI2C addr=60 
+<4>[  267.219448] Camera iReadRegI2C addr=60 
+<4>[  267.224202] Camera iReadRegI2C addr=60 
+<4>[  267.228928] Camera iReadRegI2C addr=60 
+<4>[  267.236120] Camera iReadRegI2C addr=60 
+<4>[  267.238407] Camera iReadRegI2C addr=60 
+<4>[  267.245592] Camera iReadRegI2C addr=60 
+<4>[  267.250336] Camera iReadRegI2C addr=60 
+<4>[  267.253842] Camera iReadRegI2C addr=60 
+<4>[  267.257378] [Enter]HI704YUVSensorSetting func:cmd = 7
+<4>[  267.257996] [Enter]HI704 set_param_effect func:para = 0
+<4>[  267.258677] [Enter]HI704YUVSensorSetting func:cmd = 0
+<4>[  267.259382] [Enter]HI704YUVSensorSetting func:cmd = 13
+<4>[  267.260011] [Enter]HI704 set_param_banding func:para = 0
+<7>[  267.270734] [89:factory] fork [653:factory]
+<7>[  267.271008] [651:logwrapper] exit
+<7>[  267.271222] [651:logwrapper] sig 17 to [1:init]
+<4>[  267.475308] [Enter]:HI704 getInfo func:ScenarioId = 0
+<4>[  267.475928] [Exit]:HI704 getInfo func
+<7>[  267.571572] [82:adbd] fork [654:adbd]
+<7>[  267.572359] [654:adbd] set proc[654] name: -> [sh]
+<7>[  267.573924] [654:sh] fork [655:sh]
+<7>[  267.574477] [655:sh] set proc[655] name: -> [df]
+<7>[  267.576647] [655:df] exit
+<7>[  267.576786] [655:df] sig 17 to [654:sh]
+<7>[  267.576876] [654:sh] exit
+<7>[  267.577161] [82:adbd] sig 1 to [654:sh]
+<7>[  267.577175] [82:adbd] sig 18 to [654:sh]
+<7>[  267.577378] [654:sh] sig 1 to [654:sh]
+<7>[  267.577390] [654:sh] sig 18 to [654:sh]
+<7>[  267.577403] [654:sh] sig 17 to [82:adbd]
+<7>[  267.617819] [82:adbd] fork [656:adbd]
+<7>[  267.618611] [656:adbd] set proc[656] name: -> [sh]
+<7>[  267.620165] [656:sh] fork [657:sh]
+<7>[  267.620760] [657:sh] set proc[657] name: -> [getprop]
+<7>[  267.622757] [657:getprop] exit
+<7>[  267.622890] [657:getprop] sig 17 to [656:sh]
+<7>[  267.622981] [656:sh] exit
+<7>[  267.623266] [82:adbd] sig 1 to [656:sh]
+<7>[  267.623281] [82:adbd] sig 18 to [656:sh]
+<7>[  267.623478] [656:sh] sig 1 to [656:sh]
+<7>[  267.623490] [656:sh] sig 18 to [656:sh]
+<7>[  267.623503] [656:sh] sig 17 to [82:adbd]
+<7>[  267.669193] [82:adbd] fork [658:adbd]
+<7>[  267.669976] [658:adbd] set proc[658] name: -> [sh]
+<7>[  267.671591] [658:sh] fork [659:sh]
+<7>[  267.672125] [659:sh] set proc[659] name: -> [dumpsys]
+<6>[  267.678304] binder: 659:659 refcount change on invalid ref 0
+<6>[  267.678317] binder: 659:659 refcount change on invalid ref 0
+<6>[  267.678331] binder: 659:659 binder_context_mgr_node is NULL
+<6>[  267.678341] binder: 659:659 transaction failed 29189, size 96-0
+<7>[  267.678888] [659:dumpsys] exit
+<7>[  267.679231] [659:dumpsys] sig 17 to [658:sh]
+<7>[  267.679318] [658:sh] exit
+<7>[  267.679454] [658:sh] sig 1 to [658:sh]
+<7>[  267.679473] [658:sh] sig 17 to [82:adbd]
+<7>[  267.720485] [82:adbd] fork [660:adbd]
+<7>[  267.721271] [660:adbd] set proc[660] name: -> [sh]
+<7>[  267.722826] [660:sh] fork [661:sh]
+<7>[  267.723359] [661:sh] set proc[661] name: -> [dumpsys]
+<6>[  267.729532] binder: 661:661 refcount change on invalid ref 0
+<6>[  267.729545] binder: 661:661 refcount change on invalid ref 0
+<6>[  267.729558] binder: 661:661 binder_context_mgr_node is NULL
+<6>[  267.729569] binder: 661:661 transaction failed 29189, size 100-0
+<7>[  267.730070] [661:dumpsys] exit
+<7>[  267.731570] [661:dumpsys] sig 17 to [660:sh]
+<7>[  267.731658] [660:sh] exit
+<7>[  267.731803] [660:sh] sig 1 to [660:sh]
+<7>[  267.731823] [660:sh] sig 17 to [82:adbd]
+<4>[  267.806566] mtkfb_ioctl(MTKFB_ENABLE_OVERLAY)
+<4>[  268.918073] MSG_X = 170,MSG_Y = 462
+<4>[  268.928126] MSG_X = 170,MSG_Y = 462
+<4>[  268.937963] MSG_X = 165,MSG_Y = 475
+<4>[  269.225388] MSG_X = 159,MSG_Y = 510
+<4>[  269.235318] MSG_X = 159,MSG_Y = 510
+<4>[  269.245289] MSG_X = 159,MSG_Y = 510
+<4>[  269.255256] MSG_X = 159,MSG_Y = 510
+<4>[  269.544159] MSG_X = 159,MSG_Y = 510
+<4>[  269.554081] MSG_X = 159,MSG_Y = 510
+<4>[  269.564045] MSG_X = 159,MSG_Y = 510
+<4>[  269.574008] MSG_X = 159,MSG_Y = 510
+<4>[  269.583976] MSG_X = 159,MSG_Y = 510
+<4>[  269.593949] MSG_X = 159,MSG_Y = 510
+<4>[  269.603903] MSG_X = 159,MSG_Y = 510
+<4>[  269.613887] MSG_X = 159,MSG_Y = 510
+<4>[  269.623849] MSG_X = 159,MSG_Y = 510
+<4>[  269.633797] MSG_X = 159,MSG_Y = 510
+<4>[  269.643762] MSG_X = 159,MSG_Y = 510
+<4>[  269.653727] MSG_X = 159,MSG_Y = 510
+<4>[  269.663650] MSG_X = 159,MSG_Y = 510
+<4>[  269.673616] MSG_X = 159,MSG_Y = 510
+<4>[  269.683590] MSG_X = 159,MSG_Y = 510
+<4>[  269.693550] MSG_X = 159,MSG_Y = 510
+<4>[  269.703522] MSG_X = 159,MSG_Y = 510
+<4>[  269.713679] MSG_X = 159,MSG_Y = 510
+<4>[  269.723474] MSG_X = 159,MSG_Y = 510
+<4>[  269.733427] MSG_X = 159,MSG_Y = 510
+<4>[  269.743343] MSG_X = 159,MSG_Y = 510
+<4>[  269.753312] MSG_X = 159,MSG_Y = 510
+<4>[  269.763281] MSG_X = 159,MSG_Y = 510
+<4>[  269.773250] MSG_X = 159,MSG_Y = 510
+<4>[  269.783216] MSG_X = 159,MSG_Y = 510
+<4>[  269.793187] MSG_X = 159,MSG_Y = 510
+<4>[  269.803143] MSG_X = 159,MSG_Y = 510
+<4>[  269.813115] MSG_X = 159,MSG_Y = 510
+<4>[  269.823100] MSG_X = 159,MSG_Y = 510
+<4>[  269.832998] MSG_X = 159,MSG_Y = 510
+<4>[  269.842962] MSG_X = 159,MSG_Y = 510
+<4>[  269.852933] MSG_X = 159,MSG_Y = 510
+<6>[  270.080325] yaffs: userdata sync do_checkpoint 0,gc_urgen 0
+<6>[  270.080337] yaffs: userdata yaffs_FlushSuperBlock 0
+<4>[  270.141872] MSG_X = 265,MSG_Y = 510
+<4>[  270.151799] MSG_X = 265,MSG_Y = 510
+<4>[  270.161762] MSG_X = 265,MSG_Y = 510
+<4>[  270.171726] MSG_X = 265,MSG_Y = 510
+<4>[  270.181693] MSG_X = 265,MSG_Y = 510
+<4>[  270.191685] MSG_X = 265,MSG_Y = 510
+<4>[  270.201598] MSG_X = 265,MSG_Y = 510
+<4>[  270.211567] MSG_X = 265,MSG_Y = 510
+<4>[  270.221555] MSG_X = 265,MSG_Y = 510
+<4>[  270.231530] MSG_X = 265,MSG_Y = 510
+<4>[  270.241433] MSG_X = 265,MSG_Y = 510
+<4>[  270.251394] MSG_X = 265,MSG_Y = 510
+<4>[  270.261360] MSG_X = 265,MSG_Y = 510
+<4>[  270.271329] MSG_X = 265,MSG_Y = 510
+<6>[  270.429460] [KD_CAMERA_FLASHLIGHT]default_flashlight_ioctl: [default_flashlight_ioctl]
+<4>[  270.429921] concurrency scenario CON_SCE_CAM_PREVIEW OFF
+<7>[  270.430785] [653:factory] exit
+<4>[  270.430908] mtkfb_ioctl(MTKFB_DISABLE_OVERLAY)
+<5>[  270.518312] [Power/Battery] [FGADC] 1,1200,0,11,3781,44,23,24,1135,1135,-20,0,0,1000,0,3820,1000,76,76,1154,104,103
+<4>[  271.217716] MSG_X = 53,MSG_Y = 510
+<4>[  271.227655] MSG_X = 53,MSG_Y = 510
+<4>[  271.237622] MSG_X = 53,MSG_Y = 510
+<4>[  271.247586] MSG_X = 53,MSG_Y = 510
+<4>[  271.257508] MSG_X = 53,MSG_Y = 510
+<4>[  271.267488] MSG_X = 53,MSG_Y = 510
+<4>[  271.277448] MSG_X = 53,MSG_Y = 510
+<4>[  271.287419] MSG_X = 53,MSG_Y = 510
+<4>[  271.297386] MSG_X = 53,MSG_Y = 510
+<4>[  271.307308] MSG_X = 53,MSG_Y = 510
+<4>[  271.317278] MSG_X = 53,MSG_Y = 510
+<4>[  271.327246] MSG_X = 53,MSG_Y = 510
+<4>[  271.337221] MSG_X = 53,MSG_Y = 510
+<4>[  271.347191] MSG_X = 53,MSG_Y = 510
+<4>[  271.357108] MSG_X = 53,MSG_Y = 510
+<7>[  271.391730] [649:factory] exit
+<7>[  271.391836] [650:factory] exit
+<6>[  271.391985] [Power/PMIC] [hwPowerDown] 0,kd_camera_hw,1
+<5>[  271.391999] [Power/PMIC] [hwPowerDown] powerId:19 index:0 mod_name: kd_camera_hw
+<5>[  271.392919] [Power/PMIC] [19] PMU LDO Disable
+<6>[  271.393471] [Power/PMIC] [hwPowerDown] disable 19 by kd_camera_hw 
+<6>[  271.393483] [Power/PMIC] [pmic_ldo_enable] Receive powerId 19, action is 0
+<6>[  271.393495] [Power/PMIC] [dct_pmic_VCAMA_enable] 0
+<6>[  271.393642] [Power/PMIC] [hwPowerDown] 0,kd_camera_hw,1
+<5>[  271.393655] [Power/PMIC] [hwPowerDown] powerId:9 index:0 mod_name: kd_camera_hw
+<5>[  271.394563] [Power/PMIC] [9] PMU LDO Disable
+<6>[  271.395104] [Power/PMIC] [hwPowerDown] disable 9 by kd_camera_hw 
+<6>[  271.395115] [Power/PMIC] [pmic_ldo_enable] Receive powerId 9, action is 0
+<6>[  271.395127] [Power/PMIC] [dct_pmic_VCAM_AF_enable] 0
+<6>[  271.395248] [Power/PMIC] [hwPowerDown] 0,kd_camera_hw,1
+<5>[  271.395260] [Power/PMIC] [hwPowerDown] powerId:7 index:0 mod_name: kd_camera_hw
+<5>[  271.396167] [Power/PMIC] [7] PMU LDO Disable
+<6>[  271.396709] [Power/PMIC] [hwPowerDown] disable 7 by kd_camera_hw 
+<6>[  271.396720] [Power/PMIC] [pmic_ldo_enable] Receive powerId 7, action is 0
+<6>[  271.396731] [Power/PMIC] [dct_pmic_VCAMD_enable] 0
+<6>[  271.396849] [Power/PMIC] [hwPowerDown] 0,kd_camera_hw,1
+<5>[  271.396861] [Power/PMIC] [hwPowerDown] powerId:8 index:0 mod_name: kd_camera_hw
+<5>[  271.397768] [Power/PMIC] [8] PMU LDO Disable
+<6>[  271.398310] [Power/PMIC] [hwPowerDown] disable 8 by kd_camera_hw 
+<6>[  271.398321] [Power/PMIC] [pmic_ldo_enable] Receive powerId 8, action is 0
+<6>[  271.398332] [Power/PMIC] [dct_pmic_VCAM_IO_enable] 0
+<4>[  271.398449] Camera SW_I2C_GPIO_Close!! 
+<4>[  271.398453] 
+<7>[  271.399255] [ISP][mt_isp_release]
+<4>[  271.399711] [MT6575FDVT] [FDVT_DEBUG] FDVT_release
+<7>[  271.400444] [SYSRAM][UnlockOwner][EIS][184 bytes]...[Lock Time:  267.000010][Lock Period:4370000 usec]
+<7>[  271.400459] [SYSRAM][CheckClock]u4AllocatedTbl = 0x00000000, EnableClk = 0
+<7>[  271.400480] [SYSRAM][Free][User: EIS]try to free
+<6>[  271.400650] [KD_CAMERA_FLASHLIGHT]default_flashlight_ioctl: [default_flashlight_ioctl]
+<6>[  271.400680] [KD_CAMERA_FLASHLIGHT]flashlight_release: [flashlight_release] E
+<6>[  271.400690] [KD_CAMERA_FLASHLIGHT]default_flashlight_release: [default_flashlight_release] E
+<4>[  271.400983] [mtkfb_ioctl]MTKFB_UNREGISTER_OVERLAYBUFFER
+<4>[  271.401626] [mtkfb_ioctl]MTKFB_UNREGISTER_OVERLAYBUFFER,va0 = 0x41589020
+<4>[  271.402462] [mtkfb_ioctl]MTKFB_UNREGISTER_OVERLAYBUFFER,va1 = 0x41589020, size = 252928
+<4>[  271.415172] [mtkfb_ioctl] before delete a node,list node Addr:
+<4>[  271.415890] 0xd5853000,  0xd580f000,  0xd5812000,  0xd5815000,  0xd5818000,  0xd581b000,  
+<4>[  271.416902] [mtkfb_ioctl] after delete a node,list node Addr:
+<4>[  271.417633] 0xd5853000,  
+<4>[  271.417957] 0xd5812000,  
+<4>[  271.418282] 0xd5815000,  
+<4>[  271.418607] 0xd5818000,  
+<4>[  271.418932] 0xd581b000,  
+<4>[  271.419282] [mtkfb_ioctl]MTKFB_UNREGISTER_OVERLAYBUFFER
+<4>[  271.419922] [mtkfb_ioctl]MTKFB_UNREGISTER_OVERLAYBUFFER,va0 = 0x415c6c20
+<4>[  271.420790] [mtkfb_ioctl]MTKFB_UNREGISTER_OVERLAYBUFFER,va1 = 0x415c6c20, size = 252928
+<4>[  271.421817] [mtkfb_ioctl] before delete a node,list node Addr:
+<4>[  271.422531] 0xd5853000,  0xd5812000,  0xd5815000,  0xd5818000,  0xd581b000,  
+<4>[  271.423402] [mtkfb_ioctl] after delete a node,list node Addr:
+<4>[  271.424134] 0xd5853000,  
+<4>[  271.424459] 0xd5815000,  
+<4>[  271.424784] 0xd5818000,  
+<4>[  271.425109] 0xd581b000,  
+<4>[  271.425449] [mtkfb_ioctl]MTKFB_UNREGISTER_OVERLAYBUFFER
+<4>[  271.426088] [mtkfb_ioctl]MTKFB_UNREGISTER_OVERLAYBUFFER,va0 = 0x41604820
+<4>[  271.426923] [mtkfb_ioctl]MTKFB_UNREGISTER_OVERLAYBUFFER,va1 = 0x41604820, size = 252928
+<4>[  271.427955] [mtkfb_ioctl] before delete a node,list node Addr:
+<4>[  271.428670] 0xd5853000,  0xd5815000,  0xd5818000,  0xd581b000,  
+<4>[  271.429398] [mtkfb_ioctl] after delete a node,list node Addr:
+<4>[  271.430132] 0xd5853000,  
+<4>[  271.430461] 0xd5818000,  
+<4>[  271.430786] 0xd581b000,  
+<4>[  271.431124] [mtkfb_ioctl]MTKFB_UNREGISTER_OVERLAYBUFFER
+<4>[  271.431764] [mtkfb_ioctl]MTKFB_UNREGISTER_OVERLAYBUFFER,va0 = 0x41642420
+<4>[  271.432598] [mtkfb_ioctl]MTKFB_UNREGISTER_OVERLAYBUFFER,va1 = 0x41642420, size = 252928
+<4>[  271.433631] [mtkfb_ioctl] before delete a node,list node Addr:
+<4>[  271.434345] 0xd5853000,  0xd5818000,  0xd581b000,  
+<4>[  271.434933] [mtkfb_ioctl] after delete a node,list node Addr:
+<4>[  271.435666] 0xd5853000,  
+<4>[  271.435991] 0xd581b000,  
+<4>[  271.436327] [mtkfb_ioctl]MTKFB_UNREGISTER_OVERLAYBUFFER
+<4>[  271.436967] [mtkfb_ioctl]MTKFB_UNREGISTER_OVERLAYBUFFER,va0 = 0x41680020
+<4>[  271.437803] [mtkfb_ioctl]MTKFB_UNREGISTER_OVERLAYBUFFER,va1 = 0x41680020, size = 252928
+<4>[  271.438834] [mtkfb_ioctl] before delete a node,list node Addr:
+<4>[  271.439548] 0xd5853000,  0xd581b000,  
+<4>[  271.439995] [mtkfb_ioctl] after delete a node,list node Addr:
+<4>[  271.440755] 0xd5853000,  
+<7>[  271.451657] [662:factory] set proc[662] name: -> [glgps]
+<7>[  271.460328] [89:factory] fork [662:glgps]
+<7>[  271.480940] [662:glgps] fork [663:glgps]
+<7>[  271.481186] [662:glgps] exit
+<5>[  271.481347] [Sound] -AudDrv_flush cntr(1)
+<5>[  271.481835] [Sound] -AudDrv_flush cntr(2)
+<4>[  271.482336] [MDPK] [MDPK W]: MT6575_MDP_Flush(): FLUSH() by different process. owner:0, current = ( process, pid, tgid ) = ( glgps, 662, 662 ) Rsc=0x00000000
+<7>[  271.484106] [662:glgps] sig 17 to [89:factory]
+<6>[  271.584691] [GPS] rfkill_set_block(blocked 0)
+<6>[  271.584702] [GPS] Power on
+<6>[  271.584709] [bcm4751] pull up 
+<6>[  271.710295] [bcm4751] reset 
+<6>[  271.730294] [bcm4751] power up 
+<6>[  271.730301] [bcm4751] power on 
+<4>[  271.830725] mt6575_get_bus_freq() return 192400
+<7>[  272.276591] [1:init] fork [664:init]
+<7>[  272.277118] [664:init] set proc[664] name: -> [logwrapper]
+<7>[  272.278466] [664:logwrapper] fork [665:logwrapper]
+<7>[  272.278974] [665:logwrapper] exit
+<7>[  272.279097] [665:logwrapper] sig 17 to [664:logwrapper]
+<7>[  272.279271] [664:logwrapper] exit
+<7>[  272.279463] [664:logwrapper] sig 17 to [1:init]
+<7>[  272.588892] [82:adbd] fork [666:adbd]
+<7>[  272.589681] [666:adbd] set proc[666] name: -> [sh]
+<7>[  272.591285] [666:sh] fork [667:sh]
+<7>[  272.591828] [667:sh] set proc[667] name: -> [df]
+<7>[  272.593999] [667:df] exit
+<7>[  272.594135] [667:df] sig 17 to [666:sh]
+<7>[  272.594223] [666:sh] exit
+<7>[  272.594352] [666:sh] sig 1 to [666:sh]
+<7>[  272.594371] [666:sh] sig 17 to [82:adbd]
+<7>[  272.637739] [82:adbd] fork [668:adbd]
+<7>[  272.638519] [668:adbd] set proc[668] name: -> [sh]
+<7>[  272.640064] [668:sh] fork [669:sh]
+<7>[  272.640650] [669:sh] set proc[669] name: -> [getprop]
+<7>[  272.642642] [669:getprop] exit
+<7>[  272.642773] [669:getprop] sig 17 to [668:sh]
+<7>[  272.642863] [668:sh] exit
+<7>[  272.643142] [82:adbd] sig 1 to [668:sh]
+<7>[  272.643156] [82:adbd] sig 18 to [668:sh]
+<7>[  272.643355] [668:sh] sig 1 to [668:sh]
+<7>[  272.643366] [668:sh] sig 18 to [668:sh]
+<7>[  272.643379] [668:sh] sig 17 to [82:adbd]
+<7>[  272.685363] [82:adbd] fork [670:adbd]
+<7>[  272.686131] [670:adbd] set proc[670] name: -> [sh]
+<7>[  272.687668] [670:sh] fork [671:sh]
+<7>[  272.688200] [671:sh] set proc[671] name: -> [dumpsys]
+<6>[  272.694416] binder: 671:671 refcount change on invalid ref 0
+<6>[  272.694429] binder: 671:671 refcount change on invalid ref 0
+<6>[  272.694442] binder: 671:671 binder_context_mgr_node is NULL
+<6>[  272.694452] binder: 671:671 transaction failed 29189, size 96-0
+<7>[  272.694956] [671:dumpsys] exit
+<7>[  272.695305] [671:dumpsys] sig 17 to [670:sh]
+<7>[  272.695393] [670:sh] exit
+<7>[  272.695527] [670:sh] sig 1 to [670:sh]
+<7>[  272.695547] [670:sh] sig 17 to [82:adbd]
+<7>[  272.735976] [82:adbd] fork [672:adbd]
+<7>[  272.736744] [672:adbd] set proc[672] name: -> [sh]
+<7>[  272.738281] [672:sh] fork [673:sh]
+<7>[  272.738815] [673:sh] set proc[673] name: -> [dumpsys]
+<6>[  272.745026] binder: 673:673 refcount change on invalid ref 0
+<6>[  272.745039] binder: 673:673 refcount change on invalid ref 0
+<6>[  272.745053] binder: 673:673 binder_context_mgr_node is NULL
+<6>[  272.745063] binder: 673:673 transaction failed 29189, size 100-0
+<7>[  272.745561] [673:dumpsys] exit
+<7>[  272.745904] [673:dumpsys] sig 17 to [672:sh]
+<7>[  272.745989] [672:sh] exit
+<7>[  272.746124] [672:sh] sig 1 to [672:sh]
+<7>[  272.746142] [672:sh] sig 17 to [82:adbd]
+<7>[  273.021095] [663:glgps] fork [674:glgps]
+<7>[  273.022796] [674:glgps] exit
+<7>[  273.102098] [89:factory] fork [675:factory]
+<7>[  274.150959] [675:factory] exit
+<6>[  276.080326] yaffs: userdata sync do_checkpoint 0,gc_urgen 0
+<6>[  276.080338] yaffs: userdata yaffs_FlushSuperBlock 0
+<4>[  276.248355] MSG_X = 53,MSG_Y = 510
+<4>[  276.258303] MSG_X = 53,MSG_Y = 510
+<4>[  276.268259] MSG_X = 53,MSG_Y = 510
+<4>[  276.278224] MSG_X = 53,MSG_Y = 510
+<4>[  276.288189] MSG_X = 53,MSG_Y = 510
+<4>[  276.298168] MSG_X = 53,MSG_Y = 510
+<4>[  276.308087] MSG_X = 53,MSG_Y = 510
+<4>[  276.318048] MSG_X = 53,MSG_Y = 510
+<4>[  276.328014] MSG_X = 53,MSG_Y = 510
+<4>[  276.337983] MSG_X = 53,MSG_Y = 510
+<4>[  276.347949] MSG_X = 53,MSG_Y = 510
+<4>[  276.357917] MSG_X = 53,MSG_Y = 510
+<4>[  276.367880] MSG_X = 53,MSG_Y = 510
+<4>[  276.377847] MSG_X = 53,MSG_Y = 510
+<4>[  276.387768] MSG_X = 53,MSG_Y = 510
+<4>[  276.397731] MSG_X = 53,MSG_Y = 510
+<4>[  276.407694] MSG_X = 53,MSG_Y = 510
+<7>[  276.442467] [89:factory] sig 9 to [663:glgps]
+<7>[  276.442536] [663:glgps] exit
+<5>[  276.443163] [Sound] -AudDrv_flush cntr(3)
+<5>[  276.443652] [Sound] -AudDrv_flush cntr(4)
+<4>[  276.444164] [MDPK] [MDPK W]: MT6575_MDP_Flush(): FLUSH() by different process. owner:0, current = ( process, pid, tgid ) = ( glgps, 663, 663 ) Rsc=0x00000000
+<7>[  276.445990] [89:factory] sig 9 to [662:glgps]
+<7>[  276.463431] [663:glgps] sig 17 to [1:init]
+<3>[  276.463575] init: untracked pid 663 exited
+<5>[  276.489720] [Sound] !! AudDrv START_DL1_STREAM, AFE(2),AFEp(1)
+<7>[  276.490461] [SYSRAM][CheckClock]u4AllocatedTbl = 0x00000001, EnableClk = 1
+<5>[  276.490505] [Sound] -Aud START_DL1_STREAM AFE(3),AFEp(1)
+<7>[  276.491280] [89:factory] fork [676:factory]
+<4>[  276.521358] waking up...
+<7>[  276.560679] [1:init] fork [677:init]
+<7>[  276.561323] [677:init] set proc[677] name: -> [logwrapper]
+<7>[  276.562679] [677:logwrapper] fork [678:logwrapper]
+<7>[  276.564243] [678:logwrapper] set proc[678] name: -> [btld]
+<6>[  276.608896] warning: `btld' uses 32-bit capabilities (legacy support in use)
+<7>[  276.810068] [678:btld] fork [679:btld]
+<7>[  276.810210] [678:btld] fork [680:btld]
+<7>[  276.810370] [678:btld] fork [681:btld]
+<7>[  276.810662] [681:btld] fork [682:btld]
+<7>[  276.811722] [679:btld] fork [683:btld]
+<5>[  277.061065] [Sound] !! AudDrv START_DL1_STREAM, AFE(3),AFEp>1(2)
+<5>[  277.061824] [Sound] -Aud START_DL1_STREAM AFE(3),AFEp(2)
+<6>[  277.062638] [Power/PMIC] [hw2in1SpeakerSetting]...........
+<6>[  277.062894] [Power/PMIC] [hwSPKClassABTurnOn]...........
+<7>[  277.130519] [676:factory] fork [684:factory]
+<7>[  277.130552] [684:factory] set proc[684] name: -> [sh]
+<7>[  277.152199] [684:sh] fork [685:sh]
+<7>[  277.153800] [685:sh] set proc[685] name: -> [hcitool]
+<7>[  277.180860] [685:hcitool] exit
+<5>[  277.181048] [Sound] -AudDrv_flush cntr(5)
+<5>[  277.181536] [Sound] -AudDrv_flush cntr(6)
+<4>[  277.182038] [MDPK] [MDPK W]: MT6575_MDP_Flush(): FLUSH() by different process. owner:0, current = ( process, pid, tgid ) = ( hcitool, 685, 685 ) Rsc=0x00000000
+<7>[  277.183828] [685:hcitool] sig 17 to [684:sh]
+<7>[  277.183919] [684:sh] exit
+<5>[  277.184036] [Sound] -AudDrv_flush cntr(7)
+<5>[  277.184523] [Sound] -AudDrv_flush cntr(8)
+<4>[  277.185023] [MDPK] [MDPK W]: MT6575_MDP_Flush(): FLUSH() by different process. owner:0, current = ( process, pid, tgid ) = ( sh, 684, 684 ) Rsc=0x00000000
+<7>[  277.186755] [684:sh] sig 17 to [676:factory]
+<7>[  277.197117] [676:factory] fork [686:factory]
+<7>[  277.197149] [686:factory] set proc[686] name: -> [sh]
+<7>[  277.198716] [686:sh] fork [687:sh]
+<7>[  277.199258] [687:sh] set proc[687] name: -> [hcitool]
+<7>[  277.210780] [687:hcitool] exit
+<5>[  277.210975] [Sound] -AudDrv_flush cntr(9)
+<5>[  277.211464] [Sound] -AudDrv_flush cntr(10)
+<4>[  277.211976] [MDPK] [MDPK W]: MT6575_MDP_Flush(): FLUSH() by different process. owner:0, current = ( process, pid, tgid ) = ( hcitool, 687, 687 ) Rsc=0x00000000
+<7>[  277.213766] [687:hcitool] sig 17 to [686:sh]
+<7>[  277.213857] [686:sh] exit
+<5>[  277.213973] [Sound] -AudDrv_flush cntr(11)
+<5>[  277.214471] [Sound] -AudDrv_flush cntr(12)
+<4>[  277.214982] [MDPK] [MDPK W]: MT6575_MDP_Flush(): FLUSH() by different process. owner:0, current = ( process, pid, tgid ) = ( sh, 686, 686 ) Rsc=0x00000000
+<7>[  277.216714] [686:sh] sig 17 to [676:factory]
+<7>[  277.227065] [676:factory] fork [688:factory]
+<7>[  277.227096] [688:factory] set proc[688] name: -> [sh]
+<7>[  277.228665] [688:sh] fork [689:sh]
+<7>[  277.229197] [689:sh] set proc[689] name: -> [hcitool]
+<7>[  277.240726] [689:hcitool] exit
+<5>[  277.240912] [Sound] -AudDrv_flush cntr(13)
+<5>[  277.241412] [Sound] -AudDrv_flush cntr(14)
+<4>[  277.241925] [MDPK] [MDPK W]: MT6575_MDP_Flush(): FLUSH() by different process. owner:0, current = ( process, pid, tgid ) = ( hcitool, 689, 689 ) Rsc=0x00000000
+<7>[  277.243714] [689:hcitool] sig 17 to [688:sh]
+<7>[  277.243807] [688:sh] exit
+<5>[  277.243922] [Sound] -AudDrv_flush cntr(15)
+<5>[  277.244420] [Sound] -AudDrv_flush cntr(16)
+<4>[  277.244931] [MDPK] [MDPK W]: MT6575_MDP_Flush(): FLUSH() by different process. owner:0, current = ( process, pid, tgid ) = ( sh, 688, 688 ) Rsc=0x00000000
+<7>[  277.246662] [688:sh] sig 17 to [676:factory]
+<7>[  277.257019] [676:factory] fork [690:factory]
+<7>[  277.257050] [690:factory] set proc[690] name: -> [sh]
+<7>[  277.258607] [690:sh] fork [691:sh]
+<7>[  277.259147] [691:sh] set proc[691] name: -> [hcitool]
+<7>[  277.270725] [691:hcitool] exit
+<5>[  277.270908] [Sound] -AudDrv_flush cntr(17)
+<5>[  277.271407] [Sound] -AudDrv_flush cntr(18)
+<4>[  277.271920] [MDPK] [MDPK W]: MT6575_MDP_Flush(): FLUSH() by different process. owner:0, current = ( process, pid, tgid ) = ( hcitool, 691, 691 ) Rsc=0x00000000
+<7>[  277.273709] [691:hcitool] sig 17 to [690:sh]
+<7>[  277.273802] [690:sh] exit
+<5>[  277.273921] [Sound] -AudDrv_flush cntr(19)
+<5>[  277.274419] [Sound] -AudDrv_flush cntr(20)
+<4>[  277.274930] [MDPK] [MDPK W]: MT6575_MDP_Flush(): FLUSH() by different process. owner:0, current = ( process, pid, tgid ) = ( sh, 690, 690 ) Rsc=0x00000000
+<7>[  277.276661] [690:sh] sig 17 to [676:factory]
+<7>[  277.287014] [676:factory] fork [692:factory]
+<7>[  277.287047] [692:factory] set proc[692] name: -> [sh]
+<7>[  277.288610] [692:sh] fork [693:sh]
+<7>[  277.289144] [693:sh] set proc[693] name: -> [hcitool]
+<7>[  277.300726] [693:hcitool] exit
+<5>[  277.300909] [Sound] -AudDrv_flush cntr(21)
+<5>[  277.301409] [Sound] -AudDrv_flush cntr(22)
+<4>[  277.301922] [MDPK] [MDPK W]: MT6575_MDP_Flush(): FLUSH() by different process. owner:0, current = ( process, pid, tgid ) = ( hcitool, 693, 693 ) Rsc=0x00000000
+<7>[  277.303711] [693:hcitool] sig 17 to [692:sh]
+<7>[  277.303803] [692:sh] exit
+<5>[  277.303921] [Sound] -AudDrv_flush cntr(23)
+<5>[  277.304419] [Sound] -AudDrv_flush cntr(24)
+<4>[  277.304929] [MDPK] [MDPK W]: MT6575_MDP_Flush(): FLUSH() by different process. owner:0, current = ( process, pid, tgid ) = ( sh, 692, 692 ) Rsc=0x00000000
+<7>[  277.306661] [692:sh] sig 17 to [676:factory]
+<4>[  277.520287] Tx data during last period
+<7>[  277.593980] [82:adbd] fork [694:adbd]
+<7>[  277.594776] [694:adbd] set proc[694] name: -> [sh]
+<7>[  277.596331] [694:sh] fork [695:sh]
+<7>[  277.596879] [695:sh] set proc[695] name: -> [df]
+<7>[  277.599038] [695:df] exit
+<7>[  277.599174] [695:df] sig 17 to [694:sh]
+<7>[  277.599262] [694:sh] exit
+<7>[  277.599542] [82:adbd] sig 1 to [694:sh]
+<7>[  277.599555] [82:adbd] sig 18 to [694:sh]
+<7>[  277.599759] [694:sh] sig 1 to [694:sh]
+<7>[  277.599770] [694:sh] sig 18 to [694:sh]
+<7>[  277.599784] [694:sh] sig 17 to [82:adbd]
+<7>[  277.644424] [82:adbd] fork [696:adbd]
+<7>[  277.645205] [696:adbd] set proc[696] name: -> [sh]
+<7>[  277.646762] [696:sh] fork [697:sh]
+<7>[  277.647300] [697:sh] set proc[697] name: -> [getprop]
+<7>[  277.649294] [697:getprop] exit
+<7>[  277.649426] [697:getprop] sig 17 to [696:sh]
+<7>[  277.649516] [696:sh] exit
+<7>[  277.649797] [82:adbd] sig 1 to [696:sh]
+<7>[  277.649812] [82:adbd] sig 18 to [696:sh]
+<7>[  277.650013] [696:sh] sig 1 to [696:sh]
+<7>[  277.650024] [696:sh] sig 18 to [696:sh]
+<7>[  277.650038] [696:sh] sig 17 to [82:adbd]
+<7>[  277.691918] [82:adbd] fork [698:adbd]
+<7>[  277.692690] [698:adbd] set proc[698] name: -> [sh]
+<7>[  277.694229] [698:sh] fork [699:sh]
+<7>[  277.694762] [699:sh] set proc[699] name: -> [dumpsys]
+<6>[  277.700981] binder: 699:699 refcount change on invalid ref 0
+<6>[  277.700994] binder: 699:699 refcount change on invalid ref 0
+<6>[  277.701008] binder: 699:699 binder_context_mgr_node is NULL
+<6>[  277.701018] binder: 699:699 transaction failed 29189, size 96-0
+<7>[  277.701512] [699:dumpsys] exit
+<7>[  277.701854] [699:dumpsys] sig 17 to [698:sh]
+<7>[  277.701940] [698:sh] exit
+<7>[  277.702076] [698:sh] sig 1 to [698:sh]
+<7>[  277.702096] [698:sh] sig 17 to [82:adbd]
+<5>[  277.735235] [Power/PMIC] [mt6329_pmic_eint_irq] receive interrupt
+<5>[  277.735985] [Power/PMIC] [wake_up_pmic]
+<6>[  277.736491] [Power/PMIC] [pmic_thread_kthread] running
+<6>[  277.736697] [Power/PMIC] [BATTERY] Reg[0x21]=0x7b, Reg[0x22]=0xa2, Reg[0x38]=0xf4
+<5>[  277.737007] [Power/PMIC] [pmic_thread_kthread_E2] Get HomeKey EINT
+<5>[  277.737835] [Power/PMIC] [pmic_thread_kthread_E2] Press HomeKey
+<4>[  277.738570] kpd: PMIC reset Key generate, pressed=1
+<7>[  277.743866] [82:adbd] fork [700:adbd]
+<4>[  277.744290] kpd: (pressed) HW keycode =114 using PMIC
+<7>[  277.751202] [700:adbd] set proc[700] name: -> [sh]
+<7>[  277.753042] [700:sh] fork [701:sh]
+<7>[  277.757905] [701:sh] set proc[701] name: -> [dumpsys]
+<6>[  277.764170] binder: 701:701 refcount change on invalid ref 0
+<6>[  277.764182] binder: 701:701 refcount change on invalid ref 0
+<6>[  277.764195] binder: 701:701 binder_context_mgr_node is NULL
+<6>[  277.764206] binder: 701:701 transaction failed 29189, size 100-0
+<7>[  277.764703] [701:dumpsys] exit
+<7>[  277.765050] [701:dumpsys] sig 17 to [700:sh]
+<7>[  277.765136] [700:sh] exit
+<7>[  277.765271] [700:sh] sig 1 to [700:sh]
+<7>[  277.765291] [700:sh] sig 17 to [82:adbd]
+<7>[  277.813566] [1:init] fork [702:init]
+<7>[  277.814085] [702:init] set proc[702] name: -> [logwrapper]
+<7>[  277.815427] [702:logwrapper] fork [703:logwrapper]
+<7>[  277.815935] [703:logwrapper] exit
+<7>[  277.816059] [703:logwrapper] sig 17 to [702:logwrapper]
+<7>[  277.816238] [702:logwrapper] exit
+<7>[  277.816432] [702:logwrapper] sig 17 to [1:init]
+<5>[  277.908422] [Power/PMIC] [mt6329_pmic_eint_irq] receive interrupt
+<5>[  277.909171] [Power/PMIC] [wake_up_pmic]
+<6>[  277.909693] [Power/PMIC] [pmic_thread_kthread] running
+<6>[  277.909912] [Power/PMIC] [BATTERY] Reg[0x21]=0x7b, Reg[0x22]=0xa2, Reg[0x38]=0xf4
+<5>[  277.910247] [Power/PMIC] [pmic_thread_kthread_E2] Get HomeKey EINT
+<5>[  277.911148] [Power/PMIC] [pmic_thread_kthread_E2] Release HomeKey
+<4>[  277.911906] kpd: PMIC reset Key generate, pressed=0
+<4>[  277.912601] kpd: (released) HW keycode =114 using PMIC
+<4>[  278.210782] MSG_X = 53,MSG_Y = 510
+<4>[  278.220751] MSG_X = 53,MSG_Y = 510
+<4>[  278.230668] MSG_X = 53,MSG_Y = 510
+<4>[  278.240636] MSG_X = 53,MSG_Y = 510
+<4>[  278.250613] MSG_X = 53,MSG_Y = 510
+<4>[  278.260600] MSG_X = 53,MSG_Y = 510
+<4>[  278.270522] MSG_X = 53,MSG_Y = 510
+<4>[  278.280495] MSG_X = 53,MSG_Y = 510
+<4>[  278.290475] MSG_X = 53,MSG_Y = 510
+<4>[  278.300413] MSG_X = 53,MSG_Y = 510
+<4>[  278.310395] MSG_X = 53,MSG_Y = 510
+<4>[  278.320329] MSG_X = 53,MSG_Y = 510
+<4>[  278.330308] MSG_X = 53,MSG_Y = 510
+<4>[  278.340240] MSG_X = 53,MSG_Y = 510
+<4>[  278.350219] MSG_X = 53,MSG_Y = 510
+<4>[  278.360190] MSG_X = 53,MSG_Y = 510
+<4>[  278.370162] MSG_X = 53,MSG_Y = 510
+<4>[  278.380084] MSG_X = 53,MSG_Y = 510
+<4>[  278.390051] MSG_X = 53,MSG_Y = 510
+<4>[  278.400018] MSG_X = 53,MSG_Y = 510
+<4>[  278.409999] MSG_X = 53,MSG_Y = 510
+<4>[  278.419924] MSG_X = 53,MSG_Y = 510
+<4>[  278.520293] Tx has been idlegoing to sleep...
+<7>[  278.531087] [676:factory] fork [704:factory]
+<7>[  278.531124] [704:factory] set proc[704] name: -> [sh]
+<7>[  278.532715] [704:sh] fork [705:sh]
+<7>[  278.533251] [705:sh] set proc[705] name: -> [hcitool]
+<4>[  278.536993] waking up...
+<7>[  278.540715] [705:hcitool] exit
+<5>[  278.540901] [Sound] -AudDrv_flush cntr(25)
+<5>[  278.541400] [Sound] -AudDrv_flush cntr(26)
+<4>[  278.541912] [MDPK] [MDPK W]: MT6575_MDP_Flush(): FLUSH() by different process. owner:0, current = ( process, pid, tgid ) = ( hcitool, 705, 705 ) Rsc=0x00000000
+<7>[  278.543702] [705:hcitool] sig 17 to [704:sh]
+<7>[  278.543791] [704:sh] exit
+<5>[  278.543905] [Sound] -AudDrv_flush cntr(27)
+<5>[  278.544403] [Sound] -AudDrv_flush cntr(28)
+<4>[  278.544913] [MDPK] [MDPK W]: MT6575_MDP_Flush(): FLUSH() by different process. owner:0, current = ( process, pid, tgid ) = ( sh, 704, 704 ) Rsc=0x00000000
+<7>[  278.546645] [704:sh] sig 17 to [676:factory]
+<7>[  278.570636] [676:factory] fork [706:factory]
+<7>[  278.570672] [706:factory] set proc[706] name: -> [sh]
+<7>[  278.572258] [706:sh] fork [707:sh]
+<7>[  278.572800] [707:sh] set proc[707] name: -> [hcitool]
+<7>[  278.580738] [707:hcitool] exit
+<5>[  278.580925] [Sound] -AudDrv_flush cntr(29)
+<5>[  278.581424] [Sound] -AudDrv_flush cntr(30)
+<4>[  278.581937] [MDPK] [MDPK W]: MT6575_MDP_Flush(): FLUSH() by different process. owner:0, current = ( process, pid, tgid ) = ( hcitool, 707, 707 ) Rsc=0x00000000
+<7>[  278.583740] [707:hcitool] sig 17 to [706:sh]
+<7>[  278.583830] [706:sh] exit
+<5>[  278.583952] [Sound] -AudDrv_flush cntr(31)
+<5>[  278.584450] [Sound] -AudDrv_flush cntr(32)
+<4>[  278.584961] [MDPK] [MDPK W]: MT6575_MDP_Flush(): FLUSH() by different process. owner:0, current = ( process, pid, tgid ) = ( sh, 706, 706 ) Rsc=0x00000000
+<7>[  278.586693] [706:sh] sig 17 to [676:factory]
+<5>[  279.302865] [Power/PMIC] [mt6329_pmic_eint_irq] receive interrupt
+<5>[  279.303615] [Power/PMIC] [wake_up_pmic]
+<6>[  279.304128] [Power/PMIC] [pmic_thread_kthread] running
+<6>[  279.304339] [Power/PMIC] [BATTERY] Reg[0x21]=0x7b, Reg[0x22]=0xa2, Reg[0x38]=0xf4
+<5>[  279.304673] [Power/PMIC] [pmic_thread_kthread_E2] Get HomeKey EINT
+<5>[  279.305507] [Power/PMIC] [pmic_thread_kthread_E2] Press HomeKey
+<4>[  279.306242] kpd: PMIC reset Key generate, pressed=1
+<4>[  279.310336] kpd: (pressed) HW keycode =114 using PMIC
+<5>[  279.452549] [Power/PMIC] [mt6329_pmic_eint_irq] receive interrupt
+<5>[  279.453298] [Power/PMIC] [wake_up_pmic]
+<6>[  279.453820] [Power/PMIC] [pmic_thread_kthread] running
+<6>[  279.454037] [Power/PMIC] [BATTERY] Reg[0x21]=0x7b, Reg[0x22]=0xa2, Reg[0x38]=0xf4
+<5>[  279.454371] [Power/PMIC] [pmic_thread_kthread_E2] Get HomeKey EINT
+<5>[  279.455205] [Power/PMIC] [pmic_thread_kthread_E2] Release HomeKey
+<4>[  279.455962] kpd: PMIC reset Key generate, pressed=0
+<4>[  279.456656] kpd: (released) HW keycode =114 using PMIC
+<4>[  279.530286] Tx data during last periodMSG_X = 53,MSG_Y = 510
+<4>[  279.804604] MSG_X = 53,MSG_Y = 510
+<4>[  279.814579] MSG_X = 53,MSG_Y = 510
+<4>[  279.824548] MSG_X = 53,MSG_Y = 510
+<4>[  279.834520] MSG_X = 53,MSG_Y = 510
+<4>[  279.844445] MSG_X = 53,MSG_Y = 510
+<4>[  279.854407] MSG_X = 53,MSG_Y = 510
+<4>[  279.864380] MSG_X = 53,MSG_Y = 510
+<4>[  279.874352] MSG_X = 53,MSG_Y = 510
+<4>[  279.884323] MSG_X = 53,MSG_Y = 510
+<4>[  279.894246] MSG_X = 53,MSG_Y = 510
+<4>[  279.904217] MSG_X = 53,MSG_Y = 510
+<4>[  279.914190] MSG_X = 53,MSG_Y = 510
+<4>[  279.924160] MSG_X = 53,MSG_Y = 510
+<4>[  279.934127] MSG_X = 53,MSG_Y = 510
+<4>[  279.944050] MSG_X = 53,MSG_Y = 510
+<4>[  279.954022] MSG_X = 53,MSG_Y = 510
+<4>[  279.963994] MSG_X = 53,MSG_Y = 510
+<7>[  280.014287] [676:factory] fork [708:factory]
+<7>[  280.014323] [708:factory] set proc[708] name: -> [sh]
+<7>[  280.015935] [708:sh] fork [709:sh]
+<7>[  280.016568] [709:sh] set proc[709] name: -> [hcitool]
+<7>[  280.030676] [709:hcitool] exit
+<5>[  280.030862] [Sound] -AudDrv_flush cntr(33)
+<5>[  280.031361] [Sound] -AudDrv_flush cntr(34)
+<4>[  280.031874] [MDPK] [MDPK W]: MT6575_MDP_Flush(): FLUSH() by different process. owner:0, current = ( process, pid, tgid ) = ( hcitool, 709, 709 ) Rsc=0x00000000
+<7>[  280.033677] [709:hcitool] sig 17 to [708:sh]
+<7>[  280.033767] [708:sh] exit
+<5>[  280.033884] [Sound] -AudDrv_flush cntr(35)
+<5>[  280.034381] [Sound] -AudDrv_flush cntr(36)
+<4>[  280.034892] [MDPK] [MDPK W]: MT6575_MDP_Flush(): FLUSH() by different process. owner:0, current = ( process, pid, tgid ) = ( sh, 708, 708 ) Rsc=0x00000000
+<7>[  280.036623] [708:sh] sig 17 to [676:factory]
+<7>[  280.060752] [676:factory] fork [710:factory]
+<7>[  280.060787] [710:factory] set proc[710] name: -> [sh]
+<7>[  280.062375] [710:sh] fork [711:sh]
+<7>[  280.062914] [711:sh] set proc[711] name: -> [hcitool]
+<7>[  280.070730] [711:hcitool] exit
+<5>[  280.070918] [Sound] -AudDrv_flush cntr(37)
+<5>[  280.071418] [Sound] -AudDrv_flush cntr(38)
+<4>[  280.071930] [MDPK] [MDPK W]: MT6575_MDP_Flush(): FLUSH() by different process. owner:0, current = ( process, pid, tgid ) = ( hcitool, 711, 711 ) Rsc=0x00000000
+<7>[  280.073719] [711:hcitool] sig 17 to [710:sh]
+<7>[  280.073808] [710:sh] exit
+<5>[  280.073929] [Sound] -AudDrv_flush cntr(39)
+<5>[  280.074427] [Sound] -AudDrv_flush cntr(40)
+<4>[  280.074937] [MDPK] [MDPK W]: MT6575_MDP_Flush(): FLUSH() by different process. owner:0, current = ( process, pid, tgid ) = ( sh, 710, 710 ) Rsc=0x00000000
+<7>[  280.076669] [710:sh] sig 17 to [676:factory]
+<5>[  280.520357] [Power/Battery] [FGADC] 1,1353,0,12,3782,45,24,24,1135,1135,-23,0,0,1000,0,3810,1000,76,75,1301,104,103
+<4>[  280.530291] Tx data during last period
+<5>[  280.666811] [Power/PMIC] [mt6329_pmic_eint_irq] receive interrupt
+<5>[  280.667579] [Power/PMIC] [wake_up_pmic]
+<6>[  280.668088] [Power/PMIC] [pmic_thread_kthread] running
+<6>[  280.668295] [Power/PMIC] [BATTERY] Reg[0x21]=0x63, Reg[0x22]=0xa2, Reg[0x38]=0xb4
+<5>[  280.668627] [Power/PMIC] [pmic_thread_kthread_E2] Get HomeKey EINT
+<5>[  280.669460] [Power/PMIC] [pmic_thread_kthread_E2] Press HomeKey
+<4>[  280.670195] kpd: PMIC reset Key generate, pressed=1
+<4>[  280.680360] kpd: (pressed) HW keycode =114 using PMIC
+<5>[  280.830510] [Power/PMIC] [mt6329_pmic_eint_irq] receive interrupt
+<5>[  280.831260] [Power/PMIC] [wake_up_pmic]
+<6>[  280.831772] [Power/PMIC] [pmic_thread_kthread] running
+<6>[  280.831987] [Power/PMIC] [BATTERY] Reg[0x21]=0x63, Reg[0x22]=0xa2, Reg[0x38]=0xb4
+<5>[  280.832313] [Power/PMIC] [pmic_thread_kthread_E2] Get HomeKey EINT
+<5>[  280.833144] [Power/PMIC] [pmic_thread_kthread_E2] Release HomeKey
+<4>[  280.833902] kpd: PMIC reset Key generate, pressed=0
+<4>[  280.834599] kpd: (released) HW keycode =114 using PMIC
+<4>[  281.099604] MSG_X = 53,MSG_Y = 510
+<4>[  281.109569] MSG_X = 53,MSG_Y = 510
+<4>[  281.119540] MSG_X = 53,MSG_Y = 510
+<4>[  281.129468] MSG_X = 53,MSG_Y = 510
+<4>[  281.530284] Tx has been idlegoing to sleep...
+<6>[  282.080320] yaffs: userdata sync do_checkpoint 0,gc_urgen 0
+<6>[  282.080335] yaffs: userdata yaffs_FlushSuperBlock 0
+<5>[  282.539768] [Power/PMIC] [mt6329_pmic_eint_irq] receive interrupt
+<5>[  282.540516] [Power/PMIC] [wake_up_pmic]
+<6>[  282.541029] [Power/PMIC] [pmic_thread_kthread] running
+<6>[  282.541236] [Power/PMIC] [BATTERY] Reg[0x21]=0x7b, Reg[0x22]=0xa2, Reg[0x38]=0xf4
+<5>[  282.541570] [Power/PMIC] [pmic_thread_kthread_E2] Get HomeKey EINT
+<5>[  282.542404] [Power/PMIC] [pmic_thread_kthread_E2] Press HomeKey
+<4>[  282.543139] kpd: PMIC reset Key generate, pressed=1
+<4>[  282.550354] kpd: (pressed) HW keycode =114 using PMIC
+<7>[  282.600182] [82:adbd] fork [712:adbd]
+<7>[  282.601040] [712:adbd] set proc[712] name: -> [sh]
+<7>[  282.602585] [712:sh] fork [713:sh]
+<7>[  282.603130] [713:sh] set proc[713] name: -> [df]
+<7>[  282.605301] [713:df] exit
+<7>[  282.605437] [713:df] sig 17 to [712:sh]
+<7>[  282.605529] [712:sh] exit
+<7>[  282.605811] [82:adbd] sig 1 to [712:sh]
+<7>[  282.605825] [82:adbd] sig 18 to [712:sh]
+<7>[  282.606031] [712:sh] sig 1 to [712:sh]
+<7>[  282.606065] [712:sh] sig 18 to [712:sh]
+<7>[  282.606079] [712:sh] sig 17 to [82:adbd]
+<7>[  282.652993] [82:adbd] fork [714:adbd]
+<7>[  282.653776] [714:adbd] set proc[714] name: -> [sh]
+<7>[  282.655334] [714:sh] fork [715:sh]
+<7>[  282.655874] [715:sh] set proc[715] name: -> [getprop]
+<7>[  282.657862] [715:getprop] exit
+<7>[  282.657997] [715:getprop] sig 17 to [714:sh]
+<7>[  282.658086] [714:sh] exit
+<7>[  282.658369] [82:adbd] sig 1 to [714:sh]
+<7>[  282.658383] [82:adbd] sig 18 to [714:sh]
+<7>[  282.658582] [714:sh] sig 1 to [714:sh]
+<7>[  282.658593] [714:sh] sig 18 to [714:sh]
+<7>[  282.658607] [714:sh] sig 17 to [82:adbd]
+<5>[  282.665711] [Power/PMIC] [mt6329_pmic_eint_irq] receive interrupt
+<5>[  282.666459] [Power/PMIC] [wake_up_pmic]
+<6>[  282.666966] [Power/PMIC] [pmic_thread_kthread] running
+<6>[  282.667172] [Power/PMIC] [BATTERY] Reg[0x21]=0x7b, Reg[0x22]=0xa2, Reg[0x38]=0xf4
+<5>[  282.667484] [Power/PMIC] [pmic_thread_kthread_E2] Get HomeKey EINT
+<5>[  282.668313] [Power/PMIC] [pmic_thread_kthread_E2] Release HomeKey
+<4>[  282.669069] kpd: PMIC reset Key generate, pressed=0
+<4>[  282.669788] kpd: (released) HW keycode =114 using PMIC
+<7>[  282.700647] [82:adbd] fork [716:adbd]
+<7>[  282.701430] [716:adbd] set proc[716] name: -> [sh]
+<7>[  282.703033] [716:sh] fork [717:sh]
+<7>[  282.703569] [717:sh] set proc[717] name: -> [dumpsys]
+<6>[  282.709742] binder: 717:717 refcount change on invalid ref 0
+<6>[  282.709755] binder: 717:717 refcount change on invalid ref 0
+<6>[  282.709768] binder: 717:717 binder_context_mgr_node is NULL
+<6>[  282.709779] binder: 717:717 transaction failed 29189, size 96-0
+<7>[  282.710540] [717:dumpsys] exit
+<7>[  282.710903] [717:dumpsys] sig 17 to [716:sh]
+<7>[  282.711026] [716:sh] exit
+<7>[  282.711153] [716:sh] sig 1 to [716:sh]
+<7>[  282.711172] [716:sh] sig 17 to [82:adbd]
+<7>[  282.753371] [82:adbd] fork [718:adbd]
+<7>[  282.754145] [718:adbd] set proc[718] name: -> [sh]
+<7>[  282.755683] [718:sh] fork [719:sh]
+<7>[  282.756220] [719:sh] set proc[719] name: -> [dumpsys]
+<6>[  282.762445] binder: 719:719 refcount change on invalid ref 0
+<6>[  282.762458] binder: 719:719 refcount change on invalid ref 0
+<6>[  282.762471] binder: 719:719 binder_context_mgr_node is NULL
+<6>[  282.762482] binder: 719:719 transaction failed 29189, size 100-0
+<7>[  282.762979] [719:dumpsys] exit
+<7>[  282.763325] [719:dumpsys] sig 17 to [718:sh]
+<7>[  282.763411] [718:sh] exit
+<7>[  282.763547] [718:sh] sig 1 to [718:sh]
+<7>[  282.763566] [718:sh] sig 17 to [82:adbd]
+<7>[  282.820464] [1:init] fork [720:init]
+<7>[  282.820998] [720:init] set proc[720] name: -> [logwrapper]
+<7>[  282.822343] [720:logwrapper] fork [721:logwrapper]
+<7>[  282.822854] [721:logwrapper] exit
+<7>[  282.822975] [721:logwrapper] sig 17 to [720:logwrapper]
+<7>[  282.823152] [720:logwrapper] exit
+<7>[  282.823346] [720:logwrapper] sig 17 to [1:init]
+<4>[  283.560313] 2013-03-09 18:05:39.625424 UTC; android time 2013-03-09 18:05:39.625424
+<4>[  283.868913] MSG_X = 53,MSG_Y = 510
+<4>[  283.878863] MSG_X = 53,MSG_Y = 510
+<4>[  283.888830] MSG_X = 53,MSG_Y = 510
+<4>[  283.898794] MSG_X = 53,MSG_Y = 510
+<4>[  283.908712] MSG_X = 53,MSG_Y = 510
+<4>[  283.918681] MSG_X = 53,MSG_Y = 510
+<4>[  283.928643] MSG_X = 53,MSG_Y = 510
+<4>[  283.938608] MSG_X = 53,MSG_Y = 510
+<4>[  283.948574] MSG_X = 53,MSG_Y = 510
+<4>[  283.958542] MSG_X = 53,MSG_Y = 510
+<4>[  283.968516] MSG_X = 53,MSG_Y = 510
+<4>[  283.978483] MSG_X = 53,MSG_Y = 510
+<4>[  283.988409] MSG_X = 53,MSG_Y = 510
+<4>[  283.998380] MSG_X = 53,MSG_Y = 510
+<4>[  284.008352] MSG_X = 53,MSG_Y = 510
+<4>[  284.018318] MSG_X = 53,MSG_Y = 510
+<4>[  284.028280] MSG_X = 53,MSG_Y = 510
+<4>[  284.038249] MSG_X = 53,MSG_Y = 510
+<4>[  284.048216] MSG_X = 53,MSG_Y = 510
+<4>[  284.058126] MSG_X = 53,MSG_Y = 510
+<7>[  284.108305] [676:factory] fork [722:factory]
+<7>[  284.108341] [722:factory] set proc[722] name: -> [sh]
+<7>[  284.109960] [722:sh] fork [723:sh]
+<7>[  284.110608] [723:sh] set proc[723] name: -> [hcitool]
+<4>[  284.114494] waking up...
+<7>[  284.130620] [723:hcitool] exit
+<5>[  284.130811] [Sound] -AudDrv_flush cntr(41)
+<5>[  284.131309] [Sound] -AudDrv_flush cntr(42)
+<4>[  284.131821] [MDPK] [MDPK W]: MT6575_MDP_Flush(): FLUSH() by different process. owner:0, current = ( process, pid, tgid ) = ( hcitool, 723, 723 ) Rsc=0x00000000
+<7>[  284.133612] [723:hcitool] sig 17 to [722:sh]
+<7>[  284.133701] [722:sh] exit
+<5>[  284.133819] [Sound] -AudDrv_flush cntr(43)
+<5>[  284.134316] [Sound] -AudDrv_flush cntr(44)
+<4>[  284.134828] [MDPK] [MDPK W]: MT6575_MDP_Flush(): FLUSH() by different process. owner:0, current = ( process, pid, tgid ) = ( sh, 722, 722 ) Rsc=0x00000000
+<7>[  284.136559] [722:sh] sig 17 to [676:factory]
+<7>[  284.160624] [676:factory] fork [724:factory]
+<7>[  284.160659] [724:factory] set proc[724] name: -> [sh]
+<7>[  284.162237] [724:sh] fork [725:sh]
+<7>[  284.162774] [725:sh] set proc[725] name: -> [hcitool]
+<7>[  284.170728] [725:hcitool] exit
+<5>[  284.170915] [Sound] -AudDrv_flush cntr(45)
+<5>[  284.171415] [Sound] -AudDrv_flush cntr(46)
+<4>[  284.171927] [MDPK] [MDPK W]: MT6575_MDP_Flush(): FLUSH() by different process. owner:0, current = ( process, pid, tgid ) = ( hcitool, 725, 725 ) Rsc=0x00000000
+<7>[  284.173729] [725:hcitool] sig 17 to [724:sh]
+<7>[  284.173817] [724:sh] exit
+<5>[  284.173936] [Sound] -AudDrv_flush cntr(47)
+<5>[  284.174434] [Sound] -AudDrv_flush cntr(48)
+<4>[  284.174945] [MDPK] [MDPK W]: MT6575_MDP_Flush(): FLUSH() by different process. owner:0, current = ( process, pid, tgid ) = ( sh, 724, 724 ) Rsc=0x00000000
+<7>[  284.176678] [724:sh] sig 17 to [676:factory]
+<4>[  284.925632] kpd: register = fffd ffff ffff ffff ff
+<4>[  284.926220] kpd: (pressed) HW keycode = 1
+<4>[  284.926747] kpd: report Linux keycode = 115
+<4>[  284.927256] kpd: save new keymap state
+<4>[  285.038364] kpd: register = ffff ffff ffff ffff ff
+<4>[  285.038952] kpd: (released) HW keycode = 1
+<4>[  285.039490] kpd: report Linux keycode = 115
+<4>[  285.039998] kpd: save new keymap state
+<4>[  285.110289] Tx data during last periodkpd: register = fffd ffff ffff ffff ff
+<4>[  285.150749] kpd: (pressed) HW keycode = 1
+<4>[  285.151264] kpd: report Linux keycode = 115
+<4>[  285.151772] kpd: save new keymap state
+<4>[  285.287967] kpd: register = ffff ffff ffff ffff ff
+<4>[  285.288556] kpd: (released) HW keycode = 1
+<4>[  285.289095] kpd: report Linux keycode = 115
+<4>[  285.289603] kpd: save new keymap state
+<4>[  285.381314] kpd: register = fffd ffff ffff ffff ff
+<4>[  285.381901] kpd: (pressed) HW keycode = 1
+<4>[  285.382419] kpd: report Linux keycode = 115
+<4>[  285.382927] kpd: save new keymap state
+<4>[  285.507723] kpd: register = ffff ffff ffff ffff ff
+<4>[  285.508322] kpd: (released) HW keycode = 1
+<4>[  285.508850] kpd: report Linux keycode = 115
+<4>[  285.509358] kpd: save new keymap state
+<4>[  285.610777] kpd: register = fffd ffff ffff ffff ff
+<4>[  285.611364] kpd: (pressed) HW keycode = 1
+<4>[  285.611878] kpd: report Linux keycode = 115
+<4>[  285.612386] kpd: save new keymap state
+<4>[  285.743045] kpd: register = ffff ffff ffff ffff ff
+<4>[  285.743634] kpd: (released) HW keycode = 1
+<4>[  285.744174] kpd: report Linux keycode = 115
+<4>[  285.744683] kpd: save new keymap state
+<4>[  286.110287] Tx has been idlegoing to sleep...MSG_X = 53,MSG_Y = 510
+<4>[  286.399088] MSG_X = 53,MSG_Y = 510
+<4>[  286.409004] MSG_X = 53,MSG_Y = 510
+<4>[  286.418974] MSG_X = 53,MSG_Y = 510
+<4>[  286.428938] MSG_X = 53,MSG_Y = 510
+<4>[  286.438902] MSG_X = 53,MSG_Y = 510
+<4>[  286.448868] MSG_X = 53,MSG_Y = 510
+<4>[  286.458826] MSG_X = 53,MSG_Y = 510
+<4>[  286.468788] MSG_X = 53,MSG_Y = 510
+<4>[  286.478752] MSG_X = 53,MSG_Y = 510
+<4>[  286.488720] MSG_X = 53,MSG_Y = 510
+<4>[  286.498683] MSG_X = 53,MSG_Y = 510
+<4>[  286.508641] MSG_X = 53,MSG_Y = 510
+<4>[  286.518607] MSG_X = 53,MSG_Y = 510
+<4>[  286.528533] MSG_X = 53,MSG_Y = 510
+<4>[  286.538502] MSG_X = 53,MSG_Y = 510
+<4>[  286.548462] MSG_X = 53,MSG_Y = 510
+<4>[  286.558426] MSG_X = 53,MSG_Y = 510
+<6>[  286.601522] [Power/PMIC] [hwSPKClassABTurnOff]...........
+<5>[  286.605163] [Sound] +Aud STANDBY_DL1_STREAM, AFE(3),AFEp(2)
+<5>[  286.605867] [Sound] -Aud STANDBY_DL1_STREAM AFE(3),AFEp(1)
+<7>[  286.606594] [676:factory] exit
+<5>[  286.606661] [Sound] +Aud STANDBY_DL1_STREAM, AFE(3),AFEp(1)
+<7>[  286.607367] [SYSRAM][CheckClock]u4AllocatedTbl = 0x00000000, EnableClk = 0
+<5>[  286.607396] [Sound] -Aud STANDBY_DL1_STREAM AFE(2),AFEp(0)
+<7>[  286.615275] [89:factory] fork [726:factory]
+<3>[  286.653606] init: no such service 'bluetoothd'
+<7>[  287.612350] [82:adbd] fork [727:adbd]
+<7>[  287.613149] [727:adbd] set proc[727] name: -> [sh]
+<7>[  287.614793] [727:sh] fork [728:sh]
+<7>[  287.615330] [728:sh] set proc[728] name: -> [df]
+<7>[  287.617495] [728:df] exit
+<7>[  287.617630] [728:df] sig 17 to [727:sh]
+<7>[  287.617720] [727:sh] exit
+<7>[  287.617851] [727:sh] sig 1 to [727:sh]
+<7>[  287.617870] [727:sh] sig 17 to [82:adbd]
+<7>[  287.654483] [1:init] fork [729:init]
+<7>[  287.655002] [729:init] set proc[729] name: -> [logwrapper]
+<7>[  287.656347] [729:logwrapper] fork [730:logwrapper]
+<7>[  287.656853] [730:logwrapper] exit
+<7>[  287.656978] [730:logwrapper] sig 17 to [729:logwrapper]
+<7>[  287.657156] [729:logwrapper] exit
+<7>[  287.657350] [729:logwrapper] sig 17 to [1:init]
+<7>[  287.666192] [82:adbd] fork [731:adbd]
+<7>[  287.666966] [731:adbd] set proc[731] name: -> [sh]
+<7>[  287.668516] [731:sh] fork [732:sh]
+<7>[  287.669066] [732:sh] set proc[732] name: -> [getprop]
+<7>[  287.671150] [732:getprop] exit
+<7>[  287.671284] [732:getprop] sig 17 to [731:sh]
+<7>[  287.671376] [731:sh] exit
+<7>[  287.671660] [82:adbd] sig 1 to [731:sh]
+<7>[  287.671675] [82:adbd] sig 18 to [731:sh]
+<7>[  287.671875] [731:sh] sig 1 to [731:sh]
+<7>[  287.671886] [731:sh] sig 18 to [731:sh]
+<7>[  287.671899] [731:sh] sig 17 to [82:adbd]
+<7>[  287.711426] [82:adbd] fork [733:adbd]
+<7>[  287.712203] [733:adbd] set proc[733] name: -> [sh]
+<7>[  287.713744] [733:sh] fork [734:sh]
+<7>[  287.714283] [734:sh] set proc[734] name: -> [dumpsys]
+<6>[  287.720618] binder: 734:734 refcount change on invalid ref 0
+<6>[  287.720631] binder: 734:734 refcount change on invalid ref 0
+<6>[  287.720644] binder: 734:734 binder_context_mgr_node is NULL
+<6>[  287.720654] binder: 734:734 transaction failed 29189, size 96-0
+<7>[  287.721149] [734:dumpsys] exit
+<7>[  287.721496] [734:dumpsys] sig 17 to [733:sh]
+<7>[  287.721582] [733:sh] exit
+<7>[  287.721716] [733:sh] sig 1 to [733:sh]
+<7>[  287.721736] [733:sh] sig 17 to [82:adbd]
+<7>[  287.760803] [82:adbd] fork [735:adbd]
+<7>[  287.761580] [735:adbd] set proc[735] name: -> [sh]
+<7>[  287.763128] [735:sh] fork [736:sh]
+<7>[  287.763663] [736:sh] set proc[736] name: -> [dumpsys]
+<6>[  287.769813] binder: 736:736 refcount change on invalid ref 0
+<6>[  287.769826] binder: 736:736 refcount change on invalid ref 0
+<6>[  287.769839] binder: 736:736 binder_context_mgr_node is NULL
+<6>[  287.769850] binder: 736:736 transaction failed 29189, size 100-0
+<7>[  287.770636] [736:dumpsys] exit
+<7>[  287.771132] [736:dumpsys] sig 17 to [735:sh]
+<7>[  287.771214] [735:sh] exit
+<7>[  287.771349] [735:sh] sig 1 to [735:sh]
+<7>[  287.771368] [735:sh] sig 17 to [82:adbd]
+<6>[  288.080319] yaffs: userdata sync do_checkpoint 0,gc_urgen 0
+<6>[  288.080331] yaffs: userdata yaffs_FlushSuperBlock 0
+<7>[  289.654611] [726:factory] fork [737:factory]
+<4>[  289.654744] waking up...
+<5>[  290.522003] [Power/Battery] [FGADC] 1,1451,0,12,3783,45,24,24,1135,1135,-25,0,0,1000,0,3815,1000,76,75,1396,104,103
+<4>[  290.650288] Tx data during last periodTx has been idlegoing to sleep...
+<7>[  292.619090] [82:adbd] fork [738:adbd]
+<7>[  292.619903] [738:adbd] set proc[738] name: -> [sh]
+<7>[  292.621526] [738:sh] fork [739:sh]
+<7>[  292.622071] [739:sh] set proc[739] name: -> [df]
+<7>[  292.624238] [739:df] exit
+<7>[  292.624373] [739:df] sig 17 to [738:sh]
+<7>[  292.624461] [738:sh] exit
+<7>[  292.624591] [738:sh] sig 1 to [738:sh]
+<7>[  292.624610] [738:sh] sig 17 to [82:adbd]
+<7>[  292.660455] [1:init] fork [740:init]
+<7>[  292.660971] [740:init] set proc[740] name: -> [logwrapper]
+<7>[  292.662309] [740:logwrapper] fork [741:logwrapper]
+<7>[  292.662821] [741:logwrapper] exit
+<7>[  292.662947] [741:logwrapper] sig 17 to [740:logwrapper]
+<7>[  292.663121] [740:logwrapper] exit
+<7>[  292.663311] [740:logwrapper] sig 17 to [1:init]
+<7>[  292.673275] [82:adbd] fork [742:adbd]
+<7>[  292.674063] [742:adbd] set proc[742] name: -> [sh]
+<7>[  292.675616] [742:sh] fork [743:sh]
+<7>[  292.676161] [743:sh] set proc[743] name: -> [getprop]
+<7>[  292.678137] [743:getprop] exit
+<7>[  292.678270] [743:getprop] sig 17 to [742:sh]
+<7>[  292.678361] [742:sh] exit
+<7>[  292.678642] [82:adbd] sig 1 to [742:sh]
+<7>[  292.678657] [82:adbd] sig 18 to [742:sh]
+<7>[  292.690691] [742:sh] sig 1 to [742:sh]
+<7>[  292.690704] [742:sh] sig 18 to [742:sh]
+<7>[  292.690719] [742:sh] sig 17 to [82:adbd]
+<7>[  292.730804] [82:adbd] fork [744:adbd]
+<7>[  292.731588] [744:adbd] set proc[744] name: -> [sh]
+<7>[  292.733134] [744:sh] fork [745:sh]
+<7>[  292.733667] [745:sh] set proc[745] name: -> [dumpsys]
+<6>[  292.739812] binder: 745:745 refcount change on invalid ref 0
+<6>[  292.739825] binder: 745:745 refcount change on invalid ref 0
+<6>[  292.739839] binder: 745:745 binder_context_mgr_node is NULL
+<6>[  292.739849] binder: 745:745 transaction failed 29189, size 96-0
+<7>[  292.740630] [745:dumpsys] exit
+<7>[  292.740990] [745:dumpsys] sig 17 to [744:sh]
+<7>[  292.741077] [744:sh] exit
+<7>[  292.741203] [744:sh] sig 1 to [744:sh]
+<7>[  292.741222] [744:sh] sig 17 to [82:adbd]
+<7>[  292.787383] [82:adbd] fork [746:adbd]
+<7>[  292.788168] [746:adbd] set proc[746] name: -> [sh]
+<7>[  292.789716] [746:sh] fork [747:sh]
+<7>[  292.790253] [747:sh] set proc[747] name: -> [dumpsys]
+<6>[  292.796465] binder: 747:747 refcount change on invalid ref 0
+<6>[  292.796477] binder: 747:747 refcount change on invalid ref 0
+<6>[  292.796491] binder: 747:747 binder_context_mgr_node is NULL
+<6>[  292.796501] binder: 747:747 transaction failed 29189, size 100-0
+<7>[  292.796998] [747:dumpsys] exit
+<7>[  292.797341] [747:dumpsys] sig 17 to [746:sh]
+<7>[  292.797428] [746:sh] exit
+<7>[  292.797562] [746:sh] sig 1 to [746:sh]
+<7>[  292.797581] [746:sh] sig 17 to [82:adbd]
+<7>[  297.618123] [82:adbd] fork [748:adbd]
+<7>[  297.618999] [748:adbd] set proc[748] name: -> [sh]
+<7>[  297.620652] [748:sh] fork [749:sh]
+<7>[  297.621198] [749:sh] set proc[749] name: -> [df]
+<7>[  297.630822] [749:df] exit
+<7>[  297.630967] [749:df] sig 17 to [748:sh]
+<7>[  297.631094] [748:sh] exit
+<7>[  297.631221] [748:sh] sig 1 to [748:sh]
+<7>[  297.631239] [748:sh] sig 17 to [82:adbd]
+<7>[  297.668684] [1:init] fork [750:init]
+<7>[  297.669214] [750:init] set proc[750] name: -> [logwrapper]
+<7>[  297.670618] [750:logwrapper] fork [751:logwrapper]
+<7>[  297.671124] [751:logwrapper] exit
+<7>[  297.671274] [751:logwrapper] sig 17 to [750:logwrapper]
+<7>[  297.671436] [750:logwrapper] exit
+<7>[  297.671608] [750:logwrapper] sig 17 to [1:init]
+<7>[  297.673599] [82:adbd] fork [752:adbd]
+<7>[  297.674387] [752:adbd] set proc[752] name: -> [sh]
+<7>[  297.675946] [752:sh] fork [753:sh]
+<7>[  297.676483] [753:sh] set proc[753] name: -> [getprop]
+<7>[  297.678467] [753:getprop] exit
+<7>[  297.678599] [753:getprop] sig 17 to [752:sh]
+<7>[  297.678693] [752:sh] exit
+<7>[  297.678974] [82:adbd] sig 1 to [752:sh]
+<7>[  297.678989] [82:adbd] sig 18 to [752:sh]
+<7>[  297.679190] [752:sh] sig 1 to [752:sh]
+<7>[  297.679202] [752:sh] sig 18 to [752:sh]
+<7>[  297.679215] [752:sh] sig 17 to [82:adbd]
+<7>[  297.722446] [82:adbd] fork [754:adbd]
+<7>[  297.723232] [754:adbd] set proc[754] name: -> [sh]
+<7>[  297.724772] [754:sh] fork [755:sh]
+<7>[  297.725313] [755:sh] set proc[755] name: -> [dumpsys]
+<6>[  297.731539] binder: 755:755 refcount change on invalid ref 0
+<6>[  297.731552] binder: 755:755 refcount change on invalid ref 0
+<6>[  297.731565] binder: 755:755 binder_context_mgr_node is NULL
+<6>[  297.731575] binder: 755:755 transaction failed 29189, size 96-0
+<7>[  297.732073] [755:dumpsys] exit
+<7>[  297.732416] [755:dumpsys] sig 17 to [754:sh]
+<7>[  297.732503] [754:sh] exit
+<7>[  297.732637] [754:sh] sig 1 to [754:sh]
+<7>[  297.732656] [754:sh] sig 17 to [82:adbd]
+<7>[  297.774330] [82:adbd] fork [756:adbd]
+<7>[  297.775106] [756:adbd] set proc[756] name: -> [sh]
+<7>[  297.776656] [756:sh] fork [757:sh]
+<7>[  297.777189] [757:sh] set proc[757] name: -> [dumpsys]
+<6>[  297.783429] binder: 757:757 refcount change on invalid ref 0
+<6>[  297.783442] binder: 757:757 refcount change on invalid ref 0
+<6>[  297.783455] binder: 757:757 binder_context_mgr_node is NULL
+<6>[  297.783465] binder: 757:757 transaction failed 29189, size 100-0
+<7>[  297.783966] [757:dumpsys] exit
+<7>[  297.784315] [757:dumpsys] sig 17 to [756:sh]
+<7>[  297.784401] [756:sh] exit
+<7>[  297.784538] [756:sh] sig 1 to [756:sh]
+<7>[  297.784558] [756:sh] sig 17 to [82:adbd]
+<6>[  299.090328] yaffs: userdata sync do_checkpoint 0,gc_urgen 0
+<6>[  299.090339] yaffs: userdata yaffs_FlushSuperBlock 0
+<4>[  299.903953] waking up...
+<7>[  299.910465] [737:factory] exit
+<5>[  300.524601] [Power/Battery] [FGADC] 1,1563,0,12,3784,45,24,24,1135,1135,-27,0,0,1000,0,3820,1000,76,75,1503,104,103
+<4>[  300.900291] Tx has been idlegoing to sleep...MSG_X = 53,MSG_Y = 510
+<4>[  302.067579] MSG_X = 53,MSG_Y = 510
+<4>[  302.077544] MSG_X = 53,MSG_Y = 510
+<4>[  302.087526] MSG_X = 53,MSG_Y = 510
+<4>[  302.097451] MSG_X = 53,MSG_Y = 510
+<4>[  302.107444] MSG_X = 53,MSG_Y = 510
+<4>[  302.117429] MSG_X = 53,MSG_Y = 510
+<4>[  302.127383] MSG_X = 53,MSG_Y = 510
+<4>[  302.137346] MSG_X = 53,MSG_Y = 510
+<4>[  302.147249] MSG_X = 53,MSG_Y = 510
+<4>[  302.157225] MSG_X = 53,MSG_Y = 510
+<4>[  302.167196] MSG_X = 53,MSG_Y = 510
+<4>[  302.177165] MSG_X = 53,MSG_Y = 510
+<4>[  302.187087] MSG_X = 53,MSG_Y = 510
+<4>[  302.197054] MSG_X = 53,MSG_Y = 510
+<4>[  302.207026] MSG_X = 53,MSG_Y = 510
+<4>[  302.216994] MSG_X = 53,MSG_Y = 510
+<4>[  302.226969] MSG_X = 53,MSG_Y = 510
+<4>[  302.236884] MSG_X = 53,MSG_Y = 510
+<4>[  302.246846] MSG_X = 53,MSG_Y = 510
+<4>[  302.256814] MSG_X = 53,MSG_Y = 510
+<4>[  302.266776] MSG_X = 53,MSG_Y = 510
+<7>[  302.331533] [726:factory] exit
+<7>[  302.333934] [89:factory] fork [758:factory]
+<3>[  302.359445] msdc3 -> sdio ops_get_cd<1> <- msdc_ops_get_cd() : L<2975> PID<kmmcd><0xe>
+<5>[  302.360478] [Power/clkmgr] [enable_clock] enable wpll clksrc 0x2 for clock 18
+<5>[  302.361355] [Power/clkmgr] [enable_wpll_clksrc_op] wpll_clksrc_mask=0x2, wpll_clksrc_state=0x4003, WPLL_CON=0x403b
+<3>[  302.400577] msdc3 -> ================ <- msdc_set_mclk() : L<781> PID<kmmcd><0xe>
+<3>[  302.401508] msdc3 -> !!! Set<260KHz> Source<197000KHz> -> sclk<259KHz> DDR<0> mode<0> div<190> <- msdc_set_mclk() : L<783> PID<kmmcd><0xe>
+<3>[  302.403052] msdc3 -> ================ <- msdc_set_mclk() : L<784> PID<kmmcd><0xe>
+<3>[  302.420905] msdc3 -> XXX CMD<52> MSDC_INT_CMDTMO Arg<0x00000c00> <- msdc_irq() : L<3161>
+<3>[  302.422501] msdc3 -> XXX CMD<52> MSDC_INT_CMDTMO Arg<0x80000c08> <- msdc_irq() : L<3161>
+<3>[  302.427799] msdc3 -> XXX CMD<8> MSDC_INT_CMDTMO Arg<0x000001aa> <- msdc_irq() : L<3161>
+<3>[  302.429364] msdc3 -> XXX CMD<5> MSDC_INT_CMDTMO Arg<0x00000000> <- msdc_irq() : L<3161>
+<3>[  302.430954] msdc3 -> XXX CMD<5> MSDC_INT_CMDTMO Arg<0x00000000> <- msdc_irq() : L<3161>
+<3>[  302.432518] msdc3 -> XXX CMD<5> MSDC_INT_CMDTMO Arg<0x00000000> <- msdc_irq() : L<3161>
+<3>[  302.434072] msdc3 -> XXX CMD<5> MSDC_INT_CMDTMO Arg<0x00000000> <- msdc_irq() : L<3161>
+<3>[  302.435638] msdc3 -> XXX CMD<55> MSDC_INT_CMDTMO Arg<0x00000000> <- msdc_irq() : L<3161>
+<3>[  302.437215] msdc3 -> XXX CMD<55> MSDC_INT_CMDTMO Arg<0x00000000> <- msdc_irq() : L<3161>
+<3>[  302.438792] msdc3 -> XXX CMD<55> MSDC_INT_CMDTMO Arg<0x00000000> <- msdc_irq() : L<3161>
+<3>[  302.440381] msdc3 -> XXX CMD<55> MSDC_INT_CMDTMO Arg<0x00000000> <- msdc_irq() : L<3161>
+<3>[  302.441971] msdc3 -> XXX CMD<1> MSDC_INT_CMDTMO Arg<0x00000000> <- msdc_irq() : L<3161>
+<3>[  302.460341] msdc3 -> save latch data<0> cmd<0> <- msdc_ops_set_ios() : L<2928> PID<kmmcd><0xe>
+<3>[  302.461410] msdc3 -> set mclk to 0 <- msdc_set_mclk() : L<733> PID<kmmcd><0xe>
+<7>[  302.628690] [82:adbd] fork [759:adbd]
+<7>[  302.629504] [759:adbd] set proc[759] name: -> [sh]
+<7>[  302.631143] [759:sh] fork [760:sh]
+<7>[  302.631688] [760:sh] set proc[760] name: -> [df]
+<7>[  302.633860] [760:df] exit
+<7>[  302.634003] [760:df] sig 17 to [759:sh]
+<7>[  302.634096] [759:sh] exit
+<7>[  302.634232] [759:sh] sig 1 to [759:sh]
+<7>[  302.634252] [759:sh] sig 17 to [82:adbd]
+<7>[  302.676975] [1:init] fork [761:init]
+<7>[  302.677490] [761:init] set proc[761] name: -> [logwrapper]
+<7>[  302.678427] [82:adbd] fork [762:adbd]
+<7>[  302.679732] [761:logwrapper] fork [763:logwrapper]
+<7>[  302.680233] [762:adbd] set proc[762] name: -> [sh]
+<7>[  302.681880] [762:sh] fork [764:sh]
+<7>[  302.682380] [763:logwrapper] exit
+<7>[  302.682540] [763:logwrapper] sig 17 to [761:logwrapper]
+<7>[  302.682703] [761:logwrapper] exit
+<7>[  302.682899] [761:logwrapper] sig 17 to [1:init]
+<7>[  302.683586] [764:sh] set proc[764] name: -> [getprop]
+<7>[  302.685588] [764:getprop] exit
+<7>[  302.685720] [764:getprop] sig 17 to [762:sh]
+<7>[  302.685810] [762:sh] exit
+<7>[  302.685949] [762:sh] sig 1 to [762:sh]
+<7>[  302.685968] [762:sh] sig 17 to [82:adbd]
+<7>[  302.726657] [82:adbd] fork [765:adbd]
+<7>[  302.727433] [765:adbd] set proc[765] name: -> [sh]
+<7>[  302.728971] [765:sh] fork [766:sh]
+<7>[  302.729510] [766:sh] set proc[766] name: -> [dumpsys]
+<6>[  302.735764] binder: 766:766 refcount change on invalid ref 0
+<6>[  302.735776] binder: 766:766 refcount change on invalid ref 0
+<6>[  302.735789] binder: 766:766 binder_context_mgr_node is NULL
+<6>[  302.735800] binder: 766:766 transaction failed 29189, size 96-0
+<7>[  302.736295] [766:dumpsys] exit
+<7>[  302.736641] [766:dumpsys] sig 17 to [765:sh]
+<7>[  302.736727] [765:sh] exit
+<7>[  302.736870] [765:sh] sig 1 to [765:sh]
+<7>[  302.736890] [765:sh] sig 17 to [82:adbd]
+<7>[  302.777624] [82:adbd] fork [767:adbd]
+<7>[  302.778401] [767:adbd] set proc[767] name: -> [sh]
+<7>[  302.779945] [767:sh] fork [768:sh]
+<7>[  302.780529] [768:sh] set proc[768] name: -> [dumpsys]
+<6>[  302.786692] binder: 768:768 refcount change on invalid ref 0
+<6>[  302.786705] binder: 768:768 refcount change on invalid ref 0
+<6>[  302.786719] binder: 768:768 binder_context_mgr_node is NULL
+<6>[  302.786730] binder: 768:768 transaction failed 29189, size 100-0
+<7>[  302.787228] [768:dumpsys] exit
+<7>[  302.787571] [768:dumpsys] sig 17 to [767:sh]
+<7>[  302.787657] [767:sh] exit
+<7>[  302.787799] [767:sh] sig 1 to [767:sh]
+<7>[  302.787818] [767:sh] sig 17 to [82:adbd]
+<4>[  302.820377] [DHD] 
+<4>[  302.820381] Dongle Host Driver, version 5.90.125.95.3
+<3>[  303.460309] msdc3 -> sdio ops_get_cd<1> <- msdc_ops_get_cd() : L<2975> PID<kmmcd><0xe>
+<3>[  303.500539] msdc3 -> ================ <- msdc_set_mclk() : L<781> PID<kmmcd><0xe>
+<3>[  303.501468] msdc3 -> !!! Set<260KHz> Source<197000KHz> -> sclk<259KHz> DDR<0> mode<0> div<190> <- msdc_set_mclk() : L<783> PID<kmmcd><0xe>
+<3>[  303.503012] msdc3 -> ================ <- msdc_set_mclk() : L<784> PID<kmmcd><0xe>
+<3>[  303.520857] msdc3 -> XXX CMD<52> MSDC_INT_CMDTMO Arg<0x00000c00> <- msdc_irq() : L<3161>
+<3>[  303.522480] msdc3 -> XXX CMD<52> MSDC_INT_CMDTMO Arg<0x80000c08> <- msdc_irq() : L<3161>
+<3>[  303.527779] msdc3 -> XXX CMD<8> MSDC_INT_CMDTMO Arg<0x000001aa> <- msdc_irq() : L<3161>
+<3>[  303.530112] msdc3 -> select card<0x00010000> <- msdc_command_start() : L<1264> PID<kmmcd><0xe>
+<3>[  303.543050] msdc3 -> SD latch data<0> cmd<0> <- msdc_ops_set_ios() : L<2920> PID<kmmcd><0xe>
+<3>[  303.544114] msdc3 -> ================ <- msdc_set_mclk() : L<781> PID<kmmcd><0xe>
+<3>[  303.545041] msdc3 -> !!! Set<50000KHz> Source<197000KHz> -> sclk<49250KHz> DDR<0> mode<0> div<1> <- msdc_set_mclk() : L<783> PID<kmmcd><0xe>
+<3>[  303.546608] msdc3 -> ================ <- msdc_set_mclk() : L<784> PID<kmmcd><0xe>
+<6>[  303.549343] mmc1: new high speed SDIO card at address 0001
+<4>[  303.550390] [DHD] si_doattach: CHIPID(sih->chip)=4330, sih->chiprev=4
+<4>[  303.553346] [DHD] DHD: dongle ram size is set to 294912(orig 294912)
+<7>[  303.554251] [14:kmmcd] fork [769:kmmcd]
+<7>[  303.554331] [14:kmmcd] fork [770:kmmcd]
+<7>[  303.554388] [14:kmmcd] fork [771:kmmcd]
+<7>[  303.554453] [14:kmmcd] fork [772:kmmcd]
+<7>[  303.554509] [14:kmmcd] fork [773:kmmcd]
+<7>[  303.554708] [2:kthreadd] fork [774:kthreadd]
+<4>[  303.554785] [DHD] load firmware from /system/etc/fw_bcm4330b2.bin
+<4>[  303.570327] 2013-03-09 18:05:59.635437 UTC; android time 2013-03-09 18:05:59.635437
+<4>[  303.598272] [DHD] dhdsdio_download_nvram: nvram_path=/system/etc/nvram.txt
+<4>[  303.599826] [DHD] GOT STA FIRMWARE
+<4>[  303.750529] [DHD] Firmware up: op_mode=1, Broadcom Dongle Host Driver mac=00:11:22:33:47:55
+<4>[  303.970518] [DHD] Firmware version = wl0: Feb 28 2012 20:49:45 version 5.90.125.95.7
+<4>[  303.982179] [DHD] Broadcom Dongle Host Driver: register interface [wlan0] MAC: 00:90:4c:11:22:33
+<6>[  303.990704] [RTlog insert]   fib_netdev_event()  wlan0 NETDEV_UP!
+<6>[  304.100375] yaffs: userdata sync do_checkpoint 0,gc_urgen 0
+<6>[  304.100387] yaffs: userdata yaffs_FlushSuperBlock 0
+<7>[  304.230331] [69:flush-31:11] exit
+<4>[  305.084675] [DHD] wl_iw_ioctl: error in cmd=8b03 : not supported
+<4>[  305.270519] [DHD] wl_iw_ioctl: error in cmd=8b09 : not supported
+<4>[  306.360390] MSG_X = 53,MSG_Y = 510
+<4>[  306.370338] MSG_X = 53,MSG_Y = 510
+<4>[  306.380301] MSG_X = 53,MSG_Y = 510
+<4>[  306.390289] MSG_X = 53,MSG_Y = 510
+<4>[  306.400239] MSG_X = 53,MSG_Y = 510
+<4>[  306.410170] MSG_X = 53,MSG_Y = 510
+<4>[  306.420135] MSG_X = 53,MSG_Y = 510
+<4>[  306.430104] MSG_X = 53,MSG_Y = 510
+<4>[  306.440063] MSG_X = 53,MSG_Y = 510
+<4>[  306.450035] MSG_X = 53,MSG_Y = 510
+<4>[  306.459999] MSG_X = 53,MSG_Y = 510
+<4>[  306.469921] MSG_X = 53,MSG_Y = 510
+<4>[  306.479888] MSG_X = 53,MSG_Y = 510
+<4>[  306.489857] MSG_X = 53,MSG_Y = 510
+<4>[  306.499827] MSG_X = 53,MSG_Y = 510
+<4>[  306.509797] MSG_X = 53,MSG_Y = 510
+<4>[  306.519756] MSG_X = 53,MSG_Y = 510
+<4>[  306.529724] MSG_X = 53,MSG_Y = 510
+<4>[  306.539644] MSG_X = 53,MSG_Y = 510
+<4>[  306.549601] MSG_X = 53,MSG_Y = 510
+<4>[  306.559569] MSG_X = 53,MSG_Y = 510
+<7>[  306.729760] [758:factory] exit
+<7>[  307.030405] [774:ksdioirqd/mmc1] exit
+<7>[  307.030501] [769:iscan_sysioc] exit
+<7>[  307.030543] [770:dhcp_sysioc] exit
+<7>[  307.030579] [773:dhd_sysioc] exit
+<6>[  307.030720] [RTlog delete]   fib_netdev_event()  wlan0 NETDEV_DOWN!
+<7>[  307.074150] [1:init] fork [775:init]
+<7>[  307.074688] [775:init] set proc[775] name: -> [logwrapper]
+<7>[  307.076033] [775:logwrapper] fork [776:logwrapper]
+<7>[  307.076540] [776:logwrapper] exit
+<7>[  307.076662] [776:logwrapper] sig 17 to [775:logwrapper]
+<7>[  307.076836] [775:logwrapper] exit
+<7>[  307.077030] [775:logwrapper] sig 17 to [1:init]
+<7>[  307.290328] [771:dhd_watchdog] exit
+<7>[  307.290375] [772:dhd_dpc] exit
+<4>[  307.300689] ===========bcm4330_power=====off=============is_wifi_on=1
+<6>[  307.307513] [Power/Battery] **** unlocked_ioctl : Channel 3 * 5 times = 23890
+<6>[  307.310117] [Power/Battery] **** unlocked_ioctl : Channel 1 * 5 times = 19170
+<6>[  307.312747] [Power/Battery] **** unlocked_ioctl : Channel 0 * 5 times = 19615
+<6>[  307.312800] [Power/Battery] **** unlocked_ioctl : CAL:0
+<6>[  307.312825] [Power/Battery] **** unlocked_ioctl : Channel 30 * 5 times = 29
+<6>[  307.312863] [Power/Battery] **** unlocked_ioctl : Channel 66 * 5 times = -156
+<5>[  307.313000] [Power/Battery] [FGADC] FGADC_Reset_SW_Parameter : Start 
+<6>[  307.313816] [Power/Battery] **** unlocked_ioctl : set_Charger_Current:12
+<7>[  307.313963] [89:factory] fork [777:factory]
+<5>[  307.314845] [Power/Battery] #
+<5>[  307.315181] [Power/Battery] [FGADC] FGADC_Reset_SW_Parameter : Done 
+<5>[  307.316004] [Power/Battery] [FGADC] Update DOD0(76) by 75 
+<5>[  307.332059] [Power/Battery] [FGADC] 1,2398,0,0,3784,45,24,24,1135,1135,-40,0,0,1000,0,3820,1000,75,75,2306,104,103
+<7>[  307.631795] [82:adbd] fork [778:adbd]
+<7>[  307.632587] [778:adbd] set proc[778] name: -> [sh]
+<7>[  307.634139] [778:sh] fork [779:sh]
+<7>[  307.634682] [779:sh] set proc[779] name: -> [df]
+<7>[  307.636841] [779:df] exit
+<7>[  307.636976] [779:df] sig 17 to [778:sh]
+<7>[  307.637065] [778:sh] exit
+<7>[  307.637354] [82:adbd] sig 1 to [778:sh]
+<7>[  307.637367] [82:adbd] sig 18 to [778:sh]
+<7>[  307.637572] [778:sh] sig 1 to [778:sh]
+<7>[  307.637583] [778:sh] sig 18 to [778:sh]
+<7>[  307.637596] [778:sh] sig 17 to [82:adbd]
+<7>[  307.680574] [82:adbd] fork [780:adbd]
+<7>[  307.681353] [780:adbd] set proc[780] name: -> [sh]
+<7>[  307.682907] [780:sh] fork [781:sh]
+<7>[  307.683452] [781:sh] set proc[781] name: -> [getprop]
+<7>[  307.685443] [781:getprop] exit
+<7>[  307.685575] [781:getprop] sig 17 to [780:sh]
+<7>[  307.685667] [780:sh] exit
+<7>[  307.685953] [82:adbd] sig 1 to [780:sh]
+<7>[  307.685967] [82:adbd] sig 18 to [780:sh]
+<7>[  307.686174] [780:sh] sig 1 to [780:sh]
+<7>[  307.686186] [780:sh] sig 18 to [780:sh]
+<7>[  307.686199] [780:sh] sig 17 to [82:adbd]
+<7>[  307.730397] [82:adbd] fork [782:adbd]
+<7>[  307.731179] [782:adbd] set proc[782] name: -> [sh]
+<7>[  307.732729] [782:sh] fork [783:sh]
+<7>[  307.733258] [783:sh] set proc[783] name: -> [dumpsys]
+<6>[  307.739431] binder: 783:783 refcount change on invalid ref 0
+<6>[  307.739443] binder: 783:783 refcount change on invalid ref 0
+<6>[  307.739457] binder: 783:783 binder_context_mgr_node is NULL
+<6>[  307.739467] binder: 783:783 transaction failed 29189, size 96-0
+<7>[  307.739965] [783:dumpsys] exit
+<7>[  307.743267] [783:dumpsys] sig 17 to [782:sh]
+<7>[  307.743353] [782:sh] exit
+<7>[  307.743507] [782:sh] sig 1 to [782:sh]
+<7>[  307.743526] [782:sh] sig 17 to [82:adbd]
+<7>[  307.784093] [82:adbd] fork [784:adbd]
+<7>[  307.784874] [784:adbd] set proc[784] name: -> [sh]
+<7>[  307.786414] [784:sh] fork [785:sh]
+<7>[  307.786951] [785:sh] set proc[785] name: -> [dumpsys]
+<6>[  307.793203] binder: 785:785 refcount change on invalid ref 0
+<6>[  307.793215] binder: 785:785 refcount change on invalid ref 0
+<6>[  307.793228] binder: 785:785 binder_context_mgr_node is NULL
+<6>[  307.793239] binder: 785:785 transaction failed 29189, size 100-0
+<7>[  307.793739] [785:dumpsys] exit
+<7>[  307.794085] [785:dumpsys] sig 17 to [784:sh]
+<7>[  307.794173] [784:sh] exit
+<7>[  307.794308] [784:sh] sig 1 to [784:sh]
+<7>[  307.794327] [784:sh] sig 17 to [82:adbd]
+<5>[  308.390869] [Power/Battery] [BATTERY] FTM charging : 12
+<6>[  308.395864] [Power/Battery] **** unlocked_ioctl : Channel 3 * 5 times = 25386
+<6>[  308.398494] [Power/Battery] **** unlocked_ioctl : Channel 1 * 5 times = 18725
+<6>[  308.401091] [Power/Battery] **** unlocked_ioctl : Channel 0 * 5 times = 18700
+<6>[  308.401141] [Power/Battery] **** unlocked_ioctl : CAL:0
+<6>[  308.401165] [Power/Battery] **** unlocked_ioctl : Channel 30 * 5 times = 29
+<6>[  308.401202] [Power/Battery] **** unlocked_ioctl : Channel 66 * 5 times = -239
+<6>[  309.419786] [Power/Battery] **** unlocked_ioctl : Channel 3 * 5 times = 23890
+<6>[  309.422470] [Power/Battery] **** unlocked_ioctl : Channel 1 * 5 times = 19145
+<6>[  309.425091] [Power/Battery] **** unlocked_ioctl : Channel 0 * 5 times = 19615
+<6>[  309.425145] [Power/Battery] **** unlocked_ioctl : CAL:0
+<6>[  309.425169] [Power/Battery] **** unlocked_ioctl : Channel 30 * 5 times = 29
+<6>[  309.425206] [Power/Battery] **** unlocked_ioctl : Channel 66 * 5 times = -239
+<4>[  309.497809] MSG_X = 53,MSG_Y = 510
+<4>[  309.507752] MSG_X = 53,MSG_Y = 510
+<4>[  309.517711] MSG_X = 53,MSG_Y = 510
+<4>[  309.527675] MSG_X = 53,MSG_Y = 510
+<4>[  309.537640] MSG_X = 53,MSG_Y = 510
+<4>[  309.547612] MSG_X = 53,MSG_Y = 510
+<4>[  309.557574] MSG_X = 53,MSG_Y = 510
+<4>[  309.567498] MSG_X = 53,MSG_Y = 510
+<4>[  309.577466] MSG_X = 53,MSG_Y = 510
+<4>[  309.587434] MSG_X = 53,MSG_Y = 510
+<4>[  309.597398] MSG_X = 53,MSG_Y = 510
+<4>[  309.607365] MSG_X = 53,MSG_Y = 510
+<4>[  309.617329] MSG_X = 53,MSG_Y = 510
+<4>[  309.627258] MSG_X = 53,MSG_Y = 510
+<4>[  309.637230] MSG_X = 53,MSG_Y = 510
+<4>[  309.647194] MSG_X = 53,MSG_Y = 510
+<4>[  309.657157] MSG_X = 53,MSG_Y = 510
+<4>[  309.667121] MSG_X = 53,MSG_Y = 510
+<4>[  309.677081] MSG_X = 53,MSG_Y = 510
+<4>[  309.687044] MSG_X = 53,MSG_Y = 510
+<4>[  309.697004] MSG_X = 53,MSG_Y = 510
+<7>[  309.740117] [777:factory] exit
+<7>[  309.742304] [Power/dcm] 
+<4>[  309.742314] =============== Idle State ================
+<7>[  309.742958] [Power/dcm] [enable_low_power_settings]: entry
+<0>[  309.742969] [LED]#6:0
+<4>[  309.743239] mt65xx_leds_set_cust: set brightness, name:lcd-backlight, mode:4, level:0
+<7>[  309.744217] [Power/dcm] [enable_low_power_settings]: success to mask all irq lines
+<4>[  312.519456] kpd: register = fffd ffff ffff ffff ff
+<4>[  312.520041] kpd: (pressed) HW keycode = 1
+<4>[  312.520577] kpd: report Linux keycode = 115
+<4>[  312.521085] kpd: save new keymap state
+<7>[  312.521615] [Power/dcm] [disable_low_power_settings]: entry
+<5>[  312.521762] [Power/clkmgr] [disable_clock] disable wpll clksrc 0x2 for clock 18
+<5>[  312.522662] [Power/clkmgr] [disable_wpll_clksrc_op] wpll_clksrc_mask=0x2, wpll_clksrc_state=0x4001, WPLL_CON=0x4039
+<7>[  312.524296] [1:init] fork [786:init]
+<6>[  312.524603] yaffs: userdata sync do_checkpoint 0,gc_urgen 0
+<6>[  312.524614] yaffs: userdata yaffs_FlushSuperBlock 0
+<7>[  312.525491] [Power/dcm] [disable_low_power_settings]: success to restore all irq lines
+<0>[  312.525508] [LED]#6:255
+<7>[  312.526174] [786:init] set proc[786] name: -> [logwrapper]
+<4>[  312.526282] mt65xx_leds_set_cust: set brightness, name:lcd-backlight, mode:4, level:255
+<4>[  312.528613] Backlight level = 1 
+<4>[  312.528618] 
+<7>[  312.530012] [Power/dcm] =========================================
+<7>[  312.531049] [786:logwrapper] fork [787:logwrapper]
+<7>[  312.536958] [787:logwrapper] exit
+<7>[  312.537409] [787:logwrapper] sig 17 to [786:logwrapper]
+<7>[  312.537622] [786:logwrapper] exit
+<7>[  312.537803] [786:logwrapper] sig 17 to [1:init]
+<5>[  312.543832] [Power/Battery] [FGADC] 1,3645,0,0,3784,45,24,24,1135,1135,-68,0,0,1000,0,3829,1000,75,75,3505,104,103
+<7>[  312.632717] [82:adbd] fork [788:adbd]
+<7>[  312.633512] [788:adbd] set proc[788] name: -> [sh]
+<7>[  312.635075] [788:sh] fork [789:sh]
+<7>[  312.635614] [789:sh] set proc[789] name: -> [df]
+<7>[  312.637763] [789:df] exit
+<7>[  312.637897] [789:df] sig 17 to [788:sh]
+<7>[  312.637986] [788:sh] exit
+<7>[  312.638267] [82:adbd] sig 1 to [788:sh]
+<7>[  312.638282] [82:adbd] sig 18 to [788:sh]
+<7>[  312.638482] [788:sh] sig 1 to [788:sh]
+<7>[  312.638494] [788:sh] sig 18 to [788:sh]
+<7>[  312.638507] [788:sh] sig 17 to [82:adbd]
+<7>[  312.686515] [82:adbd] fork [790:adbd]
+<7>[  312.687286] [790:adbd] set proc[790] name: -> [sh]
+<7>[  312.688831] [790:sh] fork [791:sh]
+<7>[  312.689369] [791:sh] set proc[791] name: -> [getprop]
+<7>[  312.691436] [791:getprop] exit
+<7>[  312.691571] [791:getprop] sig 17 to [790:sh]
+<7>[  312.691661] [790:sh] exit
+<7>[  312.691945] [82:adbd] sig 1 to [790:sh]
+<7>[  312.691959] [82:adbd] sig 18 to [790:sh]
+<7>[  312.692159] [790:sh] sig 1 to [790:sh]
+<7>[  312.692170] [790:sh] sig 18 to [790:sh]
+<7>[  312.692206] [790:sh] sig 17 to [82:adbd]
+<4>[  312.708848] kpd: register = ffff ffff ffff ffff ff
+<4>[  312.709436] kpd: (released) HW keycode = 1
+<4>[  312.709973] kpd: report Linux keycode = 115
+<4>[  312.710499] kpd: save new keymap state
+<7>[  312.734673] [82:adbd] fork [792:adbd]
+<7>[  312.735453] [792:adbd] set proc[792] name: -> [sh]
+<7>[  312.736999] [792:sh] fork [793:sh]
+<7>[  312.737540] [793:sh] set proc[793] name: -> [dumpsys]
+<6>[  312.743773] binder: 793:793 refcount change on invalid ref 0
+<6>[  312.743786] binder: 793:793 refcount change on invalid ref 0
+<6>[  312.743799] binder: 793:793 binder_context_mgr_node is NULL
+<6>[  312.743809] binder: 793:793 transaction failed 29189, size 96-0
+<7>[  312.744305] [793:dumpsys] exit
+<7>[  312.744652] [793:dumpsys] sig 17 to [792:sh]
+<7>[  312.744741] [792:sh] exit
+<7>[  312.744877] [792:sh] sig 1 to [792:sh]
+<7>[  312.744896] [792:sh] sig 17 to [82:adbd]
+<7>[  312.788406] [82:adbd] fork [794:adbd]
+<7>[  312.789178] [794:adbd] set proc[794] name: -> [sh]
+<7>[  312.790776] [794:sh] fork [795:sh]
+<7>[  312.791306] [795:sh] set proc[795] name: -> [dumpsys]
+<6>[  312.797470] binder: 795:795 refcount change on invalid ref 0
+<6>[  312.797483] binder: 795:795 refcount change on invalid ref 0
+<6>[  312.797496] binder: 795:795 binder_context_mgr_node is NULL
+<6>[  312.797507] binder: 795:795 transaction failed 29189, size 100-0
+<7>[  312.798004] [795:dumpsys] exit
+<7>[  312.798355] [795:dumpsys] sig 17 to [794:sh]
+<7>[  312.798440] [794:sh] exit
+<7>[  312.798575] [794:sh] sig 1 to [794:sh]
+<7>[  312.798594] [794:sh] sig 17 to [82:adbd]
+<7>[  312.820306] [72:flush-31:7] exit
+<5>[  313.600812] [Power/Battery] [BATTERY] FTM charging : 12
+<4>[  313.878648] kpd: register = fffd ffff ffff ffff ff
+<4>[  313.879235] kpd: (pressed) HW keycode = 1
+<4>[  313.879759] kpd: report Linux keycode = 115
+<4>[  313.880267] kpd: save new keymap state
+<4>[  314.063647] kpd: register = ffff ffff ffff ffff ff
+<4>[  314.064237] kpd: (released) HW keycode = 1
+<4>[  314.064775] kpd: report Linux keycode = 115
+<4>[  314.065283] kpd: save new keymap state
+<4>[  314.139724] kpd: register = fffd ffff ffff ffff ff
+<4>[  314.140311] kpd: (pressed) HW keycode = 1
+<4>[  314.140826] kpd: report Linux keycode = 115
+<4>[  314.141334] kpd: save new keymap state
+<4>[  314.301778] kpd: register = ffff ffff ffff ffff ff
+<4>[  314.302367] kpd: (released) HW keycode = 1
+<4>[  314.302907] kpd: report Linux keycode = 115
+<4>[  314.303427] kpd: save new keymap state
+<5>[  314.825301] [Power/PMIC] [mt6329_pmic_eint_irq] receive interrupt
+<5>[  314.826049] [Power/PMIC] [wake_up_pmic]
+<6>[  314.826563] [Power/PMIC] [pmic_thread_kthread] running
+<6>[  314.826772] [Power/PMIC] [BATTERY] Reg[0x21]=0x7b, Reg[0x22]=0xa2, Reg[0x38]=0xf4
+<5>[  314.827104] [Power/PMIC] [pmic_thread_kthread_E2] Get HomeKey EINT
+<5>[  314.827937] [Power/PMIC] [pmic_thread_kthread_E2] Press HomeKey
+<4>[  314.828672] kpd: PMIC reset Key generate, pressed=1
+<4>[  314.829396] kpd: (pressed) HW keycode =114 using PMIC
+<5>[  314.985185] [Power/PMIC] [mt6329_pmic_eint_irq] receive interrupt
+<5>[  314.985935] [Power/PMIC] [wake_up_pmic]
+<6>[  314.986448] [Power/PMIC] [pmic_thread_kthread] running
+<6>[  314.986668] [Power/PMIC] [BATTERY] Reg[0x21]=0x7b, Reg[0x22]=0xa2, Reg[0x38]=0xf4
+<5>[  314.987003] [Power/PMIC] [pmic_thread_kthread_E2] Get HomeKey EINT
+<5>[  314.987836] [Power/PMIC] [pmic_thread_kthread_E2] Release HomeKey
+<4>[  314.988593] kpd: PMIC reset Key generate, pressed=0
+<4>[  314.989292] kpd: (released) HW keycode =114 using PMIC
+<5>[  315.084488] [Power/PMIC] [mt6329_pmic_eint_irq] receive interrupt
+<5>[  315.085235] [Power/PMIC] [wake_up_pmic]
+<6>[  315.085744] [Power/PMIC] [pmic_thread_kthread] running
+<6>[  315.085949] [Power/PMIC] [BATTERY] Reg[0x21]=0x7b, Reg[0x22]=0xa2, Reg[0x38]=0xf4
+<5>[  315.086281] [Power/PMIC] [pmic_thread_kthread_E2] Get HomeKey EINT
+<5>[  315.087113] [Power/PMIC] [pmic_thread_kthread_E2] Press HomeKey
+<4>[  315.087848] kpd: PMIC reset Key generate, pressed=1
+<4>[  315.100345] kpd: (pressed) HW keycode =114 using PMIC
+<5>[  315.209062] [Power/PMIC] [mt6329_pmic_eint_irq] receive interrupt
+<5>[  315.209811] [Power/PMIC] [wake_up_pmic]
+<6>[  315.210326] [Power/PMIC] [pmic_thread_kthread] running
+<6>[  315.210542] [Power/PMIC] [BATTERY] Reg[0x21]=0x7b, Reg[0x22]=0xa2, Reg[0x38]=0xf4
+<5>[  315.210879] [Power/PMIC] [pmic_thread_kthread_E2] Get HomeKey EINT
+<5>[  315.211712] [Power/PMIC] [pmic_thread_kthread_E2] Release HomeKey
+<4>[  315.212469] kpd: PMIC reset Key generate, pressed=0
+<4>[  315.213166] kpd: (released) HW keycode =114 using PMIC
+<4>[  315.615527] kpd: register = fffd ffff ffff ffff ff
+<4>[  315.616114] kpd: (pressed) HW keycode = 1
+<4>[  315.616633] kpd: report Linux keycode = 115
+<4>[  315.617142] kpd: save new keymap state
+<4>[  315.750721] kpd: register = ffff ffff ffff ffff ff
+<4>[  315.751310] kpd: (released) HW keycode = 1
+<4>[  315.751850] kpd: report Linux keycode = 115
+<4>[  315.752358] kpd: save new keymap state
+<4>[  315.847183] kpd: register = fffd ffff ffff ffff ff
+<4>[  315.847769] kpd: (pressed) HW keycode = 1
+<4>[  315.848284] kpd: report Linux keycode = 115
+<4>[  315.848791] kpd: save new keymap state
+<4>[  315.979939] kpd: register = ffff ffff ffff ffff ff
+<4>[  315.980539] kpd: (released) HW keycode = 1
+<4>[  315.981068] kpd: report Linux keycode = 115
+<4>[  315.981576] kpd: save new keymap state
+<4>[  316.128554] kpd: register = fffd ffff ffff ffff ff
+<4>[  316.129141] kpd: (pressed) HW keycode = 1
+<4>[  316.129658] kpd: report Linux keycode = 115
+<4>[  316.130166] kpd: save new keymap state
+<4>[  316.277911] kpd: register = ffff ffff ffff ffff ff
+<4>[  316.278500] kpd: (released) HW keycode = 1
+<4>[  316.279039] kpd: report Linux keycode = 115
+<4>[  316.279547] kpd: save new keymap state
+<4>[  316.430342] kpd: register = fffd ffff ffff ffff ff
+<4>[  316.430928] kpd: (pressed) HW keycode = 1
+<4>[  316.431445] kpd: report Linux keycode = 115
+<4>[  316.431953] kpd: save new keymap state
+<4>[  316.595812] kpd: register = ffff ffff ffff ffff ff
+<4>[  316.596401] kpd: (released) HW keycode = 1
+<4>[  316.596939] kpd: report Linux keycode = 115
+<4>[  316.597447] kpd: save new keymap state
+<5>[  317.011826] [Power/PMIC] [mt6329_pmic_eint_irq] receive interrupt
+<5>[  317.012573] [Power/PMIC] [wake_up_pmic]
+<6>[  317.013081] [Power/PMIC] [pmic_thread_kthread] running
+<6>[  317.013280] [Power/PMIC] [BATTERY] Reg[0x21]=0x7b, Reg[0x22]=0xa2, Reg[0x38]=0xf4
+<5>[  317.013591] [Power/PMIC] [pmic_thread_kthread_E2] Get HomeKey EINT
+<5>[  317.014419] [Power/PMIC] [pmic_thread_kthread_E2] Press HomeKey
+<4>[  317.015154] kpd: PMIC reset Key generate, pressed=1
+<4>[  317.015867] kpd: (pressed) HW keycode =114 using PMIC
+<5>[  317.176715] [Power/PMIC] [mt6329_pmic_eint_irq] receive interrupt
+<5>[  317.177465] [Power/PMIC] [wake_up_pmic]
+<6>[  317.177976] [Power/PMIC] [pmic_thread_kthread] running
+<6>[  317.178192] [Power/PMIC] [BATTERY] Reg[0x21]=0x7b, Reg[0x22]=0xa2, Reg[0x38]=0xf4
+<5>[  317.178519] [Power/PMIC] [pmic_thread_kthread_E2] Get HomeKey EINT
+<5>[  317.179367] [Power/PMIC] [pmic_thread_kthread_E2] Release HomeKey
+<4>[  317.180125] kpd: PMIC reset Key generate, pressed=0
+<4>[  317.180846] kpd: (released) HW keycode =114 using PMIC
+<5>[  317.270916] [Power/PMIC] [mt6329_pmic_eint_irq] receive interrupt
+<5>[  317.271663] [Power/PMIC] [wake_up_pmic]
+<6>[  317.272169] [Power/PMIC] [pmic_thread_kthread] running
+<6>[  317.272375] [Power/PMIC] [BATTERY] Reg[0x21]=0x7b, Reg[0x22]=0xa2, Reg[0x38]=0xf4
+<5>[  317.272707] [Power/PMIC] [pmic_thread_kthread_E2] Get HomeKey EINT
+<5>[  317.273539] [Power/PMIC] [pmic_thread_kthread_E2] Press HomeKey
+<4>[  317.274274] kpd: PMIC reset Key generate, pressed=1
+<4>[  317.280348] kpd: (pressed) HW keycode =114 using PMIC
+<7>[  317.538249] [1:init] fork [796:init]
+<7>[  317.538794] [796:init] set proc[796] name: -> [logwrapper]
+<7>[  317.540152] [796:logwrapper] fork [797:logwrapper]
+<7>[  317.540704] [797:logwrapper] exit
+<7>[  317.540829] [797:logwrapper] sig 17 to [796:logwrapper]
+<7>[  317.541003] [796:logwrapper] exit
+<7>[  317.541197] [796:logwrapper] sig 17 to [1:init]
+<5>[  317.602524] [Power/PMIC] [mt6329_pmic_eint_irq] receive interrupt
+<5>[  317.603273] [Power/PMIC] [wake_up_pmic]
+<6>[  317.603783] [Power/PMIC] [pmic_thread_kthread] running
+<6>[  317.603999] [Power/PMIC] [BATTERY] Reg[0x21]=0x7b, Reg[0x22]=0xa2, Reg[0x38]=0xf4
+<5>[  317.604326] [Power/PMIC] [pmic_thread_kthread_E2] Get HomeKey EINT
+<5>[  317.605157] [Power/PMIC] [pmic_thread_kthread_E2] Release HomeKey
+<4>[  317.605914] kpd: PMIC reset Key generate, pressed=0
+<4>[  317.606605] kpd: (released) HW keycode =114 using PMIC
+<7>[  317.656634] [82:adbd] fork [798:adbd]
+<7>[  317.657439] [798:adbd] set proc[798] name: -> [sh]
+<7>[  317.659016] [798:sh] fork [799:sh]
+<7>[  317.659560] [799:sh] set proc[799] name: -> [df]
+<7>[  317.661788] [799:df] exit
+<7>[  317.661924] [799:df] sig 17 to [798:sh]
+<7>[  317.662016] [798:sh] exit
+<7>[  317.662151] [798:sh] sig 1 to [798:sh]
+<7>[  317.662170] [798:sh] sig 17 to [82:adbd]
+<7>[  317.710726] [82:adbd] fork [800:adbd]
+<7>[  317.711504] [800:adbd] set proc[800] name: -> [sh]
+<7>[  317.713056] [800:sh] fork [801:sh]
+<7>[  317.713596] [801:sh] set proc[801] name: -> [getprop]
+<7>[  317.715582] [801:getprop] exit
+<7>[  317.715715] [801:getprop] sig 17 to [800:sh]
+<7>[  317.715804] [800:sh] exit
+<7>[  317.716088] [82:adbd] sig 1 to [800:sh]
+<7>[  317.716102] [82:adbd] sig 18 to [800:sh]
+<7>[  317.716304] [800:sh] sig 1 to [800:sh]
+<7>[  317.716315] [800:sh] sig 18 to [800:sh]
+<7>[  317.716329] [800:sh] sig 17 to [82:adbd]
+<7>[  317.760216] [82:adbd] fork [802:adbd]
+<7>[  317.761047] [802:adbd] set proc[802] name: -> [sh]
+<7>[  317.762588] [802:sh] fork [803:sh]
+<7>[  317.763125] [803:sh] set proc[803] name: -> [dumpsys]
+<6>[  317.769303] binder: 803:803 refcount change on invalid ref 0
+<6>[  317.769316] binder: 803:803 refcount change on invalid ref 0
+<6>[  317.769329] binder: 803:803 binder_context_mgr_node is NULL
+<6>[  317.769339] binder: 803:803 transaction failed 29189, size 96-0
+<7>[  317.769840] [803:dumpsys] exit
+<7>[  317.770190] [803:dumpsys] sig 17 to [802:sh]
+<7>[  317.770543] [802:sh] exit
+<7>[  317.770698] [802:sh] sig 1 to [802:sh]
+<7>[  317.770719] [802:sh] sig 17 to [82:adbd]
+<7>[  317.815345] [82:adbd] fork [804:adbd]
+<7>[  317.816121] [804:adbd] set proc[804] name: -> [sh]
+<7>[  317.817675] [804:sh] fork [805:sh]
+<7>[  317.818206] [805:sh] set proc[805] name: -> [dumpsys]
+<6>[  317.824467] binder: 805:805 refcount change on invalid ref 0
+<6>[  317.824479] binder: 805:805 refcount change on invalid ref 0
+<6>[  317.824493] binder: 805:805 binder_context_mgr_node is NULL
+<6>[  317.824503] binder: 805:805 transaction failed 29189, size 100-0
+<7>[  317.825004] [805:dumpsys] exit
+<7>[  317.825353] [805:dumpsys] sig 17 to [804:sh]
+<7>[  317.825440] [804:sh] exit
+<7>[  317.825581] [804:sh] sig 1 to [804:sh]
+<7>[  317.825601] [804:sh] sig 17 to [82:adbd]
+<5>[  317.859969] [Power/PMIC] [mt6329_pmic_eint_irq] receive interrupt
+<5>[  317.860718] [Power/PMIC] [wake_up_pmic]
+<6>[  317.861249] [Power/PMIC] [pmic_thread_kthread] running
+<6>[  317.861470] [Power/PMIC] [BATTERY] Reg[0x21]=0x7b, Reg[0x22]=0xa2, Reg[0x38]=0xf4
+<5>[  317.861803] [Power/PMIC] [pmic_thread_kthread_E2] Get HomeKey EINT
+<5>[  317.862637] [Power/PMIC] [pmic_thread_kthread_E2] Press HomeKey
+<4>[  317.863372] kpd: PMIC reset Key generate, pressed=1
+<4>[  317.870404] kpd: (pressed) HW keycode =114 using PMIC
+<5>[  318.029923] [Power/PMIC] [mt6329_pmic_eint_irq] receive interrupt
+<5>[  318.030673] [Power/PMIC] [wake_up_pmic]
+<6>[  318.031200] [Power/PMIC] [pmic_thread_kthread] running
+<6>[  318.031416] [Power/PMIC] [BATTERY] Reg[0x21]=0x7b, Reg[0x22]=0xa2, Reg[0x38]=0xf4
+<5>[  318.031744] [Power/PMIC] [pmic_thread_kthread_E2] Get HomeKey EINT
+<5>[  318.032575] [Power/PMIC] [pmic_thread_kthread_E2] Release HomeKey
+<4>[  318.033331] kpd: PMIC reset Key generate, pressed=0
+<4>[  318.034043] kpd: (released) HW keycode =114 using PMIC
+<6>[  318.040312] yaffs: userdata sync do_checkpoint 0,gc_urgen 0
+<6>[  318.040323] yaffs: userdata yaffs_FlushSuperBlock 0
+<5>[  320.527736] [Power/Battery] [FGADC] 1,2331,0,0,3786,46,24,24,1135,1135,-39,0,0,1000,0,3834,1000,75,75,2242,104,103
+<5>[  321.591045] [Power/Battery] [BATTERY] FTM charging : 12
+<7>[  322.546565] [1:init] fork [806:init]
+<7>[  322.547097] [806:init] set proc[806] name: -> [logwrapper]
+<7>[  322.548464] [806:logwrapper] fork [807:logwrapper]
+<7>[  322.548982] [807:logwrapper] exit
+<7>[  322.549106] [807:logwrapper] sig 17 to [806:logwrapper]
+<7>[  322.549282] [806:logwrapper] exit
+<7>[  322.549475] [806:logwrapper] sig 17 to [1:init]
+<7>[  322.678262] [82:adbd] fork [808:adbd]
+<7>[  322.679059] [808:adbd] set proc[808] name: -> [sh]
+<7>[  322.680680] [808:sh] fork [809:sh]
+<7>[  322.681225] [809:sh] set proc[809] name: -> [df]
+<7>[  322.683391] [809:df] exit
+<7>[  322.683526] [809:df] sig 17 to [808:sh]
+<7>[  322.683615] [808:sh] exit
+<7>[  322.683748] [808:sh] sig 1 to [808:sh]
+<7>[  322.683768] [808:sh] sig 17 to [82:adbd]
+<7>[  322.738457] [82:adbd] fork [810:adbd]
+<7>[  322.739235] [810:adbd] set proc[810] name: -> [sh]
+<7>[  322.740847] [810:sh] fork [811:sh]
+<7>[  322.741388] [811:sh] set proc[811] name: -> [getprop]
+<7>[  322.743372] [811:getprop] exit
+<7>[  322.743506] [811:getprop] sig 17 to [810:sh]
+<7>[  322.743597] [810:sh] exit
+<7>[  322.743728] [810:sh] sig 1 to [810:sh]
+<7>[  322.743747] [810:sh] sig 17 to [82:adbd]
+<7>[  322.786908] [82:adbd] fork [812:adbd]
+<7>[  322.787683] [812:adbd] set proc[812] name: -> [sh]
+<7>[  322.789234] [812:sh] fork [813:sh]
+<7>[  322.789761] [813:sh] set proc[813] name: -> [dumpsys]
+<6>[  322.796004] binder: 813:813 refcount change on invalid ref 0
+<6>[  322.796017] binder: 813:813 refcount change on invalid ref 0
+<6>[  322.796030] binder: 813:813 binder_context_mgr_node is NULL
+<6>[  322.796040] binder: 813:813 transaction failed 29189, size 96-0
+<7>[  322.796546] [813:dumpsys] exit
+<7>[  322.796896] [813:dumpsys] sig 17 to [812:sh]
+<7>[  322.796984] [812:sh] exit
+<7>[  322.797122] [812:sh] sig 1 to [812:sh]
+<7>[  322.797142] [812:sh] sig 17 to [82:adbd]
+<7>[  322.830311] [104:flush-31:13] exit
+<7>[  322.839275] [82:adbd] fork [814:adbd]
+<7>[  322.840059] [814:adbd] set proc[814] name: -> [sh]
+<7>[  322.841668] [814:sh] fork [815:sh]
+<7>[  322.842204] [815:sh] set proc[815] name: -> [dumpsys]
+<6>[  322.848389] binder: 815:815 refcount change on invalid ref 0
+<6>[  322.848402] binder: 815:815 refcount change on invalid ref 0
+<6>[  322.848416] binder: 815:815 binder_context_mgr_node is NULL
+<6>[  322.848426] binder: 815:815 transaction failed 29189, size 100-0
+<7>[  322.848925] [815:dumpsys] exit
+<7>[  322.849274] [815:dumpsys] sig 17 to [814:sh]
+<7>[  322.849361] [814:sh] exit
+<7>[  322.849498] [814:sh] sig 1 to [814:sh]
+<7>[  322.849518] [814:sh] sig 17 to [82:adbd]
+<7>[  322.870354] [2:kthreadd] fork [816:kthreadd]
+<4>[  323.580309] 2013-03-09 18:06:19.645422 UTC; android time 2013-03-09 18:06:19.645422
+<6>[  324.040308] yaffs: userdata sync do_checkpoint 0,gc_urgen 0
+<6>[  324.040318] yaffs: userdata yaffs_FlushSuperBlock 0
+<7>[  327.554849] [1:init] fork [817:init]
+<7>[  327.555378] [817:init] set proc[817] name: -> [logwrapper]
+<7>[  327.556735] [817:logwrapper] fork [818:logwrapper]
+<7>[  327.557248] [818:logwrapper] exit
+<7>[  327.557373] [818:logwrapper] sig 17 to [817:logwrapper]
+<7>[  327.557549] [817:logwrapper] exit
+<7>[  327.557737] [817:logwrapper] sig 17 to [1:init]
+<7>[  327.680001] [82:adbd] fork [819:adbd]
+<7>[  327.680831] [819:adbd] set proc[819] name: -> [sh]
+<7>[  327.682389] [819:sh] fork [820:sh]
+<7>[  327.682929] [820:sh] set proc[820] name: -> [df]
+<7>[  327.685099] [820:df] exit
+<7>[  327.685234] [820:df] sig 17 to [819:sh]
+<7>[  327.685323] [819:sh] exit
+<7>[  327.685606] [82:adbd] sig 1 to [819:sh]
+<7>[  327.685620] [82:adbd] sig 18 to [819:sh]
+<7>[  327.685824] [819:sh] sig 1 to [819:sh]
+<7>[  327.685836] [819:sh] sig 18 to [819:sh]
+<7>[  327.685849] [819:sh] sig 17 to [82:adbd]
+<7>[  327.736494] [82:adbd] fork [821:adbd]
+<7>[  327.737273] [821:adbd] set proc[821] name: -> [sh]
+<7>[  327.738833] [821:sh] fork [822:sh]
+<7>[  327.739371] [822:sh] set proc[822] name: -> [getprop]
+<7>[  327.741434] [822:getprop] exit
+<7>[  327.741567] [822:getprop] sig 17 to [821:sh]
+<7>[  327.741658] [821:sh] exit
+<7>[  327.741938] [82:adbd] sig 1 to [821:sh]
+<7>[  327.741952] [82:adbd] sig 18 to [821:sh]
+<7>[  327.742150] [821:sh] sig 1 to [821:sh]
+<7>[  327.742185] [821:sh] sig 18 to [821:sh]
+<7>[  327.742199] [821:sh] sig 17 to [82:adbd]
+<7>[  327.785106] [82:adbd] fork [823:adbd]
+<7>[  327.785888] [823:adbd] set proc[823] name: -> [sh]
+<7>[  327.787438] [823:sh] fork [824:sh]
+<7>[  327.787975] [824:sh] set proc[824] name: -> [dumpsys]
+<6>[  327.794230] binder: 824:824 refcount change on invalid ref 0
+<6>[  327.794243] binder: 824:824 refcount change on invalid ref 0
+<6>[  327.794256] binder: 824:824 binder_context_mgr_node is NULL
+<6>[  327.794267] binder: 824:824 transaction failed 29189, size 96-0
+<7>[  327.794766] [824:dumpsys] exit
+<7>[  327.795114] [824:dumpsys] sig 17 to [823:sh]
+<7>[  327.795200] [823:sh] exit
+<7>[  327.795338] [823:sh] sig 1 to [823:sh]
+<7>[  327.795358] [823:sh] sig 17 to [82:adbd]
+<7>[  327.845848] [82:adbd] fork [825:adbd]
+<7>[  327.846630] [825:adbd] set proc[825] name: -> [sh]
+<7>[  327.848174] [825:sh] fork [826:sh]
+<7>[  327.848714] [826:sh] set proc[826] name: -> [dumpsys]
+<6>[  327.855014] binder: 826:826 refcount change on invalid ref 0
+<6>[  327.855027] binder: 826:826 refcount change on invalid ref 0
+<6>[  327.855040] binder: 826:826 binder_context_mgr_node is NULL
+<6>[  327.855051] binder: 826:826 transaction failed 29189, size 100-0
+<7>[  327.855548] [826:dumpsys] exit
+<7>[  327.855898] [826:dumpsys] sig 17 to [825:sh]
+<7>[  327.855984] [825:sh] exit
+<7>[  327.856124] [825:sh] sig 1 to [825:sh]
+<7>[  327.856143] [825:sh] sig 17 to [82:adbd]
+<6>[  330.040311] yaffs: userdata sync do_checkpoint 0,gc_urgen 0
+<6>[  330.040323] yaffs: userdata yaffs_FlushSuperBlock 0
+<5>[  330.529947] [Power/Battery] [FGADC] 1,2329,0,1,3787,47,24,24,1135,1135,-39,0,0,1000,0,3834,1000,75,75,2240,104,103
+<5>[  331.590806] [Power/Battery] [BATTERY] FTM charging : 12
+<7>[  332.563103] [1:init] fork [827:init]
+<7>[  332.563627] [827:init] set proc[827] name: -> [logwrapper]
+<7>[  332.564968] [827:logwrapper] fork [828:logwrapper]
+<7>[  332.565479] [828:logwrapper] exit
+<7>[  332.565603] [828:logwrapper] sig 17 to [827:logwrapper]
+<7>[  332.565779] [827:logwrapper] exit
+<7>[  332.565973] [827:logwrapper] sig 17 to [1:init]
+<7>[  332.674077] [82:adbd] fork [829:adbd]
+<7>[  332.674860] [829:adbd] set proc[829] name: -> [sh]
+<7>[  332.676428] [829:sh] fork [830:sh]
+<7>[  332.676971] [830:sh] set proc[830] name: -> [df]
+<7>[  332.679135] [830:df] exit
+<7>[  332.679272] [830:df] sig 17 to [829:sh]
+<7>[  332.679362] [829:sh] exit
+<7>[  332.679645] [82:adbd] sig 1 to [829:sh]
+<7>[  332.679659] [82:adbd] sig 18 to [829:sh]
+<7>[  332.679866] [829:sh] sig 1 to [829:sh]
+<7>[  332.679878] [829:sh] sig 18 to [829:sh]
+<7>[  332.679891] [829:sh] sig 17 to [82:adbd]
+<7>[  332.724162] [82:adbd] fork [831:adbd]
+<7>[  332.724946] [831:adbd] set proc[831] name: -> [sh]
+<7>[  332.726503] [831:sh] fork [832:sh]
+<7>[  332.727045] [832:sh] set proc[832] name: -> [getprop]
+<7>[  332.729026] [832:getprop] exit
+<7>[  332.729156] [832:getprop] sig 17 to [831:sh]
+<7>[  332.729247] [831:sh] exit
+<7>[  332.729529] [82:adbd] sig 1 to [831:sh]
+<7>[  332.729543] [82:adbd] sig 18 to [831:sh]
+<7>[  332.729747] [831:sh] sig 1 to [831:sh]
+<7>[  332.729758] [831:sh] sig 18 to [831:sh]
+<7>[  332.729772] [831:sh] sig 17 to [82:adbd]
+<7>[  332.776658] [82:adbd] fork [833:adbd]
+<7>[  332.777437] [833:adbd] set proc[833] name: -> [sh]
+<7>[  332.778973] [833:sh] fork [834:sh]
+<7>[  332.779505] [834:sh] set proc[834] name: -> [dumpsys]
+<6>[  332.785734] binder: 834:834 refcount change on invalid ref 0
+<6>[  332.785747] binder: 834:834 refcount change on invalid ref 0
+<6>[  332.785760] binder: 834:834 binder_context_mgr_node is NULL
+<6>[  332.785771] binder: 834:834 transaction failed 29189, size 96-0
+<7>[  332.786272] [834:dumpsys] exit
+<7>[  332.786620] [834:dumpsys] sig 17 to [833:sh]
+<7>[  332.786706] [833:sh] exit
+<7>[  332.786843] [833:sh] sig 1 to [833:sh]
+<7>[  332.786863] [833:sh] sig 17 to [82:adbd]
+<7>[  332.829288] [82:adbd] fork [835:adbd]
+<7>[  332.830060] [835:adbd] set proc[835] name: -> [sh]
+<7>[  332.831763] [835:sh] fork [836:sh]
+<7>[  332.832296] [836:sh] set proc[836] name: -> [dumpsys]
+<6>[  332.838485] binder: 836:836 refcount change on invalid ref 0
+<6>[  332.838498] binder: 836:836 refcount change on invalid ref 0
+<6>[  332.838511] binder: 836:836 binder_context_mgr_node is NULL
+<6>[  332.838522] binder: 836:836 transaction failed 29189, size 100-0
+<7>[  332.839022] [836:dumpsys] exit
+<7>[  332.839372] [836:dumpsys] sig 17 to [835:sh]
+<7>[  332.839459] [835:sh] exit
+<7>[  332.839593] [835:sh] sig 1 to [835:sh]
+<7>[  332.839614] [835:sh] sig 17 to [82:adbd]
+<7>[  337.571346] [1:init] fork [837:init]
+<7>[  337.571887] [837:init] set proc[837] name: -> [logwrapper]
+<7>[  337.573267] [837:logwrapper] fork [838:logwrapper]
+<7>[  337.573780] [838:logwrapper] exit
+<7>[  337.573902] [838:logwrapper] sig 17 to [837:logwrapper]
+<7>[  337.574076] [837:logwrapper] exit
+<7>[  337.574267] [837:logwrapper] sig 17 to [1:init]
+<7>[  337.686656] [82:adbd] fork [839:adbd]
+<7>[  337.687461] [839:adbd] set proc[839] name: -> [sh]
+<7>[  337.689042] [839:sh] fork [840:sh]
+<7>[  337.689595] [840:sh] set proc[840] name: -> [df]
+<7>[  337.691828] [840:df] exit
+<7>[  337.691966] [840:df] sig 17 to [839:sh]
+<7>[  337.692055] [839:sh] exit
+<7>[  337.692188] [839:sh] sig 1 to [839:sh]
+<7>[  337.692207] [839:sh] sig 17 to [82:adbd]
+<7>[  337.736984] [82:adbd] fork [841:adbd]
+<7>[  337.737756] [841:adbd] set proc[841] name: -> [sh]
+<7>[  337.739319] [841:sh] fork [842:sh]
+<7>[  337.739866] [842:sh] set proc[842] name: -> [getprop]
+<7>[  337.741918] [842:getprop] exit
+<7>[  337.742051] [842:getprop] sig 17 to [841:sh]
+<7>[  337.742143] [841:sh] exit
+<7>[  337.742424] [82:adbd] sig 1 to [841:sh]
+<7>[  337.742438] [82:adbd] sig 18 to [841:sh]
+<7>[  337.742659] [841:sh] sig 1 to [841:sh]
+<7>[  337.742670] [841:sh] sig 18 to [841:sh]
+<7>[  337.742683] [841:sh] sig 17 to [82:adbd]
+<7>[  337.788859] [82:adbd] fork [843:adbd]
+<7>[  337.789636] [843:adbd] set proc[843] name: -> [sh]
+<7>[  337.791245] [843:sh] fork [844:sh]
+<7>[  337.791780] [844:sh] set proc[844] name: -> [dumpsys]
+<6>[  337.797950] binder: 844:844 refcount change on invalid ref 0
+<6>[  337.797962] binder: 844:844 refcount change on invalid ref 0
+<6>[  337.797975] binder: 844:844 binder_context_mgr_node is NULL
+<6>[  337.797986] binder: 844:844 transaction failed 29189, size 96-0
+<7>[  337.798485] [844:dumpsys] exit
+<7>[  337.798830] [844:dumpsys] sig 17 to [843:sh]
+<7>[  337.798917] [843:sh] exit
+<7>[  337.799050] [843:sh] sig 1 to [843:sh]
+<7>[  337.799070] [843:sh] sig 17 to [82:adbd]
+<7>[  337.841858] [82:adbd] fork [845:adbd]
+<7>[  337.842632] [845:adbd] set proc[845] name: -> [sh]
+<7>[  337.844168] [845:sh] fork [846:sh]
+<7>[  337.844705] [846:sh] set proc[846] name: -> [dumpsys]
+<6>[  337.850991] binder: 846:846 refcount change on invalid ref 0
+<6>[  337.851004] binder: 846:846 refcount change on invalid ref 0
+<6>[  337.851017] binder: 846:846 binder_context_mgr_node is NULL
+<6>[  337.851028] binder: 846:846 transaction failed 29189, size 100-0
+<7>[  337.851524] [846:dumpsys] exit
+<7>[  337.851873] [846:dumpsys] sig 17 to [845:sh]
+<7>[  337.851959] [845:sh] exit
+<7>[  337.852093] [845:sh] sig 1 to [845:sh]
+<7>[  337.852113] [845:sh] sig 17 to [82:adbd]
+<5>[  340.531701] [Power/Battery] [FGADC] 1,2337,0,1,3788,47,24,24,1135,1135,-39,0,0,1000,0,3834,1000,75,75,2248,104,103
+<5>[  341.590813] [Power/Battery] [BATTERY] FTM charging : 12
+<7>[  342.579642] [1:init] fork [847:init]
+<7>[  342.580170] [847:init] set proc[847] name: -> [logwrapper]
+<7>[  342.581611] [847:logwrapper] fork [848:logwrapper]
+<7>[  342.582123] [848:logwrapper] exit
+<7>[  342.582270] [848:logwrapper] sig 17 to [847:logwrapper]
+<7>[  342.582433] [847:logwrapper] exit
+<7>[  342.582606] [847:logwrapper] sig 17 to [1:init]
+<7>[  342.691226] [82:adbd] fork [849:adbd]
+<7>[  342.692010] [849:adbd] set proc[849] name: -> [sh]
+<7>[  342.693574] [849:sh] fork [850:sh]
+<7>[  342.694121] [850:sh] set proc[850] name: -> [df]
+<7>[  342.696291] [850:df] exit
+<7>[  342.696426] [850:df] sig 17 to [849:sh]
+<7>[  342.696515] [849:sh] exit
+<7>[  342.696801] [82:adbd] sig 1 to [849:sh]
+<7>[  342.696815] [82:adbd] sig 18 to [849:sh]
+<7>[  342.697022] [849:sh] sig 1 to [849:sh]
+<7>[  342.697034] [849:sh] sig 18 to [849:sh]
+<7>[  342.697048] [849:sh] sig 17 to [82:adbd]
+<7>[  342.740195] [82:adbd] fork [851:adbd]
+<7>[  342.741032] [851:adbd] set proc[851] name: -> [sh]
+<7>[  342.742586] [851:sh] fork [852:sh]
+<7>[  342.743125] [852:sh] set proc[852] name: -> [getprop]
+<7>[  342.745111] [852:getprop] exit
+<7>[  342.745243] [852:getprop] sig 17 to [851:sh]
+<7>[  342.745332] [851:sh] exit
+<7>[  342.745612] [82:adbd] sig 1 to [851:sh]
+<7>[  342.745627] [82:adbd] sig 18 to [851:sh]
+<7>[  342.745827] [851:sh] sig 1 to [851:sh]
+<7>[  342.745861] [851:sh] sig 18 to [851:sh]
+<7>[  342.745875] [851:sh] sig 17 to [82:adbd]
+<7>[  342.792427] [82:adbd] fork [853:adbd]
+<7>[  342.793199] [853:adbd] set proc[853] name: -> [sh]
+<7>[  342.794762] [853:sh] fork [854:sh]
+<7>[  342.795293] [854:sh] set proc[854] name: -> [dumpsys]
+<6>[  342.801528] binder: 854:854 refcount change on invalid ref 0
+<6>[  342.801541] binder: 854:854 refcount change on invalid ref 0
+<6>[  342.801554] binder: 854:854 binder_context_mgr_node is NULL
+<6>[  342.801565] binder: 854:854 transaction failed 29189, size 96-0
+<7>[  342.802068] [854:dumpsys] exit
+<7>[  342.802418] [854:dumpsys] sig 17 to [853:sh]
+<7>[  342.802504] [853:sh] exit
+<7>[  342.802642] [853:sh] sig 1 to [853:sh]
+<7>[  342.802663] [853:sh] sig 17 to [82:adbd]
+<7>[  342.847804] [82:adbd] fork [855:adbd]
+<7>[  342.848587] [855:adbd] set proc[855] name: -> [sh]
+<7>[  342.850134] [855:sh] fork [856:sh]
+<7>[  342.850744] [856:sh] set proc[856] name: -> [dumpsys]
+<6>[  342.856911] binder: 856:856 refcount change on invalid ref 0
+<6>[  342.856924] binder: 856:856 refcount change on invalid ref 0
+<6>[  342.856937] binder: 856:856 binder_context_mgr_node is NULL
+<6>[  342.856948] binder: 856:856 transaction failed 29189, size 100-0
+<7>[  342.857448] [856:dumpsys] exit
+<7>[  342.857798] [856:dumpsys] sig 17 to [855:sh]
+<7>[  342.857885] [855:sh] exit
+<7>[  342.858020] [855:sh] sig 1 to [855:sh]
+<7>[  342.858039] [855:sh] sig 17 to [82:adbd]
+<4>[  343.590316] 2013-03-09 18:06:39.655428 UTC; android time 2013-03-09 18:06:39.655428
+<7>[  347.587995] [1:init] fork [857:init]
+<7>[  347.588530] [857:init] set proc[857] name: -> [logwrapper]
+<7>[  347.589893] [857:logwrapper] fork [858:logwrapper]
+<7>[  347.590457] [858:logwrapper] exit
+<7>[  347.590583] [858:logwrapper] sig 17 to [857:logwrapper]
+<7>[  347.590761] [857:logwrapper] exit
+<7>[  347.590954] [857:logwrapper] sig 17 to [1:init]
+<7>[  347.701280] [82:adbd] fork [859:adbd]
+<7>[  347.702082] [859:adbd] set proc[859] name: -> [sh]
+<7>[  347.703664] [859:sh] fork [860:sh]
+<7>[  347.704209] [860:sh] set proc[860] name: -> [df]
+<7>[  347.706395] [860:df] exit
+<7>[  347.706549] [860:df] sig 17 to [859:sh]
+<7>[  347.706639] [859:sh] exit
+<7>[  347.706949] [82:adbd] sig 1 to [859:sh]
+<7>[  347.706963] [82:adbd] sig 18 to [859:sh]
+<7>[  347.707126] [859:sh] sig 1 to [859:sh]
+<7>[  347.707137] [859:sh] sig 18 to [859:sh]
+<7>[  347.707172] [859:sh] sig 17 to [82:adbd]
+<7>[  347.749996] [82:adbd] fork [861:adbd]
+<7>[  347.750803] [861:adbd] set proc[861] name: -> [sh]
+<7>[  347.752350] [861:sh] fork [862:sh]
+<7>[  347.752892] [862:sh] set proc[862] name: -> [getprop]
+<7>[  347.754882] [862:getprop] exit
+<7>[  347.755014] [862:getprop] sig 17 to [861:sh]
+<7>[  347.755105] [861:sh] exit
+<7>[  347.755382] [82:adbd] sig 1 to [861:sh]
+<7>[  347.755397] [82:adbd] sig 18 to [861:sh]
+<7>[  347.755598] [861:sh] sig 1 to [861:sh]
+<7>[  347.755610] [861:sh] sig 18 to [861:sh]
+<7>[  347.755623] [861:sh] sig 17 to [82:adbd]
+<7>[  347.797738] [82:adbd] fork [863:adbd]
+<7>[  347.798508] [863:adbd] set proc[863] name: -> [sh]
+<7>[  347.800049] [863:sh] fork [864:sh]
+<7>[  347.800643] [864:sh] set proc[864] name: -> [dumpsys]
+<6>[  347.806825] binder: 864:864 refcount change on invalid ref 0
+<6>[  347.806838] binder: 864:864 refcount change on invalid ref 0
+<6>[  347.806851] binder: 864:864 binder_context_mgr_node is NULL
+<6>[  347.806861] binder: 864:864 transaction failed 29189, size 96-0
+<7>[  347.807361] [864:dumpsys] exit
+<7>[  347.807705] [864:dumpsys] sig 17 to [863:sh]
+<7>[  347.807792] [863:sh] exit
+<7>[  347.807928] [863:sh] sig 1 to [863:sh]
+<7>[  347.807948] [863:sh] sig 17 to [82:adbd]
+<7>[  347.847252] [82:adbd] fork [865:adbd]
+<7>[  347.848043] [865:adbd] set proc[865] name: -> [sh]
+<7>[  347.849595] [865:sh] fork [866:sh]
+<7>[  347.850130] [866:sh] set proc[866] name: -> [dumpsys]
+<6>[  347.856409] binder: 866:866 refcount change on invalid ref 0
+<6>[  347.856422] binder: 866:866 refcount change on invalid ref 0
+<6>[  347.856436] binder: 866:866 binder_context_mgr_node is NULL
+<6>[  347.856446] binder: 866:866 transaction failed 29189, size 100-0
+<7>[  347.856945] [866:dumpsys] exit
+<7>[  347.857846] [866:dumpsys] sig 17 to [865:sh]
+<7>[  347.857944] [865:sh] exit
+<7>[  347.858086] [865:sh] sig 1 to [865:sh]
+<7>[  347.858106] [865:sh] sig 17 to [82:adbd]
+<5>[  350.534002] [Power/Battery] [FGADC] 1,2334,0,1,3789,48,24,24,1135,1135,-39,0,0,1000,0,3834,1000,75,75,2245,104,103
+<5>[  351.590806] [Power/Battery] [BATTERY] FTM charging : 12
+<7>[  352.596323] [1:init] fork [867:init]
+<7>[  352.596851] [867:init] set proc[867] name: -> [logwrapper]
+<7>[  352.598201] [867:logwrapper] fork [868:logwrapper]
+<7>[  352.598708] [868:logwrapper] exit
+<7>[  352.598829] [868:logwrapper] sig 17 to [867:logwrapper]
+<7>[  352.599003] [867:logwrapper] exit
+<7>[  352.599194] [867:logwrapper] sig 17 to [1:init]
+<7>[  352.711953] [82:adbd] fork [869:adbd]
+<7>[  352.712757] [869:adbd] set proc[869] name: -> [sh]
+<7>[  352.714329] [869:sh] fork [870:sh]
+<7>[  352.714869] [870:sh] set proc[870] name: -> [df]
+<7>[  352.717054] [870:df] exit
+<7>[  352.717209] [870:df] sig 17 to [869:sh]
+<7>[  352.717298] [869:sh] exit
+<7>[  352.717604] [82:adbd] sig 1 to [869:sh]
+<7>[  352.717619] [82:adbd] sig 18 to [869:sh]
+<7>[  352.717778] [869:sh] sig 1 to [869:sh]
+<7>[  352.717789] [869:sh] sig 18 to [869:sh]
+<7>[  352.717802] [869:sh] sig 17 to [82:adbd]
+<7>[  352.767445] [82:adbd] fork [871:adbd]
+<7>[  352.768222] [871:adbd] set proc[871] name: -> [sh]
+<7>[  352.769774] [871:sh] fork [872:sh]
+<7>[  352.770365] [872:sh] set proc[872] name: -> [getprop]
+<7>[  352.772371] [872:getprop] exit
+<7>[  352.772503] [872:getprop] sig 17 to [871:sh]
+<7>[  352.772592] [871:sh] exit
+<7>[  352.772875] [82:adbd] sig 1 to [871:sh]
+<7>[  352.772890] [82:adbd] sig 18 to [871:sh]
+<7>[  352.773090] [871:sh] sig 1 to [871:sh]
+<7>[  352.773125] [871:sh] sig 18 to [871:sh]
+<7>[  352.773139] [871:sh] sig 17 to [82:adbd]
+<7>[  352.812815] [82:adbd] fork [873:adbd]
+<7>[  352.813585] [873:adbd] set proc[873] name: -> [sh]
+<7>[  352.815129] [873:sh] fork [874:sh]
+<7>[  352.815666] [874:sh] set proc[874] name: -> [dumpsys]
+<6>[  352.821918] binder: 874:874 refcount change on invalid ref 0
+<6>[  352.821930] binder: 874:874 refcount change on invalid ref 0
+<6>[  352.821944] binder: 874:874 binder_context_mgr_node is NULL
+<6>[  352.821954] binder: 874:874 transaction failed 29189, size 96-0
+<7>[  352.822458] [874:dumpsys] exit
+<7>[  352.822804] [874:dumpsys] sig 17 to [873:sh]
+<7>[  352.822894] [873:sh] exit
+<7>[  352.823030] [873:sh] sig 1 to [873:sh]
+<7>[  352.823049] [873:sh] sig 17 to [82:adbd]
+<7>[  352.863573] [82:adbd] fork [875:adbd]
+<7>[  352.864341] [875:adbd] set proc[875] name: -> [sh]
+<7>[  352.865883] [875:sh] fork [876:sh]
+<7>[  352.866418] [876:sh] set proc[876] name: -> [dumpsys]
+<6>[  352.872707] binder: 876:876 refcount change on invalid ref 0
+<6>[  352.872719] binder: 876:876 refcount change on invalid ref 0
+<6>[  352.872732] binder: 876:876 binder_context_mgr_node is NULL
+<6>[  352.872743] binder: 876:876 transaction failed 29189, size 100-0
+<7>[  352.873241] [876:dumpsys] exit
+<7>[  352.873588] [876:dumpsys] sig 17 to [875:sh]
+<7>[  352.873674] [875:sh] exit
+<7>[  352.873810] [875:sh] sig 1 to [875:sh]
+<7>[  352.873829] [875:sh] sig 17 to [82:adbd]
+<6>[  354.040305] yaffs: userdata sync do_checkpoint 0,gc_urgen 0
+<6>[  354.040316] yaffs: userdata yaffs_FlushSuperBlock 0
+<7>[  356.530717] [351:sh] fork [877:sh]
+<5>[  356.531203] [Power/clkmgr] [enable_clock] enable wpll clksrc 0x2 for clock 16
+<5>[  356.532083] [Power/clkmgr] [enable_wpll_clksrc_op] wpll_clksrc_mask=0x2, wpll_clksrc_state=0x4003, WPLL_CON=0x403b
+<7>[  356.536699] [877:sh] set proc[877] name: -> [dmesg]

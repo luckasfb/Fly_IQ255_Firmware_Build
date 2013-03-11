@@ -1,0 +1,1794 @@
+--------- beginning of /dev/log/main
+D/pipe/CamIO(   86): [releasePreviewFrame] portID = 1 
+D/scenario/mHalCam(   86): [mHalCamEISProc] GmvX = 0, GmvY = 171
+D/scenario/mHalCam(   86): [mHalCamPreviewProc] Brocast the preview frame in frameCnt:70 E 
+D/pipe/CamIO(   86): [getPreviewFrame] port id = 1
+D/scenario/mHalCam(   86): [mHalCamPreviewProc]  DISP hwIndex: 0, fillCnt: 1, timeS = 1362850527, timeUs = 40458
+D/pipe/CamIO(   86): [releasePreviewFrame] portID = 1 
+D/scenario/mHalCam(   86): [mHalCamEISProc] GmvX = 0, GmvY = 42
+D/scenario/mHalCam(   86): [mHalCamPreviewProc] Brocast the preview frame in frameCnt:71 E 
+D/pipe/CamIO(   86): [getPreviewFrame] port id = 1
+D/scenario/mHalCam(   86): [mHalCamPreviewProc]  DISP hwIndex: 1, fillCnt: 1, timeS = 1362850527, timeUs = 133391
+D/pipe/CamIO(   86): [releasePreviewFrame] portID = 1 
+D/scenario/mHalCam(   86): [mHalCamEISProc] GmvX = 0, GmvY = 10
+D/scenario/mHalCam(   86): [mHalCamPreviewProc] Brocast the preview frame in frameCnt:72 E 
+D/pipe/CamIO(   86): [getPreviewFrame] port id = 1
+D/scenario/mHalCam(   86): [mHalCamPreviewProc]  DISP hwIndex: 2, fillCnt: 1, timeS = 1362850527, timeUs = 226320
+D/pipe/CamIO(   86): [releasePreviewFrame] portID = 1 
+D/scenario/mHalCam(   86): [mHalCamEISProc] GmvX = 0, GmvY = 2
+D/scenario/mHalCam(   86): [mHalCamPreviewProc] Brocast the preview frame in frameCnt:73 E 
+D/pipe/CamIO(   86): [getPreviewFrame] port id = 1
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/scenario/mHalCam(   86): [mHalCamPreviewProc]  DISP hwIndex: 3, fillCnt: 1, timeS = 1362850527, timeUs = 319297
+D/pipe/CamIO(   86): [releasePreviewFrame] portID = 1 
+D/scenario/mHalCam(   86): [mHalCamEISProc] GmvX = 624, GmvY = 684
+D/scenario/mHalCam(   86): [mHalCamPreviewProc] Brocast the preview frame in frameCnt:74 E 
+D/pipe/CamIO(   86): [getPreviewFrame] port id = 1
+D/scenario/mHalCam(   86): [mHalCamPreviewProc]  DISP hwIndex: 0, fillCnt: 1, timeS = 1362850527, timeUs = 412236
+D/pipe/CamIO(   86): [releasePreviewFrame] portID = 1 
+D/scenario/mHalCam(   86): [mHalCamEISProc] GmvX = 156, GmvY = 171
+D/scenario/mHalCam(   86): [mHalCamPreviewProc] Brocast the preview frame in frameCnt:75 E 
+D/pipe/CamIO(   86): [getPreviewFrame] port id = 1
+D/scenario/mHalCam(   86): [mHalCamPreviewProc]  DISP hwIndex: 1, fillCnt: 1, timeS = 1362850527, timeUs = 505194
+D/pipe/CamIO(   86): [releasePreviewFrame] portID = 1 
+D/scenario/mHalCam(   86): [mHalCamEISProc] GmvX = 975, GmvY = 1182
+D/scenario/mHalCam(   86): [mHalCamPreviewProc] Brocast the preview frame in frameCnt:76 E 
+D/pipe/CamIO(   86): [getPreviewFrame] port id = 1
+D/scenario/mHalCam(   86): [mHalCamPreviewProc]  DISP hwIndex: 2, fillCnt: 1, timeS = 1362850527, timeUs = 598119
+D/scenario/mHalCam(   86): [preview]Current fps: 11 
+D/pipe/CamIO(   86): [releasePreviewFrame] portID = 1 
+D/scenario/mHalCam(   86): [mHalCamEISProc] GmvX = 243, GmvY = 979
+D/scenario/mHalCam(   86): [mHalCamPreviewProc] Brocast the preview frame in frameCnt:77 E 
+D/pipe/CamIO(   86): [getPreviewFrame] port id = 1
+D/scenario/mHalCam(   86): [mHalCamPreviewProc]  DISP hwIndex: 3, fillCnt: 1, timeS = 1362850527, timeUs = 691071
+D/pipe/CamIO(   86): [releasePreviewFrame] portID = 1 
+D/scenario/mHalCam(   86): [mHalCamEISProc] GmvX = 1308, GmvY = 244
+D/scenario/mHalCam(   86): [mHalCamPreviewProc] Brocast the preview frame in frameCnt:78 E 
+D/pipe/CamIO(   86): [getPreviewFrame] port id = 1
+D/scenario/mHalCam(   86): [mHalCamPreviewProc]  DISP hwIndex: 0, fillCnt: 1, timeS = 1362850527, timeUs = 784019
+D/pipe/CamIO(   86): [releasePreviewFrame] portID = 1 
+D/scenario/mHalCam(   86): [mHalCamEISProc] GmvX = 327, GmvY = 61
+D/scenario/mHalCam(   86): [mHalCamPreviewProc] Brocast the preview frame in frameCnt:79 E 
+D/pipe/CamIO(   86): [getPreviewFrame] port id = 1
+D/scenario/mHalCam(   86): [mHalCamPreviewProc]  DISP hwIndex: 1, fillCnt: 1, timeS = 1362850527, timeUs = 876994
+D/pipe/CamIO(   86): [releasePreviewFrame] portID = 1 
+D/scenario/mHalCam(   86): [mHalCamEISProc] GmvX = 81, GmvY = 15
+D/scenario/mHalCam(   86): [mHalCamPreviewProc] Brocast the preview frame in frameCnt:80 E 
+D/pipe/CamIO(   86): [getPreviewFrame] port id = 1
+D/scenario/mHalCam(   86): [mHalCamPreviewProc]  DISP hwIndex: 2, fillCnt: 1, timeS = 1362850527, timeUs = 969906
+D/pipe/CamIO(   86): [releasePreviewFrame] portID = 1 
+D/scenario/mHalCam(   86): [mHalCamEISProc] GmvX = 20, GmvY = 3
+D/scenario/mHalCam(   86): [mHalCamPreviewProc] Brocast the preview frame in frameCnt:81 E 
+D/pipe/CamIO(   86): [getPreviewFrame] port id = 1
+D/scenario/mHalCam(   86): [mHalCamPreviewProc]  DISP hwIndex: 3, fillCnt: 1, timeS = 1362850528, timeUs = 62904
+D/pipe/CamIO(   86): [releasePreviewFrame] portID = 1 
+D/scenario/mHalCam(   86): [mHalCamEISProc] GmvX = 5, GmvY = 0
+D/scenario/mHalCam(   86): [mHalCamPreviewProc] Brocast the preview frame in frameCnt:82 E 
+D/pipe/CamIO(   86): [getPreviewFrame] port id = 1
+D/scenario/mHalCam(   86): [mHalCamPreviewProc]  DISP hwIndex: 0, fillCnt: 1, timeS = 1362850528, timeUs = 155809
+D/pipe/CamIO(   86): [releasePreviewFrame] portID = 1 
+D/scenario/mHalCam(   86): [mHalCamEISProc] GmvX = 1, GmvY = 0
+D/scenario/mHalCam(   86): [mHalCamPreviewProc] Brocast the preview frame in frameCnt:83 E 
+D/pipe/CamIO(   86): [getPreviewFrame] port id = 1
+D/scenario/mHalCam(   86): [mHalCamPreviewProc]  DISP hwIndex: 1, fillCnt: 1, timeS = 1362850528, timeUs = 248743
+D/pipe/CamIO(   86): [releasePreviewFrame] portID = 1 
+D/scenario/mHalCam(   86): [mHalCamEISProc] GmvX = 0, GmvY = 0
+D/scenario/mHalCam(   86): [mHalCamPreviewProc] Brocast the preview frame in frameCnt:84 E 
+D/pipe/CamIO(   86): [getPreviewFrame] port id = 1
+D/scenario/mHalCam(   86): [mHalCamPreviewProc]  DISP hwIndex: 2, fillCnt: 1, timeS = 1362850528, timeUs = 341673
+D/pipe/CamIO(   86): [releasePreviewFrame] portID = 1 
+D/scenario/mHalCam(   86): [mHalCamEISProc] GmvX = 0, GmvY = 0
+D/scenario/mHalCam(   86): [mHalCamPreviewProc] Brocast the preview frame in frameCnt:85 E 
+D/pipe/CamIO(   86): [getPreviewFrame] port id = 1
+D/scenario/mHalCam(   86): [mHalCamPreviewProc]  DISP hwIndex: 3, fillCnt: 1, timeS = 1362850528, timeUs = 434636
+D/pipe/CamIO(   86): [releasePreviewFrame] portID = 1 
+D/scenario/mHalCam(   86): [mHalCamEISProc] GmvX = 0, GmvY = 0
+D/scenario/mHalCam(   86): [mHalCamPreviewProc] Brocast the preview frame in frameCnt:86 E 
+D/pipe/CamIO(   86): [getPreviewFrame] port id = 1
+D/scenario/mHalCam(   86): [mHalCamPreviewProc]  DISP hwIndex: 0, fillCnt: 1, timeS = 1362850528, timeUs = 527583
+D/pipe/CamIO(   86): [releasePreviewFrame] portID = 1 
+D/scenario/mHalCam(   86): [mHalCamEISProc] GmvX = 0, GmvY = 0
+D/scenario/mHalCam(   86): [mHalCamPreviewProc] Brocast the preview frame in frameCnt:87 E 
+D/pipe/CamIO(   86): [getPreviewFrame] port id = 1
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/scenario/mHalCam(   86): [mHalCamPreviewProc]  DISP hwIndex: 1, fillCnt: 1, timeS = 1362850528, timeUs = 620525
+D/scenario/mHalCam(   86): [preview]Current fps: 11 
+D/pipe/CamIO(   86): [releasePreviewFrame] portID = 1 
+D/scenario/mHalCam(   86): [mHalCamEISProc] GmvX = 0, GmvY = 0
+D/scenario/mHalCam(   86): [mHalCamPreviewProc] Brocast the preview frame in frameCnt:88 E 
+D/pipe/CamIO(   86): [getPreviewFrame] port id = 1
+D/scenario/mHalCam(   86): [mHalCamPreviewProc]  DISP hwIndex: 2, fillCnt: 1, timeS = 1362850528, timeUs = 713469
+D/pipe/CamIO(   86): [releasePreviewFrame] portID = 1 
+D/scenario/mHalCam(   86): [mHalCamEISProc] GmvX = 0, GmvY = 0
+D/scenario/mHalCam(   86): [mHalCamPreviewProc] Brocast the preview frame in frameCnt:89 E 
+D/pipe/CamIO(   86): [getPreviewFrame] port id = 1
+D/scenario/mHalCam(   86): [mHalCamPreviewProc]  DISP hwIndex: 3, fillCnt: 1, timeS = 1362850528, timeUs = 806414
+D/pipe/CamIO(   86): [releasePreviewFrame] portID = 1 
+D/scenario/mHalCam(   86): [mHalCamEISProc] GmvX = 0, GmvY = 0
+D/scenario/mHalCam(   86): [mHalCamPreviewProc] Brocast the preview frame in frameCnt:90 E 
+D/pipe/CamIO(   86): [getPreviewFrame] port id = 1
+D/FTM     (   86): Key_Confirm Click - Back
+D/FTM     (   86): camera_cap_key_handler: Exit thead
+D/FTM     (   86): camera_update_capture_tv_thread: Exit
+D/FTM     (   86): Stop Camera Preview 
+D/ACDK_IF (   86): [MDK_IOControl] Reveive IOControl Code:2001
+D/APPCCTCtrl(   86): stopPreview 
+D/scenario/mHalCam(   86): [mHalCamPreviewStop] Start 
+D/scenario/mHalCam(   86): [mHalCamSetState] Now: 0x0100, Next: 0x0400 
+D/scenario/mHalCam(   86): [mHalCamPreviewProc]  DISP hwIndex: 0, fillCnt: 1, timeS = 1362850528, timeUs = 899354
+D/pipe/CamIO(   86): [releasePreviewFrame] portID = 1 
+D/scenario/mHalCam(   86): [mHalCamEISProc] GmvX = 0, GmvY = 0
+D/scenario/mHalCam(   86): [mHalCamPreviewProc] Brocast the preview frame in frameCnt:91 E 
+D/scenario/mHalCam(   86): [mHalCamPreviewProc]  exit while 
+D/scenario/mHalCam(   86): [mHalCamPreviewProc] End 
+D/scenario/mHalCam(   86): [mHalCamPrvIndicatorThread] exit (pid, tid) = (86, 2342)
+D/scenario/mHalCam(   86): [mHalCamPreviewStop] Got semMainNormalBack B 0 
+D/pipe/CamIO(   86): [stop], mCurPipeEngine = 0x3 
+D/IspHal  (   86): [stop]
+D/IspDrv  (   86): [setSubsampleWidth]Enable(0), Input(0), Output(0)
+D/IspDrv  (   86): [setSubsampleHeight]Enable(0), Input(0), Output(0)
+D/IspDrv  (   86): [control]isEn(0)
+I/MDP     (   86): [MDP INFO](86): [stop]
+D/pipe/CamIO(   86): [~mHalCamMemPool] poolName = MDPWorkBuf , phyAddr = 0x0, virtAddr = 0x416e0020, size = 758784, PmemFD = -1
+D/mHalFlashlight(   86): [mHalFlashlightSetFire]:0 
+D/FlashlightDrv(   86): [FlashlightDrv] setFire = 0
+D/scenario/mHalCam(   86): [mHalCamStop, 0 time] =====> 0 ms 
+D/pipe/CamIO(   86): [setCallbacks] cb:0x0, cookie:0x0
+D/        (   86): [EISapp]Disable EIS
+D/        (   86): [EISdrv][enableEIS] 0
+D/mHalFDVT(   86): [halFDUninit] IN 
+D/mHalFDVT(   86): [stop] free M4U ISP read port memory 
+D/mHalFDVT(   86): [freeM4UMemory] E 
+D/mHalFDVT(   86): [freeM4UMemory] m4uVa = 0x41694020, size = 153600 
+D/OvlHal  (   86): OverlayHal::uninit()
+D/scenario/mHalCam(   86): [~mHalCamMemPool] poolName = FDWorkBuf , phyAddr = 0x0, virtAddr = 0x41694020, size = 307200, PmemFD = -1
+D/scenario/mHalCam(   86): [mHalCamSetState] Now: 0x0400, Next: 0x0001 
+D/scenario/mHalCam(   86): [mHalSetResMgr]Mode=1, ModeSub=0, Dev=1
+D/ResMgrHal(   86): [SetMode]Mode(1), ModeSub(0), Dev(1)
+D/ResMgrDrv(   86): [SetBWC]Mode(1)
+D/ResMgrDrv(   86): [SetSysramSwitchbank]En(0)
+D/ResMgrDrv(   86): [CloseTvout]En(1)
+W/ResMgrDrv(   86): [CloseTvout]Warning(  380):TvOut kernel open fail, errno(2):No such file or directory
+D/ResMgrDrv(   86): [ForceHdmiFullscreen]En(1)
+W/ResMgrDrv(   86): [ForceHdmiFullscreen]Warning(  517):Hdmi Tx kernel open fail, errno(2):No such file or directory
+D/ResMgrHal(   86): [LockMdpBrz]BRZ has been locked
+D/ResMgrHal(   86): [SetMode]Result(1)
+D/scenario/mHalCam(   86): [mHalCamPreviewStop] mPrvIndicatorThread back 
+D/scenario/mHalCam(   86): [mHalCamPreviewStop, 0 time] =====> 94 ms 
+D/ACDK_IF (   86): [MDK_IOControl] Reveive IOControl Code:1002
+D/mHalSurfaceView(   86): [vResetLayer] MTKFB_SET_VIDEO_LAYERS, layerNo = 0
+D/mHalSurfaceView(   86): [vResetLayer] MTKFB_TRIG_OVERLAY_OUT
+D/FTM     (   86): [MIUI] itemview_run 0xc2778
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY:CONFIRM
+D/APPCCTCtrl(   86): [uninit] - E
+D/scenario/mHalCam(   86): [mHalCamUninit] 
+D/scenario/mHalCam(   86): [mHalCamSetState] Now: 0x0001, Next: 0x0800 
+D/scenario/mHalCam(   86): Got semMainHigh 
+D/scenario/mHalCam(   86): [mHalCamMainHighThread] End 
+D/scenario/mHalCam(   86): Got semMainNormal 0 
+D/scenario/mHalCam(   86): [mHalCamMainNormalThread] End 
+D/scenario/mHalCam(   86): wait for semMainHighEnd & semMainNormalEnd
+D/IspHal  (   86): [uninit]mUsers(1)
+D/LensDrv (   86): LensDrvuninit() [m_userCnt]0
+D/ImgSensorDrv(   86): MATV WORKAROUND - power off
+D/ImgSensorDrv(   86): [psFlag]:0
+D/ImgSensorDrv(   86): [uninit] mUsers = 1
+D/IspDrv  (   86): [uninit]mUsers(1)
+D/aaa_hal_yuv(   86):  [Hal3AYuv] destroyInstance  0x8108315c
+D/AppFDVT (   86): [stop] free M4U fdvt mWorkingBuffer memory memory 
+D/AppFDVT (   86): [freeM4UMemory] E 
+D/AppFDVT (   86): [freeM4UMemory] m4uVa = 0x402d4020, size = 464448 
+D/AppFDVT (   86): [stop] free M4U fdvt mLearningData memory 
+D/AppFDVT (   86): [freeM4UMemory] E 
+D/AppFDVT (   86): [freeM4UMemory] m4uVa = 0x40346020, size = 95456 
+D/        (   86): [EIShal]uninit - mUsers: 1 
+D/        (   86): [EISdrv]uninit - mUsers: 2 
+D/        (   86): [EISdrv]Still 1 users 
+D/        (   86): [EIShal][sysram free] eUsr=2
+D/IspSysramMgr(   86): [syncSysramKDrv]:(err, m_u4RefCount, m_u4UsrMask, m_fdSysramKDrv, m_pu8VirBase)=(0x00000000, 0, 0x00000000, -1, 0x0)
+D/        (   86): [EISapp]uninit
+D/        (   86): [EISdrv]uninit - mUsers: 1 
+D/mHalFlashlight(   86): [mHalFlashlightSetFire]:0 
+D/FlashlightDrv(   86): [FlashlightDrv] setFire = 0
+D/mHalFlashlight(   86): [mHalFlashlightUninit] 
+D/FlashlightDrv(   86): [uninit] mUsers = 1
+D/pipe/CamIO(   86): [uninit] E 
+D/ResMgrHal(   86): [Uninit]mInitCount(2)
+D/scenario/mHalCam(   86): [mHalSetResMgr]Mode=0, ModeSub=0, Dev=1
+D/ResMgrHal(   86): [SetMode]Mode(0), ModeSub(0), Dev(1)
+D/ResMgrDrv(   86): [SetBWC]Mode(0)
+D/ResMgrDrv(   86): [SetSysramSwitchbank]En(1)
+D/ResMgrDrv(   86): [CloseTvout]En(0)
+W/ResMgrDrv(   86): [CloseTvout]Warning(  380):TvOut kernel open fail, errno(2):No such file or directory
+D/ResMgrDrv(   86): [ForceHdmiFullscreen]En(0)
+W/ResMgrDrv(   86): [ForceHdmiFullscreen]Warning(  517):Hdmi Tx kernel open fail, errno(2):No such file or directory
+D/ResMgrHal(   86): [LockMdpBrz]BRZ unlocked OK
+D/ResMgrHal(   86): [SetMode]Result(1)
+D/ResMgrHal(   86): [Uninit]mInitCount(1)
+D/ResMgrHal(   86): [Uninit]unlock ISP
+D/ResMgrDrv(   86): [UnlockRes]Unlock OK, ModeMask(0x00000001)
+D/APPCCTCtrl(   86): [uninit] unregisterBuffer addr = 0x4155f020
+D/APPCCTCtrl(   86): [uninit] unregisterBuffer addr = 0x4159cc20
+D/APPCCTCtrl(   86): [uninit] unregisterBuffer addr = 0x415da820
+D/APPCCTCtrl(   86): [uninit] unregisterBuffer addr = 0x41618420
+E/logwrapper( 2364): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 2363): /system/bin/ami304d terminated by exit(255)
+D/APPCCTCtrl(   86): [uninit] unregisterBuffer addr = 0x41656020
+D/mHalSurfaceView(   86): [uninit] E
+D/APPCCTCtrl(   86): [uninit] - mImageBuf E
+D/APPCCTCtrl(   86): [uninit] - mSurfaceBuf E
+D/APPCCTCtrl(   86): [uninit] - X 
+D/AcdkCalibration(   86):  unInit AcdkCalibration Tool
+D/APPCCTCtrl(   86): [~AppCCTCtrl] - E 
+D/mHalSurfaceView(   86): ~mHalSurfaceView() E 
+D/CCTIF   (   86): [~CCTIF] E
+D/scenario/mHalCam(   86): [mHalCamFreeZSDMem], non buffer released 
+D/AcdkCalibration(   86):  AcdkCalibration Disconstructor
+D/AcdkImgTool(   86):  AcdkImgTool Deconstructor 
+D/FTM     (   86): [MAIN] Save test result to 
+D/FTM     (   86): [MAIN]   Version=1
+D/FTM     (   86): [MAIN]   Keys=1
+D/FTM     (   86): [MAIN]   Touch Panel=0
+D/FTM     (   86): [MAIN]   LCD Color=1
+D/FTM     (   86): [MAIN]   LCD Contrast=1
+D/FTM     (   86): [MAIN]   Memory Card=1
+D/FTM     (   86): [MAIN]   SIM1 Detect=1
+D/FTM     (   86): [MAIN]   SIM2 Detect=1
+D/FTM     (   86): [MAIN]   Vibrator=1
+D/FTM     (   86): [MAIN]   LED=1
+D/FTM     (   86): [MAIN]   Speaker Test=1
+D/FTM     (   86): [MAIN]   Receiver=1
+D/FTM     (   86): [MAIN]   Loopback=1
+D/FTM     (   86): [MAIN]   Headset=1
+D/FTM     (   86): [MAIN]   G-Sensor Calibration=1
+D/FTM     (   86): [MAIN]   G-Sensor=1
+D/FTM     (   86): [MAIN]   ALS/PS=1
+D/FTM     (   86): [MAIN]   Main Camera=1
+D/FTM     (   86): [MAIN]   Sub Camera=1
+D/FTM     (   86): [MAIN]   GPS-Power=1
+D/FTM     (   86): [MAIN]   FM Radio=1
+D/FTM     (   86): [MAIN]   Bluetooth=1
+D/FTM     (   86): [MAIN]   Wi-Fi=1
+D/FTM     (   86): [MAIN]   Battery & Charger=1
+D/FTM     (   86): [MAIN]   Idle Current=1
+D/FTM     (   86): [MIUI] itemview_run 0xbe815c24
+E/IPCThreadState( 2371): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 2373): IPCThread::waitForResponse checking error 3 : -32
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY:DOWN
+D/FTM     (   86): [MIUI] sel=18, maxrows=24, menu_from=1, menu_sel=18
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY:CONFIRM
+D/FTM     (   86): camera_entry
+D/FTM     (   86): [MIUI] itemview_set_title
+D/FTM     (   86): Open ACDK 
+D/AcdkCCTCtrl(   86): [AcdkCCTCtrl] createInstance 
+D/APPCCTCtrl(   86): [AppCCTCtrl] - E 
+D/AcdkSurfaceView(   86): [AcdkSurfaceView] createInstance 
+D/mHalSurfaceView(   86): [mHalSurfaceView] E 
+D/mHalSurfaceView(   86): [mHalSurfaceView] total layer cnt = 5
+D/CCTIF   (   86): [CCTIF] E
+D/ImgSensorDrv(   86): [ImgSensorDrv] getInstance 
+D/IspDrv  (   86): [getInstance]
+D/AcdkCalibration(   86):  AcdkCalibration Constructor
+D/AcdkImgTool(   86):  AcdkImgTool Constructor
+D/FTM     (   86): Set main/sub sensor for isp object in AppCamCtrl::mrInitCamCtrl():1 
+D/FTM     (   86): Set main/sub sensor for sensorInit() in IspHal::init():1 
+D/ACDK_IF (   86): [MDK_IOControl] Reveive IOControl Code:1003
+D/APPCCTCtrl(   86): [setSrcDev] - E 
+D/APPCCTCtrl(   86): [setSrcDev], new 1, old: 0 
+D/FTM     (   86): Init ACDK 
+D/APPCCTCtrl(   86): [init] - E 
+D/mHalSurfaceView(   86): [init] - E 
+D/mHalSurfaceView(   86): [init] - Check the boot mode 
+D/mHalSurfaceView(   86): Boot Mode = 0
+D/mHalSurfaceView(   86): mVinfo.xres = 320
+D/mHalSurfaceView(   86): mVinfo.yres = 480
+D/mHalSurfaceView(   86): mVinfo.xresv = 320
+D/mHalSurfaceView(   86): mVinfo.yresv = 960
+D/mHalSurfaceView(   86): mVinfo.xoff = 0
+D/mHalSurfaceView(   86): mVinfo.yoff = 480
+D/mHalSurfaceView(   86): mVinfo.bits_per_pixel = 16
+D/mHalSurfaceView(   86): orientation = 0
+D/APPCCTCtrl(   86): [init] [HAL_getNumberOfCameras] 
+D/scenario/mHalCam(   86): [searchCamera] 
+D/ResMgrHal(   86): [Init]mInitCount(0)
+D/ResMgrDrv(   86): [LockRes]Lock OK, ModeMask(0x00000001), Timeount(10000)
+D/ResMgrHal(   86): [Init]lock ISP OK
+D/IspHal  (   86): [getInstance]
+D/IspHal  (   86): [searchSensor]
+D/IspDrv  (   86): [getInstance]
+D/IspDrv  (   86): [init]mUsers(0)
+D/IspDrv  (   86): [setTgPhaseCounter]pcEn(1), mclkSel(1), clkCnt(5), clkPol(1), clkFallEdge(0), clkRiseEdge(0), isPadPClkInv(0)
+D/ImgSensorDrv(   86): [ImgSensorDrv] getInstance 
+D/ImgSensorDrv(   86): [impSearchSensor] Already processed 
+D/IspDrv  (   86): [uninit]mUsers(1)
+D/scenario/mHalCam(   86):   supportedSensorDevs: 0x3 
+D/ResMgrHal(   86): [Uninit]mInitCount(1)
+D/ResMgrHal(   86): [Uninit]unlock ISP
+D/ResMgrDrv(   86): [UnlockRes]Unlock OK, ModeMask(0x00000001)
+D/scenario/mHalCam(   86): [[searchCamera], 0 time] =====> 1 ms 
+D/APPCCTCtrl(   86): [init] sensor num = 2
+D/APPCCTCtrl(   86): [init] orientation = 0, mSensorOrientation = 270
+D/APPCCTCtrl(   86): [init] prvStartX = 8, prvStartY = 32
+D/APPCCTCtrl(   86): [init] prvWidth = 416, prvHeight = 304
+D/APPCCTCtrl(   86): [init] mOrientation = 90
+D/scenario/mHalCam(   86): [mHalCamInit] 
+D/scenario/mHalCam(   86):   cameraId: 1, 2 
+D/ResMgrHal(   86): [Init]mInitCount(0)
+D/ResMgrDrv(   86): [LockRes]Lock OK, ModeMask(0x00000001), Timeount(10000)
+D/ResMgrHal(   86): [Init]lock ISP OK
+D/scenario/mHalCam(   86): [mHalSetResMgr]Mode=1, ModeSub=0, Dev=1
+D/ResMgrHal(   86): [SetMode]Mode(1), ModeSub(0), Dev(1)
+D/ResMgrDrv(   86): [SetBWC]Mode(1)
+D/ResMgrDrv(   86): [SetSysramSwitchbank]En(0)
+D/ResMgrDrv(   86): [CloseTvout]En(1)
+W/ResMgrDrv(   86): [CloseTvout]Warning(  380):TvOut kernel open fail, errno(2):No such file or directory
+D/ResMgrDrv(   86): [ForceHdmiFullscreen]En(1)
+W/ResMgrDrv(   86): [ForceHdmiFullscreen]Warning(  517):Hdmi Tx kernel open fail, errno(2):No such file or directory
+D/ResMgrHal(   86): [LockMdpBrz]BRZ locked OK
+D/ResMgrHal(   86): [SetMode]Result(1)
+D/mHalFlashlight(   86): [halFLASHLIGHT] getInstance 
+D/mHalFlashlight(   86): [mHalFlashlightInit] 
+D/FlashlightDrv(   86): [init] mUsers = 0
+D/FlashlightDrv(   86): [init] sensorDev = 2
+D/IspHal  (   86): [getInstance]
+D/IspHal  (   86): [sendCommand]Sensor Dev(2)
+D/IspHal  (   86): [init]mUsers(0)
+D/IspDrv  (   86): [getInstance]
+D/IspDrv  (   86): [init]mUsers(0)
+D/ImgSensorDrv(   86): [ImgSensorDrv] getInstance 
+D/IspHal  (   86): [initSensor]
+D/ImgSensorDrv(   86): [init] mUsers = 0
+D/ImgSensorDrv(   86): [init]: 20002
+D/IspHal  (   86): [initSensor]Sensor resolution, Preview: W(624), H(458), Full: W(630), H(460)
+D/IspHal  (   86): [getSensorInfo]mode(1)
+D/IspHal  (   86): [setTgPhase]clk(26)
+D/IspHal  (   86): [setTgPhase]mclk(104000), clkCnt(4)
+D/IspHal  (   86): [setTgPhase]u4PadPclkInv(0)
+D/IspDrv  (   86): [setTgPhaseCounter]pcEn(1), mclkSel(2), clkCnt(4), clkPol(0), clkFallEdge(2), clkRiseEdge(0), isPadPClkInv(0)
+D/IspHal  (   86): [setCSI2Config]Disable
+D/ImgSensorDrv(   86): MATV WORKAROUND - power up init
+D/ImgSensorDrv(   86): [psFlag]:1
+D/LensMCU (   86): LensMCUlensSearch() - E 
+D/LensMCU (   86): LensMCU[CurrSensorDev]0x0001
+D/LensMCU (   86): LensMCU[LensInitTable-0][SensorId]0xffff,[LensId]0xffff
+D/LensMCU (   86): LensMCU[LensInitTable-1][SensorId]0x0000,[LensId]0x0000
+D/LensMCU (   86): LensMCU[LensInitTable-2][SensorId]0x0000,[LensId]0x0000
+D/LensMCU (   86): LensMCU[LensInitTable-3][SensorId]0x0000,[LensId]0x0000
+D/LensMCU (   86): LensMCU[CurrLensIdx]0
+D/LensDrv (   86): LensDrvinit() [m_userCnt]0
+D/LensDrv (   86): LensDrv
+D/LensDrv (   86): [Lens Driver]/dev/Dummy
+D/IspDrv  (   86): [getInstance]
+D/NSIspTuning::ParamctrlComm(   86): [+validateFrameless]
+D/NSIspTuning::ispmgr(   86): [-setDisable][ISP_MGR_NR2_T]
+D/NSIspTuning::ispmgr(   86): [-setDisable][ISP_MGR_EDGE_T]
+D/NSIspTuning::ispmgr(   86): [-setDisable][ISP_MGR_EE_T]
+D/NSIspTuning::ispmgr(   86): [-setDisable][ISP_MGR_YCCGO_T]
+D/NSIspTuning::ispmgr(   86): [-setDisable][ISP_MGR_PCA_T]
+D/NSIspTuning::ParamctrlComm(   86): [-validateFrameless]err(0)
+D/NSIspTuning(   86): [-ParamctrlComm::init]err(0)
+D/aaa_hal_yuv(   86):  [Hal3AYuv] getInstance 
+D/aaa_hal_yuv(   86):  [Hal3AYuv] setConf,sensorDev = 0x2 
+D/ImgSensorDrv(   86): [ImgSensorDrv] getInstance 
+D/FlashlightDrv(   86): [getFlashlightType] m_flashType=0
+D/aaa_hal_yuv(   86):  [YUVAAA_hal][currLensId] 65535
+D/aaa_hal_yuv(   86):  m_bIsdummylens = 1
+D/        (   86): [EIShal]getInstance 
+D/        (   86): [EIShal]init - mUsers: 0 
+D/        (   86): [EISdrv]getInstance 
+D/        (   86): [EISdrv]init - mUsers: 0 
+D/IspSysramMgr(   86): [syncSysramKDrv]:(err, m_u4RefCount, m_u4UsrMask, m_fdSysramKDrv, m_pu8VirBase)=(0x00000000, 1, 0x00000000, 36, 0x40294000)
+D/IspSysramMgr(   86): [syncSysramKDrv]:(err, m_u4RefCount, m_u4UsrMask, m_fdSysramKDrv, m_pu8VirBase)=(0x00000000, 1, 0x00000004, 36, 0x40294000)
+D/        (   86): [EIShal][sysram alloc] (eUsr, u4BytesToAlloc, rPA, rVA)=(2, 0x000000B8, 0xc2018000, 0x402ac000)
+D/        (   86): [EISdrv][set EIS statistic base address] PA c2018000, VA 402ac000
+D/        (   86): [EISapp]getInstance 
+D/        (   86): [EISapp]init
+D/        (   86): [EISdrv]getInstance 
+D/        (   86): [EISdrv]init - mUsers: 1 
+D/        (   86): [EISdrv]1 has inited 
+D/mHalFDVT(   86): [halFDVT] getInstance 
+D/AppFDVT (   86): [halFDVT] getInstance 
+D/AppFDVT (   86): [allocM4UMemory] virtAddr = 0x402d4020, size = 464448 
+D/AppFDVT (   86): [allocM4UMemory] m4uVa = 0x200020 
+D/AppFDVT (   86): InitialDRAM hw_fd_result_datapa 0x200020 hw_tc_result_datapa 0x201020 rs_config_datapa 0x203020 fd_config_datapa 0x203420
+D/AppFDVT (   86): InitialDRAM hw_fd_result_datava 0x402d4020 hw_tc_result_datava 0x402d5020 rs_config_datava 0x402d7020 fd_config_datava 0x402d7420
+I//system/bin/factory(   80): No Customer Sensor Init File Exist 
+D/AppFDVT (   86): [allocM4UMemory] virtAddr = 0x40346020, size = 95456 
+D/AppFDVT (   86): [allocM4UMemory] m4uVa = 0x280020 
+D/AppFDVT (   86): InitialDRAM learning_data0ph 0x280020 learning_data1ph 0x282050 learning_data2ph 0x283d60 learning_data3ph 0x285e90 learning_data4ph 0x2888a0 learning_data5ph 0x28b3b0 learning_data6ph 0x28f2c0 learning_data7ph 0x292ed0
+D/AppFDVT (   86): InitialDRAM learning_data0va 0x40346020 learning_data1va 0x40348050 learning_data2va 0x40349d60 learning_data3va 0x4034be90 learning_data4va 0x4034e8a0 learning_data5va 0x403513b0 learning_data6va 0x403552c0 learning_data7va 0x40358ed0
+D/pipe/CamIO(   86): [init] E 
+D/ResMgrHal(   86): [Init]mInitCount(1)
+I/MDP     (   86): [MDP INFO](86): [MdpHalImp] getInstance 
+D/scenario/mHalCam(   86): [mHalCamMainHighThread] tid: 2374 
+D/scenario/mHalCam(   86): [mHalCamSetState] Now: 0x0000, Next: 0x0001 
+D/IspHal  (   86): [sendCommand]ISP_HAL_CMD_SET_OPERATION_MODE(2)
+D/NSIspTuning::ParamctrlComm_attributes(   86): [+setOperMode](old, new)=(0, 2)
+D/APPCCTCtrl(   86): [init] - Use M4U Driver, using virtual memory
+D/APPCCTCtrl(   86): mImageBuf virtAddr = 0x4055e020, phy Addr = 0x4055e020 
+D/APPCCTCtrl(   86): mSurfaceBuf virtAddr = 0x4155f020, phy Addr = 0x4155f020 
+D/scenario/mHalCam(   86): [mHalCamMainNormalThread] tid: 2375 
+D/APPCCTCtrl(   86): [init] registerBuffer addr = 0x4155f020, size = 252928
+D/APPCCTCtrl(   86): [init] registerBuffer addr = 0x4159cc20, size = 252928
+D/APPCCTCtrl(   86): [init] registerBuffer addr = 0x415da820, size = 252928
+D/APPCCTCtrl(   86): [init] registerBuffer addr = 0x41618420, size = 252928
+D/APPCCTCtrl(   86): [init] registerBuffer addr = 0x41656020, size = 252928
+D/IspDrv  (   86): [getInstance]
+D/ImgSensorDrv(   86): [ImgSensorDrv] getInstance 
+D/NvramDrv(   86): NvramDrv [readNvram] sensor type = 2; NVRAM data type = 0
+D/NvramDrv(   86): NvramDrv [readNvramData] sensor type = 2; NVRAM data type = 0
+D/NVRAM   (   86): NVM_GetFileDesc ++
+D/NVRAM   (   86): NVM_GetCfgFileTable : file_lid = 3
+D/NVRAM   (   86): NVM_GetCfgFileTable done
+D/NVRAM   (   86): Open /data/nvram/APCFG/APRDCL/CAMERA_Para,LID:3
+D/NVRAM   (   86): NVM_CmpFileVerNo 3  
+D/NVRAM   (   86): NVM_GetCfgFileTable : file_lid = 3
+D/NVRAM   (   86): NVM_CheckVerFile: 0
+D/NVRAM   (   86): New version info file
+D/NVRAM   (   86): Load File Version: 000, NvRam File Version: 000
+D/NVRAM   (   86): NVM_GetFileDesc --
+D/NvramDrv(   86): NvramDrv [checkDataVersion]
+D/NvramDrv(   86): NvramDrv [ISP] NVRAM data version = 0; F/W data version = 1
+D/NvramDrv(   86): NvramDrv [readDefaultData] sensor ID = 150; NVRAM data type = 0
+D/NvramDrv(   86): NvramDrv [readNvram] sensor type = 2; NVRAM data type = 2
+D/NvramDrv(   86): NvramDrv [readNvramData] sensor type = 2; NVRAM data type = 2
+D/NVRAM   (   86): NVM_GetFileDesc ++
+D/NVRAM   (   86): NVM_GetCfgFileTable : file_lid = 5
+D/NVRAM   (   86): NVM_GetCfgFileTable done
+D/NVRAM   (   86): Open /data/nvram/APCFG/APRDCL/CAMERA_SHADING,LID:5
+D/NVRAM   (   86): NVM_CmpFileVerNo 5  
+D/NVRAM   (   86): NVM_GetCfgFileTable : file_lid = 5
+D/NVRAM   (   86): NVM_CheckVerFile: 0
+D/NVRAM   (   86): New version info file
+D/NVRAM   (   86): Load File Version: 000, NvRam File Version: 000
+D/NVRAM   (   86): NVM_GetFileDesc --
+D/NvramDrv(   86): NvramDrv [checkDataVersion]
+D/NvramDrv(   86): NvramDrv [Shading] NVRAM data version = 0; F/W data version = 1
+D/NvramDrv(   86): NvramDrv [readDefaultData] sensor ID = 150; NVRAM data type = 2
+D/NvramDrv(   86): NvramDrv [readNvram] sensor type = 2; NVRAM data type = 3
+D/NvramDrv(   86): NvramDrv [readNvramData] sensor type = 2; NVRAM data type = 3
+D/NVRAM   (   86): NVM_GetFileDesc ++
+D/NVRAM   (   86): NVM_GetCfgFileTable : file_lid = 6
+D/NVRAM   (   86): NVM_GetCfgFileTable done
+D/NVRAM   (   86): Open /data/nvram/APCFG/APRDCL/CAMERA_DEFECT,LID:6
+D/NVRAM   (   86): NVM_CmpFileVerNo 6  
+D/NVRAM   (   86): NVM_GetCfgFileTable : file_lid = 6
+D/NVRAM   (   86): NVM_CheckVerFile: 0
+D/NVRAM   (   86): New version info file
+D/NVRAM   (   86): Load File Version: 000, NvRam File Version: 000
+D/NVRAM   (   86): NVM_GetFileDesc --
+D/NvramDrv(   86): NvramDrv [checkDataVersion]
+D/NvramDrv(   86): NvramDrv [Defect] NVRAM data version = 0; F/W data version = 1
+D/NvramDrv(   86): NvramDrv [readDefaultData] sensor ID = 150; NVRAM data type = 3
+D/AcdkCalibration(   86):  Init AcdkCalibration Tool
+D/FTM     (   86): [MIUI] itemview_set_items
+D/FTM     (   86): camera_update_capture_tv_thread: Start
+D/FTM     (   86): ACDK_CCT_OP_PREVIEW_LCD_START
+D/ACDK_IF (   86): [MDK_IOControl] Reveive IOControl Code:2000
+D/APPCCTCtrl(   86): CCTOPPreviewStart 
+D/APPCCTCtrl(   86): Preview Width:320
+D/APPCCTCtrl(   86): Preview Height:240
+D/APPCCTCtrl(   86): [startPreview] - E!
+D/APPCCTCtrl(   86): [mrStartPreview] yuv.W:416
+D/APPCCTCtrl(   86): [mrStartPreview] yuv.H:304
+D/APPCCTCtrl(   86): [mrStartPreview] yuv.frmSize:189696
+D/APPCCTCtrl(   86): [mrStartPreview] yuv.frmCount:4
+D/APPCCTCtrl(   86): [mrStartPreview] yuv.bufSize:758784
+D/APPCCTCtrl(   86): [mrStartPreview] yuv.virtAddr:0x4055e020
+D/APPCCTCtrl(   86): [mrStartPreview] yuv.phyAddr:0x4055e020
+D/APPCCTCtrl(   86): [mrStartPreview] ISP Operation mode 2
+D/scenario/mHalCam(   86): [mHalCamPreviewStart] E 
+D/scenario/mHalCam(   86): ===========mHalCamParam==========================
+D/scenario/mHalCam(   86): YuvVirtAddr: 0x4055e020/0x4055e020, RgbVirtAddr: 0x40617420/0x40617420 
+D/scenario/mHalCam(   86): QvVirtAddr: 0x00000000/0x00000000, JpgVirtAddr: 0x00000000/0x00000000 
+D/scenario/mHalCam(   86): BsVirtAddr:0x00000000/0x00000000, VdoVirtAddr:: 0x00000000/0x00000000 
+D/scenario/mHalCam(   86): yuv: 416, 304, rgb: 0, 0 
+D/scenario/mHalCam(   86): qv: 0, 0, jpg: 0, 0 
+D/scenario/mHalCam(   86): camode: 1, fdmode: 0, fps: 30 
+D/scenario/mHalCam(   86): isospeed: 0, afMode: 1, afMeter: 1, awbMode: 1 
+D/scenario/mHalCam(   86): Disp :0, 0, 0 
+D/scenario/mHalCam(   86): EngMode: 0, EngPos: 0, BestPos: 0
+D/scenario/mHalCam(   86): AFMode: 1, AFMeter: 1
+D/scenario/mHalCam(   86): =================================================
+D/scenario/mHalCam(   86): [mHalCamFreeZSDMem], non buffer released 
+D/scenario/mHalCam(   86): [mHalSetResMgr]Mode=2, ModeSub=0, Dev=1
+D/ResMgrHal(   86): [SetMode]Mode(2), ModeSub(0), Dev(1)
+D/ResMgrDrv(   86): [SetBWC]Mode(2)
+D/ResMgrDrv(   86): [SetSysramSwitchbank]En(0)
+D/ResMgrDrv(   86): [CloseTvout]En(1)
+W/ResMgrDrv(   86): [CloseTvout]Warning(  380):TvOut kernel open fail, errno(2):No such file or directory
+D/ResMgrDrv(   86): [ForceHdmiFullscreen]En(1)
+W/ResMgrDrv(   86): [ForceHdmiFullscreen]Warning(  517):Hdmi Tx kernel open fail, errno(2):No such file or directory
+D/ResMgrHal(   86): [LockMdpBrz]BRZ has been locked
+D/ResMgrHal(   86): [SetMode]Result(1)
+D/IspHal  (   86): [sendCommand]ISP_HAL_CMD_GET_SENSOR_PRV_RANGE
+D/        (   86): [EISapp]Enable EIS [IspX]624, [IspY]458, [CrzX]416, [CrzY]304, [TarX]0, [TarY]0
+D/        (   86): [EISdrv][set EIS 0024H: pipe mode] 0
+D/        (   86): [EISdrv][AutoConfig] Path : 0, W: 624, H: 458
+D/        (   86): [EISdrv][enableEIS] 0
+D/        (   86): [EISdrv][set EIS source: 0 CAM, 1 CRZ] 0
+D/        (   86): [EISdrv][set EIS SRAM PD: 1 Power down] 0
+D/        (   86): [EISdrv][setKneeClip 0~15] Knee: 1, Clip: 2
+D/        (   86): [EISdrv][setFLoffset (double buffer)] H: 0, V: 0
+D/        (   86): [EISdrv][setVFilter] G: 1, DS: 0
+D/        (   86): [EISdrv][setMB_V] os: 94, interval: 82
+D/        (   86): [EISdrv][setHRP num 1~8] 6
+D/        (   86): [EISdrv][setHFilter] G: 0, DS: 0, GFIR: 0, FIR: 0
+D/        (   86): [EISdrv][setMB_H] os: 26, interval: 73
+D/        (   86): [EISdrv][setFLoffsetMax] H: 15, V: 85
+D/        (   86): [EISdrv][setLMV_TH] HC: 0, HS: 0, VC: 0, VS: 0
+D/        (   86): [EISdrv][set EIS IRQ write clear: 1 write clear] 0
+D/        (   86): [EISdrv][set EIS IRQ enable: 1 enable] 1
+D/        (   86): [EISdrv][enableEIS] 1
+D/        (   86): [EISdrv][dumpReg] 
+D/        (   86): [EISdrv][CE] 1 [SRC] 0 [KNEE]  1 [CLIP]  2 [RP]  6
+D/        (   86): [EISdrv][V_Gain] 1 [V_DS] 0
+D/        (   86): [EISdrv][H_Gain] 0 [H_DS] 0 [H_FIRG] 0, [H_FIR] 0
+D/        (   86): [EISdrv][TH_XC]     0, [TH_XS]     0, [TH_YC]     0, [TH_YS]     0
+D/        (   86): [EISdrv][FL_X]     0, [FL_Y]     0
+D/        (   86): [EISdrv][OS_X]    26, [IN_X]    73
+D/        (   86): [EISdrv][OS_Y]    94, [IN_Y]    82
+D/        (   86): [EISdrv][GMV_X]  3210, [GMV_Y]  2714
+D/        (   86): [EISdrv][DBG_OUT] 130000 
+D/        (   86): [EISdrv][DBG_CTL] 310e00 
+D/        (   86): [EISdrv][BAS_ADR] c2018000 
+D/        (   86): [EISdrv][CRZ src size] 2400310 
+D/        (   86): [EISdrv][CRZ tar size] 13001a0 
+D/        (   86): [EISdrv][FL_H_Max] 15 [FL_V_Max] 23
+D/        (   86): [EISdrv][DIV_H] 2 [DIV_V] 1
+D/scenario/mHalCam(   86): [setEISConfig] EIS ISP Size (W, H) = (624, 458) 
+D/scenario/mHalCam(   86): [setEISConfig] EIS CRZ size (W, H) = (416, 304)
+D/scenario/mHalCam(   86): [setEISConfig] EIS Target size (W, H) = (0, 0)
+D/scenario/mHalCam(   86): Display Port Init
+D/scenario/mHalCam(   86): FD Init
+D/scenario/mHalCam(   86): FD Init
+D/mHalFDVT(   86): [mHalFDInit] Start 
+D/mHalFDVT(   86): Init FDVT M4U driver ok
+D/AppFDVT (   86): MTKFD_v3.10 SVM AppFDVT
+D/scenario/mHalCam(   86): [mHalCamMemPool] poolName = FDWorkBuf , phyAddr = 0x0, virtAddr = 0x41694020, size = 307200, PmemFD = -1
+D/mHalFDVT(   86): [allocM4UMemory] E 
+D/mHalFDVT(   86): [allocM4UMemory] virtAddr = 0x41694020, size = 153600 
+D/mHalFDVT(   86): [allocM4UMemory] m4uVa = 0x4c0020 
+D/mHalFDVT(   86): [halFDM4URegister] m_RegisterBuff 0x41694020 virtAddr = 0x41694020, mva = 0x4c0020, size 153600 m_BuffCount 2 
+D/pipe/CamIO(   86): [setPreviewPipe] E portID = 5
+D/IspHal  (   86): [sendCommand]ISP_HAL_CMD_GET_SENSOR_PRV_RANGE
+D/IspHal  (   86): [sendCommand]ISP_HAL_CMD_GET_SENSOR_PRV_RANGE
+D/pipe/CamIO(   86): [setPreviewPipe]<ePREVIEW_DISP_PORT> CRZ:(up,dn)=(8,15)
+D/pipe/CamIO(   86): [configMDPPort] E 
+D/pipe/CamIO(   86): [configMDPPort] portID = 1
+D/pipe/CamIO(   86): [configMDPPort] w = 416, h = 304, ftm = 0x8, rotate = 0, flip = 0
+D/pipe/CamIO(   86): [configMDPPort] mem virtAddr = 0x4055e020, phyAddr = 0x4055e020, bufCnt = 4, bufSize = 0x2e500
+D/pipe/CamIO(   86): [configMDPPort] X 
+D/pipe/CamIO(   86): [configMDPPort] E 
+D/pipe/CamIO(   86): [configMDPPort] portID = 4
+D/pipe/CamIO(   86): [configMDPPort] w = 320, h = 240, ftm = 0x400, rotate = 0, flip = 0
+D/pipe/CamIO(   86): [configMDPPort] mem virtAddr = 0x41694020, phyAddr = 0x0, bufCnt = 2, bufSize = 0x25800
+D/pipe/CamIO(   86): [configMDPPort] X 
+D/pipe/CamIO(   86): [setPreviewPipe] workBuf (W, H, Cnt) = (416, 304)
+D/pipe/CamIO(   86): [mHalCamMemPool] poolName = MDPWorkBuf , phyAddr = 0x0, virtAddr = 0x416e0020, size = 758784, PmemFD = -1
+D/pipe/CamIO(   86): [setPreviewPipe] X 
+D/scenario/mHalCam(   86): [mHalCamSetIspMode] ispCamMode: 0, ispOperationMode: 2 
+D/IspHal  (   86): [sendCommand]ISP_HAL_CMD_SET_OPERATION_MODE(2)
+D/NSIspTuning::ParamctrlComm_attributes(   86): [+setOperMode](old, new)=(2, 2)
+D/IspHal  (   86): [sendCommand]ISP_HAL_CMD_SET_CAM_MODE(0)
+D/IspHal  (   86): [setCamMode]mode(0)
+D/NSIspTuning::ParamctrlComm_attributes(   86): [+setCamMode](old, new)=(1, 1)
+D/NSIspTuning::ParamctrlComm(   86): [+validateFrameless]
+D/NSIspTuning::ispmgr(   86): [-setDisable][ISP_MGR_NR2_T]
+D/NSIspTuning::ispmgr(   86): [-setDisable][ISP_MGR_EDGE_T]
+D/NSIspTuning::ispmgr(   86): [-setDisable][ISP_MGR_EE_T]
+D/NSIspTuning::ispmgr(   86): [-setDisable][ISP_MGR_YCCGO_T]
+D/NSIspTuning::ispmgr(   86): [-setDisable][ISP_MGR_PCA_T]
+D/NSIspTuning::ParamctrlComm(   86): [-validateFrameless]err(0)
+D/pipe/CamIO(   86): [start], mCurPipeEngine = 0x3 
+I/MDP     (   86): [MDP INFO](86): Preview Mode.
+I/MDP     (   86): [MDP INFO](86): [MdpHalImp Preview Parameters]-----------------------------------------------------------------------------
+I/MDP     (   86): [MDP INFO](86): pseudo src:0
+I/MDP     (   86): [MDP INFO](86): src y address = 0x00000000
+I/MDP     (   86): [MDP INFO](86): src w: 624    h: 458
+I/MDP     (   86): [MDP INFO](86): src roi x: 0    y: 5    w: 624    h: 448
+I/MDP     (   86): [MDP INFO](86): en_zero_shutter_path = 0
+I/MDP     (   86): [MDP INFO](86): en_sw_trigger = 1
+I/MDP     (   86): [MDP INFO](86): 
+I/MDP     (   86): [MDP INFO](86): working(dst) y address = 0x416e0020
+I/MDP     (   86): [MDP INFO](86): work w: 416    h: 304
+I/MDP     (   86): [MDP INFO](86): work roi x: 0    y: 0    w: 416    h: 304
+I/MDP     (   86): [MDP INFO](86): work rotate: 0    color: 9
+I/MDP     (   86): [MDP INFO](86): work buffer count: 3
+I/MDP     (   86): [MDP INFO](86): 
+I/MDP     (   86): [MDP INFO](86): dst 0 en=1
+I/MDP     (   86): [MDP INFO](86): dst 0 y address = 0x4055e020
+I/MDP     (   86): [MDP INFO](86): dst 0 w: 416    h: 304
+I/MDP     (   86): [MDP INFO](86): dst 0 rotate: 0    color: 12
+I/MDP     (   86): [MDP INFO](86): dst 0 buffer count: 4
+I/MDP     (   86): [MDP INFO](86): 
+I/MDP     (   86): [MDP INFO](86): dst 1 en=0
+I/MDP     (   86): [MDP INFO](86): dst 1 y address = 0x00000000
+I/MDP     (   86): [MDP INFO](86): dst 1 w: 0    h: 0
+I/MDP     (   86): [MDP INFO](86): dst 1 rotate: 0    color: 0
+I/MDP     (   86): [MDP INFO](86): dst 1 buffer count: 0
+I/MDP     (   86): [MDP INFO](86): 
+I/MDP     (   86): [MDP INFO](86): dst 2 en=1
+I/MDP     (   86): [MDP INFO](86): dst 2 y address = 0x41694020
+I/MDP     (   86): [MDP INFO](86): dst 2 w: 320    h: 240
+I/MDP     (   86): [MDP INFO](86): dst 2 rotate: 0    color: 2
+I/MDP     (   86): [MDP INFO](86): dst 2 buffer count: 2
+I/MDP     (   86): [MDP INFO](86): 
+I/MDP     (   86): [MDP INFO](86): CB_EIS_INFO_GET_FUNC: 0x00000000
+I/MDP     (   86): [MDP INFO](86): 
+I/MDP     (   86): [MDP INFO](86): preview resz coeff:
+I/MDP     (   86): [MDP INFO](86): crz_up_scale_coeff=8
+I/MDP     (   86): [MDP INFO](86): crz_dn_scale_coeff=15
+I/MDP     (   86): [MDP INFO](86): prz0_up_scale_coeff=8
+I/MDP     (   86): [MDP INFO](86): prz0_dn_scale_coeff=15
+I/MDP     (   86): [MDP INFO](86): prz0_ee_h_str=0
+I/MDP     (   86): [MDP INFO](86): prz0_ee_v_str=0
+I/MDP     (   86): [MDP INFO](86): prz1_up_scale_coeff=0
+I/MDP     (   86): [MDP INFO](86): prz1_dn_scale_coeff=0
+I/MDP     (   86): [MDP INFO](86): prz1_ee_h_str=0
+I/MDP     (   86): [MDP INFO](86): prz1_ee_v_str=0
+I/MDP     (   86): [MDP INFO](86): 
+D/IspHal  (   86): [setConf]src:W(624), H(458)
+D/IspHal  (   86): [setConf]Continuous(1), srcDram(0), dstDram(0)
+D/IspHal  (   86): [setConf]SensorScenario(0), SensorDelay(1)
+D/IspDrv  (   86): [reset]
+D/IspDrv  (   86): [sendCommand]ISP_DRV_CMD_RESET_BUF
+D/IspHal  (   86): [setConf]ACDK_SCENARIO_ID_CAMERA_PREVIEW
+D/IspHal  (   86): [getSensorInfo]mode(0)
+D/IspDrv  (   86): [setTgGrabRange]pixelStart(1), pixelEnd(1248), lineStart(10), lineEnd(467)
+D/IspDrv  (   86): [setSensorModeCfg]hsPol(0), vsPol(0)
+D/IspDrv  (   86): [sendCommand]ISP_DRV_CMD_SET_PIXEL_TYPE(6)
+D/IspDrv  (   86): [sendCommand]CAM_CTRL1(0x80002100)
+D/IspDrv  (   86): [setMemIOAddr]inAddr(0x00000000), outAddr(0x00000000)
+D/IspDrv  (   86): [setCamModulePath]inPathSel(0), inTypeSel(1), swapY(0), swapCbCr(0), outPathType(2), outPathEn(0), inDataFormat(0)
+D/IspDrv  (   86): [setViewFinderMode]spMode(0), spDelay(0)
+D/IspHal  (   86): [setCSI2Config]Disable
+D/NSIspTuning::ParamctrlComm_attributes(   86): [+setSensorMode](old, new)=(0, 0)
+D/IspHal  (   86): [setCSI2Config]Disable
+D/NSIspTuning::ParamctrlComm(   86): [+validateFrameless]
+D/NSIspTuning::ispmgr(   86): [-setDisable][ISP_MGR_NR2_T]
+D/NSIspTuning::ispmgr(   86): [-setDisable][ISP_MGR_EDGE_T]
+D/NSIspTuning::ispmgr(   86): [-setDisable][ISP_MGR_EE_T]
+D/NSIspTuning::ispmgr(   86): [-setDisable][ISP_MGR_YCCGO_T]
+D/NSIspTuning::ispmgr(   86): [-setDisable][ISP_MGR_PCA_T]
+D/NSIspTuning::ParamctrlComm(   86): [-validateFrameless]err(0)
+D/IspDrv  (   86): [setSubsampleWidth]Enable(0), Input(0), Output(0)
+D/IspDrv  (   86): [setSubsampleHeight]Enable(0), Input(0), Output(0)
+D/IspHal  (   86): [start]
+D/IspDrv  (   86): [control]isEn(1)
+D/scenario/mHalCam(   86): [mHalCamSetState] Now: 0x0001, Next: 0x0100 
+D/scenario/mHalCam(   86): [mHalCam3AInit] 
+D/aaa_hal_yuv(   86):  Hal3AYuv::init
+D/aaa_hal_yuv(   86):  u4PvW = 624; u4PvH = 458
+D/ImgSensorDrv(   86): p_ref=0xbe815930
+D/aaa_hal_yuv(   86):  Hal3AYuv::setState, aaa_state=0, m_bIsdummylens=1
+D/scenario/mHalCam(   86): [mHalCamSet3AParams] 
+D/scenario/mHalCam(   86):   afLampMode: 0 
+D/scenario/mHalCam(   86):   HAL_3A_AE_STROBE_MODE: 2 
+D/aaa_hal_yuv(   86):  [set3AParam] Cmd = 0x1005, Param= 0x2 
+D/scenario/mHalCam(   86):   HAL_3A_AF_MODE: 1 
+D/aaa_hal_yuv(   86):  [set3AParam] Cmd = 0x2000, Param= 0x1 
+D/aaa_hal_yuv(   86):  [setAFMode] af mode = 0x1 
+D/scenario/mHalCam(   86):   HAL_3A_AF_METERING_MODE: 1 
+D/aaa_hal_yuv(   86):  [set3AParam] Cmd = 0x2001, Param= 0x1 
+D/scenario/mHalCam(   86):   HAL_3A_AF_Full_Step: 0 
+D/scenario/mHalCam(   86):   HAL_3A_AE_METERING_MODE: 1 
+D/aaa_hal_yuv(   86):  [set3AParam] Cmd = 0x1003, Param= 0x0 
+D/scenario/mHalCam(   86):   HAL_3A_AE_EVCOMP: 0 
+D/aaa_hal_yuv(   86):  [set3AParam] Cmd = 0x1002, Param= 0x0 
+D/scenario/mHalCam(   86):   HAL_3A_AWB_MODE: 1 
+D/aaa_hal_yuv(   86):  [set3AParam] Cmd = 0x3000, Param= 0x1 
+D/scenario/mHalCam(   86):   HAL_3A_AE_ISOSPEED: 0 
+D/aaa_hal_yuv(   86):  [set3AParam] Cmd = 0x1004, Param= 0x0 
+D/scenario/mHalCam(   86):   HAL_3A_AE_ISOSPEED_ENG: 0 
+D/aaa_hal_yuv(   86):  [set3AParam] Cmd = 0x1004, Param= 0x0 
+D/scenario/mHalCam(   86):   HAL_3A_AE_MODE: 1 
+D/aaa_hal_yuv(   86):  [set3AParam] Cmd = 0x1001, Param= 0x1 
+D/scenario/mHalCam(   86):   HAL_ISP_USER_BRIGHTNESS: 1 
+D/NSIspTuning::ParamctrlComm_user(   86): [+setIspUserIdx_Bright] (old, new)=(1, 1)
+D/ImgSensorDrv(   86): [ImgSensorDrv] getInstance 
+D/scenario/mHalCam(   86):   HAL_ISP_USER_HUE: 1 
+D/NSIspTuning::ParamctrlComm_user(   86): [+setIspUserIdx_Hue] (old, new)=(1, 1)
+D/ImgSensorDrv(   86): [ImgSensorDrv] getInstance 
+D/scenario/mHalCam(   86):   HAL_ISP_USER_SAT: 0 
+D/NSIspTuning::ParamctrlComm_user(   86): [+setIspUserIdx_Sat] (old, new)=(1, 0)
+D/ImgSensorDrv(   86): [ImgSensorDrv] getInstance 
+D/scenario/mHalCam(   86):   HAL_ISP_USER_EDGE: 1 
+D/NSIspTuning::ParamctrlComm_user(   86): [+setIspUserIdx_Edge] (old, new)=(1, 1)
+D/ImgSensorDrv(   86): [ImgSensorDrv] getInstance 
+D/scenario/mHalCam(   86):   HAL_ISP_USER_CONTRAST: 1 
+D/NSIspTuning::ParamctrlComm_user(   86): [+setIspUserIdx_Contrast] (old, new)=(1, 1)
+D/ImgSensorDrv(   86): [ImgSensorDrv] getInstance 
+D/scenario/mHalCam(   86):   ISP_CMD_SET_SCENE_MODE: 0 
+D/NSIspTuning::ParamctrlComm_attributes(   86): [+setSceneMode] scene(old, new)=(0, 0)
+D/ImgSensorDrv(   86): [ImgSensorDrv] getInstance 
+D/scenario/mHalCam(   86):   ISP_CMD_SET_EFFECT: 0 
+D/NSIspTuning::ParamctrlComm_attributes(   86): [+setEffect] effect(old, new)=(0, 0)
+D/ImgSensorDrv(   86): [ImgSensorDrv] getInstance 
+D/scenario/mHalCam(   86):   capMode: 0 
+D/scenario/mHalCam(   86):   fdMode: 0 
+D/scenario/mHalCam(   86):  eisMode: 0 
+D/aaa_hal_yuv(   86):  [set3AParam] Cmd = 0x1009, Param= 0xfa0 
+D/aaa_hal_yuv(   86):  [set3AParam] Cmd = 0x100e, Param= 0x0 
+D/aaa_hal_yuv(   86):  Error command 
+D/scenario/mHalCam(   86): [mHalCam3AInit, 0 time] =====> 70 ms 
+I/mHalCam (   86): {FlickerService}[FlickerService::setFlickerMode] (old,new)=(-1,0) video recording?(0)
+D/aaa_hal_yuv(   86):  [set3AParam] Cmd = 0x1007, Param= 0x0 
+I/mHalCam (   86): {FlickerService}[disableAutoDetection] do nothing
+D/pipe/CamIO(   86): [setPreviewZoom]zoomVal = 100
+D/IspHal  (   86): [sendCommand]ISP_HAL_CMD_GET_SENSOR_PRV_RANGE
+D/pipe/CamIO(   86): srcW = 416, srcH = 304, dstW = 416, dstH = 304
+I/MDP     (   86): [MDP INFO](86): Zoom Crop      = x: 0 y: 0, w: 416, h: 304 
+I/MDP     (   86): [MDP INFO](86): Zoom Real Crop = x: 0 y: 0, w: 416, h: 304 
+I/mHalCam (   86): {FlickerService}[setWindowInfo] (w,h)=(624,448)
+D/scenario/mHalCam(   86): Got semMainHigh 
+D/scenario/mHalCam(   86): [mHalCamPreviewProc] E 
+D/scenario/mHalCam(   86): [mHalCamWaitPreviewStable] 
+D/scenario/mHalCam(   86): [mHalCamWaitPreviewStable] delay 2 frames for 3A Statistic Stable
+D/pipe/CamIO(   86): [dropPreviewFrame] E 
+D/pipe/CamIO(   86): [getPreviewFrame] port id = 1
+D/scenario/mHalCam(   86): [mHalCamPreviewStart, 0 time] =====> 148 ms 
+D/scenario/mHalCam(   86): [mHalCamPreviewStart] X 
+D/FTM     (   86): PREVIEW_Start 
+D/scenario/mHalCam(   86): [_prvIndicatorThread] create (pid,tid)=(86,2376), (policy, priority) = (0, -20)
+D/scenario/mHalCam(   86): [mHalCamPrvIndicatorThread] start (pid, tid) = (86, 2376)
+D/pipe/CamIO(   86): [dropPreviewFrame] disp cnt:1
+D/pipe/CamIO(   86): [releasePreviewFrame] portID = 1 
+D/pipe/CamIO(   86): [dropPreviewFrame] E 
+D/pipe/CamIO(   86): [getPreviewFrame] port id = 1
+D/pipe/CamIO(   86): [dropPreviewFrame] disp cnt:1
+D/pipe/CamIO(   86): [releasePreviewFrame] portID = 1 
+D/ImgSensorDrv(   86): [getSensorDelayFrameCnt] mode = 0
+D/scenario/mHalCam(   86): [mHalCamWaitPreviewStable] delayFrame: 4 for sensor stable
+D/scenario/mHalCam(   86): [mHalCam3AProc] State, Pre: 0x1, Now: 0x100 
+D/aaa_hal_yuv(   86):  Hal3AYuv::setState, aaa_state=0, m_bIsdummylens=1
+D/APPCCTCtrl(   86): [cameraCallback] AF Callback 
+D/pipe/CamIO(   86): [dropPreviewFrame] E 
+D/pipe/CamIO(   86): [getPreviewFrame] port id = 1
+W/MDP     (   86): [MDP W](2374): _SwTriggerWorkingByIndex(): dst_port2 drop 1 frame
+D/pipe/CamIO(   86): [dropPreviewFrame] disp cnt:1
+D/pipe/CamIO(   86): [releasePreviewFrame] portID = 1 
+D/pipe/CamIO(   86): [dropPreviewFrame] E 
+D/pipe/CamIO(   86): [getPreviewFrame] port id = 1
+W/MDP     (   86): [MDP W](2374): _SwTriggerWorkingByIndex(): dst_port2 drop 2 frame
+D/pipe/CamIO(   86): [dropPreviewFrame] disp cnt:1
+D/pipe/CamIO(   86): [releasePreviewFrame] portID = 1 
+D/pipe/CamIO(   86): [dropPreviewFrame] E 
+D/pipe/CamIO(   86): [getPreviewFrame] port id = 1
+W/MDP     (   86): [MDP W](2374): _SwTriggerWorkingByIndex(): dst_port2 drop 3 frame
+D/pipe/CamIO(   86): [dropPreviewFrame] disp cnt:1
+D/pipe/CamIO(   86): [releasePreviewFrame] portID = 1 
+D/pipe/CamIO(   86): [dropPreviewFrame] E 
+D/pipe/CamIO(   86): [getPreviewFrame] port id = 1
+W/MDP     (   86): [MDP W](2374): _SwTriggerWorkingByIndex(): dst_port2 drop 4 frame
+D/pipe/CamIO(   86): [dropPreviewFrame] disp cnt:1
+D/pipe/CamIO(   86): [releasePreviewFrame] portID = 1 
+D/pipe/CamIO(   86): [getPreviewFrame] port id = 1
+W/MDP     (   86): [MDP W](2374): _SwTriggerWorkingByIndex(): dst_port2 drop 5 frame
+D/scenario/mHalCam(   86): [mHalCamPreviewProc]  DISP hwIndex: 2, fillCnt: 1, timeS = 1362850534, timeUs = 696371
+D/pipe/CamIO(   86): [releasePreviewFrame] portID = 1 
+D/scenario/mHalCam(   86): [mHalCamEISProc] GmvX = 0, GmvY = 0
+D/scenario/mHalCam(   86): [mHalCamPreviewProc] Brocast the preview frame in frameCnt:1 E 
+D/pipe/CamIO(   86): [getPreviewFrame] port id = 1
+W/MDP     (   86): [MDP W](2374): _SwTriggerWorkingByIndex(): dst_port2 drop 6 frame
+D/scenario/mHalCam(   86): [mHalCamPreviewProc]  DISP hwIndex: 3, fillCnt: 1, timeS = 1362850534, timeUs = 781020
+D/pipe/CamIO(   86): [releasePreviewFrame] portID = 1 
+D/scenario/mHalCam(   86): [mHalCamEISProc] GmvX = 0, GmvY = 0
+D/scenario/mHalCam(   86): [mHalCamPreviewProc] Brocast the preview frame in frameCnt:2 E 
+D/pipe/CamIO(   86): [getPreviewFrame] port id = 1
+W/MDP     (   86): [MDP W](2374): _SwTriggerWorkingByIndex(): dst_port2 drop 7 frame
+D/scenario/mHalCam(   86): [mHalCamPreviewProc]  DISP hwIndex: 0, fillCnt: 1, timeS = 1362850534, timeUs = 882251
+D/pipe/CamIO(   86): [releasePreviewFrame] portID = 1 
+D/scenario/mHalCam(   86): [mHalCamEISProc] GmvX = 0, GmvY = 0
+D/scenario/mHalCam(   86): [mHalCamPreviewProc] Brocast the preview frame in frameCnt:3 E 
+D/pipe/CamIO(   86): [getPreviewFrame] port id = 1
+W/MDP     (   86): [MDP W](2374): _SwTriggerWorkingByIndex(): dst_port2 drop 8 frame
+D/scenario/mHalCam(   86): [mHalCamPreviewProc]  DISP hwIndex: 1, fillCnt: 1, timeS = 1362850534, timeUs = 983481
+D/pipe/CamIO(   86): [releasePreviewFrame] portID = 1 
+D/scenario/mHalCam(   86): [mHalCamEISProc] GmvX = 0, GmvY = 0
+D/scenario/mHalCam(   86): [mHalCamPreviewProc] Brocast the preview frame in frameCnt:4 E 
+D/pipe/CamIO(   86): [getPreviewFrame] port id = 1
+W/MDP     (   86): [MDP W](2374): _SwTriggerWorkingByIndex(): dst_port2 drop 9 frame
+D/scenario/mHalCam(   86): [mHalCamPreviewProc]  DISP hwIndex: 2, fillCnt: 1, timeS = 1362850535, timeUs = 84728
+D/pipe/CamIO(   86): [releasePreviewFrame] portID = 1 
+D/scenario/mHalCam(   86): [mHalCamEISProc] GmvX = 0, GmvY = 0
+D/scenario/mHalCam(   86): [mHalCamPreviewProc] Brocast the preview frame in frameCnt:5 E 
+D/pipe/CamIO(   86): [getPreviewFrame] port id = 1
+W/MDP     (   86): [MDP W](2374): _SwTriggerWorkingByIndex(): dst_port2 drop 10 frame
+D/scenario/mHalCam(   86): [mHalCamPreviewProc]  DISP hwIndex: 3, fillCnt: 1, timeS = 1362850535, timeUs = 186259
+D/scenario/mHalCam(   86): [preview]Current fps: 6 
+D/pipe/CamIO(   86): [releasePreviewFrame] portID = 1 
+D/scenario/mHalCam(   86): [mHalCamEISProc] GmvX = 0, GmvY = 0
+D/scenario/mHalCam(   86): [mHalCamPreviewProc] Brocast the preview frame in frameCnt:6 E 
+D/pipe/CamIO(   86): [getPreviewFrame] port id = 1
+W/MDP     (   86): [MDP W](2374): _SwTriggerWorkingByIndex(): dst_port2 drop 11 frame
+D/scenario/mHalCam(   86): [mHalCamPreviewProc]  DISP hwIndex: 0, fillCnt: 1, timeS = 1362850535, timeUs = 287788
+D/pipe/CamIO(   86): [releasePreviewFrame] portID = 1 
+D/scenario/mHalCam(   86): [mHalCamEISProc] GmvX = 0, GmvY = 0
+D/scenario/mHalCam(   86): [mHalCamPreviewProc] Brocast the preview frame in frameCnt:7 E 
+D/pipe/CamIO(   86): [getPreviewFrame] port id = 1
+W/MDP     (   86): [MDP W](2374): _SwTriggerWorkingByIndex(): dst_port2 drop 12 frame
+D/scenario/mHalCam(   86): [mHalCamPreviewProc]  DISP hwIndex: 1, fillCnt: 1, timeS = 1362850535, timeUs = 389333
+D/pipe/CamIO(   86): [releasePreviewFrame] portID = 1 
+D/scenario/mHalCam(   86): [mHalCamEISProc] GmvX = 0, GmvY = 0
+D/scenario/mHalCam(   86): [mHalCamPreviewProc] Brocast the preview frame in frameCnt:8 E 
+D/pipe/CamIO(   86): [getPreviewFrame] port id = 1
+E/logwrapper( 2378): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 2377): /system/bin/ami304d terminated by exit(255)
+W/MDP     (   86): [MDP W](2374): _SwTriggerWorkingByIndex(): dst_port2 drop 13 frame
+D/scenario/mHalCam(   86): [mHalCamPreviewProc]  DISP hwIndex: 2, fillCnt: 1, timeS = 1362850535, timeUs = 490909
+D/pipe/CamIO(   86): [releasePreviewFrame] portID = 1 
+D/scenario/mHalCam(   86): [mHalCamEISProc] GmvX = 1560, GmvY = 0
+D/scenario/mHalCam(   86): [mHalCamPreviewProc] Brocast the preview frame in frameCnt:9 E 
+D/pipe/CamIO(   86): [getPreviewFrame] port id = 1
+W/MDP     (   86): [MDP W](2374): _SwTriggerWorkingByIndex(): dst_port2 drop 14 frame
+D/scenario/mHalCam(   86): [mHalCamPreviewProc]  DISP hwIndex: 3, fillCnt: 1, timeS = 1362850535, timeUs = 592425
+D/pipe/CamIO(   86): [releasePreviewFrame] portID = 1 
+D/scenario/mHalCam(   86): [mHalCamEISProc] GmvX = 1950, GmvY = 0
+D/scenario/mHalCam(   86): [mHalCamPreviewProc] Brocast the preview frame in frameCnt:10 E 
+D/pipe/CamIO(   86): [getPreviewFrame] port id = 1
+W/MDP     (   86): [MDP W](2374): _SwTriggerWorkingByIndex(): dst_port2 drop 15 frame
+D/scenario/mHalCam(   86): [mHalCamPreviewProc]  DISP hwIndex: 0, fillCnt: 1, timeS = 1362850535, timeUs = 693953
+D/pipe/CamIO(   86): [releasePreviewFrame] portID = 1 
+D/scenario/mHalCam(   86): [mHalCamEISProc] GmvX = 2047, GmvY = 0
+D/scenario/mHalCam(   86): [mHalCamPreviewProc] Brocast the preview frame in frameCnt:11 E 
+D/pipe/CamIO(   86): [getPreviewFrame] port id = 1
+W/MDP     (   86): [MDP W](2374): _SwTriggerWorkingByIndex(): dst_port2 drop 16 frame
+D/scenario/mHalCam(   86): [mHalCamPreviewProc]  DISP hwIndex: 1, fillCnt: 1, timeS = 1362850535, timeUs = 795519
+D/pipe/CamIO(   86): [releasePreviewFrame] portID = 1 
+D/scenario/mHalCam(   86): [mHalCamEISProc] GmvX = 1135, GmvY = 0
+D/scenario/mHalCam(   86): [mHalCamPreviewProc] Brocast the preview frame in frameCnt:12 E 
+D/pipe/CamIO(   86): [getPreviewFrame] port id = 1
+W/MDP     (   86): [MDP W](2374): _SwTriggerWorkingByIndex(): dst_port2 drop 17 frame
+D/scenario/mHalCam(   86): [mHalCamPreviewProc]  DISP hwIndex: 2, fillCnt: 1, timeS = 1362850535, timeUs = 897086
+D/pipe/CamIO(   86): [releasePreviewFrame] portID = 1 
+D/scenario/mHalCam(   86): [mHalCamEISProc] GmvX = 283, GmvY = 0
+D/scenario/mHalCam(   86): [mHalCamPreviewProc] Brocast the preview frame in frameCnt:13 E 
+D/pipe/CamIO(   86): [getPreviewFrame] port id = 1
+W/MDP     (   86): [MDP W](2374): _SwTriggerWorkingByIndex(): dst_port2 drop 18 frame
+D/scenario/mHalCam(   86): [mHalCamPreviewProc]  DISP hwIndex: 3, fillCnt: 1, timeS = 1362850535, timeUs = 998570
+D/pipe/CamIO(   86): [releasePreviewFrame] portID = 1 
+D/scenario/mHalCam(   86): [mHalCamEISProc] GmvX = 70, GmvY = 0
+D/scenario/mHalCam(   86): [mHalCamPreviewProc] Brocast the preview frame in frameCnt:14 E 
+D/pipe/CamIO(   86): [getPreviewFrame] port id = 1
+W/MDP     (   86): [MDP W](2374): _SwTriggerWorkingByIndex(): dst_port2 drop 19 frame
+D/scenario/mHalCam(   86): [mHalCamPreviewProc]  DISP hwIndex: 0, fillCnt: 1, timeS = 1362850536, timeUs = 100137
+D/pipe/CamIO(   86): [releasePreviewFrame] portID = 1 
+D/scenario/mHalCam(   86): [mHalCamEISProc] GmvX = 17, GmvY = 0
+D/scenario/mHalCam(   86): [mHalCamPreviewProc] Brocast the preview frame in frameCnt:15 E 
+D/pipe/CamIO(   86): [getPreviewFrame] port id = 1
+W/MDP     (   86): [MDP W](2374): _SwTriggerWorkingByIndex(): dst_port2 drop 20 frame
+D/scenario/mHalCam(   86): [mHalCamPreviewProc]  DISP hwIndex: 1, fillCnt: 1, timeS = 1362850536, timeUs = 201639
+D/scenario/mHalCam(   86): [preview]Current fps: 10 
+D/pipe/CamIO(   86): [releasePreviewFrame] portID = 1 
+D/scenario/mHalCam(   86): [mHalCamEISProc] GmvX = 4, GmvY = 0
+D/scenario/mHalCam(   86): [mHalCamPreviewProc] Brocast the preview frame in frameCnt:16 E 
+D/pipe/CamIO(   86): [getPreviewFrame] port id = 1
+W/MDP     (   86): [MDP W](2374): _SwTriggerWorkingByIndex(): dst_port2 drop 21 frame
+D/scenario/mHalCam(   86): [mHalCamPreviewProc]  DISP hwIndex: 2, fillCnt: 1, timeS = 1362850536, timeUs = 303175
+D/pipe/CamIO(   86): [releasePreviewFrame] portID = 1 
+D/scenario/mHalCam(   86): [mHalCamEISProc] GmvX = 1, GmvY = 0
+D/scenario/mHalCam(   86): [mHalCamPreviewProc] Brocast the preview frame in frameCnt:17 E 
+D/pipe/CamIO(   86): [getPreviewFrame] port id = 1
+W/MDP     (   86): [MDP W](2374): _SwTriggerWorkingByIndex(): dst_port2 drop 22 frame
+D/scenario/mHalCam(   86): [mHalCamPreviewProc]  DISP hwIndex: 3, fillCnt: 1, timeS = 1362850536, timeUs = 404725
+D/pipe/CamIO(   86): [releasePreviewFrame] portID = 1 
+D/scenario/mHalCam(   86): [mHalCamEISProc] GmvX = 0, GmvY = 0
+D/scenario/mHalCam(   86): [mHalCamPreviewProc] Brocast the preview frame in frameCnt:18 E 
+D/pipe/CamIO(   86): [getPreviewFrame] port id = 1
+W/MDP     (   86): [MDP W](2374): _SwTriggerWorkingByIndex(): dst_port2 drop 23 frame
+D/scenario/mHalCam(   86): [mHalCamPreviewProc]  DISP hwIndex: 0, fillCnt: 1, timeS = 1362850536, timeUs = 506307
+D/pipe/CamIO(   86): [releasePreviewFrame] portID = 1 
+D/scenario/mHalCam(   86): [mHalCamEISProc] GmvX = 0, GmvY = 0
+D/scenario/mHalCam(   86): [mHalCamPreviewProc] Brocast the preview frame in frameCnt:19 E 
+D/pipe/CamIO(   86): [getPreviewFrame] port id = 1
+E/IPCThreadState( 2384): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 2386): IPCThread::waitForResponse checking error 3 : -32
+W/MDP     (   86): [MDP W](2374): _SwTriggerWorkingByIndex(): dst_port2 drop 24 frame
+D/scenario/mHalCam(   86): [mHalCamPreviewProc]  DISP hwIndex: 1, fillCnt: 1, timeS = 1362850536, timeUs = 607838
+D/pipe/CamIO(   86): [releasePreviewFrame] portID = 1 
+D/scenario/mHalCam(   86): [mHalCamEISProc] GmvX = 0, GmvY = 0
+D/scenario/mHalCam(   86): [mHalCamPreviewProc] Brocast the preview frame in frameCnt:20 E 
+D/pipe/CamIO(   86): [getPreviewFrame] port id = 1
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+W/MDP     (   86): [MDP W](2374): _SwTriggerWorkingByIndex(): dst_port2 drop 25 frame
+D/scenario/mHalCam(   86): [mHalCamPreviewProc]  DISP hwIndex: 2, fillCnt: 1, timeS = 1362850536, timeUs = 709361
+D/pipe/CamIO(   86): [releasePreviewFrame] portID = 1 
+D/scenario/mHalCam(   86): [mHalCamEISProc] GmvX = 0, GmvY = 0
+D/scenario/mHalCam(   86): [mHalCamPreviewProc] Brocast the preview frame in frameCnt:21 E 
+D/pipe/CamIO(   86): [getPreviewFrame] port id = 1
+W/MDP     (   86): [MDP W](2374): _SwTriggerWorkingByIndex(): dst_port2 drop 26 frame
+D/scenario/mHalCam(   86): [mHalCamPreviewProc]  DISP hwIndex: 3, fillCnt: 1, timeS = 1362850536, timeUs = 810879
+D/pipe/CamIO(   86): [releasePreviewFrame] portID = 1 
+D/scenario/mHalCam(   86): [mHalCamEISProc] GmvX = 0, GmvY = 0
+D/scenario/mHalCam(   86): [mHalCamPreviewProc] Brocast the preview frame in frameCnt:22 E 
+D/pipe/CamIO(   86): [getPreviewFrame] port id = 1
+W/MDP     (   86): [MDP W](2374): _SwTriggerWorkingByIndex(): dst_port2 drop 27 frame
+D/scenario/mHalCam(   86): [mHalCamPreviewProc]  DISP hwIndex: 0, fillCnt: 1, timeS = 1362850536, timeUs = 912427
+D/pipe/CamIO(   86): [releasePreviewFrame] portID = 1 
+D/scenario/mHalCam(   86): [mHalCamEISProc] GmvX = 0, GmvY = 0
+D/scenario/mHalCam(   86): [mHalCamPreviewProc] Brocast the preview frame in frameCnt:23 E 
+D/pipe/CamIO(   86): [getPreviewFrame] port id = 1
+W/MDP     (   86): [MDP W](2374): _SwTriggerWorkingByIndex(): dst_port2 drop 28 frame
+D/scenario/mHalCam(   86): [mHalCamPreviewProc]  DISP hwIndex: 1, fillCnt: 1, timeS = 1362850537, timeUs = 13953
+D/pipe/CamIO(   86): [releasePreviewFrame] portID = 1 
+D/scenario/mHalCam(   86): [mHalCamEISProc] GmvX = 0, GmvY = 0
+D/scenario/mHalCam(   86): [mHalCamPreviewProc] Brocast the preview frame in frameCnt:24 E 
+D/pipe/CamIO(   86): [getPreviewFrame] port id = 1
+W/MDP     (   86): [MDP W](2374): _SwTriggerWorkingByIndex(): dst_port2 drop 29 frame
+D/scenario/mHalCam(   86): [mHalCamPreviewProc]  DISP hwIndex: 2, fillCnt: 1, timeS = 1362850537, timeUs = 115525
+D/pipe/CamIO(   86): [releasePreviewFrame] portID = 1 
+D/scenario/mHalCam(   86): [mHalCamEISProc] GmvX = 0, GmvY = 0
+D/scenario/mHalCam(   86): [mHalCamPreviewProc] Brocast the preview frame in frameCnt:25 E 
+D/pipe/CamIO(   86): [getPreviewFrame] port id = 1
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+W/MDP     (   86): [MDP W](2374): _SwTriggerWorkingByIndex(): dst_port2 drop 30 frame
+D/scenario/mHalCam(   86): [mHalCamPreviewProc]  DISP hwIndex: 3, fillCnt: 1, timeS = 1362850537, timeUs = 217078
+D/scenario/mHalCam(   86): [preview]Current fps: 10 
+D/pipe/CamIO(   86): [releasePreviewFrame] portID = 1 
+D/scenario/mHalCam(   86): [mHalCamEISProc] GmvX = 0, GmvY = 0
+D/scenario/mHalCam(   86): [mHalCamPreviewProc] Brocast the preview frame in frameCnt:26 E 
+D/pipe/CamIO(   86): [getPreviewFrame] port id = 1
+D/scenario/mHalCam(   86): [mHalCamPreviewProc]  DISP hwIndex: 0, fillCnt: 1, timeS = 1362850537, timeUs = 318547
+D/pipe/CamIO(   86): [releasePreviewFrame] portID = 1 
+D/scenario/mHalCam(   86): [mHalCamEISProc] GmvX = 0, GmvY = 0
+D/scenario/mHalCam(   86): [mHalCamPreviewProc] Brocast the preview frame in frameCnt:27 E 
+D/pipe/CamIO(   86): [getPreviewFrame] port id = 1
+D/scenario/mHalCam(   86): [mHalCamPreviewProc]  DISP hwIndex: 1, fillCnt: 1, timeS = 1362850537, timeUs = 420094
+D/pipe/CamIO(   86): [releasePreviewFrame] portID = 1 
+D/scenario/mHalCam(   86): [mHalCamEISProc] GmvX = 0, GmvY = 0
+D/scenario/mHalCam(   86): [mHalCamPreviewProc] Brocast the preview frame in frameCnt:28 E 
+D/pipe/CamIO(   86): [getPreviewFrame] port id = 1
+D/scenario/mHalCam(   86): [mHalCamPreviewProc]  DISP hwIndex: 2, fillCnt: 1, timeS = 1362850537, timeUs = 521641
+D/pipe/CamIO(   86): [releasePreviewFrame] portID = 1 
+D/scenario/mHalCam(   86): [mHalCamEISProc] GmvX = 0, GmvY = 0
+D/scenario/mHalCam(   86): [mHalCamPreviewProc] Brocast the preview frame in frameCnt:29 E 
+D/pipe/CamIO(   86): [getPreviewFrame] port id = 1
+D/scenario/mHalCam(   86): [mHalCamPreviewProc]  DISP hwIndex: 3, fillCnt: 1, timeS = 1362850537, timeUs = 623157
+D/pipe/CamIO(   86): [releasePreviewFrame] portID = 1 
+D/scenario/mHalCam(   86): [mHalCamEISProc] GmvX = 0, GmvY = 0
+D/scenario/mHalCam(   86): [mHalCamPreviewProc] Brocast the preview frame in frameCnt:30 E 
+D/pipe/CamIO(   86): [getPreviewFrame] port id = 1
+D/scenario/mHalCam(   86): [mHalCamPreviewProc]  DISP hwIndex: 0, fillCnt: 1, timeS = 1362850537, timeUs = 724687
+D/pipe/CamIO(   86): [releasePreviewFrame] portID = 1 
+D/scenario/mHalCam(   86): [mHalCamEISProc] GmvX = 0, GmvY = 0
+D/scenario/mHalCam(   86): [mHalCamPreviewProc] Brocast the preview frame in frameCnt:31 E 
+D/pipe/CamIO(   86): [getPreviewFrame] port id = 1
+D/scenario/mHalCam(   86): [mHalCamPreviewProc]  DISP hwIndex: 1, fillCnt: 1, timeS = 1362850537, timeUs = 826229
+D/pipe/CamIO(   86): [releasePreviewFrame] portID = 1 
+D/scenario/mHalCam(   86): [mHalCamEISProc] GmvX = 0, GmvY = 0
+D/scenario/mHalCam(   86): [mHalCamPreviewProc] Brocast the preview frame in frameCnt:32 E 
+D/pipe/CamIO(   86): [getPreviewFrame] port id = 1
+D/scenario/mHalCam(   86): [mHalCamPreviewProc]  DISP hwIndex: 2, fillCnt: 1, timeS = 1362850537, timeUs = 927767
+D/pipe/CamIO(   86): [releasePreviewFrame] portID = 1 
+D/scenario/mHalCam(   86): [mHalCamEISProc] GmvX = 0, GmvY = 0
+D/scenario/mHalCam(   86): [mHalCamPreviewProc] Brocast the preview frame in frameCnt:33 E 
+D/pipe/CamIO(   86): [getPreviewFrame] port id = 1
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/scenario/mHalCam(   86): [mHalCamPreviewProc]  DISP hwIndex: 3, fillCnt: 1, timeS = 1362850538, timeUs = 29333
+D/pipe/CamIO(   86): [releasePreviewFrame] portID = 1 
+D/scenario/mHalCam(   86): [mHalCamEISProc] GmvX = 0, GmvY = 0
+D/scenario/mHalCam(   86): [mHalCamPreviewProc] Brocast the preview frame in frameCnt:34 E 
+D/pipe/CamIO(   86): [getPreviewFrame] port id = 1
+D/scenario/mHalCam(   86): [mHalCamPreviewProc]  DISP hwIndex: 0, fillCnt: 1, timeS = 1362850538, timeUs = 130874
+D/pipe/CamIO(   86): [releasePreviewFrame] portID = 1 
+D/scenario/mHalCam(   86): [mHalCamEISProc] GmvX = 0, GmvY = 0
+D/scenario/mHalCam(   86): [mHalCamPreviewProc] Brocast the preview frame in frameCnt:35 E 
+D/pipe/CamIO(   86): [getPreviewFrame] port id = 1
+D/FTM     (   86): Key_Confirm Click - Back
+D/FTM     (   86): camera_cap_key_handler: Exit thead
+D/FTM     (   86): camera_update_capture_tv_thread: Exit
+D/FTM     (   86): Stop Camera Preview 
+D/ACDK_IF (   86): [MDK_IOControl] Reveive IOControl Code:2001
+D/APPCCTCtrl(   86): stopPreview 
+D/scenario/mHalCam(   86): [mHalCamPreviewStop] Start 
+D/scenario/mHalCam(   86): [mHalCamSetState] Now: 0x0100, Next: 0x0400 
+D/scenario/mHalCam(   86): [mHalCamPreviewProc]  DISP hwIndex: 1, fillCnt: 1, timeS = 1362850538, timeUs = 232403
+D/scenario/mHalCam(   86): [preview]Current fps: 10 
+D/pipe/CamIO(   86): [releasePreviewFrame] portID = 1 
+D/scenario/mHalCam(   86): [mHalCamEISProc] GmvX = 0, GmvY = 0
+D/scenario/mHalCam(   86): [mHalCamPreviewProc] Brocast the preview frame in frameCnt:36 E 
+D/scenario/mHalCam(   86): [mHalCamPreviewProc]  exit while 
+D/scenario/mHalCam(   86): [mHalCamPreviewProc] End 
+D/scenario/mHalCam(   86): [mHalCamPreviewStop] Got semMainNormalBack B 0 
+D/pipe/CamIO(   86): [stop], mCurPipeEngine = 0x3 
+D/IspHal  (   86): [stop]
+D/IspDrv  (   86): [setSubsampleWidth]Enable(0), Input(0), Output(0)
+D/IspDrv  (   86): [setSubsampleHeight]Enable(0), Input(0), Output(0)
+D/IspDrv  (   86): [control]isEn(0)
+I/MDP     (   86): [MDP INFO](86): [stop]
+D/pipe/CamIO(   86): [~mHalCamMemPool] poolName = MDPWorkBuf , phyAddr = 0x0, virtAddr = 0x416e0020, size = 758784, PmemFD = -1
+D/mHalFlashlight(   86): [mHalFlashlightSetFire]:0 
+D/FlashlightDrv(   86): [FlashlightDrv] setFire = 0
+D/scenario/mHalCam(   86): [mHalCamStop, 0 time] =====> 0 ms 
+D/pipe/CamIO(   86): [setCallbacks] cb:0x0, cookie:0x0
+D/        (   86): [EISapp]Disable EIS
+D/        (   86): [EISdrv][enableEIS] 0
+D/mHalFDVT(   86): [halFDUninit] IN 
+D/mHalFDVT(   86): [stop] free M4U ISP read port memory 
+D/mHalFDVT(   86): [freeM4UMemory] E 
+D/mHalFDVT(   86): [freeM4UMemory] m4uVa = 0x41694020, size = 153600 
+D/OvlHal  (   86): OverlayHal::uninit()
+D/scenario/mHalCam(   86): [~mHalCamMemPool] poolName = FDWorkBuf , phyAddr = 0x0, virtAddr = 0x41694020, size = 307200, PmemFD = -1
+D/scenario/mHalCam(   86): [mHalCamSetState] Now: 0x0400, Next: 0x0001 
+D/scenario/mHalCam(   86): [mHalSetResMgr]Mode=1, ModeSub=0, Dev=1
+D/ResMgrHal(   86): [SetMode]Mode(1), ModeSub(0), Dev(1)
+D/ResMgrDrv(   86): [SetBWC]Mode(1)
+D/ResMgrDrv(   86): [SetSysramSwitchbank]En(0)
+D/ResMgrDrv(   86): [CloseTvout]En(1)
+W/ResMgrDrv(   86): [CloseTvout]Warning(  380):TvOut kernel open fail, errno(2):No such file or directory
+D/ResMgrDrv(   86): [ForceHdmiFullscreen]En(1)
+W/ResMgrDrv(   86): [ForceHdmiFullscreen]Warning(  517):Hdmi Tx kernel open fail, errno(2):No such file or directory
+D/ResMgrHal(   86): [LockMdpBrz]BRZ has been locked
+D/ResMgrHal(   86): [SetMode]Result(1)
+D/scenario/mHalCam(   86): [mHalCamPrvIndicatorThread] exit (pid, tid) = (86, 2376)
+D/scenario/mHalCam(   86): [mHalCamPreviewStop] mPrvIndicatorThread back 
+D/scenario/mHalCam(   86): [mHalCamPreviewStop, 0 time] =====> 39 ms 
+D/ACDK_IF (   86): [MDK_IOControl] Reveive IOControl Code:1002
+D/mHalSurfaceView(   86): [vResetLayer] MTKFB_SET_VIDEO_LAYERS, layerNo = 0
+D/mHalSurfaceView(   86): [vResetLayer] MTKFB_TRIG_OVERLAY_OUT
+D/FTM     (   86): [MIUI] itemview_run 0xc73e8
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY:CONFIRM
+D/APPCCTCtrl(   86): [uninit] - E
+D/scenario/mHalCam(   86): [mHalCamUninit] 
+D/scenario/mHalCam(   86): [mHalCamSetState] Now: 0x0001, Next: 0x0800 
+D/scenario/mHalCam(   86): Got semMainHigh 
+D/scenario/mHalCam(   86): [mHalCamMainHighThread] End 
+D/scenario/mHalCam(   86): Got semMainNormal 0 
+D/scenario/mHalCam(   86): [mHalCamMainNormalThread] End 
+D/scenario/mHalCam(   86): wait for semMainHighEnd & semMainNormalEnd
+D/IspHal  (   86): [uninit]mUsers(1)
+D/LensDrv (   86): LensDrvuninit() [m_userCnt]0
+D/ImgSensorDrv(   86): MATV WORKAROUND - power off
+D/ImgSensorDrv(   86): [psFlag]:0
+D/ImgSensorDrv(   86): [uninit] mUsers = 1
+D/IspDrv  (   86): [uninit]mUsers(1)
+D/aaa_hal_yuv(   86):  [Hal3AYuv] destroyInstance  0x8108315c
+D/AppFDVT (   86): [stop] free M4U fdvt mWorkingBuffer memory memory 
+D/AppFDVT (   86): [freeM4UMemory] E 
+D/AppFDVT (   86): [freeM4UMemory] m4uVa = 0x402d4020, size = 464448 
+D/AppFDVT (   86): [stop] free M4U fdvt mLearningData memory 
+D/AppFDVT (   86): [freeM4UMemory] E 
+D/AppFDVT (   86): [freeM4UMemory] m4uVa = 0x40346020, size = 95456 
+D/        (   86): [EIShal]uninit - mUsers: 1 
+D/        (   86): [EISdrv]uninit - mUsers: 2 
+D/        (   86): [EISdrv]Still 1 users 
+D/        (   86): [EIShal][sysram free] eUsr=2
+D/IspSysramMgr(   86): [syncSysramKDrv]:(err, m_u4RefCount, m_u4UsrMask, m_fdSysramKDrv, m_pu8VirBase)=(0x00000000, 0, 0x00000000, -1, 0x0)
+D/        (   86): [EISapp]uninit
+D/        (   86): [EISdrv]uninit - mUsers: 1 
+D/mHalFlashlight(   86): [mHalFlashlightSetFire]:0 
+D/FlashlightDrv(   86): [FlashlightDrv] setFire = 0
+D/mHalFlashlight(   86): [mHalFlashlightUninit] 
+D/FlashlightDrv(   86): [uninit] mUsers = 1
+D/pipe/CamIO(   86): [uninit] E 
+D/ResMgrHal(   86): [Uninit]mInitCount(2)
+D/scenario/mHalCam(   86): [mHalSetResMgr]Mode=0, ModeSub=0, Dev=1
+D/ResMgrHal(   86): [SetMode]Mode(0), ModeSub(0), Dev(1)
+D/ResMgrDrv(   86): [SetBWC]Mode(0)
+D/ResMgrDrv(   86): [SetSysramSwitchbank]En(1)
+D/ResMgrDrv(   86): [CloseTvout]En(0)
+W/ResMgrDrv(   86): [CloseTvout]Warning(  380):TvOut kernel open fail, errno(2):No such file or directory
+D/ResMgrDrv(   86): [ForceHdmiFullscreen]En(0)
+W/ResMgrDrv(   86): [ForceHdmiFullscreen]Warning(  517):Hdmi Tx kernel open fail, errno(2):No such file or directory
+D/ResMgrHal(   86): [LockMdpBrz]BRZ unlocked OK
+D/ResMgrHal(   86): [SetMode]Result(1)
+D/ResMgrHal(   86): [Uninit]mInitCount(1)
+D/ResMgrHal(   86): [Uninit]unlock ISP
+D/ResMgrDrv(   86): [UnlockRes]Unlock OK, ModeMask(0x00000001)
+D/APPCCTCtrl(   86): [uninit] unregisterBuffer addr = 0x4155f020
+D/APPCCTCtrl(   86): [uninit] unregisterBuffer addr = 0x4159cc20
+D/APPCCTCtrl(   86): [uninit] unregisterBuffer addr = 0x415da820
+D/APPCCTCtrl(   86): [uninit] unregisterBuffer addr = 0x41618420
+D/APPCCTCtrl(   86): [uninit] unregisterBuffer addr = 0x41656020
+D/mHalSurfaceView(   86): [uninit] E
+D/APPCCTCtrl(   86): [uninit] - mImageBuf E
+D/APPCCTCtrl(   86): [uninit] - mSurfaceBuf E
+D/APPCCTCtrl(   86): [uninit] - X 
+D/AcdkCalibration(   86):  unInit AcdkCalibration Tool
+D/APPCCTCtrl(   86): [~AppCCTCtrl] - E 
+D/mHalSurfaceView(   86): ~mHalSurfaceView() E 
+D/CCTIF   (   86): [~CCTIF] E
+D/scenario/mHalCam(   86): [mHalCamFreeZSDMem], non buffer released 
+D/AcdkCalibration(   86):  AcdkCalibration Disconstructor
+D/AcdkImgTool(   86):  AcdkImgTool Deconstructor 
+D/FTM     (   86): [MAIN] Save test result to 
+D/FTM     (   86): [MAIN]   Version=1
+D/FTM     (   86): [MAIN]   Keys=1
+D/FTM     (   86): [MAIN]   Touch Panel=0
+D/FTM     (   86): [MAIN]   LCD Color=1
+D/FTM     (   86): [MAIN]   LCD Contrast=1
+D/FTM     (   86): [MAIN]   Memory Card=1
+D/FTM     (   86): [MAIN]   SIM1 Detect=1
+D/FTM     (   86): [MAIN]   SIM2 Detect=1
+D/FTM     (   86): [MAIN]   Vibrator=1
+D/FTM     (   86): [MAIN]   LED=1
+D/FTM     (   86): [MAIN]   Speaker Test=1
+D/FTM     (   86): [MAIN]   Receiver=1
+D/FTM     (   86): [MAIN]   Loopback=1
+D/FTM     (   86): [MAIN]   Headset=1
+D/FTM     (   86): [MAIN]   G-Sensor Calibration=1
+D/FTM     (   86): [MAIN]   G-Sensor=1
+D/FTM     (   86): [MAIN]   ALS/PS=1
+D/FTM     (   86): [MAIN]   Main Camera=1
+D/FTM     (   86): [MAIN]   Sub Camera=1
+D/FTM     (   86): [MAIN]   GPS-Power=1
+D/FTM     (   86): [MAIN]   FM Radio=1
+D/FTM     (   86): [MAIN]   Bluetooth=1
+D/FTM     (   86): [MAIN]   Wi-Fi=1
+D/FTM     (   86): [MAIN]   Battery & Charger=1
+D/FTM     (   86): [MAIN]   Idle Current=1
+D/FTM     (   86): [MIUI] itemview_run 0xbe815c24
+E/logwrapper( 2388): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 2387): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 2394): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 2396): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 2398): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 2397): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 2404): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 2406): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 2408): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 2407): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 2414): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 2416): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 2418): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 2417): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 2424): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 2426): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 2428): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 2427): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 2434): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 2436): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 2438): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 2437): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 2444): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 2446): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 2448): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 2447): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 2454): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 2456): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 2458): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 2457): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 2464): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 2466): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 2468): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 2467): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 2474): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 2476): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 2478): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 2477): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 2484): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 2486): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 2488): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 2487): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 2494): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 2496): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 2498): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 2497): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 2504): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 2506): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 2509): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 2508): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 2515): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 2517): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 2519): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 2518): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 2525): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 2527): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 2529): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 2528): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 2535): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 2537): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 2539): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 2538): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 2545): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 2547): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 2549): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 2548): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 2555): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 2557): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 2559): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 2558): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 2565): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 2567): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 2569): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 2568): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 2575): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 2577): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 2579): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 2578): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 2585): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 2587): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 2590): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 2589): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 2596): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 2598): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 2600): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 2599): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 2606): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 2608): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 2611): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 2610): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 2617): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 2619): IPCThread::waitForResponse checking error 3 : -32
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY:DOWN
+D/FTM     (   86): [MIUI] sel=19, maxrows=24, menu_from=1, menu_sel=19
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY:DOWN
+D/FTM     (   86): [MIUI] sel=20, maxrows=24, menu_from=1, menu_sel=20
+E/logwrapper( 2621): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 2620): /system/bin/ami304d terminated by exit(255)
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY:DOWN
+D/FTM     (   86): [MIUI] sel=21, maxrows=24, menu_from=1, menu_sel=21
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY:DOWN
+D/FTM     (   86): [MIUI] sel=22, maxrows=24, menu_from=1, menu_sel=22
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY:DOWN
+D/FTM     (   86): [MIUI] [2]update menu_from: 1 --> 0
+D/FTM     (   86): [MIUI] [3]update menu_from: 0 --> 1
+D/FTM     (   86): [MIUI] sel=23, maxrows=24, menu_from=1, menu_sel=23
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY:DOWN
+D/FTM     (   86): [MIUI] [2]update menu_from: 1 --> 1
+D/FTM     (   86): [MIUI] sel=24, maxrows=24, menu_from=1, menu_sel=24
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY:DOWN
+D/FTM     (   86): [MIUI] [2]update menu_from: 1 --> 2
+D/FTM     (   86): [MIUI] sel=25, maxrows=24, menu_from=2, menu_sel=25
+E/IPCThreadState( 2627): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 2629): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 2631): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 2630): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 2637): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 2639): IPCThread::waitForResponse checking error 3 : -32
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY:UP
+D/FTM     (   86): [MIUI] [2]update menu_from: 2 --> 1
+D/FTM     (   86): [MIUI] sel=24, maxrows=24, menu_from=1, menu_sel=24
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY:UP
+D/FTM     (   86): [MIUI] [2]update menu_from: 1 --> 0
+D/FTM     (   86): [MIUI] [3]update menu_from: 0 --> 1
+D/FTM     (   86): [MIUI] sel=23, maxrows=24, menu_from=1, menu_sel=23
+E/logwrapper( 2641): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 2640): /system/bin/ami304d terminated by exit(255)
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY:UP
+D/FTM     (   86): [MIUI] sel=22, maxrows=24, menu_from=1, menu_sel=22
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY:UP
+D/FTM     (   86): [MIUI] sel=21, maxrows=24, menu_from=1, menu_sel=21
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY:UP
+D/FTM     (   86): [MIUI] sel=20, maxrows=24, menu_from=1, menu_sel=20
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY:UP
+D/FTM     (   86): [MIUI] sel=19, maxrows=24, menu_from=1, menu_sel=19
+E/IPCThreadState( 2647): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 2649): IPCThread::waitForResponse checking error 3 : -32
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY:CONFIRM
+E/logwrapper( 2651): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 2650): /system/bin/ami304d terminated by exit(255)
+D/FTM     (   86): [GPS]   gps_power_entry
+D/FTM     (   86): [GPS]   gps_run_service: wait pid = 2652
+I//system/bin/factory(   80): Starting GpsRun to run [Factory_High_SNR] job from [/system/etc/gpsconfig.xml] file
+I//system/bin/factory(   80): /home/johnlee/GPS_Tinno/broadcom_SDK_support_glonass_0524/3.19.4.131779/vendor/broadcom/gps/allPartners/deliverables/glgpsapp/unix/../../../../allPartners/deliverables/glgpsapp/unix/main.c 65 The file [/tmp/-c.pid] could not be created, error [No such file or directory]
+I//system/bin/factory(   80): Adjust [RUN_DIR] in Makefile.$(CUST)$(PLATF).mak to a valid directory
+I//system/bin/factory(   80): 19:37:50.538 NVRAM directory [/data/gps/] created (2:No such file or directory)!
+I//system/bin/factory(   80): 19:37:50.540 OpenFifo: Created new fifo [/data/gps/glgpsctrl].
+I//system/bin/factory(   80): 19:37:50.540 OpenFifo: Opened "/data/gps/glgpsctrl"
+I//system/bin/factory(   80): 19:37:50.540 SUPL: Certificate Path : /system/etc/security/
+I//system/bin/factory(   80): 19:37:50.540 SUPL: TLS enable = 1
+I//system/bin/factory(   80): 19:37:50.574 SUPL: Certificate Path : /system/etc/security/
+I//system/bin/factory(   80): 19:37:50.574 SUPL: TLS enable = 1
+I//system/bin/factory(   80): 19:37:50.587 (GpsHalLcsApiStart)
+I//system/bin/factory(   80): 19:37:50.587 getmatchenv missing ANDROID_SOCKET_PREFIX_LCS ANDROID_SOCKET_gps
+I//system/bin/factory(   80): 19:37:50.587 GpsHalPlatfCmdLcsApiInit: -1
+I//system/bin/factory(   80): 19:37:50.587 LCSAPI_I: LCS socket /data/gps/gps
+I//system/bin/factory(   80): 19:37:50.589 GpsHalPlatfCmdLcsApiInit: 28
+I//system/bin/factory(   80): 19:37:50.589 GpsHalAiding::Init()
+I//system/bin/factory(   80): 19:37:50.594 *** SYNPARSER: E=-5 in file XML CFG line(351) col(13) unexpected attribute (1) "AvgeragingIntervalSec"
+I//system/bin/factory(   80): *** SYNPARSER: E=-5 in file XML CFG line(351) col(13) unexpected attribute (1) "AvgeragingIntervalSec"
+I//system/bin/factory(   80): 19:37:50.594 *** SYNPARSER: E=-5 in file XML CFG line(351) col(35) unexpected attribute (1) "10"
+I//system/bin/factory(   80): *** SYNPARSER: E=-5 in file XML CFG line(351) col(35) unexpected attribute (1) "10"
+I//system/bin/factory(   80): 19:37:50.595 ---TASK---<Factory_High_SNR-test>---TASK---|1 of 100| sleep 0ms
+I//system/bin/factory(   80): 19:37:50.595 BRM: GlRequest::MakeFactTestReq(6, -8, 3, 1, 60, 10)
+I//system/bin/factory(   80): 19:37:50.602 nSTANDBY/REGPU GPIO path [/sys/class/rfkill/rfkill1/state]
+I//system/bin/factory(   80): 19:37:50.602 nSTANDBY/REGPU GPIO path [/sys/class/rfkill/rfkill1/state]
+I//system/bin/factory(   80): 19:37:50.745 GpsHalGpio_writesysfs pin [1] value[1
+I//system/bin/factory(   80): ] successful
+I//system/bin/factory(   80): 19:37:50.745 Power enable delay: 100ms
+I//system/bin/factory(   80): 19:37:50.845 asic com thru TTY
+I//system/bin/factory(   80): 19:37:50.845 GpsHalPlatfTTYOpen("/dev/ttyMT0",115200)
+I//system/bin/factory(   80): 19:37:50.846 GpsHalPlatfTTYOpen(GPS: OPEN: 29)
+I//system/bin/factory(   80): 19:37:50.846 LCSAPI_D: LCS: (lcsapi_ongpsstatus) 1
+I//system/bin/factory(   80): 19:37:50.865 BRM: GlRequest::OnStart()
+E/IPCThreadState( 2659): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 2661): IPCThread::waitForResponse checking error 3 : -32
+I//system/bin/factory(   80): 19:37:52.015 NvStorageToIgnore in GlctGlEngCbOnNvStgRead [5F|0]
+I//system/bin/factory(   80): 19:37:52.015 NVRAM file [/data/gps/gldata.sto] opened for reading
+I//system/bin/factory(   80): 19:37:52.016 Closed NVRAM file
+I//system/bin/factory(   80): 19:37:52.016 OpenFifo: Opened "/data/gps/gpspipe"
+I//system/bin/factory(   80): 19:37:52.016 GpsHalNmeaWrite: [cat /data/gps/gpspipe] to read NMEA and continue
+I//system/bin/factory(   80): [cat /data/gps/gpspipe] to stream out NMEA
+I//system/bin/factory(   80): 19:37:52.035 BRM: GlRequest::OnFactTest()
+I//system/bin/factory(   80): 19:37:52.035 SUPL_H: GlArpSuplEvents
+I//system/bin/factory(   80): 19:37:52.035 SUPL_H: supl_enabled=1
+I//system/bin/factory(   80): 19:37:52.035 SUPL: GLCTEV_PAL_GLL_ASST_REQ received
+I//system/bin/factory(   80): 19:37:52.036 SUPL_H: pthread_create(&thread,0, rti_start, 0)
+I//system/bin/factory(   80): 19:37:52.037 SUPL_H: rti_answer:415: ERROR gethostbyname: err-code=0(Unknown error: 0)
+D/FTM     (   86): [GPS]   gps_run_service: wait loop = 1
+D/FTM     (   86): [MIUI] itemview_set_title
+D/FTM     (   86): [MIUI] itemview_set_items
+D/FTM     (   86): [MIUI] itemview_run 0xcb4c0
+D/FTM     (   86): [GPS]   gps_power_update_iv_thread: Start
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY:CONFIRM
+D/FTM     (   86): [GPS]   gps_power_entry, chosen = 0
+D/FTM     (   86): [GPS]   gps_power_entry ITEM_FAIL
+D/FTM     (   86): [GPS]   gps_power_entry, gps->exit_thd = true
+I//system/bin/factory(   80): 19:37:53.015 BRM: GlRequest::OnFactTest()
+D/FTM     (   86): [GPS]   gps_power_update_iv_thread: Exit
+D/FTM     (   86): [GPS]   GPS_Close() 1
+D/FTM     (   86): [MAIN] Save test result to 
+D/FTM     (   86): [MAIN]   Version=1
+D/FTM     (   86): [MAIN]   Keys=1
+D/FTM     (   86): [MAIN]   Touch Panel=0
+D/FTM     (   86): [MAIN]   LCD Color=1
+D/FTM     (   86): [MAIN]   LCD Contrast=1
+D/FTM     (   86): [MAIN]   Memory Card=1
+D/FTM     (   86): [MAIN]   SIM1 Detect=1
+D/FTM     (   86): [MAIN]   SIM2 Detect=1
+D/FTM     (   86): [MAIN]   Vibrator=1
+D/FTM     (   86): [MAIN]   LED=1
+D/FTM     (   86): [MAIN]   Speaker Test=1
+D/FTM     (   86): [MAIN]   Receiver=1
+D/FTM     (   86): [MAIN]   Loopback=1
+D/FTM     (   86): [MAIN]   Headset=1
+D/FTM     (   86): [MAIN]   G-Sensor Calibration=1
+D/FTM     (   86): [MAIN]   G-Sensor=1
+D/FTM     (   86): [MAIN]   ALS/PS=1
+D/FTM     (   86): [MAIN]   Main Camera=1
+D/FTM     (   86): [MAIN]   Sub Camera=1
+D/FTM     (   86): [MAIN]   GPS-Power=1
+D/FTM     (   86): [MAIN]   FM Radio=1
+D/FTM     (   86): [MAIN]   Bluetooth=1
+D/FTM     (   86): [MAIN]   Wi-Fi=1
+D/FTM     (   86): [MAIN]   Battery & Charger=1
+D/FTM     (   86): [MAIN]   Idle Current=1
+D/FTM     (   86): [MIUI] itemview_run 0xbe815c24
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY:CONFIRM
+D/FTM     (   86): [GPS]   gps_power_entry
+D/FTM     (   86): [GPS]   gps_run_service: wait pid = 2664
+I//system/bin/factory(   80): Starting GpsRun to run [Factory_High_SNR] job from [/system/etc/gpsconfig.xml] file
+I//system/bin/factory(   80): /home/johnlee/GPS_Tinno/broadcom_SDK_support_glonass_0524/3.19.4.131779/vendor/broadcom/gps/allPartners/deliverables/glgpsapp/unix/../../../../allPartners/deliverables/glgpsapp/unix/main.c 65 The file [/tmp/-c.pid] could not be created, error [No such file or directory]
+I//system/bin/factory(   80): Adjust [RUN_DIR] in Makefile.$(CUST)$(PLATF).mak to a valid directory
+I//system/bin/factory(   80): 19:37:54.557 NVRAM directory [/data/gps/] created (2:No such file or directory)!
+I//system/bin/factory(   80): 19:37:54.559 OpenFifo: Created new fifo [/data/gps/glgpsctrl].
+I//system/bin/factory(   80): 19:37:54.559 OpenFifo: Opened "/data/gps/glgpsctrl"
+I//system/bin/factory(   80): 19:37:54.559 SUPL: Certificate Path : /system/etc/security/
+I//system/bin/factory(   80): 19:37:54.559 SUPL: TLS enable = 1
+I//system/bin/factory(   80): 19:37:54.566 SUPL: Certificate Path : /system/etc/security/
+I//system/bin/factory(   80): 19:37:54.566 SUPL: TLS enable = 1
+I//system/bin/factory(   80): 19:37:54.567 (GpsHalLcsApiStart)
+I//system/bin/factory(   80): 19:37:54.567 getmatchenv missing ANDROID_SOCKET_PREFIX_LCS ANDROID_SOCKET_gps
+I//system/bin/factory(   80): 19:37:54.567 GpsHalPlatfCmdLcsApiInit: -1
+I//system/bin/factory(   80): 19:37:54.567 LCSAPI_I: LCS socket /data/gps/gps
+I//system/bin/factory(   80): 19:37:54.568 GpsHalPlatfCmdLcsApiInit: 28
+I//system/bin/factory(   80): 19:37:54.568 GpsHalAiding::Init()
+I//system/bin/factory(   80): 19:37:54.574 *** SYNPARSER: E=-5 in file XML CFG line(351) col(13) unexpected attribute (1) "AvgeragingIntervalSec"
+I//system/bin/factory(   80): *** SYNPARSER: E=-5 in file XML CFG line(351) col(13) unexpected attribute (1) "AvgeragingIntervalSec"
+I//system/bin/factory(   80): 19:37:54.574 *** SYNPARSER: E=-5 in file XML CFG line(351) col(35) unexpected attribute (1) "10"
+I//system/bin/factory(   80): *** SYNPARSER: E=-5 in file XML CFG line(351) col(35) unexpected attribute (1) "10"
+I//system/bin/factory(   80): 19:37:54.574 ---TASK---<Factory_High_SNR-test>---TASK---|1 of 100| sleep 0ms
+I//system/bin/factory(   80): 19:37:54.574 BRM: GlRequest::MakeFactTestReq(6, -8, 3, 1, 60, 10)
+I//system/bin/factory(   80): 19:37:54.574 nSTANDBY/REGPU GPIO path [/sys/class/rfkill/rfkill1/state]
+I//system/bin/factory(   80): 19:37:54.575 nSTANDBY/REGPU GPIO path [/sys/class/rfkill/rfkill1/state]
+I//system/bin/factory(   80): 19:37:54.575 GpsHalGpio_writesysfs pin [1] value[0
+I//system/bin/factory(   80): ] successful
+I//system/bin/factory(   80): 19:37:54.625 nSTANDBY/REGPU GPIO path [/sys/class/rfkill/rfkill1/state]
+I//system/bin/factory(   80): 19:37:54.735 GpsHalGpio_writesysfs pin [1] value[1
+I//system/bin/factory(   80): ] successful
+I//system/bin/factory(   80): 19:37:54.735 Power enable delay: 100ms
+I//system/bin/factory(   80): 19:37:54.835 asic com thru TTY
+I//system/bin/factory(   80): 19:37:54.835 GpsHalPlatfTTYOpen("/dev/ttyMT0",115200)
+I//system/bin/factory(   80): 19:37:54.836 GpsHalPlatfTTYOpen(GPS: OPEN: 29)
+I//system/bin/factory(   80): 19:37:54.836 LCSAPI_D: LCS: (lcsapi_ongpsstatus) 1
+I//system/bin/factory(   80): 19:37:54.838 BRM: GlRequest::OnStart()
+E/logwrapper( 2667): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 2666): /system/bin/ami304d terminated by exit(255)
+I//system/bin/factory(   80): 19:37:56.035 NvStorageToIgnore in GlctGlEngCbOnNvStgRead [5F|0]
+I//system/bin/factory(   80): 19:37:56.035 NVRAM file [/data/gps/gldata.sto] opened for reading
+I//system/bin/factory(   80): 19:37:56.036 Closed NVRAM file
+I//system/bin/factory(   80): 19:37:56.036 OpenFifo: Opened "/data/gps/gpspipe"
+I//system/bin/factory(   80): 19:37:56.036 GpsHalNmeaWrite: [cat /data/gps/gpspipe] to read NMEA and continue
+I//system/bin/factory(   80): [cat /data/gps/gpspipe] to stream out NMEA
+I//system/bin/factory(   80): 19:37:56.045 BRM: GlRequest::OnFactTest()
+I//system/bin/factory(   80): 19:37:56.046 SUPL_H: GlArpSuplEvents
+I//system/bin/factory(   80): 19:37:56.046 SUPL_H: supl_enabled=1
+I//system/bin/factory(   80): 19:37:56.046 SUPL: GLCTEV_PAL_GLL_ASST_REQ received
+I//system/bin/factory(   80): 19:37:56.046 SUPL_H: pthread_create(&thread,0, rti_start, 0)
+I//system/bin/factory(   80): 19:37:56.047 SUPL_H: rti_answer:415: ERROR gethostbyname: err-code=0(Unknown error: 0)
+D/FTM     (   86): [GPS]   gps_run_service: wait loop = 1
+D/FTM     (   86): [MIUI] itemview_set_title
+D/FTM     (   86): [MIUI] itemview_set_items
+D/FTM     (   86): [MIUI] itemview_run 0xcb4c0
+D/FTM     (   86): [GPS]   gps_power_update_iv_thread: Start
+E/IPCThreadState( 2675): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 2677): IPCThread::waitForResponse checking error 3 : -32
+I//system/bin/factory(   80): 19:37:57.035 BRM: GlRequest::OnFactTest()
+D/FTM     (   86): [GPS]   gps_power_update_iv_thread: Exit
+I//system/bin/factory(   80): 19:37:58.035 BRM: GlRequest::OnFactTest()
+I//system/bin/factory(   80): 19:37:59.035 BRM: GlRequest::OnFactTest()
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY:DOWN
+D/FTM     (   86): [MIUI] sel=1, maxrows=24, menu_from=1, menu_sel=0
+I//system/bin/factory(   80): 19:38:00.035 BRM: GlRequest::OnFactTest()
+E/logwrapper( 2679): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 2678): /system/bin/ami304d terminated by exit(255)
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY:CONFIRM
+D/FTM     (   86): [GPS]   gps_power_entry, chosen = 0
+D/FTM     (   86): [GPS]   gps_power_entry ITEM_FAIL
+D/FTM     (   86): [GPS]   gps_power_entry, gps->exit_thd = true
+D/FTM     (   86): [GPS]   GPS_Close() 1
+D/FTM     (   86): [MAIN] Save test result to 
+D/FTM     (   86): [MAIN]   Version=1
+D/FTM     (   86): [MAIN]   Keys=1
+D/FTM     (   86): [MAIN]   Touch Panel=0
+D/FTM     (   86): [MAIN]   LCD Color=1
+D/FTM     (   86): [MAIN]   LCD Contrast=1
+D/FTM     (   86): [MAIN]   Memory Card=1
+D/FTM     (   86): [MAIN]   SIM1 Detect=1
+D/FTM     (   86): [MAIN]   SIM2 Detect=1
+D/FTM     (   86): [MAIN]   Vibrator=1
+D/FTM     (   86): [MAIN]   LED=1
+D/FTM     (   86): [MAIN]   Speaker Test=1
+D/FTM     (   86): [MAIN]   Receiver=1
+D/FTM     (   86): [MAIN]   Loopback=1
+D/FTM     (   86): [MAIN]   Headset=1
+D/FTM     (   86): [MAIN]   G-Sensor Calibration=1
+D/FTM     (   86): [MAIN]   G-Sensor=1
+D/FTM     (   86): [MAIN]   ALS/PS=1
+D/FTM     (   86): [MAIN]   Main Camera=1
+D/FTM     (   86): [MAIN]   Sub Camera=1
+D/FTM     (   86): [MAIN]   GPS-Power=1
+D/FTM     (   86): [MAIN]   FM Radio=1
+D/FTM     (   86): [MAIN]   Bluetooth=1
+D/FTM     (   86): [MAIN]   Wi-Fi=1
+D/FTM     (   86): [MAIN]   Battery & Charger=1
+D/FTM     (   86): [MAIN]   Idle Current=1
+D/FTM     (   86): [MIUI] itemview_run 0xbe815c24
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY:DOWN
+D/FTM     (   86): [MIUI] sel=20, maxrows=24, menu_from=1, menu_sel=20
+E/IPCThreadState( 2685): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 2687): IPCThread::waitForResponse checking error 3 : -32
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY:CONFIRM
+D/FTM     (   86): [FM] fm_entry
+D/FTM     (   86): [MIUI] itemview_set_title
+D/FTM     (   86): [MIUI] itemview_set_items
+D/        (   86): Common_Audio_init bMetaAudioInited == true, already init!!
+D/FTM     (   86): [FM] preferred_freq 0 can't get
+D/FTM     (   86): [FM] preferred_freq 1 can't get
+D/FTM     (   86): [FM] preferred_freq 2 can't get
+D/FTM     (   86): [FM] preferred_freq 3 can't get
+D/FTM     (   86): [MIUI] itemview_run 0xcf508
+D/FTM     (   86): [FM] fm_update_thread: Start
+I/bluedroid(   86): fm_enable
+I/bluedroid(   86): BTOFF_FMOFF_handling
+I/bluedroid(   86): BTOFF_FMOFF_handling : receiving FM_ON
+E/bluedroid(   86): =======buffer=1====
+I/bluedroid(   86): ======hciattach_starting=0====is_hciattach_enabled=1
+E/bluedroid(   86): =======buffer=1====
+I/bluedroid(   86): Start hciattach daemon successed
+I/bluedroid(   86): Starting btld...
+I/bluedroid(   86): dtun_property_is_active : service.brcm.bt.fm.active=0
+D/BTL-SERVER( 2690): /system/bin/btld:pid:2690, main(): calling set_aid_and_cap
+D/BTL-SERVER( 2690): in set_aid_and_cap() pid:2690
+V/BTL_CFG ( 2690): btl_cfg_get_btld_status: service.brcm.bt.btld=0
+E/BTL-SERVER( 2690): BTLD starting...
+E/BTLD    ( 2690): ##### ERROR : main: main :: BTLD starting 
+E/BTLD    ( 2690):  #####
+V/BTL_CFG ( 2690): btl_cfg_set_btld_status: service.brcm.bt.btld=1, ret=0
+V/BTL_CFG ( 2690): btld_cfg_btld_pid : service.brcm.bt.btld_pid = 2690
+V/BTL_CFG ( 2690): btl_cfg_set_btld_pid success : service.brcm.bt.btld_pid = 2690, ret = 0
+I/BTL-SERVER( 2690): BTE version BCM1200_MI_10.3.16.26
+I/BTL-SERVER( 2690): btld version BTLZ_MI_235.10.0.5 starting...
+I/BTL-SERVER( 2690): Build time: Nov  2 2011 06:13:34
+I/BTL_CFG ( 2690): btl_cfg_get_bdaddr: auto BDA=4325666A30D4
+E/BTL_CFG ( 2690): WARNING : [service.brcm.bt.patchfile] property_get failed (0)
+I/BTL_CFG ( 2690): btl_cfg_get_3way_conf_support: service.brcm.bt.3way_support=true
+E/BTL_CFG ( 2690): WARNING : [service.brcm.bt.bt_wake_polar] property_get failed (0)
+I/BTL_CFG ( 2690): btl_cfg_get_lpm_params: service.brcm.bt.bt_wake_polar=0
+E/BTL_CFG ( 2690): WARNING : [service.brcm.bt.host_wake_polar] property_get failed (0)
+I/BTL_CFG ( 2690): btl_cfg_get_lpm_params: service.brcm.bt.host_wake_polar=0
+E/BTL_CFG ( 2690): WARNING : [service.brcm.bt.pcm_clk] property_get failed (0)
+E/BTL_CFG ( 2690): WARNING : [service.brcm.bt.pcm_ms_role] property_get failed (0)
+I/BTL_CFG ( 2690): btl_cfg_get_contacts_db: service.brcm.bt.contacts_db=/data/data/com.android.providers.contacts/databases/contacts2.db
+D/BTL-SERVER( 2690): btld_set_nice_prio(): PRIO_PROCESS: 0, nice increment:-2
+E/BTL-SERVER( 2690): ############### BTE_InitHW: Rfkill from Btld is skipped ...######
+I/USERIAL_LINUX( 2690): USERIAL_Init
+I/GKI_LINUX( 2690): GKI creating JOINABLE task 2
+I/GKI_LINUX( 2690): Leaving GKI_create_task ca58 2 71120 APPL 64630 0
+I/GKI_LINUX( 2690): GKI creating JOINABLE task 1
+I/GKI_LINUX( 2690): Leaving GKI_create_task 39498 1 71160 BTU 64630 0
+I/GKI_LINUX( 2690): GKI creating JOINABLE task 0
+I/GKI_LINUX( 2690): Leaving GKI_create_task ae88 0 711a0 HCI 64630 0
+W/BTLD    ( 2690): gki_set_timer_scheduling(()::scheduler current policy: 0
+I/GKI_LINUX( 2690): GKI_run 
+I/GKI_LINUX( 2690): gki_task_entry task_id=0
+I/BLUEZ_HCI( 2690): HCISOCK_Open
+I/BLUEZ_HCI( 2690): Leaving USERIAL_Open
+I/GKI_LINUX( 2690): gki_task_entry task_id=1
+E/BTLD    ( 2690): ################ btm_dev_init: SKIPPING HCI RESET ########
+E/BTLD    ( 2690): #################### SKIPPING PATCHRAM DOWNLOAD ###################
+E/BTLD    ( 2690): ########### SKIPPING READING PARAMETERS STEP#######
+V/BTL_CFG ( 2690): btl_cfg_get_soft_onoff_enabled : service.brcm.bt.soft_onoff = 0
+E/BTL_CFG ( 2690): WARNING : [service.brcm.bt.TRC_BTAPP] property_get failed (0)
+D/BTLD    ( 2690): [bttrc] using compile default trace settings
+I/GKI_LINUX( 2690): gki_task_entry task_id=2
+I/BTAPP_FM( 2690): BTAPP_FM: Initialized IFS (res = 0)
+I/BTLD    ( 2690): BTL_IF_RegisterSubSystem: Registered subsystem [FM]
+I/BTAPP_FM( 2690): BTAPP_FM: Registered IFS (res = 0)
+I/BTL-IFS-WRAPPER( 2690): wrp_sock_create: wrp_sock_create : created socket (fd 13)
+D/BTL-IFS-WRAPPER( 2690): DTUN_MAKE_LOCAL_SERVER_NAME return name: brcm.bt.dtun.9000
+D/BTL-IFS-WRAPPER( 2690): wrp_sock_bind: btl_ifs:wrp_sock_bind:socket_local_server_bind result:0 server_name:brcm.bt.dtun.9000
+D/BTL-IFS-WRAPPER( 2690): wrp_sock_bind: socket_local_server_bind on port 9000
+I/BTL-IFS-WRAPPER( 2690): wrp_sock_listen: wrp_sock_listen : (CTRL) listening on brcm.bt.dtun:9000 (13)
+I//system/bin/btld( 2689): gki_alloc_free_queue in, id:3 
+I//system/bin/btld( 2689): gki_alloc_free_queue calling  gki_init_free_queue, id:3  size:1712, totol:50
+I//system/bin/btld( 2689): gki_alloc_free_queue ret OK, id:3  size:1712, totol:50
+I/bluedroid(   86): dtun_property_is_active : service.brcm.bt.fm.active=1
+I/bluedroid(   86): BTLD start retry count 2/20
+I/bluedroid(   86): Starting daemons... Done!
+I/bluedroid(   86): New state is BTOFF_FMON_handling
+D/        (   86): FMLoopbackTest bEnable=1
+D/        (   86): FMLoopbackTest for 6575.
+D/        (   86): Audio_Set_Speaker_On Channel = 3
+I//system/bin/factory(   80): < HCI Command: ogf 0x3f, ocf 0x0015, plen 3
+I//system/bin/factory(   80):   00 00 03 
+I/BLUEZ_HCI( 2690): ############### Received 9 number of bytes from the socket ##########
+I//system/bin/btld( 2689): gki_alloc_free_queue in, id:2 
+I//system/bin/btld( 2689): gki_alloc_free_queue calling  gki_init_free_queue, id:2  size:660, totol:45
+I//system/bin/btld( 2689): gki_alloc_free_queue ret OK, id:2  size:660, totol:45
+I//system/bin/factory(   80): > HCI Event: 0x0e plen 6
+I//system/bin/factory(   80):   01 15 FC 00 00 00 
+I//system/bin/factory(   80): < HCI Command: ogf 0x3f, ocf 0x0015, plen 4
+I//system/bin/factory(   80):   05 00 5C 00 
+I/BLUEZ_HCI( 2690): ############### Received 9 number of bytes from the socket ##########
+I//system/bin/factory(   80): > HCI Event: 0x0e plen 6
+I//system/bin/factory(   80):   01 15 FC 00 05 00 
+I//system/bin/factory(   80): < HCI Command: ogf 0x3f, ocf 0x0015, plen 4
+I//system/bin/factory(   80):   F8 00 9C 00 
+I/BLUEZ_HCI( 2690): ############### Received 9 number of bytes from the socket ##########
+I//system/bin/factory(   80): > HCI Event: 0x0e plen 6
+I//system/bin/factory(   80):   01 15 FC 00 F8 00 
+I//system/bin/factory(   80): < HCI Command: ogf 0x3f, ocf 0x0015, plen 4
+I//system/bin/factory(   80):   0A 00 D4 62 
+I/BLUEZ_HCI( 2690): ############### Received 9 number of bytes from the socket ##########
+I//system/bin/factory(   80): > HCI Event: 0x0e plen 6
+I//system/bin/factory(   80):   01 15 FC 00 0A 00 
+I//system/bin/factory(   80): < HCI Command: ogf 0x3f, ocf 0x0015, plen 3
+I//system/bin/factory(   80):   09 00 01 
+I/BLUEZ_HCI( 2690): ############### Received 9 number of bytes from the socket ##########
+I//system/bin/factory(   80): > HCI Event: 0x0e plen 6
+I//system/bin/factory(   80):   01 15 FC 00 09 00 
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY:DOWN
+D/FTM     (   86): [MIUI] sel=1, maxrows=24, menu_from=1, menu_sel=1
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY:CONFIRM
+D/FTM     (   86): [MIUI] itemview_run 0xcf508
+I//system/bin/factory(   80): < HCI Command: ogf 0x3f, ocf 0x0015, plen 4
+I//system/bin/factory(   80):   0A 00 F8 5C 
+I/BLUEZ_HCI( 2690): ############### Received 9 number of bytes from the socket ##########
+I//system/bin/factory(   80): > HCI Event: 0x0e plen 6
+I//system/bin/factory(   80):   01 15 FC 00 0A 00 
+I//system/bin/factory(   80): < HCI Command: ogf 0x3f, ocf 0x0015, plen 3
+I//system/bin/factory(   80):   09 00 01 
+I/BLUEZ_HCI( 2690): ############### Received 9 number of bytes from the socket ##########
+I//system/bin/factory(   80): > HCI Event: 0x0e plen 6
+I//system/bin/factory(   80):   01 15 FC 00 09 00 
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY:DOWN
+D/FTM     (   86): [MIUI] sel=2, maxrows=24, menu_from=1, menu_sel=2
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY:CONFIRM
+D/FTM     (   86): [MIUI] itemview_run 0xcf508
+I//system/bin/factory(   80): < HCI Command: ogf 0x3f, ocf 0x0015, plen 4
+I//system/bin/factory(   80):   0A 00 C8 64 
+I/BLUEZ_HCI( 2690): ############### Received 9 number of bytes from the socket ##########
+I//system/bin/factory(   80): > HCI Event: 0x0e plen 6
+I//system/bin/factory(   80):   01 15 FC 00 0A 00 
+I//system/bin/factory(   80): < HCI Command: ogf 0x3f, ocf 0x0015, plen 3
+I//system/bin/factory(   80):   09 00 01 
+I/BLUEZ_HCI( 2690): ############### Received 9 number of bytes from the socket ##########
+I//system/bin/factory(   80): > HCI Event: 0x0e plen 6
+I//system/bin/factory(   80):   01 15 FC 00 09 00 
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY:DOWN
+D/FTM     (   86): [MIUI] sel=3, maxrows=24, menu_from=1, menu_sel=3
+E/logwrapper( 2715): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 2714): /system/bin/ami304d terminated by exit(255)
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY:CONFIRM
+D/FTM     (   86): [MIUI] itemview_run 0xcf508
+I//system/bin/factory(   80): < HCI Command: ogf 0x3f, ocf 0x0015, plen 4
+I//system/bin/factory(   80):   0A 00 4C 81 
+I/BLUEZ_HCI( 2690): ############### Received 9 number of bytes from the socket ##########
+I//system/bin/factory(   80): > HCI Event: 0x0e plen 6
+I//system/bin/factory(   80):   01 15 FC 00 0A 00 
+I//system/bin/factory(   80): < HCI Command: ogf 0x3f, ocf 0x0015, plen 3
+I//system/bin/factory(   80):   09 00 01 
+I/BLUEZ_HCI( 2690): ############### Received 9 number of bytes from the socket ##########
+I//system/bin/factory(   80): > HCI Event: 0x0e plen 6
+I//system/bin/factory(   80):   01 15 FC 00 09 00 
+E/IPCThreadState( 2725): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 2727): IPCThread::waitForResponse checking error 3 : -32
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY:DOWN
+D/FTM     (   86): [MIUI] sel=4, maxrows=24, menu_from=1, menu_sel=4
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY:CONFIRM
+D/FTM     (   86): [MIUI] itemview_run 0xcf508
+I//system/bin/factory(   80): < HCI Command: ogf 0x3f, ocf 0x0015, plen 4
+I//system/bin/factory(   80):   0A 00 6C 9D 
+I/BLUEZ_HCI( 2690): ############### Received 9 number of bytes from the socket ##########
+I//system/bin/factory(   80): > HCI Event: 0x0e plen 6
+I//system/bin/factory(   80):   01 15 FC 00 0A 00 
+I//system/bin/factory(   80): < HCI Command: ogf 0x3f, ocf 0x0015, plen 3
+I//system/bin/factory(   80):   09 00 01 
+I/BLUEZ_HCI( 2690): ############### Received 9 number of bytes from the socket ##########
+I//system/bin/factory(   80): > HCI Event: 0x0e plen 6
+I//system/bin/factory(   80):   01 15 FC 00 09 00 
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY:DOWN
+D/FTM     (   86): [MIUI] sel=5, maxrows=24, menu_from=1, menu_sel=0
+E/logwrapper( 2733): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 2732): /system/bin/ami304d terminated by exit(255)
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY:CONFIRM
+D/        (   86): FMLoopbackTest bEnable=0
+D/        (   86): FMLoopbackTest for 6575.
+D/        (   86): Audio_Set_Speaker_Off Channel = 3
+D/FTM     (   86): [FM] fm_update_thread: Exit
+D/        (   86): !Common_Audio_deinit bMetaAudioInited=1
+D/FTM     (   86): [MAIN] Save test result to 
+D/FTM     (   86): [MAIN]   Version=1
+D/FTM     (   86): [MAIN]   Keys=1
+D/FTM     (   86): [MAIN]   Touch Panel=0
+D/FTM     (   86): [MAIN]   LCD Color=1
+D/FTM     (   86): [MAIN]   LCD Contrast=1
+D/FTM     (   86): [MAIN]   Memory Card=1
+D/FTM     (   86): [MAIN]   SIM1 Detect=1
+D/FTM     (   86): [MAIN]   SIM2 Detect=1
+D/FTM     (   86): [MAIN]   Vibrator=1
+D/FTM     (   86): [MAIN]   LED=1
+D/FTM     (   86): [MAIN]   Speaker Test=1
+D/FTM     (   86): [MAIN]   Receiver=1
+D/FTM     (   86): [MAIN]   Loopback=1
+D/FTM     (   86): [MAIN]   Headset=1
+D/FTM     (   86): [MAIN]   G-Sensor Calibration=1
+D/FTM     (   86): [MAIN]   G-Sensor=1
+D/FTM     (   86): [MAIN]   ALS/PS=1
+D/FTM     (   86): [MAIN]   Main Camera=1
+D/FTM     (   86): [MAIN]   Sub Camera=1
+D/FTM     (   86): [MAIN]   GPS-Power=1
+D/FTM     (   86): [MAIN]   FM Radio=1
+D/FTM     (   86): [MAIN]   Bluetooth=1
+D/FTM     (   86): [MAIN]   Wi-Fi=1
+D/FTM     (   86): [MAIN]   Battery & Charger=1
+D/FTM     (   86): [MAIN]   Idle Current=1
+D/FTM     (   86): [MIUI] itemview_run 0xbe815c24
+E/IPCThreadState( 2739): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 2741): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 2743): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 2742): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 2749): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 2751): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 2753): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 2752): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 2759): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 2761): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 2763): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 2762): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 2769): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 2771): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 2773): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 2772): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 2779): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 2781): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 2783): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 2782): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 2789): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 2791): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 2793): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 2792): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 2799): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 2801): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 2803): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 2802): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 2809): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 2811): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 2813): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 2812): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 2819): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 2821): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 2824): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 2823): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 2830): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 2832): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 2834): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 2833): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 2840): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 2842): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 2844): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 2843): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 2850): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 2852): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 2854): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 2853): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 2860): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 2862): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 2864): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 2863): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 2870): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 2872): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 2874): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 2873): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 2880): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 2882): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper( 2884): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper( 2883): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState( 2890): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState( 2892): IPCThread::waitForResponse checking error 3 : -32

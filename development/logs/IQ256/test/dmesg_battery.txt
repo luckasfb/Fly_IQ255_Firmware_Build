@@ -1,0 +1,2435 @@
+<7>[ 1463.997242] [3073:adbd] set proc[3073] name: -> [sh]
+<7>[ 1463.998795] [3073:sh] fork [3074:sh]
+<7>[ 1463.999336] [3074:sh] set proc[3074] name: -> [dumpsys]
+<6>[ 1464.005557] binder: 3074:3074 refcount change on invalid ref 0
+<6>[ 1464.005570] binder: 3074:3074 refcount change on invalid ref 0
+<6>[ 1464.005584] binder: 3074:3074 binder_context_mgr_node is NULL
+<6>[ 1464.005594] binder: 3074:3074 transaction failed 29189, size 100-0
+<7>[ 1464.006094] [3074:dumpsys] exit
+<7>[ 1464.006443] [3074:dumpsys] sig 17 to [3073:sh]
+<7>[ 1464.006529] [3073:sh] exit
+<7>[ 1464.006668] [3073:sh] sig 1 to [3073:sh]
+<7>[ 1464.006689] [3073:sh] sig 17 to [82:adbd]
+<4>[ 1464.150324] 2013-03-09 17:40:52.215362 UTC; android time 2013-03-09 17:40:52.215362
+<7>[ 1467.627090] [1:init] fork [3075:init]
+<7>[ 1467.627614] [3075:init] set proc[3075] name: -> [logwrapper]
+<7>[ 1467.628971] [3075:logwrapper] fork [3076:logwrapper]
+<7>[ 1467.629490] [3076:logwrapper] exit
+<7>[ 1467.629614] [3076:logwrapper] sig 17 to [3075:logwrapper]
+<7>[ 1467.629791] [3075:logwrapper] exit
+<7>[ 1467.629981] [3075:logwrapper] sig 17 to [1:init]
+<7>[ 1468.852600] [82:adbd] fork [3077:adbd]
+<7>[ 1468.853393] [3077:adbd] set proc[3077] name: -> [sh]
+<7>[ 1468.854956] [3077:sh] fork [3078:sh]
+<7>[ 1468.855512] [3078:sh] set proc[3078] name: -> [df]
+<7>[ 1468.857671] [3078:df] exit
+<7>[ 1468.857810] [3078:df] sig 17 to [3077:sh]
+<7>[ 1468.857901] [3077:sh] exit
+<7>[ 1468.858183] [82:adbd] sig 1 to [3077:sh]
+<7>[ 1468.858198] [82:adbd] sig 18 to [3077:sh]
+<7>[ 1468.858401] [3077:sh] sig 1 to [3077:sh]
+<7>[ 1468.858412] [3077:sh] sig 18 to [3077:sh]
+<7>[ 1468.858427] [3077:sh] sig 17 to [82:adbd]
+<7>[ 1468.902011] [82:adbd] fork [3079:adbd]
+<7>[ 1468.902787] [3079:adbd] set proc[3079] name: -> [sh]
+<7>[ 1468.904350] [3079:sh] fork [3080:sh]
+<7>[ 1468.904899] [3080:sh] set proc[3080] name: -> [getprop]
+<7>[ 1468.906889] [3080:getprop] exit
+<7>[ 1468.907022] [3080:getprop] sig 17 to [3079:sh]
+<7>[ 1468.907110] [3079:sh] exit
+<7>[ 1468.907393] [82:adbd] sig 1 to [3079:sh]
+<7>[ 1468.907407] [82:adbd] sig 18 to [3079:sh]
+<7>[ 1468.907607] [3079:sh] sig 1 to [3079:sh]
+<7>[ 1468.907618] [3079:sh] sig 18 to [3079:sh]
+<7>[ 1468.907632] [3079:sh] sig 17 to [82:adbd]
+<7>[ 1468.951909] [82:adbd] fork [3081:adbd]
+<7>[ 1468.952690] [3081:adbd] set proc[3081] name: -> [sh]
+<7>[ 1468.954239] [3081:sh] fork [3082:sh]
+<7>[ 1468.954783] [3082:sh] set proc[3082] name: -> [dumpsys]
+<6>[ 1468.961048] binder: 3082:3082 refcount change on invalid ref 0
+<6>[ 1468.961061] binder: 3082:3082 refcount change on invalid ref 0
+<6>[ 1468.961074] binder: 3082:3082 binder_context_mgr_node is NULL
+<6>[ 1468.961085] binder: 3082:3082 transaction failed 29189, size 96-0
+<7>[ 1468.961591] [3082:dumpsys] exit
+<7>[ 1468.961933] [3082:dumpsys] sig 17 to [3081:sh]
+<7>[ 1468.962019] [3081:sh] exit
+<7>[ 1468.962162] [3081:sh] sig 1 to [3081:sh]
+<7>[ 1468.962183] [3081:sh] sig 17 to [82:adbd]
+<7>[ 1469.003262] [82:adbd] fork [3083:adbd]
+<7>[ 1469.004036] [3083:adbd] set proc[3083] name: -> [sh]
+<7>[ 1469.005582] [3083:sh] fork [3084:sh]
+<7>[ 1469.006120] [3084:sh] set proc[3084] name: -> [dumpsys]
+<6>[ 1469.012334] binder: 3084:3084 refcount change on invalid ref 0
+<6>[ 1469.012346] binder: 3084:3084 refcount change on invalid ref 0
+<6>[ 1469.012359] binder: 3084:3084 binder_context_mgr_node is NULL
+<6>[ 1469.012370] binder: 3084:3084 transaction failed 29189, size 100-0
+<7>[ 1469.012865] [3084:dumpsys] exit
+<7>[ 1469.013210] [3084:dumpsys] sig 17 to [3083:sh]
+<7>[ 1469.013296] [3083:sh] exit
+<7>[ 1469.013437] [3083:sh] sig 1 to [3083:sh]
+<7>[ 1469.013457] [3083:sh] sig 17 to [82:adbd]
+<5>[ 1470.751554] [Power/Battery] [FGADC] 1,2416,0,70,3790,48,32,26,1135,1135,-41,0,0,1000,0,3834,1000,74,68,2324,104,103
+<7>[ 1472.635346] [1:init] fork [3085:init]
+<7>[ 1472.635868] [3085:init] set proc[3085] name: -> [logwrapper]
+<7>[ 1472.637214] [3085:logwrapper] fork [3086:logwrapper]
+<7>[ 1472.637724] [3086:logwrapper] exit
+<7>[ 1472.637846] [3086:logwrapper] sig 17 to [3085:logwrapper]
+<7>[ 1472.638024] [3085:logwrapper] exit
+<7>[ 1472.638217] [3085:logwrapper] sig 17 to [1:init]
+<7>[ 1473.865521] [82:adbd] fork [3087:adbd]
+<7>[ 1473.866302] [3087:adbd] set proc[3087] name: -> [sh]
+<7>[ 1473.867869] [3087:sh] fork [3088:sh]
+<7>[ 1473.868423] [3088:sh] set proc[3088] name: -> [df]
+<7>[ 1473.870638] [3088:df] exit
+<7>[ 1473.870776] [3088:df] sig 17 to [3087:sh]
+<7>[ 1473.870865] [3087:sh] exit
+<7>[ 1473.871149] [82:adbd] sig 1 to [3087:sh]
+<7>[ 1473.871163] [82:adbd] sig 18 to [3087:sh]
+<7>[ 1473.871364] [3087:sh] sig 1 to [3087:sh]
+<7>[ 1473.871376] [3087:sh] sig 18 to [3087:sh]
+<7>[ 1473.871412] [3087:sh] sig 17 to [82:adbd]
+<7>[ 1473.913704] [82:adbd] fork [3089:adbd]
+<7>[ 1473.914487] [3089:adbd] set proc[3089] name: -> [sh]
+<7>[ 1473.916038] [3089:sh] fork [3090:sh]
+<7>[ 1473.916586] [3090:sh] set proc[3090] name: -> [getprop]
+<7>[ 1473.918582] [3090:getprop] exit
+<7>[ 1473.918713] [3090:getprop] sig 17 to [3089:sh]
+<7>[ 1473.918804] [3089:sh] exit
+<7>[ 1473.919086] [82:adbd] sig 1 to [3089:sh]
+<7>[ 1473.919100] [82:adbd] sig 18 to [3089:sh]
+<7>[ 1473.919301] [3089:sh] sig 1 to [3089:sh]
+<7>[ 1473.919313] [3089:sh] sig 18 to [3089:sh]
+<7>[ 1473.919327] [3089:sh] sig 17 to [82:adbd]
+<7>[ 1473.961837] [82:adbd] fork [3091:adbd]
+<7>[ 1473.962617] [3091:adbd] set proc[3091] name: -> [sh]
+<7>[ 1473.964149] [3091:sh] fork [3092:sh]
+<7>[ 1473.964688] [3092:sh] set proc[3092] name: -> [dumpsys]
+<6>[ 1473.970912] binder: 3092:3092 refcount change on invalid ref 0
+<6>[ 1473.970925] binder: 3092:3092 refcount change on invalid ref 0
+<6>[ 1473.970938] binder: 3092:3092 binder_context_mgr_node is NULL
+<6>[ 1473.970948] binder: 3092:3092 transaction failed 29189, size 96-0
+<7>[ 1473.971457] [3092:dumpsys] exit
+<7>[ 1473.971807] [3092:dumpsys] sig 17 to [3091:sh]
+<7>[ 1473.971894] [3091:sh] exit
+<7>[ 1473.972032] [3091:sh] sig 1 to [3091:sh]
+<7>[ 1473.972052] [3091:sh] sig 17 to [82:adbd]
+<7>[ 1474.016702] [82:adbd] fork [3093:adbd]
+<7>[ 1474.017482] [3093:adbd] set proc[3093] name: -> [sh]
+<7>[ 1474.019026] [3093:sh] fork [3094:sh]
+<7>[ 1474.019566] [3094:sh] set proc[3094] name: -> [dumpsys]
+<6>[ 1474.025911] binder: 3094:3094 refcount change on invalid ref 0
+<6>[ 1474.025924] binder: 3094:3094 refcount change on invalid ref 0
+<6>[ 1474.025938] binder: 3094:3094 binder_context_mgr_node is NULL
+<6>[ 1474.025948] binder: 3094:3094 transaction failed 29189, size 100-0
+<7>[ 1474.026449] [3094:dumpsys] exit
+<7>[ 1474.026798] [3094:dumpsys] sig 17 to [3093:sh]
+<7>[ 1474.026886] [3093:sh] exit
+<7>[ 1474.027024] [3093:sh] sig 1 to [3093:sh]
+<7>[ 1474.027043] [3093:sh] sig 17 to [82:adbd]
+<7>[ 1477.643588] [1:init] fork [3095:init]
+<7>[ 1477.644113] [3095:init] set proc[3095] name: -> [logwrapper]
+<7>[ 1477.645454] [3095:logwrapper] fork [3096:logwrapper]
+<7>[ 1477.645968] [3096:logwrapper] exit
+<7>[ 1477.646093] [3096:logwrapper] sig 17 to [3095:logwrapper]
+<7>[ 1477.646267] [3095:logwrapper] exit
+<7>[ 1477.646457] [3095:logwrapper] sig 17 to [1:init]
+<7>[ 1478.874691] [82:adbd] fork [3097:adbd]
+<7>[ 1478.875482] [3097:adbd] set proc[3097] name: -> [sh]
+<7>[ 1478.877042] [3097:sh] fork [3098:sh]
+<7>[ 1478.877583] [3098:sh] set proc[3098] name: -> [df]
+<7>[ 1478.879742] [3098:df] exit
+<7>[ 1478.879879] [3098:df] sig 17 to [3097:sh]
+<7>[ 1478.879968] [3097:sh] exit
+<7>[ 1478.880250] [82:adbd] sig 1 to [3097:sh]
+<7>[ 1478.880265] [82:adbd] sig 18 to [3097:sh]
+<7>[ 1478.880502] [3097:sh] sig 1 to [3097:sh]
+<7>[ 1478.880515] [3097:sh] sig 18 to [3097:sh]
+<7>[ 1478.880529] [3097:sh] sig 17 to [82:adbd]
+<7>[ 1478.923033] [82:adbd] fork [3099:adbd]
+<7>[ 1478.923806] [3099:adbd] set proc[3099] name: -> [sh]
+<7>[ 1478.925356] [3099:sh] fork [3100:sh]
+<7>[ 1478.925900] [3100:sh] set proc[3100] name: -> [getprop]
+<7>[ 1478.927894] [3100:getprop] exit
+<7>[ 1478.928024] [3100:getprop] sig 17 to [3099:sh]
+<7>[ 1478.928114] [3099:sh] exit
+<7>[ 1478.928396] [82:adbd] sig 1 to [3099:sh]
+<7>[ 1478.928410] [82:adbd] sig 18 to [3099:sh]
+<7>[ 1478.928613] [3099:sh] sig 1 to [3099:sh]
+<7>[ 1478.928625] [3099:sh] sig 18 to [3099:sh]
+<7>[ 1478.928638] [3099:sh] sig 17 to [82:adbd]
+<7>[ 1478.976150] [82:adbd] fork [3101:adbd]
+<7>[ 1478.976938] [3101:adbd] set proc[3101] name: -> [sh]
+<7>[ 1478.978479] [3101:sh] fork [3102:sh]
+<7>[ 1478.979021] [3102:sh] set proc[3102] name: -> [dumpsys]
+<6>[ 1478.985299] binder: 3102:3102 refcount change on invalid ref 0
+<6>[ 1478.985312] binder: 3102:3102 refcount change on invalid ref 0
+<6>[ 1478.985325] binder: 3102:3102 binder_context_mgr_node is NULL
+<6>[ 1478.985336] binder: 3102:3102 transaction failed 29189, size 96-0
+<7>[ 1478.985837] [3102:dumpsys] exit
+<7>[ 1478.986187] [3102:dumpsys] sig 17 to [3101:sh]
+<7>[ 1478.986275] [3101:sh] exit
+<7>[ 1478.986411] [3101:sh] sig 1 to [3101:sh]
+<7>[ 1478.986431] [3101:sh] sig 17 to [82:adbd]
+<7>[ 1479.027146] [82:adbd] fork [3103:adbd]
+<7>[ 1479.027925] [3103:adbd] set proc[3103] name: -> [sh]
+<7>[ 1479.029467] [3103:sh] fork [3104:sh]
+<7>[ 1479.030009] [3104:sh] set proc[3104] name: -> [dumpsys]
+<6>[ 1479.036225] binder: 3104:3104 refcount change on invalid ref 0
+<6>[ 1479.036238] binder: 3104:3104 refcount change on invalid ref 0
+<6>[ 1479.036252] binder: 3104:3104 binder_context_mgr_node is NULL
+<6>[ 1479.036263] binder: 3104:3104 transaction failed 29189, size 100-0
+<7>[ 1479.036764] [3104:dumpsys] exit
+<7>[ 1479.037111] [3104:dumpsys] sig 17 to [3103:sh]
+<7>[ 1479.037195] [3103:sh] exit
+<7>[ 1479.037333] [3103:sh] sig 1 to [3103:sh]
+<7>[ 1479.037352] [3103:sh] sig 17 to [82:adbd]
+<6>[ 1480.040334] yaffs: userdata sync do_checkpoint 0,gc_urgen 0
+<6>[ 1480.040345] yaffs: userdata yaffs_FlushSuperBlock 0
+<5>[ 1480.753637] [Power/Battery] [FGADC] 1,2420,0,70,3790,48,32,26,1135,1135,-41,0,0,1000,0,3834,1000,74,68,2327,104,103
+<7>[ 1482.651825] [1:init] fork [3105:init]
+<7>[ 1482.652354] [3105:init] set proc[3105] name: -> [logwrapper]
+<7>[ 1482.653704] [3105:logwrapper] fork [3106:logwrapper]
+<7>[ 1482.654222] [3106:logwrapper] exit
+<7>[ 1482.654344] [3106:logwrapper] sig 17 to [3105:logwrapper]
+<7>[ 1482.654521] [3105:logwrapper] exit
+<7>[ 1482.654718] [3105:logwrapper] sig 17 to [1:init]
+<7>[ 1483.891647] [82:adbd] fork [3107:adbd]
+<7>[ 1483.892438] [3107:adbd] set proc[3107] name: -> [sh]
+<7>[ 1483.893996] [3107:sh] fork [3108:sh]
+<7>[ 1483.894546] [3108:sh] set proc[3108] name: -> [df]
+<7>[ 1483.896711] [3108:df] exit
+<7>[ 1483.896847] [3108:df] sig 17 to [3107:sh]
+<7>[ 1483.896937] [3107:sh] exit
+<7>[ 1483.897218] [82:adbd] sig 1 to [3107:sh]
+<7>[ 1483.897233] [82:adbd] sig 18 to [3107:sh]
+<7>[ 1483.897436] [3107:sh] sig 1 to [3107:sh]
+<7>[ 1483.897448] [3107:sh] sig 18 to [3107:sh]
+<7>[ 1483.897462] [3107:sh] sig 17 to [82:adbd]
+<7>[ 1483.938587] [82:adbd] fork [3109:adbd]
+<7>[ 1483.939373] [3109:adbd] set proc[3109] name: -> [sh]
+<7>[ 1483.940985] [3109:sh] fork [3110:sh]
+<7>[ 1483.941536] [3110:sh] set proc[3110] name: -> [getprop]
+<7>[ 1483.943530] [3110:getprop] exit
+<7>[ 1483.943663] [3110:getprop] sig 17 to [3109:sh]
+<7>[ 1483.943754] [3109:sh] exit
+<7>[ 1483.943890] [3109:sh] sig 1 to [3109:sh]
+<7>[ 1483.943910] [3109:sh] sig 17 to [82:adbd]
+<7>[ 1483.989472] [82:adbd] fork [3111:adbd]
+<7>[ 1483.990260] [3111:adbd] set proc[3111] name: -> [sh]
+<7>[ 1483.991850] [3111:sh] fork [3112:sh]
+<7>[ 1483.992391] [3112:sh] set proc[3112] name: -> [dumpsys]
+<6>[ 1483.998546] binder: 3112:3112 refcount change on invalid ref 0
+<6>[ 1483.998559] binder: 3112:3112 refcount change on invalid ref 0
+<6>[ 1483.998572] binder: 3112:3112 binder_context_mgr_node is NULL
+<6>[ 1483.998583] binder: 3112:3112 transaction failed 29189, size 96-0
+<7>[ 1483.999093] [3112:dumpsys] exit
+<7>[ 1483.999443] [3112:dumpsys] sig 17 to [3111:sh]
+<7>[ 1483.999530] [3111:sh] exit
+<7>[ 1483.999666] [3111:sh] sig 1 to [3111:sh]
+<7>[ 1483.999686] [3111:sh] sig 17 to [82:adbd]
+<7>[ 1484.045103] [82:adbd] fork [3113:adbd]
+<7>[ 1484.045877] [3113:adbd] set proc[3113] name: -> [sh]
+<7>[ 1484.047417] [3113:sh] fork [3114:sh]
+<7>[ 1484.047955] [3114:sh] set proc[3114] name: -> [dumpsys]
+<6>[ 1484.054230] binder: 3114:3114 refcount change on invalid ref 0
+<6>[ 1484.054243] binder: 3114:3114 refcount change on invalid ref 0
+<6>[ 1484.054256] binder: 3114:3114 binder_context_mgr_node is NULL
+<6>[ 1484.054267] binder: 3114:3114 transaction failed 29189, size 100-0
+<7>[ 1484.054767] [3114:dumpsys] exit
+<7>[ 1484.057727] [3114:dumpsys] sig 17 to [3113:sh]
+<7>[ 1484.057814] [3113:sh] exit
+<7>[ 1484.057959] [3113:sh] sig 1 to [3113:sh]
+<7>[ 1484.057978] [3113:sh] sig 17 to [82:adbd]
+<4>[ 1484.160328] 2013-03-09 17:41:12.225367 UTC; android time 2013-03-09 17:41:12.225367
+<6>[ 1486.040337] yaffs: userdata sync do_checkpoint 0,gc_urgen 0
+<6>[ 1486.040349] yaffs: userdata yaffs_FlushSuperBlock 0
+<7>[ 1487.658945] [1:init] fork [3115:init]
+<7>[ 1487.659479] [3115:init] set proc[3115] name: -> [logwrapper]
+<7>[ 1487.660886] [3115:logwrapper] fork [3116:logwrapper]
+<7>[ 1487.661404] [3116:logwrapper] exit
+<7>[ 1487.661556] [3116:logwrapper] sig 17 to [3115:logwrapper]
+<7>[ 1487.661721] [3115:logwrapper] exit
+<7>[ 1487.661896] [3115:logwrapper] sig 17 to [1:init]
+<7>[ 1488.893998] [82:adbd] fork [3117:adbd]
+<7>[ 1488.894793] [3117:adbd] set proc[3117] name: -> [sh]
+<7>[ 1488.896357] [3117:sh] fork [3118:sh]
+<7>[ 1488.896896] [3118:sh] set proc[3118] name: -> [df]
+<7>[ 1488.899052] [3118:df] exit
+<7>[ 1488.899187] [3118:df] sig 17 to [3117:sh]
+<7>[ 1488.899278] [3117:sh] exit
+<7>[ 1488.899561] [82:adbd] sig 1 to [3117:sh]
+<7>[ 1488.899575] [82:adbd] sig 18 to [3117:sh]
+<7>[ 1488.899778] [3117:sh] sig 1 to [3117:sh]
+<7>[ 1488.899789] [3117:sh] sig 18 to [3117:sh]
+<7>[ 1488.899802] [3117:sh] sig 17 to [82:adbd]
+<7>[ 1488.944045] [82:adbd] fork [3119:adbd]
+<7>[ 1488.944827] [3119:adbd] set proc[3119] name: -> [sh]
+<7>[ 1488.946384] [3119:sh] fork [3120:sh]
+<7>[ 1488.946933] [3120:sh] set proc[3120] name: -> [getprop]
+<7>[ 1488.948930] [3120:getprop] exit
+<7>[ 1488.949063] [3120:getprop] sig 17 to [3119:sh]
+<7>[ 1488.949153] [3119:sh] exit
+<7>[ 1488.949435] [82:adbd] sig 1 to [3119:sh]
+<7>[ 1488.949449] [82:adbd] sig 18 to [3119:sh]
+<7>[ 1488.949648] [3119:sh] sig 1 to [3119:sh]
+<7>[ 1488.949660] [3119:sh] sig 18 to [3119:sh]
+<7>[ 1488.949673] [3119:sh] sig 17 to [82:adbd]
+<7>[ 1488.990169] [82:adbd] fork [3121:adbd]
+<7>[ 1488.991003] [3121:adbd] set proc[3121] name: -> [sh]
+<7>[ 1488.992555] [3121:sh] fork [3122:sh]
+<7>[ 1488.993096] [3122:sh] set proc[3122] name: -> [dumpsys]
+<6>[ 1488.999251] binder: 3122:3122 refcount change on invalid ref 0
+<6>[ 1488.999263] binder: 3122:3122 refcount change on invalid ref 0
+<6>[ 1488.999277] binder: 3122:3122 binder_context_mgr_node is NULL
+<6>[ 1488.999287] binder: 3122:3122 transaction failed 29189, size 96-0
+<7>[ 1488.999791] [3122:dumpsys] exit
+<7>[ 1489.000139] [3122:dumpsys] sig 17 to [3121:sh]
+<7>[ 1489.000225] [3121:sh] exit
+<7>[ 1489.000637] [3121:sh] sig 1 to [3121:sh]
+<7>[ 1489.000658] [3121:sh] sig 17 to [82:adbd]
+<7>[ 1489.044289] [82:adbd] fork [3123:adbd]
+<7>[ 1489.045070] [3123:adbd] set proc[3123] name: -> [sh]
+<7>[ 1489.046619] [3123:sh] fork [3124:sh]
+<7>[ 1489.047158] [3124:sh] set proc[3124] name: -> [dumpsys]
+<6>[ 1489.053399] binder: 3124:3124 refcount change on invalid ref 0
+<6>[ 1489.053412] binder: 3124:3124 refcount change on invalid ref 0
+<6>[ 1489.053425] binder: 3124:3124 binder_context_mgr_node is NULL
+<6>[ 1489.053435] binder: 3124:3124 transaction failed 29189, size 100-0
+<7>[ 1489.053937] [3124:dumpsys] exit
+<7>[ 1489.054287] [3124:dumpsys] sig 17 to [3123:sh]
+<7>[ 1489.054372] [3123:sh] exit
+<7>[ 1489.054510] [3123:sh] sig 1 to [3123:sh]
+<7>[ 1489.054530] [3123:sh] sig 17 to [82:adbd]
+<5>[ 1490.755792] [Power/Battery] [FGADC] 1,2410,0,71,3790,48,32,26,1135,1135,-41,0,0,1000,0,3834,1000,74,68,2318,104,103
+<7>[ 1492.667277] [1:init] fork [3125:init]
+<7>[ 1492.667801] [3125:init] set proc[3125] name: -> [logwrapper]
+<7>[ 1492.669155] [3125:logwrapper] fork [3126:logwrapper]
+<7>[ 1492.669668] [3126:logwrapper] exit
+<7>[ 1492.669790] [3126:logwrapper] sig 17 to [3125:logwrapper]
+<7>[ 1492.669969] [3125:logwrapper] exit
+<7>[ 1492.670163] [3125:logwrapper] sig 17 to [1:init]
+<7>[ 1493.889027] [82:adbd] fork [3127:adbd]
+<7>[ 1493.889815] [3127:adbd] set proc[3127] name: -> [sh]
+<7>[ 1493.891433] [3127:sh] fork [3128:sh]
+<7>[ 1493.891982] [3128:sh] set proc[3128] name: -> [df]
+<7>[ 1493.894158] [3128:df] exit
+<7>[ 1493.894295] [3128:df] sig 17 to [3127:sh]
+<7>[ 1493.894387] [3127:sh] exit
+<7>[ 1493.894519] [3127:sh] sig 1 to [3127:sh]
+<7>[ 1493.894538] [3127:sh] sig 17 to [82:adbd]
+<7>[ 1493.937855] [82:adbd] fork [3129:adbd]
+<7>[ 1493.938636] [3129:adbd] set proc[3129] name: -> [sh]
+<7>[ 1493.940185] [3129:sh] fork [3130:sh]
+<7>[ 1493.940781] [3130:sh] set proc[3130] name: -> [getprop]
+<7>[ 1493.942772] [3130:getprop] exit
+<7>[ 1493.942907] [3130:getprop] sig 17 to [3129:sh]
+<7>[ 1493.942997] [3129:sh] exit
+<7>[ 1493.943282] [82:adbd] sig 1 to [3129:sh]
+<7>[ 1493.943295] [82:adbd] sig 18 to [3129:sh]
+<7>[ 1493.943496] [3129:sh] sig 1 to [3129:sh]
+<7>[ 1493.943508] [3129:sh] sig 18 to [3129:sh]
+<7>[ 1493.943521] [3129:sh] sig 17 to [82:adbd]
+<7>[ 1493.981870] [82:adbd] fork [3131:adbd]
+<7>[ 1493.982650] [3131:adbd] set proc[3131] name: -> [sh]
+<7>[ 1493.984196] [3131:sh] fork [3132:sh]
+<7>[ 1493.984733] [3132:sh] set proc[3132] name: -> [dumpsys]
+<6>[ 1493.990954] binder: 3132:3132 refcount change on invalid ref 0
+<6>[ 1493.990968] binder: 3132:3132 refcount change on invalid ref 0
+<6>[ 1493.990981] binder: 3132:3132 binder_context_mgr_node is NULL
+<6>[ 1493.990991] binder: 3132:3132 transaction failed 29189, size 96-0
+<7>[ 1493.991497] [3132:dumpsys] exit
+<7>[ 1493.991844] [3132:dumpsys] sig 17 to [3131:sh]
+<7>[ 1493.991931] [3131:sh] exit
+<7>[ 1493.992068] [3131:sh] sig 1 to [3131:sh]
+<7>[ 1493.992088] [3131:sh] sig 17 to [82:adbd]
+<7>[ 1494.034748] [82:adbd] fork [3133:adbd]
+<7>[ 1494.035525] [3133:adbd] set proc[3133] name: -> [sh]
+<7>[ 1494.037059] [3133:sh] fork [3134:sh]
+<7>[ 1494.037597] [3134:sh] set proc[3134] name: -> [dumpsys]
+<6>[ 1494.043805] binder: 3134:3134 refcount change on invalid ref 0
+<6>[ 1494.043818] binder: 3134:3134 refcount change on invalid ref 0
+<6>[ 1494.043832] binder: 3134:3134 binder_context_mgr_node is NULL
+<6>[ 1494.043842] binder: 3134:3134 transaction failed 29189, size 100-0
+<7>[ 1494.044342] [3134:dumpsys] exit
+<7>[ 1494.044684] [3134:dumpsys] sig 17 to [3133:sh]
+<7>[ 1494.044770] [3133:sh] exit
+<7>[ 1494.044907] [3133:sh] sig 1 to [3133:sh]
+<7>[ 1494.044927] [3133:sh] sig 17 to [82:adbd]
+<7>[ 1497.675579] [1:init] fork [3135:init]
+<7>[ 1497.676094] [3135:init] set proc[3135] name: -> [logwrapper]
+<7>[ 1497.677438] [3135:logwrapper] fork [3136:logwrapper]
+<7>[ 1497.677956] [3136:logwrapper] exit
+<7>[ 1497.678079] [3136:logwrapper] sig 17 to [3135:logwrapper]
+<7>[ 1497.678256] [3135:logwrapper] exit
+<7>[ 1497.678448] [3135:logwrapper] sig 17 to [1:init]
+<7>[ 1498.898475] [82:adbd] fork [3137:adbd]
+<7>[ 1498.899268] [3137:adbd] set proc[3137] name: -> [sh]
+<7>[ 1498.900892] [3137:sh] fork [3138:sh]
+<7>[ 1498.901433] [3138:sh] set proc[3138] name: -> [df]
+<7>[ 1498.903585] [3138:df] exit
+<7>[ 1498.903721] [3138:df] sig 17 to [3137:sh]
+<7>[ 1498.903813] [3137:sh] exit
+<7>[ 1498.903945] [3137:sh] sig 1 to [3137:sh]
+<7>[ 1498.903965] [3137:sh] sig 17 to [82:adbd]
+<7>[ 1498.952059] [82:adbd] fork [3139:adbd]
+<7>[ 1498.952837] [3139:adbd] set proc[3139] name: -> [sh]
+<7>[ 1498.954390] [3139:sh] fork [3140:sh]
+<7>[ 1498.954934] [3140:sh] set proc[3140] name: -> [getprop]
+<7>[ 1498.956918] [3140:getprop] exit
+<7>[ 1498.957050] [3140:getprop] sig 17 to [3139:sh]
+<7>[ 1498.957139] [3139:sh] exit
+<7>[ 1498.957419] [82:adbd] sig 1 to [3139:sh]
+<7>[ 1498.957434] [82:adbd] sig 18 to [3139:sh]
+<7>[ 1498.957633] [3139:sh] sig 1 to [3139:sh]
+<7>[ 1498.957645] [3139:sh] sig 18 to [3139:sh]
+<7>[ 1498.957658] [3139:sh] sig 17 to [82:adbd]
+<7>[ 1498.997423] [82:adbd] fork [3141:adbd]
+<7>[ 1498.998203] [3141:adbd] set proc[3141] name: -> [sh]
+<7>[ 1498.999746] [3141:sh] fork [3142:sh]
+<7>[ 1499.000286] [3142:sh] set proc[3142] name: -> [dumpsys]
+<6>[ 1499.006538] binder: 3142:3142 refcount change on invalid ref 0
+<6>[ 1499.006551] binder: 3142:3142 refcount change on invalid ref 0
+<6>[ 1499.006564] binder: 3142:3142 binder_context_mgr_node is NULL
+<6>[ 1499.006575] binder: 3142:3142 transaction failed 29189, size 96-0
+<7>[ 1499.007075] [3142:dumpsys] exit
+<7>[ 1499.007422] [3142:dumpsys] sig 17 to [3141:sh]
+<7>[ 1499.007510] [3141:sh] exit
+<7>[ 1499.007647] [3141:sh] sig 1 to [3141:sh]
+<7>[ 1499.007666] [3141:sh] sig 17 to [82:adbd]
+<7>[ 1499.047165] [82:adbd] fork [3143:adbd]
+<7>[ 1499.047949] [3143:adbd] set proc[3143] name: -> [sh]
+<7>[ 1499.049500] [3143:sh] fork [3144:sh]
+<7>[ 1499.050040] [3144:sh] set proc[3144] name: -> [dumpsys]
+<6>[ 1499.056250] binder: 3144:3144 refcount change on invalid ref 0
+<6>[ 1499.056262] binder: 3144:3144 refcount change on invalid ref 0
+<6>[ 1499.056276] binder: 3144:3144 binder_context_mgr_node is NULL
+<6>[ 1499.056286] binder: 3144:3144 transaction failed 29189, size 100-0
+<7>[ 1499.056788] [3144:dumpsys] exit
+<7>[ 1499.057137] [3144:dumpsys] sig 17 to [3143:sh]
+<7>[ 1499.057224] [3143:sh] exit
+<7>[ 1499.057361] [3143:sh] sig 1 to [3143:sh]
+<7>[ 1499.057381] [3143:sh] sig 17 to [82:adbd]
+<5>[ 1500.757304] [Power/Battery] [FGADC] 1,2413,0,71,3790,48,32,26,1135,1135,-41,0,0,1000,0,3834,1000,74,68,2321,104,103
+<7>[ 1502.683820] [1:init] fork [3145:init]
+<7>[ 1502.684344] [3145:init] set proc[3145] name: -> [logwrapper]
+<7>[ 1502.685687] [3145:logwrapper] fork [3146:logwrapper]
+<7>[ 1502.686198] [3146:logwrapper] exit
+<7>[ 1502.686320] [3146:logwrapper] sig 17 to [3145:logwrapper]
+<7>[ 1502.686497] [3145:logwrapper] exit
+<7>[ 1502.686687] [3145:logwrapper] sig 17 to [1:init]
+<7>[ 1503.907270] [82:adbd] fork [3147:adbd]
+<7>[ 1503.908054] [3147:adbd] set proc[3147] name: -> [sh]
+<7>[ 1503.909614] [3147:sh] fork [3148:sh]
+<7>[ 1503.910160] [3148:sh] set proc[3148] name: -> [df]
+<7>[ 1503.912392] [3148:df] exit
+<7>[ 1503.912525] [3148:df] sig 17 to [3147:sh]
+<7>[ 1503.912615] [3147:sh] exit
+<7>[ 1503.912900] [82:adbd] sig 1 to [3147:sh]
+<7>[ 1503.912915] [82:adbd] sig 18 to [3147:sh]
+<7>[ 1503.913116] [3147:sh] sig 1 to [3147:sh]
+<7>[ 1503.913128] [3147:sh] sig 18 to [3147:sh]
+<7>[ 1503.913141] [3147:sh] sig 17 to [82:adbd]
+<7>[ 1503.957493] [82:adbd] fork [3149:adbd]
+<7>[ 1503.958274] [3149:adbd] set proc[3149] name: -> [sh]
+<7>[ 1503.959838] [3149:sh] fork [3150:sh]
+<7>[ 1503.960443] [3150:sh] set proc[3150] name: -> [getprop]
+<7>[ 1503.962431] [3150:getprop] exit
+<7>[ 1503.962565] [3150:getprop] sig 17 to [3149:sh]
+<7>[ 1503.962658] [3149:sh] exit
+<7>[ 1503.962939] [82:adbd] sig 1 to [3149:sh]
+<7>[ 1503.962953] [82:adbd] sig 18 to [3149:sh]
+<7>[ 1503.963174] [3149:sh] sig 1 to [3149:sh]
+<7>[ 1503.963186] [3149:sh] sig 18 to [3149:sh]
+<7>[ 1503.963200] [3149:sh] sig 17 to [82:adbd]
+<7>[ 1504.007618] [82:adbd] fork [3151:adbd]
+<7>[ 1504.008395] [3151:adbd] set proc[3151] name: -> [sh]
+<7>[ 1504.009941] [3151:sh] fork [3152:sh]
+<7>[ 1504.010529] [3152:sh] set proc[3152] name: -> [dumpsys]
+<6>[ 1504.016704] binder: 3152:3152 refcount change on invalid ref 0
+<6>[ 1504.016717] binder: 3152:3152 refcount change on invalid ref 0
+<6>[ 1504.016730] binder: 3152:3152 binder_context_mgr_node is NULL
+<6>[ 1504.016741] binder: 3152:3152 transaction failed 29189, size 96-0
+<7>[ 1504.017245] [3152:dumpsys] exit
+<7>[ 1504.017594] [3152:dumpsys] sig 17 to [3151:sh]
+<7>[ 1504.017680] [3151:sh] exit
+<7>[ 1504.017818] [3151:sh] sig 1 to [3151:sh]
+<7>[ 1504.017837] [3151:sh] sig 17 to [82:adbd]
+<7>[ 1504.060878] [82:adbd] fork [3153:adbd]
+<7>[ 1504.061660] [3153:adbd] set proc[3153] name: -> [sh]
+<7>[ 1504.063203] [3153:sh] fork [3154:sh]
+<7>[ 1504.063740] [3154:sh] set proc[3154] name: -> [dumpsys]
+<6>[ 1504.070004] binder: 3154:3154 refcount change on invalid ref 0
+<6>[ 1504.070016] binder: 3154:3154 refcount change on invalid ref 0
+<6>[ 1504.070030] binder: 3154:3154 binder_context_mgr_node is NULL
+<6>[ 1504.070040] binder: 3154:3154 transaction failed 29189, size 100-0
+<7>[ 1504.070838] [3154:dumpsys] exit
+<7>[ 1504.071332] [3154:dumpsys] sig 17 to [3153:sh]
+<7>[ 1504.071414] [3153:sh] exit
+<7>[ 1504.071553] [3153:sh] sig 1 to [3153:sh]
+<7>[ 1504.071573] [3153:sh] sig 17 to [82:adbd]
+<4>[ 1504.170326] 2013-03-09 17:41:32.235366 UTC; android time 2013-03-09 17:41:32.235366
+<7>[ 1507.692057] [1:init] fork [3155:init]
+<7>[ 1507.692585] [3155:init] set proc[3155] name: -> [logwrapper]
+<7>[ 1507.693930] [3155:logwrapper] fork [3156:logwrapper]
+<7>[ 1507.694445] [3156:logwrapper] exit
+<7>[ 1507.694569] [3156:logwrapper] sig 17 to [3155:logwrapper]
+<7>[ 1507.694745] [3155:logwrapper] exit
+<7>[ 1507.694939] [3155:logwrapper] sig 17 to [1:init]
+<7>[ 1508.810741] [2964:sh] fork [3157:sh]
+<5>[ 1508.811343] [Power/clkmgr] [enable_clock] enable wpll clksrc 0x2 for clock 16
+<5>[ 1508.812222] [Power/clkmgr] [enable_wpll_clksrc_op] wpll_clksrc_mask=0x2, wpll_clksrc_state=0x4003, WPLL_CON=0x403b
+<7>[ 1508.815123] [3157:sh] set proc[3157] name: -> [dmesg]
+<7>[ 1508.840266] [3157:dmesg] exit
+<7>[ 1508.840495] [3157:dmesg] sig 17 to [2964:sh]
+<7>[ 1508.912324] [82:adbd] fork [3158:adbd]
+<7>[ 1508.913112] [3158:adbd] set proc[3158] name: -> [sh]
+<7>[ 1508.914671] [3158:sh] fork [3159:sh]
+<7>[ 1508.915217] [3159:sh] set proc[3159] name: -> [df]
+<7>[ 1508.917395] [3159:df] exit
+<7>[ 1508.917532] [3159:df] sig 17 to [3158:sh]
+<7>[ 1508.917622] [3158:sh] exit
+<7>[ 1508.917906] [82:adbd] sig 1 to [3158:sh]
+<7>[ 1508.917921] [82:adbd] sig 18 to [3158:sh]
+<7>[ 1508.918125] [3158:sh] sig 1 to [3158:sh]
+<7>[ 1508.918137] [3158:sh] sig 18 to [3158:sh]
+<7>[ 1508.918151] [3158:sh] sig 17 to [82:adbd]
+<7>[ 1508.957796] [82:adbd] fork [3160:adbd]
+<7>[ 1508.958575] [3160:adbd] set proc[3160] name: -> [sh]
+<7>[ 1508.960128] [3160:sh] fork [3161:sh]
+<7>[ 1508.960734] [3161:sh] set proc[3161] name: -> [getprop]
+<7>[ 1508.962729] [3161:getprop] exit
+<7>[ 1508.962860] [3161:getprop] sig 17 to [3160:sh]
+<7>[ 1508.962953] [3160:sh] exit
+<7>[ 1508.963234] [82:adbd] sig 1 to [3160:sh]
+<7>[ 1508.963248] [82:adbd] sig 18 to [3160:sh]
+<7>[ 1508.963451] [3160:sh] sig 1 to [3160:sh]
+<7>[ 1508.963486] [3160:sh] sig 18 to [3160:sh]
+<7>[ 1508.963500] [3160:sh] sig 17 to [82:adbd]
+<7>[ 1509.003938] [82:adbd] fork [3162:adbd]
+<7>[ 1509.004717] [3162:adbd] set proc[3162] name: -> [sh]
+<7>[ 1509.006265] [3162:sh] fork [3163:sh]
+<7>[ 1509.006803] [3163:sh] set proc[3163] name: -> [dumpsys]
+<6>[ 1509.013038] binder: 3163:3163 refcount change on invalid ref 0
+<6>[ 1509.013051] binder: 3163:3163 refcount change on invalid ref 0
+<6>[ 1509.013064] binder: 3163:3163 binder_context_mgr_node is NULL
+<6>[ 1509.013074] binder: 3163:3163 transaction failed 29189, size 96-0
+<7>[ 1509.013574] [3163:dumpsys] exit
+<7>[ 1509.013919] [3163:dumpsys] sig 17 to [3162:sh]
+<7>[ 1509.014008] [3162:sh] exit
+<7>[ 1509.014147] [3162:sh] sig 1 to [3162:sh]
+<7>[ 1509.014166] [3162:sh] sig 17 to [82:adbd]
+<7>[ 1509.053930] [82:adbd] fork [3164:adbd]
+<7>[ 1509.054715] [3164:adbd] set proc[3164] name: -> [sh]
+<7>[ 1509.056264] [3164:sh] fork [3165:sh]
+<7>[ 1509.056803] [3165:sh] set proc[3165] name: -> [dumpsys]
+<6>[ 1509.063082] binder: 3165:3165 refcount change on invalid ref 0
+<6>[ 1509.063095] binder: 3165:3165 refcount change on invalid ref 0
+<6>[ 1509.063108] binder: 3165:3165 binder_context_mgr_node is NULL
+<6>[ 1509.063119] binder: 3165:3165 transaction failed 29189, size 100-0
+<7>[ 1509.063617] [3165:dumpsys] exit
+<7>[ 1509.063967] [3165:dumpsys] sig 17 to [3164:sh]
+<7>[ 1509.064053] [3164:sh] exit
+<7>[ 1509.064189] [3164:sh] sig 1 to [3164:sh]
+<7>[ 1509.064208] [3164:sh] sig 17 to [82:adbd]
+<6>[ 1510.040337] yaffs: userdata sync do_checkpoint 0,gc_urgen 0
+<6>[ 1510.040349] yaffs: userdata yaffs_FlushSuperBlock 0
+<5>[ 1510.759253] [Power/Battery] [FGADC] 1,2408,0,72,3790,48,32,26,1135,1135,-41,0,0,1000,0,3834,1000,74,68,2316,104,103
+<7>[ 1512.700329] [1:init] fork [3166:init]
+<7>[ 1512.700857] [3166:init] set proc[3166] name: -> [logwrapper]
+<7>[ 1512.702207] [3166:logwrapper] fork [3167:logwrapper]
+<7>[ 1512.702721] [3167:logwrapper] exit
+<7>[ 1512.702845] [3167:logwrapper] sig 17 to [3166:logwrapper]
+<7>[ 1512.703021] [3166:logwrapper] exit
+<7>[ 1512.703209] [3166:logwrapper] sig 17 to [1:init]
+<5>[ 1513.820310] [Power/clkmgr] [disable_clock] disable wpll clksrc 0x2 for clock 16
+<5>[ 1513.821211] [Power/clkmgr] [disable_wpll_clksrc_op] wpll_clksrc_mask=0x2, wpll_clksrc_state=0x4001, WPLL_CON=0x4039
+<7>[ 1513.921714] [82:adbd] fork [3168:adbd]
+<7>[ 1513.922502] [3168:adbd] set proc[3168] name: -> [sh]
+<7>[ 1513.924060] [3168:sh] fork [3169:sh]
+<7>[ 1513.924611] [3169:sh] set proc[3169] name: -> [df]
+<7>[ 1513.926757] [3169:df] exit
+<7>[ 1513.926894] [3169:df] sig 17 to [3168:sh]
+<7>[ 1513.926985] [3168:sh] exit
+<7>[ 1513.927268] [82:adbd] sig 1 to [3168:sh]
+<7>[ 1513.927282] [82:adbd] sig 18 to [3168:sh]
+<7>[ 1513.927484] [3168:sh] sig 1 to [3168:sh]
+<7>[ 1513.927496] [3168:sh] sig 18 to [3168:sh]
+<7>[ 1513.927510] [3168:sh] sig 17 to [82:adbd]
+<7>[ 1513.975382] [82:adbd] fork [3170:adbd]
+<7>[ 1513.976164] [3170:adbd] set proc[3170] name: -> [sh]
+<7>[ 1513.977717] [3170:sh] fork [3171:sh]
+<7>[ 1513.978267] [3171:sh] set proc[3171] name: -> [getprop]
+<7>[ 1513.980257] [3171:getprop] exit
+<7>[ 1513.980668] [3171:getprop] sig 17 to [3170:sh]
+<7>[ 1513.980767] [3170:sh] exit
+<7>[ 1513.980893] [3170:sh] sig 1 to [3170:sh]
+<7>[ 1513.980912] [3170:sh] sig 17 to [82:adbd]
+<7>[ 1514.023627] [82:adbd] fork [3172:adbd]
+<7>[ 1514.024411] [3172:adbd] set proc[3172] name: -> [sh]
+<7>[ 1514.025961] [3172:sh] fork [3173:sh]
+<7>[ 1514.026499] [3173:sh] set proc[3173] name: -> [dumpsys]
+<6>[ 1514.032724] binder: 3173:3173 refcount change on invalid ref 0
+<6>[ 1514.032737] binder: 3173:3173 refcount change on invalid ref 0
+<6>[ 1514.032750] binder: 3173:3173 binder_context_mgr_node is NULL
+<6>[ 1514.032760] binder: 3173:3173 transaction failed 29189, size 96-0
+<7>[ 1514.033265] [3173:dumpsys] exit
+<7>[ 1514.033610] [3173:dumpsys] sig 17 to [3172:sh]
+<7>[ 1514.033697] [3172:sh] exit
+<7>[ 1514.033833] [3172:sh] sig 1 to [3172:sh]
+<7>[ 1514.033852] [3172:sh] sig 17 to [82:adbd]
+<7>[ 1514.077001] [82:adbd] fork [3174:adbd]
+<7>[ 1514.077786] [3174:adbd] set proc[3174] name: -> [sh]
+<7>[ 1514.079338] [3174:sh] fork [3175:sh]
+<7>[ 1514.079883] [3175:sh] set proc[3175] name: -> [dumpsys]
+<6>[ 1514.086110] binder: 3175:3175 refcount change on invalid ref 0
+<6>[ 1514.086123] binder: 3175:3175 refcount change on invalid ref 0
+<6>[ 1514.086137] binder: 3175:3175 binder_context_mgr_node is NULL
+<6>[ 1514.086147] binder: 3175:3175 transaction failed 29189, size 100-0
+<7>[ 1514.086648] [3175:dumpsys] exit
+<7>[ 1514.086994] [3175:dumpsys] sig 17 to [3174:sh]
+<7>[ 1514.087081] [3174:sh] exit
+<7>[ 1514.087219] [3174:sh] sig 1 to [3174:sh]
+<7>[ 1514.087239] [3174:sh] sig 17 to [82:adbd]
+<6>[ 1516.040337] yaffs: userdata sync do_checkpoint 0,gc_urgen 0
+<6>[ 1516.040349] yaffs: userdata yaffs_FlushSuperBlock 0
+<7>[ 1517.708577] [1:init] fork [3176:init]
+<7>[ 1517.709100] [3176:init] set proc[3176] name: -> [logwrapper]
+<7>[ 1517.710499] [3176:logwrapper] fork [3177:logwrapper]
+<7>[ 1517.711017] [3177:logwrapper] exit
+<7>[ 1517.711166] [3177:logwrapper] sig 17 to [3176:logwrapper]
+<7>[ 1517.711330] [3176:logwrapper] exit
+<7>[ 1517.711503] [3176:logwrapper] sig 17 to [1:init]
+<7>[ 1518.932356] [82:adbd] fork [3178:adbd]
+<7>[ 1518.933151] [3178:adbd] set proc[3178] name: -> [sh]
+<7>[ 1518.934709] [3178:sh] fork [3179:sh]
+<7>[ 1518.935260] [3179:sh] set proc[3179] name: -> [df]
+<7>[ 1518.937427] [3179:df] exit
+<7>[ 1518.937565] [3179:df] sig 17 to [3178:sh]
+<7>[ 1518.937656] [3178:sh] exit
+<7>[ 1518.937941] [82:adbd] sig 1 to [3178:sh]
+<7>[ 1518.937955] [82:adbd] sig 18 to [3178:sh]
+<7>[ 1518.938157] [3178:sh] sig 1 to [3178:sh]
+<7>[ 1518.938168] [3178:sh] sig 18 to [3178:sh]
+<7>[ 1518.938182] [3178:sh] sig 17 to [82:adbd]
+<7>[ 1518.978997] [82:adbd] fork [3180:adbd]
+<7>[ 1518.979776] [3180:adbd] set proc[3180] name: -> [sh]
+<7>[ 1518.981393] [3180:sh] fork [3181:sh]
+<7>[ 1518.981935] [3181:sh] set proc[3181] name: -> [getprop]
+<7>[ 1518.983929] [3181:getprop] exit
+<7>[ 1518.984064] [3181:getprop] sig 17 to [3180:sh]
+<7>[ 1518.984154] [3180:sh] exit
+<7>[ 1518.984288] [3180:sh] sig 1 to [3180:sh]
+<7>[ 1518.984308] [3180:sh] sig 17 to [82:adbd]
+<7>[ 1519.027307] [82:adbd] fork [3182:adbd]
+<7>[ 1519.028087] [3182:adbd] set proc[3182] name: -> [sh]
+<7>[ 1519.029630] [3182:sh] fork [3183:sh]
+<7>[ 1519.030174] [3183:sh] set proc[3183] name: -> [dumpsys]
+<6>[ 1519.036405] binder: 3183:3183 refcount change on invalid ref 0
+<6>[ 1519.036417] binder: 3183:3183 refcount change on invalid ref 0
+<6>[ 1519.036430] binder: 3183:3183 binder_context_mgr_node is NULL
+<6>[ 1519.036441] binder: 3183:3183 transaction failed 29189, size 96-0
+<7>[ 1519.036936] [3183:dumpsys] exit
+<7>[ 1519.037283] [3183:dumpsys] sig 17 to [3182:sh]
+<7>[ 1519.037369] [3182:sh] exit
+<7>[ 1519.037505] [3182:sh] sig 1 to [3182:sh]
+<7>[ 1519.037525] [3182:sh] sig 17 to [82:adbd]
+<7>[ 1519.079575] [82:adbd] fork [3184:adbd]
+<7>[ 1519.080395] [3184:adbd] set proc[3184] name: -> [sh]
+<7>[ 1519.081947] [3184:sh] fork [3185:sh]
+<7>[ 1519.082488] [3185:sh] set proc[3185] name: -> [dumpsys]
+<6>[ 1519.088644] binder: 3185:3185 refcount change on invalid ref 0
+<6>[ 1519.088657] binder: 3185:3185 refcount change on invalid ref 0
+<6>[ 1519.088671] binder: 3185:3185 binder_context_mgr_node is NULL
+<6>[ 1519.088681] binder: 3185:3185 transaction failed 29189, size 100-0
+<7>[ 1519.089178] [3185:dumpsys] exit
+<7>[ 1519.089525] [3185:dumpsys] sig 17 to [3184:sh]
+<7>[ 1519.089611] [3184:sh] exit
+<7>[ 1519.089746] [3184:sh] sig 1 to [3184:sh]
+<7>[ 1519.089765] [3184:sh] sig 17 to [82:adbd]
+<5>[ 1520.761319] [Power/Battery] [FGADC] 1,2413,0,72,3790,48,32,26,1135,1135,-41,0,0,1000,0,3834,1000,74,68,2321,104,103
+<6>[ 1522.040336] yaffs: userdata sync do_checkpoint 0,gc_urgen 0
+<6>[ 1522.040349] yaffs: userdata yaffs_FlushSuperBlock 0
+<7>[ 1522.716893] [1:init] fork [3186:init]
+<7>[ 1522.717418] [3186:init] set proc[3186] name: -> [logwrapper]
+<7>[ 1522.718770] [3186:logwrapper] fork [3187:logwrapper]
+<7>[ 1522.719289] [3187:logwrapper] exit
+<7>[ 1522.719411] [3187:logwrapper] sig 17 to [3186:logwrapper]
+<7>[ 1522.719589] [3186:logwrapper] exit
+<7>[ 1522.719782] [3186:logwrapper] sig 17 to [1:init]
+<7>[ 1523.937417] [82:adbd] fork [3188:adbd]
+<7>[ 1523.938210] [3188:adbd] set proc[3188] name: -> [sh]
+<7>[ 1523.939766] [3188:sh] fork [3189:sh]
+<7>[ 1523.940370] [3189:sh] set proc[3189] name: -> [df]
+<7>[ 1523.942542] [3189:df] exit
+<7>[ 1523.942680] [3189:df] sig 17 to [3188:sh]
+<7>[ 1523.942771] [3188:sh] exit
+<7>[ 1523.943059] [82:adbd] sig 1 to [3188:sh]
+<7>[ 1523.943073] [82:adbd] sig 18 to [3188:sh]
+<7>[ 1523.943278] [3188:sh] sig 1 to [3188:sh]
+<7>[ 1523.943289] [3188:sh] sig 18 to [3188:sh]
+<7>[ 1523.943324] [3188:sh] sig 17 to [82:adbd]
+<7>[ 1523.986507] [82:adbd] fork [3190:adbd]
+<7>[ 1523.987286] [3190:adbd] set proc[3190] name: -> [sh]
+<7>[ 1523.988848] [3190:sh] fork [3191:sh]
+<7>[ 1523.989395] [3191:sh] set proc[3191] name: -> [getprop]
+<7>[ 1523.991453] [3191:getprop] exit
+<7>[ 1523.991584] [3191:getprop] sig 17 to [3190:sh]
+<7>[ 1523.991676] [3190:sh] exit
+<7>[ 1523.991959] [82:adbd] sig 1 to [3190:sh]
+<7>[ 1523.991973] [82:adbd] sig 18 to [3190:sh]
+<7>[ 1523.992175] [3190:sh] sig 1 to [3190:sh]
+<7>[ 1523.992210] [3190:sh] sig 18 to [3190:sh]
+<7>[ 1523.992225] [3190:sh] sig 17 to [82:adbd]
+<7>[ 1524.036268] [82:adbd] fork [3192:adbd]
+<7>[ 1524.037055] [3192:adbd] set proc[3192] name: -> [sh]
+<7>[ 1524.038602] [3192:sh] fork [3193:sh]
+<7>[ 1524.039140] [3193:sh] set proc[3193] name: -> [dumpsys]
+<6>[ 1524.045391] binder: 3193:3193 refcount change on invalid ref 0
+<6>[ 1524.045404] binder: 3193:3193 refcount change on invalid ref 0
+<6>[ 1524.045416] binder: 3193:3193 binder_context_mgr_node is NULL
+<6>[ 1524.045427] binder: 3193:3193 transaction failed 29189, size 96-0
+<7>[ 1524.045933] [3193:dumpsys] exit
+<7>[ 1524.046282] [3193:dumpsys] sig 17 to [3192:sh]
+<7>[ 1524.046370] [3192:sh] exit
+<7>[ 1524.046506] [3192:sh] sig 1 to [3192:sh]
+<7>[ 1524.046525] [3192:sh] sig 17 to [82:adbd]
+<7>[ 1524.089387] [82:adbd] fork [3194:adbd]
+<7>[ 1524.090169] [3194:adbd] set proc[3194] name: -> [sh]
+<7>[ 1524.091779] [3194:sh] fork [3195:sh]
+<7>[ 1524.092319] [3195:sh] set proc[3195] name: -> [dumpsys]
+<6>[ 1524.098452] binder: 3195:3195 refcount change on invalid ref 0
+<6>[ 1524.098465] binder: 3195:3195 refcount change on invalid ref 0
+<6>[ 1524.098478] binder: 3195:3195 binder_context_mgr_node is NULL
+<6>[ 1524.098489] binder: 3195:3195 transaction failed 29189, size 100-0
+<7>[ 1524.098991] [3195:dumpsys] exit
+<7>[ 1524.099338] [3195:dumpsys] sig 17 to [3194:sh]
+<7>[ 1524.099424] [3194:sh] exit
+<7>[ 1524.099562] [3194:sh] sig 1 to [3194:sh]
+<7>[ 1524.099581] [3194:sh] sig 17 to [82:adbd]
+<4>[ 1524.180329] 2013-03-09 17:41:52.245367 UTC; android time 2013-03-09 17:41:52.245367
+<7>[ 1527.725152] [1:init] fork [3196:init]
+<7>[ 1527.725674] [3196:init] set proc[3196] name: -> [logwrapper]
+<7>[ 1527.727017] [3196:logwrapper] fork [3197:logwrapper]
+<7>[ 1527.727528] [3197:logwrapper] exit
+<7>[ 1527.727652] [3197:logwrapper] sig 17 to [3196:logwrapper]
+<7>[ 1527.727825] [3196:logwrapper] exit
+<7>[ 1527.728019] [3196:logwrapper] sig 17 to [1:init]
+<6>[ 1528.040337] yaffs: userdata sync do_checkpoint 0,gc_urgen 0
+<6>[ 1528.040348] yaffs: userdata yaffs_FlushSuperBlock 0
+<7>[ 1528.942018] [82:adbd] fork [3198:adbd]
+<7>[ 1528.942803] [3198:adbd] set proc[3198] name: -> [sh]
+<7>[ 1528.944365] [3198:sh] fork [3199:sh]
+<7>[ 1528.944919] [3199:sh] set proc[3199] name: -> [df]
+<7>[ 1528.947073] [3199:df] exit
+<7>[ 1528.947212] [3199:df] sig 17 to [3198:sh]
+<7>[ 1528.947303] [3198:sh] exit
+<7>[ 1528.947586] [82:adbd] sig 1 to [3198:sh]
+<7>[ 1528.947601] [82:adbd] sig 18 to [3198:sh]
+<7>[ 1528.947800] [3198:sh] sig 1 to [3198:sh]
+<7>[ 1528.947812] [3198:sh] sig 18 to [3198:sh]
+<7>[ 1528.947825] [3198:sh] sig 17 to [82:adbd]
+<7>[ 1528.995079] [82:adbd] fork [3200:adbd]
+<7>[ 1528.995865] [3200:adbd] set proc[3200] name: -> [sh]
+<7>[ 1528.997424] [3200:sh] fork [3201:sh]
+<7>[ 1528.997975] [3201:sh] set proc[3201] name: -> [getprop]
+<7>[ 1528.999964] [3201:getprop] exit
+<7>[ 1529.000097] [3201:getprop] sig 17 to [3200:sh]
+<7>[ 1529.000187] [3200:sh] exit
+<7>[ 1529.000586] [3200:sh] sig 1 to [3200:sh]
+<7>[ 1529.000608] [3200:sh] sig 17 to [82:adbd]
+<7>[ 1529.042943] [82:adbd] fork [3202:adbd]
+<7>[ 1529.043725] [3202:adbd] set proc[3202] name: -> [sh]
+<7>[ 1529.045272] [3202:sh] fork [3203:sh]
+<7>[ 1529.045807] [3203:sh] set proc[3203] name: -> [dumpsys]
+<6>[ 1529.052025] binder: 3203:3203 refcount change on invalid ref 0
+<6>[ 1529.052039] binder: 3203:3203 refcount change on invalid ref 0
+<6>[ 1529.052052] binder: 3203:3203 binder_context_mgr_node is NULL
+<6>[ 1529.052062] binder: 3203:3203 transaction failed 29189, size 96-0
+<7>[ 1529.052563] [3203:dumpsys] exit
+<7>[ 1529.053467] [3203:dumpsys] sig 17 to [3202:sh]
+<7>[ 1529.053562] [3202:sh] exit
+<7>[ 1529.053705] [3202:sh] sig 1 to [3202:sh]
+<7>[ 1529.053725] [3202:sh] sig 17 to [82:adbd]
+<7>[ 1529.094484] [82:adbd] fork [3204:adbd]
+<7>[ 1529.095275] [3204:adbd] set proc[3204] name: -> [sh]
+<7>[ 1529.096825] [3204:sh] fork [3205:sh]
+<7>[ 1529.097368] [3205:sh] set proc[3205] name: -> [dumpsys]
+<6>[ 1529.103584] binder: 3205:3205 refcount change on invalid ref 0
+<6>[ 1529.103597] binder: 3205:3205 refcount change on invalid ref 0
+<6>[ 1529.103611] binder: 3205:3205 binder_context_mgr_node is NULL
+<6>[ 1529.103621] binder: 3205:3205 transaction failed 29189, size 100-0
+<7>[ 1529.104121] [3205:dumpsys] exit
+<7>[ 1529.104469] [3205:dumpsys] sig 17 to [3204:sh]
+<7>[ 1529.104555] [3204:sh] exit
+<7>[ 1529.104691] [3204:sh] sig 1 to [3204:sh]
+<7>[ 1529.104712] [3204:sh] sig 17 to [82:adbd]
+<5>[ 1530.763218] [Power/Battery] [FGADC] 1,2414,0,73,3790,48,32,26,1135,1135,-41,0,0,1000,0,3834,1000,74,68,2322,104,103
+<7>[ 1532.733386] [1:init] fork [3206:init]
+<7>[ 1532.733910] [3206:init] set proc[3206] name: -> [logwrapper]
+<7>[ 1532.735268] [3206:logwrapper] fork [3207:logwrapper]
+<7>[ 1532.735785] [3207:logwrapper] exit
+<7>[ 1532.735909] [3207:logwrapper] sig 17 to [3206:logwrapper]
+<7>[ 1532.736083] [3206:logwrapper] exit
+<7>[ 1532.736277] [3206:logwrapper] sig 17 to [1:init]
+<7>[ 1533.955305] [82:adbd] fork [3208:adbd]
+<7>[ 1533.956097] [3208:adbd] set proc[3208] name: -> [sh]
+<7>[ 1533.957664] [3208:sh] fork [3209:sh]
+<7>[ 1533.958213] [3209:sh] set proc[3209] name: -> [df]
+<7>[ 1533.960671] [3209:df] exit
+<7>[ 1533.960825] [3209:df] sig 17 to [3208:sh]
+<7>[ 1533.960915] [3208:sh] exit
+<7>[ 1533.961346] [3208:sh] sig 1 to [3208:sh]
+<7>[ 1533.961368] [3208:sh] sig 17 to [82:adbd]
+<7>[ 1534.002528] [82:adbd] fork [3210:adbd]
+<7>[ 1534.003311] [3210:adbd] set proc[3210] name: -> [sh]
+<7>[ 1534.004868] [3210:sh] fork [3211:sh]
+<7>[ 1534.005424] [3211:sh] set proc[3211] name: -> [getprop]
+<7>[ 1534.007413] [3211:getprop] exit
+<7>[ 1534.007547] [3211:getprop] sig 17 to [3210:sh]
+<7>[ 1534.007639] [3210:sh] exit
+<7>[ 1534.007922] [82:adbd] sig 1 to [3210:sh]
+<7>[ 1534.007936] [82:adbd] sig 18 to [3210:sh]
+<7>[ 1534.008139] [3210:sh] sig 1 to [3210:sh]
+<7>[ 1534.008151] [3210:sh] sig 18 to [3210:sh]
+<7>[ 1534.008164] [3210:sh] sig 17 to [82:adbd]
+<7>[ 1534.054409] [82:adbd] fork [3212:adbd]
+<7>[ 1534.055195] [3212:adbd] set proc[3212] name: -> [sh]
+<7>[ 1534.056743] [3212:sh] fork [3213:sh]
+<7>[ 1534.057287] [3213:sh] set proc[3213] name: -> [dumpsys]
+<6>[ 1534.063527] binder: 3213:3213 refcount change on invalid ref 0
+<6>[ 1534.063539] binder: 3213:3213 refcount change on invalid ref 0
+<6>[ 1534.063552] binder: 3213:3213 binder_context_mgr_node is NULL
+<6>[ 1534.063563] binder: 3213:3213 transaction failed 29189, size 96-0
+<7>[ 1534.064071] [3213:dumpsys] exit
+<7>[ 1534.064417] [3213:dumpsys] sig 17 to [3212:sh]
+<7>[ 1534.064505] [3212:sh] exit
+<7>[ 1534.064640] [3212:sh] sig 1 to [3212:sh]
+<7>[ 1534.064660] [3212:sh] sig 17 to [82:adbd]
+<7>[ 1534.104039] [82:adbd] fork [3214:adbd]
+<7>[ 1534.104826] [3214:adbd] set proc[3214] name: -> [sh]
+<7>[ 1534.106378] [3214:sh] fork [3215:sh]
+<7>[ 1534.106921] [3215:sh] set proc[3215] name: -> [dumpsys]
+<6>[ 1534.113141] binder: 3215:3215 refcount change on invalid ref 0
+<6>[ 1534.113154] binder: 3215:3215 refcount change on invalid ref 0
+<6>[ 1534.113167] binder: 3215:3215 binder_context_mgr_node is NULL
+<6>[ 1534.113178] binder: 3215:3215 transaction failed 29189, size 100-0
+<7>[ 1534.113680] [3215:dumpsys] exit
+<7>[ 1534.114032] [3215:dumpsys] sig 17 to [3214:sh]
+<7>[ 1534.114118] [3214:sh] exit
+<7>[ 1534.114256] [3214:sh] sig 1 to [3214:sh]
+<7>[ 1534.114276] [3214:sh] sig 17 to [82:adbd]
+<7>[ 1537.740484] [1:init] fork [3216:init]
+<7>[ 1537.741027] [3216:init] set proc[3216] name: -> [logwrapper]
+<7>[ 1537.742374] [3216:logwrapper] fork [3217:logwrapper]
+<7>[ 1537.742889] [3217:logwrapper] exit
+<7>[ 1537.743010] [3217:logwrapper] sig 17 to [3216:logwrapper]
+<7>[ 1537.743190] [3216:logwrapper] exit
+<7>[ 1537.743382] [3216:logwrapper] sig 17 to [1:init]
+<7>[ 1538.963886] [82:adbd] fork [3218:adbd]
+<7>[ 1538.964674] [3218:adbd] set proc[3218] name: -> [sh]
+<7>[ 1538.966227] [3218:sh] fork [3219:sh]
+<7>[ 1538.966773] [3219:sh] set proc[3219] name: -> [df]
+<7>[ 1538.968936] [3219:df] exit
+<7>[ 1538.969074] [3219:df] sig 17 to [3218:sh]
+<7>[ 1538.969165] [3218:sh] exit
+<7>[ 1538.969450] [82:adbd] sig 1 to [3218:sh]
+<7>[ 1538.969464] [82:adbd] sig 18 to [3218:sh]
+<7>[ 1538.969667] [3218:sh] sig 1 to [3218:sh]
+<7>[ 1538.969679] [3218:sh] sig 18 to [3218:sh]
+<7>[ 1538.969692] [3218:sh] sig 17 to [82:adbd]
+<7>[ 1539.010954] [82:adbd] fork [3220:adbd]
+<7>[ 1539.011725] [3220:adbd] set proc[3220] name: -> [sh]
+<7>[ 1539.013275] [3220:sh] fork [3221:sh]
+<7>[ 1539.013824] [3221:sh] set proc[3221] name: -> [getprop]
+<7>[ 1539.015803] [3221:getprop] exit
+<7>[ 1539.015936] [3221:getprop] sig 17 to [3220:sh]
+<7>[ 1539.016029] [3220:sh] exit
+<7>[ 1539.016313] [82:adbd] sig 1 to [3220:sh]
+<7>[ 1539.016327] [82:adbd] sig 18 to [3220:sh]
+<7>[ 1539.016530] [3220:sh] sig 1 to [3220:sh]
+<7>[ 1539.016542] [3220:sh] sig 18 to [3220:sh]
+<7>[ 1539.016555] [3220:sh] sig 17 to [82:adbd]
+<7>[ 1539.061092] [82:adbd] fork [3222:adbd]
+<7>[ 1539.061870] [3222:adbd] set proc[3222] name: -> [sh]
+<7>[ 1539.063424] [3222:sh] fork [3223:sh]
+<7>[ 1539.063966] [3223:sh] set proc[3223] name: -> [dumpsys]
+<6>[ 1539.070114] binder: 3223:3223 refcount change on invalid ref 0
+<6>[ 1539.070126] binder: 3223:3223 refcount change on invalid ref 0
+<6>[ 1539.070140] binder: 3223:3223 binder_context_mgr_node is NULL
+<6>[ 1539.070151] binder: 3223:3223 transaction failed 29189, size 96-0
+<7>[ 1539.070721] [3223:dumpsys] exit
+<7>[ 1539.071068] [3223:dumpsys] sig 17 to [3222:sh]
+<7>[ 1539.071155] [3222:sh] exit
+<7>[ 1539.071290] [3222:sh] sig 1 to [3222:sh]
+<7>[ 1539.071311] [3222:sh] sig 17 to [82:adbd]
+<7>[ 1539.112218] [82:adbd] fork [3224:adbd]
+<7>[ 1539.112996] [3224:adbd] set proc[3224] name: -> [sh]
+<7>[ 1539.114539] [3224:sh] fork [3225:sh]
+<7>[ 1539.115079] [3225:sh] set proc[3225] name: -> [dumpsys]
+<6>[ 1539.121313] binder: 3225:3225 refcount change on invalid ref 0
+<6>[ 1539.121326] binder: 3225:3225 refcount change on invalid ref 0
+<6>[ 1539.121339] binder: 3225:3225 binder_context_mgr_node is NULL
+<6>[ 1539.121349] binder: 3225:3225 transaction failed 29189, size 100-0
+<7>[ 1539.121853] [3225:dumpsys] exit
+<7>[ 1539.122197] [3225:dumpsys] sig 17 to [3224:sh]
+<7>[ 1539.122282] [3224:sh] exit
+<7>[ 1539.122419] [3224:sh] sig 1 to [3224:sh]
+<7>[ 1539.122438] [3224:sh] sig 17 to [82:adbd]
+<5>[ 1540.765097] [Power/Battery] [FGADC] 1,2413,0,73,3790,48,32,26,1135,1135,-41,0,0,1000,0,3834,1000,74,68,2321,104,103
+<5>[ 1542.740638] [Power/clkmgr] [enable_clock] enable wpll clksrc 0x2 for clock 16
+<5>[ 1542.741518] [Power/clkmgr] [enable_wpll_clksrc_op] wpll_clksrc_mask=0x2, wpll_clksrc_state=0x4003, WPLL_CON=0x403b
+<7>[ 1542.748753] [1:init] fork [3226:init]
+<7>[ 1542.749281] [3226:init] set proc[3226] name: -> [logwrapper]
+<7>[ 1542.750700] [3226:logwrapper] fork [3227:logwrapper]
+<7>[ 1542.751222] [3227:logwrapper] exit
+<7>[ 1542.751374] [3227:logwrapper] sig 17 to [3226:logwrapper]
+<7>[ 1542.751536] [3226:logwrapper] exit
+<7>[ 1542.751707] [3226:logwrapper] sig 17 to [1:init]
+<7>[ 1543.978455] [82:adbd] fork [3228:adbd]
+<7>[ 1543.979249] [3228:adbd] set proc[3228] name: -> [sh]
+<7>[ 1543.980864] [3228:sh] fork [3229:sh]
+<7>[ 1543.981416] [3229:sh] set proc[3229] name: -> [df]
+<7>[ 1543.983574] [3229:df] exit
+<7>[ 1543.983707] [3229:df] sig 17 to [3228:sh]
+<7>[ 1543.983797] [3228:sh] exit
+<7>[ 1543.983932] [3228:sh] sig 1 to [3228:sh]
+<7>[ 1543.983952] [3228:sh] sig 17 to [82:adbd]
+<7>[ 1544.024910] [82:adbd] fork [3230:adbd]
+<7>[ 1544.025688] [3230:adbd] set proc[3230] name: -> [sh]
+<7>[ 1544.027239] [3230:sh] fork [3231:sh]
+<7>[ 1544.027784] [3231:sh] set proc[3231] name: -> [getprop]
+<7>[ 1544.029775] [3231:getprop] exit
+<7>[ 1544.029908] [3231:getprop] sig 17 to [3230:sh]
+<7>[ 1544.029999] [3230:sh] exit
+<7>[ 1544.030283] [82:adbd] sig 1 to [3230:sh]
+<7>[ 1544.030296] [82:adbd] sig 18 to [3230:sh]
+<7>[ 1544.030529] [3230:sh] sig 1 to [3230:sh]
+<7>[ 1544.030540] [3230:sh] sig 18 to [3230:sh]
+<7>[ 1544.030553] [3230:sh] sig 17 to [82:adbd]
+<7>[ 1544.077285] [82:adbd] fork [3232:adbd]
+<7>[ 1544.078065] [3232:adbd] set proc[3232] name: -> [sh]
+<7>[ 1544.079605] [3232:sh] fork [3233:sh]
+<7>[ 1544.080144] [3233:sh] set proc[3233] name: -> [dumpsys]
+<6>[ 1544.086383] binder: 3233:3233 refcount change on invalid ref 0
+<6>[ 1544.086395] binder: 3233:3233 refcount change on invalid ref 0
+<6>[ 1544.086409] binder: 3233:3233 binder_context_mgr_node is NULL
+<6>[ 1544.086419] binder: 3233:3233 transaction failed 29189, size 96-0
+<7>[ 1544.086927] [3233:dumpsys] exit
+<7>[ 1544.087274] [3233:dumpsys] sig 17 to [3232:sh]
+<7>[ 1544.087359] [3232:sh] exit
+<7>[ 1544.087494] [3232:sh] sig 1 to [3232:sh]
+<7>[ 1544.087514] [3232:sh] sig 17 to [82:adbd]
+<7>[ 1544.129030] [82:adbd] fork [3234:adbd]
+<7>[ 1544.129806] [3234:adbd] set proc[3234] name: -> [sh]
+<7>[ 1544.131404] [3234:sh] fork [3235:sh]
+<7>[ 1544.131948] [3235:sh] set proc[3235] name: -> [dumpsys]
+<6>[ 1544.138115] binder: 3235:3235 refcount change on invalid ref 0
+<6>[ 1544.138127] binder: 3235:3235 refcount change on invalid ref 0
+<6>[ 1544.138141] binder: 3235:3235 binder_context_mgr_node is NULL
+<6>[ 1544.138152] binder: 3235:3235 transaction failed 29189, size 100-0
+<7>[ 1544.138650] [3235:dumpsys] exit
+<7>[ 1544.138999] [3235:dumpsys] sig 17 to [3234:sh]
+<7>[ 1544.139087] [3234:sh] exit
+<7>[ 1544.139222] [3234:sh] sig 1 to [3234:sh]
+<7>[ 1544.139242] [3234:sh] sig 17 to [82:adbd]
+<4>[ 1544.190336] 2013-03-09 17:42:12.255376 UTC; android time 2013-03-09 17:42:12.255376
+<5>[ 1547.750309] [Power/clkmgr] [disable_clock] disable wpll clksrc 0x2 for clock 16
+<5>[ 1547.751209] [Power/clkmgr] [disable_wpll_clksrc_op] wpll_clksrc_mask=0x2, wpll_clksrc_state=0x4001, WPLL_CON=0x4039
+<7>[ 1547.757086] [1:init] fork [3236:init]
+<7>[ 1547.757610] [3236:init] set proc[3236] name: -> [logwrapper]
+<7>[ 1547.758962] [3236:logwrapper] fork [3237:logwrapper]
+<7>[ 1547.759474] [3237:logwrapper] exit
+<7>[ 1547.759597] [3237:logwrapper] sig 17 to [3236:logwrapper]
+<7>[ 1547.759774] [3236:logwrapper] exit
+<7>[ 1547.759966] [3236:logwrapper] sig 17 to [1:init]
+<7>[ 1548.989306] [82:adbd] fork [3238:adbd]
+<7>[ 1548.990100] [3238:adbd] set proc[3238] name: -> [sh]
+<7>[ 1548.991718] [3238:sh] fork [3239:sh]
+<7>[ 1548.992269] [3239:sh] set proc[3239] name: -> [df]
+<7>[ 1548.994439] [3239:df] exit
+<7>[ 1548.994574] [3239:df] sig 17 to [3238:sh]
+<7>[ 1548.994665] [3238:sh] exit
+<7>[ 1548.994799] [3238:sh] sig 1 to [3238:sh]
+<7>[ 1548.994819] [3238:sh] sig 17 to [82:adbd]
+<7>[ 1549.037586] [82:adbd] fork [3240:adbd]
+<7>[ 1549.038360] [3240:adbd] set proc[3240] name: -> [sh]
+<7>[ 1549.039913] [3240:sh] fork [3241:sh]
+<7>[ 1549.040512] [3241:sh] set proc[3241] name: -> [getprop]
+<7>[ 1549.042507] [3241:getprop] exit
+<7>[ 1549.042641] [3241:getprop] sig 17 to [3240:sh]
+<7>[ 1549.042730] [3240:sh] exit
+<7>[ 1549.043016] [82:adbd] sig 1 to [3240:sh]
+<7>[ 1549.043030] [82:adbd] sig 18 to [3240:sh]
+<7>[ 1549.043230] [3240:sh] sig 1 to [3240:sh]
+<7>[ 1549.043241] [3240:sh] sig 18 to [3240:sh]
+<7>[ 1549.043279] [3240:sh] sig 17 to [82:adbd]
+<7>[ 1549.082363] [82:adbd] fork [3242:adbd]
+<7>[ 1549.083145] [3242:adbd] set proc[3242] name: -> [sh]
+<7>[ 1549.084683] [3242:sh] fork [3243:sh]
+<7>[ 1549.085217] [3243:sh] set proc[3243] name: -> [dumpsys]
+<6>[ 1549.091436] binder: 3243:3243 refcount change on invalid ref 0
+<6>[ 1549.091448] binder: 3243:3243 refcount change on invalid ref 0
+<6>[ 1549.091461] binder: 3243:3243 binder_context_mgr_node is NULL
+<6>[ 1549.091471] binder: 3243:3243 transaction failed 29189, size 96-0
+<7>[ 1549.091972] [3243:dumpsys] exit
+<7>[ 1549.092318] [3243:dumpsys] sig 17 to [3242:sh]
+<7>[ 1549.092404] [3242:sh] exit
+<7>[ 1549.092541] [3242:sh] sig 1 to [3242:sh]
+<7>[ 1549.092561] [3242:sh] sig 17 to [82:adbd]
+<7>[ 1549.134088] [82:adbd] fork [3244:adbd]
+<7>[ 1549.134870] [3244:adbd] set proc[3244] name: -> [sh]
+<7>[ 1549.136419] [3244:sh] fork [3245:sh]
+<7>[ 1549.136956] [3245:sh] set proc[3245] name: -> [dumpsys]
+<6>[ 1549.143176] binder: 3245:3245 refcount change on invalid ref 0
+<6>[ 1549.143188] binder: 3245:3245 refcount change on invalid ref 0
+<6>[ 1549.143202] binder: 3245:3245 binder_context_mgr_node is NULL
+<6>[ 1549.143212] binder: 3245:3245 transaction failed 29189, size 100-0
+<7>[ 1549.143712] [3245:dumpsys] exit
+<7>[ 1549.144056] [3245:dumpsys] sig 17 to [3244:sh]
+<7>[ 1549.144143] [3244:sh] exit
+<7>[ 1549.144282] [3244:sh] sig 1 to [3244:sh]
+<7>[ 1549.144302] [3244:sh] sig 17 to [82:adbd]
+<5>[ 1550.767105] [Power/Battery] [FGADC] 1,2406,0,74,3790,48,32,26,1135,1135,-41,0,0,1000,0,3834,1000,74,68,2314,104,103
+<7>[ 1551.020715] [2964:sh] fork [3246:sh]
+<5>[ 1551.021313] [Power/clkmgr] [enable_clock] enable wpll clksrc 0x2 for clock 16
+<5>[ 1551.022191] [Power/clkmgr] [enable_wpll_clksrc_op] wpll_clksrc_mask=0x2, wpll_clksrc_state=0x4003, WPLL_CON=0x403b
+<7>[ 1551.025689] [3246:sh] set proc[3246] name: -> [logcat]
+<6>[ 1552.040336] yaffs: userdata sync do_checkpoint 0,gc_urgen 0
+<6>[ 1552.040348] yaffs: userdata yaffs_FlushSuperBlock 0
+<7>[ 1552.765334] [1:init] fork [3247:init]
+<7>[ 1552.765864] [3247:init] set proc[3247] name: -> [logwrapper]
+<7>[ 1552.767230] [3247:logwrapper] fork [3248:logwrapper]
+<7>[ 1552.767812] [3248:logwrapper] exit
+<7>[ 1552.767936] [3248:logwrapper] sig 17 to [3247:logwrapper]
+<7>[ 1552.768242] [3247:logwrapper] exit
+<7>[ 1552.768446] [3247:logwrapper] sig 17 to [1:init]
+<7>[ 1553.067204] [82:adbd] sig 1 to [2964:sh]
+<7>[ 1553.067225] [82:adbd] sig 18 to [2964:sh]
+<7>[ 1553.067331] [2964:sh] exit
+<7>[ 1553.067476] [2964:sh] sig 1 to [3246:logcat]
+<7>[ 1553.067497] [2964:sh] sig 18 to [3246:logcat]
+<7>[ 1553.067512] [2964:sh] sig 17 to [82:adbd]
+<7>[ 1553.067547] [3246:logcat] exit
+<7>[ 1553.067743] [3246:logcat] sig 17 to [1:init]
+<3>[ 1553.067957] init: untracked pid 3246 exited
+<7>[ 1553.990493] [82:adbd] fork [3249:adbd]
+<7>[ 1553.991288] [3249:adbd] set proc[3249] name: -> [sh]
+<7>[ 1553.992845] [3249:sh] fork [3250:sh]
+<7>[ 1553.993395] [3250:sh] set proc[3250] name: -> [df]
+<7>[ 1553.995551] [3250:df] exit
+<7>[ 1553.995688] [3250:df] sig 17 to [3249:sh]
+<7>[ 1553.995780] [3249:sh] exit
+<7>[ 1553.996060] [82:adbd] sig 1 to [3249:sh]
+<7>[ 1553.996075] [82:adbd] sig 18 to [3249:sh]
+<7>[ 1553.996277] [3249:sh] sig 1 to [3249:sh]
+<7>[ 1553.996289] [3249:sh] sig 18 to [3249:sh]
+<7>[ 1553.996302] [3249:sh] sig 17 to [82:adbd]
+<7>[ 1554.042928] [82:adbd] fork [3251:adbd]
+<7>[ 1554.043709] [3251:adbd] set proc[3251] name: -> [sh]
+<7>[ 1554.045249] [3251:sh] fork [3252:sh]
+<7>[ 1554.045796] [3252:sh] set proc[3252] name: -> [getprop]
+<7>[ 1554.047779] [3252:getprop] exit
+<7>[ 1554.047913] [3252:getprop] sig 17 to [3251:sh]
+<7>[ 1554.048005] [3251:sh] exit
+<7>[ 1554.048280] [82:adbd] sig 1 to [3251:sh]
+<7>[ 1554.048295] [82:adbd] sig 18 to [3251:sh]
+<7>[ 1554.048491] [3251:sh] sig 1 to [3251:sh]
+<7>[ 1554.048503] [3251:sh] sig 18 to [3251:sh]
+<7>[ 1554.048516] [3251:sh] sig 17 to [82:adbd]
+<7>[ 1554.088161] [82:adbd] fork [3253:adbd]
+<7>[ 1554.088944] [3253:adbd] set proc[3253] name: -> [sh]
+<7>[ 1554.090545] [3253:sh] fork [3254:sh]
+<7>[ 1554.091087] [3254:sh] set proc[3254] name: -> [dumpsys]
+<6>[ 1554.097236] binder: 3254:3254 refcount change on invalid ref 0
+<6>[ 1554.097250] binder: 3254:3254 refcount change on invalid ref 0
+<6>[ 1554.097263] binder: 3254:3254 binder_context_mgr_node is NULL
+<6>[ 1554.097273] binder: 3254:3254 transaction failed 29189, size 96-0
+<7>[ 1554.097774] [3254:dumpsys] exit
+<7>[ 1554.098126] [3254:dumpsys] sig 17 to [3253:sh]
+<7>[ 1554.098213] [3253:sh] exit
+<7>[ 1554.098349] [3253:sh] sig 1 to [3253:sh]
+<7>[ 1554.098369] [3253:sh] sig 17 to [82:adbd]
+<7>[ 1554.139533] [82:adbd] fork [3255:adbd]
+<7>[ 1554.140355] [3255:adbd] set proc[3255] name: -> [sh]
+<7>[ 1554.141895] [3255:sh] fork [3256:sh]
+<7>[ 1554.142432] [3256:sh] set proc[3256] name: -> [dumpsys]
+<6>[ 1554.148577] binder: 3256:3256 refcount change on invalid ref 0
+<6>[ 1554.148590] binder: 3256:3256 refcount change on invalid ref 0
+<6>[ 1554.148604] binder: 3256:3256 binder_context_mgr_node is NULL
+<6>[ 1554.148614] binder: 3256:3256 transaction failed 29189, size 100-0
+<7>[ 1554.149114] [3256:dumpsys] exit
+<7>[ 1554.149464] [3256:dumpsys] sig 17 to [3255:sh]
+<7>[ 1554.149552] [3255:sh] exit
+<7>[ 1554.149687] [3255:sh] sig 1 to [3255:sh]
+<7>[ 1554.149707] [3255:sh] sig 17 to [82:adbd]
+<5>[ 1556.030315] [Power/clkmgr] [disable_clock] disable wpll clksrc 0x2 for clock 16
+<5>[ 1556.031217] [Power/clkmgr] [disable_wpll_clksrc_op] wpll_clksrc_mask=0x2, wpll_clksrc_state=0x4001, WPLL_CON=0x4039
+<7>[ 1557.072670] [1:init] fork [3257:init]
+<7>[ 1557.073193] [3257:init] set proc[3257] name: -> [logwrapper]
+<7>[ 1557.074537] [3257:logwrapper] fork [3258:logwrapper]
+<7>[ 1557.075050] [3258:logwrapper] exit
+<7>[ 1557.075173] [3258:logwrapper] sig 17 to [3257:logwrapper]
+<7>[ 1557.075351] [3257:logwrapper] exit
+<7>[ 1557.075547] [3257:logwrapper] sig 17 to [1:init]
+<6>[ 1558.040336] yaffs: userdata sync do_checkpoint 0,gc_urgen 0
+<6>[ 1558.040348] yaffs: userdata yaffs_FlushSuperBlock 0
+<7>[ 1558.988821] [82:adbd] fork [3259:adbd]
+<7>[ 1558.989603] [3259:adbd] set proc[3259] name: -> [sh]
+<7>[ 1558.991226] [3259:sh] fork [3260:sh]
+<7>[ 1558.991775] [3260:sh] set proc[3260] name: -> [df]
+<7>[ 1558.993937] [3260:df] exit
+<7>[ 1558.994074] [3260:df] sig 17 to [3259:sh]
+<7>[ 1558.994165] [3259:sh] exit
+<7>[ 1558.994298] [3259:sh] sig 1 to [3259:sh]
+<7>[ 1558.994316] [3259:sh] sig 17 to [82:adbd]
+<7>[ 1559.035473] [82:adbd] fork [3261:adbd]
+<7>[ 1559.036249] [3261:adbd] set proc[3261] name: -> [sh]
+<7>[ 1559.037798] [3261:sh] fork [3262:sh]
+<7>[ 1559.038346] [3262:sh] set proc[3262] name: -> [getprop]
+<7>[ 1559.040598] [3262:getprop] exit
+<7>[ 1559.040747] [3262:getprop] sig 17 to [3261:sh]
+<7>[ 1559.040835] [3261:sh] exit
+<7>[ 1559.041174] [82:adbd] sig 1 to [3261:sh]
+<7>[ 1559.041189] [82:adbd] sig 18 to [3261:sh]
+<7>[ 1559.041342] [3261:sh] sig 1 to [3261:sh]
+<7>[ 1559.041353] [3261:sh] sig 18 to [3261:sh]
+<7>[ 1559.041366] [3261:sh] sig 17 to [82:adbd]
+<7>[ 1559.081803] [82:adbd] fork [3263:adbd]
+<7>[ 1559.082579] [3263:adbd] set proc[3263] name: -> [sh]
+<7>[ 1559.084119] [3263:sh] fork [3264:sh]
+<7>[ 1559.084660] [3264:sh] set proc[3264] name: -> [dumpsys]
+<6>[ 1559.090898] binder: 3264:3264 refcount change on invalid ref 0
+<6>[ 1559.090911] binder: 3264:3264 refcount change on invalid ref 0
+<6>[ 1559.090924] binder: 3264:3264 binder_context_mgr_node is NULL
+<6>[ 1559.090934] binder: 3264:3264 transaction failed 29189, size 96-0
+<7>[ 1559.091432] [3264:dumpsys] exit
+<7>[ 1559.091783] [3264:dumpsys] sig 17 to [3263:sh]
+<7>[ 1559.091870] [3263:sh] exit
+<7>[ 1559.092006] [3263:sh] sig 1 to [3263:sh]
+<7>[ 1559.092025] [3263:sh] sig 17 to [82:adbd]
+<7>[ 1559.133596] [82:adbd] fork [3265:adbd]
+<7>[ 1559.134374] [3265:adbd] set proc[3265] name: -> [sh]
+<7>[ 1559.135913] [3265:sh] fork [3266:sh]
+<7>[ 1559.136454] [3266:sh] set proc[3266] name: -> [dumpsys]
+<6>[ 1559.142687] binder: 3266:3266 refcount change on invalid ref 0
+<6>[ 1559.142700] binder: 3266:3266 refcount change on invalid ref 0
+<6>[ 1559.142713] binder: 3266:3266 binder_context_mgr_node is NULL
+<6>[ 1559.142724] binder: 3266:3266 transaction failed 29189, size 100-0
+<7>[ 1559.143223] [3266:dumpsys] exit
+<7>[ 1559.143573] [3266:dumpsys] sig 17 to [3265:sh]
+<7>[ 1559.143658] [3265:sh] exit
+<7>[ 1559.143796] [3265:sh] sig 1 to [3265:sh]
+<7>[ 1559.143816] [3265:sh] sig 17 to [82:adbd]
+<7>[ 1560.707454] [82:adbd] fork [3267:adbd]
+<7>[ 1560.708233] [3267:adbd] set proc[3267] name: -> [sh]
+<5>[ 1560.768998] [Power/Battery] [FGADC] 1,2355,0,74,3791,49,32,26,1135,1135,-38,0,0,1000,0,3834,1000,74,68,2265,104,103
+<7>[ 1562.080909] [1:init] fork [3268:init]
+<7>[ 1562.081433] [3268:init] set proc[3268] name: -> [logwrapper]
+<7>[ 1562.082878] [3268:logwrapper] fork [3269:logwrapper]
+<7>[ 1562.083385] [3269:logwrapper] exit
+<7>[ 1562.083539] [3269:logwrapper] sig 17 to [3268:logwrapper]
+<7>[ 1562.083699] [3268:logwrapper] exit
+<7>[ 1562.083875] [3268:logwrapper] sig 17 to [1:init]
+<5>[ 1563.805652] [Power/PMIC] [mt6329_pmic_eint_irq] receive interrupt
+<5>[ 1563.806402] [Power/PMIC] [wake_up_pmic]
+<6>[ 1563.806918] [Power/PMIC] [pmic_thread_kthread] running
+<6>[ 1563.807129] [Power/PMIC] [BATTERY] Reg[0x21]=0x7b, Reg[0x22]=0xa2, Reg[0x38]=0xf4
+<5>[ 1563.807462] [Power/PMIC] [pmic_thread_kthread_E2] Get HomeKey EINT
+<5>[ 1563.808294] [Power/PMIC] [pmic_thread_kthread_E2] Press HomeKey
+<4>[ 1563.809030] kpd: PMIC reset Key generate, pressed=1
+<4>[ 1563.820361] kpd: (pressed) HW keycode =114 using PMIC
+<7>[ 1563.996854] [82:adbd] fork [3270:adbd]
+<7>[ 1563.997648] [3270:adbd] set proc[3270] name: -> [sh]
+<7>[ 1563.999218] [3270:sh] fork [3271:sh]
+<7>[ 1563.999766] [3271:sh] set proc[3271] name: -> [df]
+<7>[ 1564.002061] [3271:df] exit
+<7>[ 1564.002198] [3271:df] sig 17 to [3270:sh]
+<7>[ 1564.002288] [3270:sh] exit
+<7>[ 1564.002573] [82:adbd] sig 1 to [3270:sh]
+<7>[ 1564.002587] [82:adbd] sig 18 to [3270:sh]
+<7>[ 1564.002788] [3270:sh] sig 1 to [3270:sh]
+<7>[ 1564.002799] [3270:sh] sig 18 to [3270:sh]
+<7>[ 1564.002812] [3270:sh] sig 17 to [82:adbd]
+<6>[ 1564.040328] yaffs: userdata sync do_checkpoint 0,gc_urgen 0
+<6>[ 1564.040340] yaffs: userdata yaffs_FlushSuperBlock 0
+<7>[ 1564.044820] [82:adbd] fork [3272:adbd]
+<7>[ 1564.045602] [3272:adbd] set proc[3272] name: -> [sh]
+<7>[ 1564.047164] [3272:sh] fork [3273:sh]
+<7>[ 1564.047716] [3273:sh] set proc[3273] name: -> [getprop]
+<7>[ 1564.049684] [3273:getprop] exit
+<7>[ 1564.049816] [3273:getprop] sig 17 to [3272:sh]
+<7>[ 1564.049908] [3272:sh] exit
+<7>[ 1564.050191] [82:adbd] sig 1 to [3272:sh]
+<7>[ 1564.050206] [82:adbd] sig 18 to [3272:sh]
+<7>[ 1564.050452] [3272:sh] sig 1 to [3272:sh]
+<7>[ 1564.050486] [3272:sh] sig 18 to [3272:sh]
+<7>[ 1564.050500] [3272:sh] sig 17 to [82:adbd]
+<7>[ 1564.093682] [82:adbd] fork [3274:adbd]
+<7>[ 1564.094463] [3274:adbd] set proc[3274] name: -> [sh]
+<7>[ 1564.096026] [3274:sh] fork [3275:sh]
+<7>[ 1564.096567] [3275:sh] set proc[3275] name: -> [dumpsys]
+<6>[ 1564.102882] binder: 3275:3275 refcount change on invalid ref 0
+<6>[ 1564.102895] binder: 3275:3275 refcount change on invalid ref 0
+<6>[ 1564.102908] binder: 3275:3275 binder_context_mgr_node is NULL
+<6>[ 1564.102919] binder: 3275:3275 transaction failed 29189, size 96-0
+<7>[ 1564.103421] [3275:dumpsys] exit
+<5>[ 1564.103687] [Power/PMIC] [mt6329_pmic_eint_irq] receive interrupt
+<5>[ 1564.104434] [Power/PMIC] [wake_up_pmic]
+<6>[ 1564.104951] [Power/PMIC] [pmic_thread_kthread] running
+<7>[ 1564.105136] [3275:dumpsys] sig 17 to [3274:sh]
+<7>[ 1564.105234] [3274:sh] exit
+<7>[ 1564.105382] [3274:sh] sig 1 to [3274:sh]
+<7>[ 1564.105402] [3274:sh] sig 17 to [82:adbd]
+<6>[ 1564.105432] [Power/PMIC] [BATTERY] Reg[0x21]=0x7b, Reg[0x22]=0xa2, Reg[0x38]=0xf4
+<5>[ 1564.106110] [Power/PMIC] [pmic_thread_kthread_E2] Get HomeKey EINT
+<5>[ 1564.107047] [Power/PMIC] [pmic_thread_kthread_E2] Release HomeKey
+<4>[ 1564.107805] kpd: PMIC reset Key generate, pressed=0
+<4>[ 1564.108503] kpd: (released) HW keycode =114 using PMIC
+<7>[ 1564.146699] [82:adbd] fork [3276:adbd]
+<7>[ 1564.147498] [3276:adbd] set proc[3276] name: -> [sh]
+<7>[ 1564.149046] [3276:sh] fork [3277:sh]
+<7>[ 1564.149586] [3277:sh] set proc[3277] name: -> [dumpsys]
+<6>[ 1564.155818] binder: 3277:3277 refcount change on invalid ref 0
+<6>[ 1564.155831] binder: 3277:3277 refcount change on invalid ref 0
+<6>[ 1564.155845] binder: 3277:3277 binder_context_mgr_node is NULL
+<6>[ 1564.155855] binder: 3277:3277 transaction failed 29189, size 100-0
+<7>[ 1564.156359] [3277:dumpsys] exit
+<7>[ 1564.156710] [3277:dumpsys] sig 17 to [3276:sh]
+<7>[ 1564.156798] [3276:sh] exit
+<7>[ 1564.156934] [3276:sh] sig 1 to [3276:sh]
+<7>[ 1564.156954] [3276:sh] sig 17 to [82:adbd]
+<4>[ 1564.200324] 2013-03-09 17:42:32.265363 UTC; android time 2013-03-09 17:42:32.265363
+<4>[ 1564.664378] MSG_X = 53,MSG_Y = 510
+<4>[ 1564.674326] MSG_X = 53,MSG_Y = 510
+<4>[ 1564.684287] MSG_X = 53,MSG_Y = 510
+<4>[ 1564.694242] MSG_X = 53,MSG_Y = 510
+<4>[ 1564.704206] MSG_X = 53,MSG_Y = 510
+<4>[ 1564.714178] MSG_X = 53,MSG_Y = 510
+<4>[ 1564.724133] MSG_X = 53,MSG_Y = 510
+<4>[ 1564.734097] MSG_X = 53,MSG_Y = 510
+<4>[ 1564.744065] MSG_X = 53,MSG_Y = 510
+<4>[ 1564.753984] MSG_X = 53,MSG_Y = 510
+<4>[ 1564.763952] MSG_X = 53,MSG_Y = 510
+<4>[ 1564.773916] MSG_X = 53,MSG_Y = 510
+<4>[ 1564.783890] MSG_X = 53,MSG_Y = 510
+<4>[ 1564.793813] MSG_X = 53,MSG_Y = 510
+<4>[ 1564.803786] MSG_X = 53,MSG_Y = 510
+<4>[ 1564.813759] MSG_X = 53,MSG_Y = 510
+<4>[ 1564.823684] MSG_X = 53,MSG_Y = 510
+<4>[ 1564.833654] MSG_X = 53,MSG_Y = 510
+<4>[ 1564.843624] MSG_X = 53,MSG_Y = 510
+<4>[ 1564.853591] MSG_X = 53,MSG_Y = 510
+<4>[ 1564.863511] MSG_X = 53,MSG_Y = 510
+<4>[ 1564.873480] MSG_X = 53,MSG_Y = 510
+<4>[ 1564.883447] MSG_X = 53,MSG_Y = 510
+<4>[ 1564.893409] MSG_X = 53,MSG_Y = 510
+<4>[ 1564.903373] MSG_X = 53,MSG_Y = 510
+<4>[ 1564.913290] MSG_X = 53,MSG_Y = 510
+<4>[ 1564.923252] MSG_X = 53,MSG_Y = 510
+<6>[ 1564.969240] [Power/Battery] **** unlocked_ioctl : Channel 3 * 5 times = 23890
+<6>[ 1564.971997] [Power/Battery] **** unlocked_ioctl : Channel 1 * 5 times = 19170
+<6>[ 1564.974590] [Power/Battery] **** unlocked_ioctl : Channel 0 * 5 times = 19615
+<6>[ 1564.974637] [Power/Battery] **** unlocked_ioctl : CAL:0
+<6>[ 1564.974662] [Power/Battery] **** unlocked_ioctl : Channel 30 * 5 times = 29
+<6>[ 1564.974699] [Power/Battery] **** unlocked_ioctl : Channel 66 * 5 times = -235
+<5>[ 1564.974844] [Power/Battery] [FGADC] FGADC_Reset_SW_Parameter : Start 
+<6>[ 1564.975661] [Power/Battery] **** unlocked_ioctl : set_Charger_Current:12
+<7>[ 1564.975818] [86:factory] fork [3278:factory]
+<5>[ 1564.976691] [Power/Battery] #
+<5>[ 1564.977027] [Power/Battery] [FGADC] FGADC_Reset_SW_Parameter : Done 
+<5>[ 1564.977850] [Power/Battery] [FGADC] Update DOD0(74) by 68 
+<5>[ 1564.993955] [Power/Battery] [FGADC] 1,2635,0,0,3790,48,32,26,1135,1135,-40,0,0,1000,0,3825,1000,68,68,2534,104,103
+<5>[ 1566.051091] [Power/Battery] [BATTERY] FTM charging : 12
+<6>[ 1566.056172] [Power/Battery] **** unlocked_ioctl : Channel 3 * 5 times = 25275
+<6>[ 1566.058802] [Power/Battery] **** unlocked_ioctl : Channel 1 * 5 times = 18820
+<6>[ 1566.061423] [Power/Battery] **** unlocked_ioctl : Channel 0 * 5 times = 19050
+<6>[ 1566.061475] [Power/Battery] **** unlocked_ioctl : CAL:0
+<6>[ 1566.061499] [Power/Battery] **** unlocked_ioctl : Channel 30 * 5 times = 30
+<6>[ 1566.061537] [Power/Battery] **** unlocked_ioctl : Channel 66 * 5 times = -263
+<5>[ 1566.684128] [Power/PMIC] [mt6329_pmic_eint_irq] receive interrupt
+<5>[ 1566.684877] [Power/PMIC] [wake_up_pmic]
+<6>[ 1566.685388] [Power/PMIC] [pmic_thread_kthread] running
+<6>[ 1566.685599] [Power/PMIC] [BATTERY] Reg[0x21]=0x7b, Reg[0x22]=0xa2, Reg[0x38]=0xf4
+<5>[ 1566.685933] [Power/PMIC] [pmic_thread_kthread_E2] Get HomeKey EINT
+<5>[ 1566.686766] [Power/PMIC] [pmic_thread_kthread_E2] Press HomeKey
+<4>[ 1566.687501] kpd: PMIC reset Key generate, pressed=1
+<4>[ 1566.700362] kpd: (pressed) HW keycode =114 using PMIC
+<5>[ 1566.871050] [Power/PMIC] [mt6329_pmic_eint_irq] receive interrupt
+<5>[ 1566.871799] [Power/PMIC] [wake_up_pmic]
+<6>[ 1566.872309] [Power/PMIC] [pmic_thread_kthread] running
+<6>[ 1566.872522] [Power/PMIC] [BATTERY] Reg[0x21]=0x7b, Reg[0x22]=0xa2, Reg[0x38]=0xf4
+<5>[ 1566.872848] [Power/PMIC] [pmic_thread_kthread_E2] Get HomeKey EINT
+<5>[ 1566.873679] [Power/PMIC] [pmic_thread_kthread_E2] Release HomeKey
+<4>[ 1566.874436] kpd: PMIC reset Key generate, pressed=0
+<4>[ 1566.875132] kpd: (released) HW keycode =114 using PMIC
+<5>[ 1567.073193] [Power/PMIC] [mt6329_pmic_eint_irq] receive interrupt
+<5>[ 1567.073940] [Power/PMIC] [wake_up_pmic]
+<6>[ 1567.074445] [Power/PMIC] [pmic_thread_kthread] running
+<6>[ 1567.074646] [Power/PMIC] [BATTERY] Reg[0x21]=0x7b, Reg[0x22]=0xa2, Reg[0x38]=0xf4
+<5>[ 1567.074970] [Power/PMIC] [pmic_thread_kthread_E2] Get HomeKey EINT
+<5>[ 1567.075800] [Power/PMIC] [pmic_thread_kthread_E2] Press HomeKey
+<4>[ 1567.076535] kpd: PMIC reset Key generate, pressed=1
+<4>[ 1567.078246] kpd: (pressed) HW keycode =114 using PMIC
+<6>[ 1567.081146] [Power/Battery] **** unlocked_ioctl : Channel 3 * 5 times = 23890
+<7>[ 1567.084360] [1:init] fork [3279:init]
+<7>[ 1567.085488] [3279:init] set proc[3279] name: -> [logwrapper]
+<6>[ 1567.087249] [Power/Battery] **** unlocked_ioctl : Channel 1 * 5 times = 19100
+<7>[ 1567.091390] [3279:logwrapper] fork [3280:logwrapper]
+<6>[ 1567.091567] [Power/Battery] **** unlocked_ioctl : Channel 0 * 5 times = 19570
+<6>[ 1567.091650] [Power/Battery] **** unlocked_ioctl : CAL:0
+<6>[ 1567.091677] [Power/Battery] **** unlocked_ioctl : Channel 30 * 5 times = 30
+<6>[ 1567.091716] [Power/Battery] **** unlocked_ioctl : Channel 66 * 5 times = -263
+<7>[ 1567.110967] [3280:logwrapper] exit
+<7>[ 1567.111134] [3280:logwrapper] sig 17 to [3279:logwrapper]
+<7>[ 1567.111303] [3279:logwrapper] exit
+<7>[ 1567.111486] [3279:logwrapper] sig 17 to [1:init]
+<5>[ 1567.221515] [Power/PMIC] [mt6329_pmic_eint_irq] receive interrupt
+<5>[ 1567.222264] [Power/PMIC] [wake_up_pmic]
+<6>[ 1567.222774] [Power/PMIC] [pmic_thread_kthread] running
+<6>[ 1567.222990] [Power/PMIC] [BATTERY] Reg[0x21]=0x7b, Reg[0x22]=0xa2, Reg[0x38]=0xf4
+<5>[ 1567.223315] [Power/PMIC] [pmic_thread_kthread_E2] Get HomeKey EINT
+<5>[ 1567.224146] [Power/PMIC] [pmic_thread_kthread_E2] Release HomeKey
+<4>[ 1567.224903] kpd: PMIC reset Key generate, pressed=0
+<4>[ 1567.225602] kpd: (released) HW keycode =114 using PMIC
+<4>[ 1567.372684] MSG_X = 53,MSG_Y = 510
+<4>[ 1567.382638] MSG_X = 53,MSG_Y = 510
+<4>[ 1567.392562] MSG_X = 53,MSG_Y = 510
+<4>[ 1567.402529] MSG_X = 53,MSG_Y = 510
+<4>[ 1567.412497] MSG_X = 53,MSG_Y = 510
+<4>[ 1567.422464] MSG_X = 53,MSG_Y = 510
+<4>[ 1567.432434] MSG_X = 53,MSG_Y = 510
+<4>[ 1567.442349] MSG_X = 53,MSG_Y = 510
+<4>[ 1567.452318] MSG_X = 53,MSG_Y = 510
+<4>[ 1567.462287] MSG_X = 53,MSG_Y = 510
+<4>[ 1567.472258] MSG_X = 53,MSG_Y = 510
+<4>[ 1567.482179] MSG_X = 53,MSG_Y = 510
+<4>[ 1567.492150] MSG_X = 53,MSG_Y = 510
+<4>[ 1567.502117] MSG_X = 53,MSG_Y = 510
+<4>[ 1567.512085] MSG_X = 53,MSG_Y = 510
+<4>[ 1567.522006] MSG_X = 53,MSG_Y = 510
+<4>[ 1567.531974] MSG_X = 53,MSG_Y = 510
+<4>[ 1567.541943] MSG_X = 53,MSG_Y = 510
+<4>[ 1567.551910] MSG_X = 53,MSG_Y = 510
+<4>[ 1567.561828] MSG_X = 53,MSG_Y = 510
+<4>[ 1567.571795] MSG_X = 53,MSG_Y = 510
+<4>[ 1567.581761] MSG_X = 53,MSG_Y = 510
+<5>[ 1567.619238] [Power/Battery] [FGADC] FGADC_Reset_SW_Parameter : Start 
+<6>[ 1567.620066] [Power/Battery] **** unlocked_ioctl : set_Charger_Current:10
+<5>[ 1567.621121] [Power/Battery] #
+<5>[ 1567.621458] [Power/Battery] [FGADC] FGADC_Reset_SW_Parameter : Done 
+<5>[ 1567.622281] [Power/Battery] [FGADC] Update DOD0(68) by 68 
+<5>[ 1567.638272] [Power/Battery] [FGADC] 1,2839,0,0,3790,48,32,26,1135,1135,-52,0,0,1000,0,3825,1000,68,68,2730,104,103
+<5>[ 1568.700833] [Power/Battery] [BATTERY] FTM charging : 10
+<6>[ 1568.705812] [Power/Battery] **** unlocked_ioctl : Channel 3 * 5 times = 25442
+<6>[ 1568.708447] [Power/Battery] **** unlocked_ioctl : Channel 1 * 5 times = 18725
+<6>[ 1568.711050] [Power/Battery] **** unlocked_ioctl : Channel 0 * 5 times = 18725
+<6>[ 1568.711103] [Power/Battery] **** unlocked_ioctl : CAL:0
+<6>[ 1568.711128] [Power/Battery] **** unlocked_ioctl : Channel 30 * 5 times = 30
+<6>[ 1568.711165] [Power/Battery] **** unlocked_ioctl : Channel 66 * 5 times = -283
+<4>[ 1568.906100] MSG_X = 53,MSG_Y = 510
+<4>[ 1568.916038] MSG_X = 53,MSG_Y = 510
+<4>[ 1568.925952] MSG_X = 53,MSG_Y = 510
+<4>[ 1568.935918] MSG_X = 53,MSG_Y = 510
+<4>[ 1568.945883] MSG_X = 53,MSG_Y = 510
+<4>[ 1568.955857] MSG_X = 53,MSG_Y = 510
+<4>[ 1568.965820] MSG_X = 53,MSG_Y = 510
+<4>[ 1568.975789] MSG_X = 53,MSG_Y = 510
+<4>[ 1568.985713] MSG_X = 53,MSG_Y = 510
+<4>[ 1568.995677] MSG_X = 53,MSG_Y = 510
+<7>[ 1568.997171] [82:adbd] fork [3281:adbd]
+<7>[ 1568.998012] [3281:adbd] set proc[3281] name: -> [sh]
+<7>[ 1568.999587] [3281:sh] fork [3282:sh]
+<7>[ 1569.000145] [3282:sh] set proc[3282] name: -> [df]
+<7>[ 1569.002375] [3282:df] exit
+<7>[ 1569.002514] [3282:df] sig 17 to [3281:sh]
+<7>[ 1569.002603] [3281:sh] exit
+<7>[ 1569.002737] [3281:sh] sig 1 to [3281:sh]
+<7>[ 1569.002757] [3281:sh] sig 17 to [82:adbd]
+<4>[ 1569.005659] MSG_X = 53,MSG_Y = 510
+<4>[ 1569.015617] MSG_X = 53,MSG_Y = 510
+<4>[ 1569.025533] MSG_X = 53,MSG_Y = 510
+<4>[ 1569.035497] MSG_X = 53,MSG_Y = 510
+<7>[ 1569.044703] [82:adbd] fork [3283:adbd]
+<7>[ 1569.045492] [3283:adbd] set proc[3283] name: -> [sh]
+<4>[ 1569.045542] MSG_X = 53,MSG_Y = 510
+<7>[ 1569.047525] [3283:sh] fork [3284:sh]
+<7>[ 1569.048124] [3284:sh] set proc[3284] name: -> [getprop]
+<7>[ 1569.050109] [3284:getprop] exit
+<7>[ 1569.050242] [3284:getprop] sig 17 to [3283:sh]
+<7>[ 1569.050587] [3283:sh] exit
+<7>[ 1569.050736] [3283:sh] sig 1 to [3283:sh]
+<7>[ 1569.050757] [3283:sh] sig 17 to [82:adbd]
+<4>[ 1569.055445] MSG_X = 53,MSG_Y = 510
+<4>[ 1569.065395] MSG_X = 53,MSG_Y = 510
+<7>[ 1569.093457] [82:adbd] fork [3285:adbd]
+<7>[ 1569.100813] [3285:adbd] set proc[3285] name: -> [sh]
+<7>[ 1569.102389] [3285:sh] fork [3286:sh]
+<7>[ 1569.102927] [3286:sh] set proc[3286] name: -> [dumpsys]
+<6>[ 1569.109104] binder: 3286:3286 refcount change on invalid ref 0
+<6>[ 1569.109116] binder: 3286:3286 refcount change on invalid ref 0
+<6>[ 1569.109130] binder: 3286:3286 binder_context_mgr_node is NULL
+<6>[ 1569.109140] binder: 3286:3286 transaction failed 29189, size 96-0
+<7>[ 1569.109642] [3286:dumpsys] exit
+<5>[ 1569.113774] [Power/Battery] [FGADC] FGADC_Reset_SW_Parameter : Start 
+<6>[ 1569.114603] [Power/Battery] **** unlocked_ioctl : set_Charger_Current:10
+<5>[ 1569.115618] [Power/Battery] #
+<5>[ 1569.115955] [Power/Battery] [FGADC] FGADC_Reset_SW_Parameter : Done 
+<5>[ 1569.116777] [Power/Battery] [FGADC] Update DOD0(68) by 68 
+<7>[ 1569.120745] [3286:dumpsys] sig 17 to [3285:sh]
+<7>[ 1569.120845] [3285:sh] exit
+<7>[ 1569.120997] [3285:sh] sig 1 to [3285:sh]
+<7>[ 1569.121017] [3285:sh] sig 17 to [82:adbd]
+<5>[ 1569.133628] [Power/Battery] [FGADC] 1,4782,0,0,3790,48,32,26,1135,1135,-76,0,0,1000,0,3867,1000,68,68,4599,104,103
+<7>[ 1569.159930] [82:adbd] fork [3287:adbd]
+<7>[ 1569.161134] [3287:adbd] set proc[3287] name: -> [sh]
+<7>[ 1569.164087] [3287:sh] fork [3288:sh]
+<7>[ 1569.165090] [3288:sh] set proc[3288] name: -> [dumpsys]
+<6>[ 1569.176504] binder: 3288:3288 refcount change on invalid ref 0
+<6>[ 1569.176517] binder: 3288:3288 refcount change on invalid ref 0
+<6>[ 1569.176531] binder: 3288:3288 binder_context_mgr_node is NULL
+<6>[ 1569.176541] binder: 3288:3288 transaction failed 29189, size 100-0
+<7>[ 1569.177048] [3288:dumpsys] exit
+<7>[ 1569.177949] [3288:dumpsys] sig 17 to [3287:sh]
+<7>[ 1569.178043] [3287:sh] exit
+<7>[ 1569.178192] [3287:sh] sig 1 to [3287:sh]
+<7>[ 1569.178212] [3287:sh] sig 17 to [82:adbd]
+<4>[ 1569.403956] MSG_X = 53,MSG_Y = 510
+<4>[ 1569.413882] MSG_X = 53,MSG_Y = 510
+<4>[ 1569.423843] MSG_X = 53,MSG_Y = 510
+<4>[ 1569.871939] MSG_X = 53,MSG_Y = 510
+<4>[ 1569.881867] MSG_X = 53,MSG_Y = 510
+<5>[ 1570.189970] [Power/Battery] [BATTERY] FTM charging : 10
+<6>[ 1570.194999] [Power/Battery] **** unlocked_ioctl : Channel 3 * 5 times = 25275
+<6>[ 1570.197630] [Power/Battery] **** unlocked_ioctl : Channel 1 * 5 times = 18820
+<6>[ 1570.200220] [Power/Battery] **** unlocked_ioctl : Channel 0 * 5 times = 19030
+<6>[ 1570.200267] [Power/Battery] **** unlocked_ioctl : CAL:0
+<6>[ 1570.200324] [Power/Battery] **** unlocked_ioctl : Channel 30 * 5 times = 29
+<6>[ 1570.200366] [Power/Battery] **** unlocked_ioctl : Channel 66 * 5 times = -478
+<5>[ 1570.436385] [Power/PMIC] [mt6329_pmic_eint_irq] receive interrupt
+<5>[ 1570.437135] [Power/PMIC] [wake_up_pmic]
+<6>[ 1570.437648] [Power/PMIC] [pmic_thread_kthread] running
+<6>[ 1570.437863] [Power/PMIC] [BATTERY] Reg[0x21]=0x7b, Reg[0x22]=0xa2, Reg[0x38]=0xf4
+<5>[ 1570.438204] [Power/PMIC] [pmic_thread_kthread_E2] Get HomeKey EINT
+<5>[ 1570.439038] [Power/PMIC] [pmic_thread_kthread_E2] Press HomeKey
+<4>[ 1570.439773] kpd: PMIC reset Key generate, pressed=1
+<4>[ 1570.450378] kpd: (pressed) HW keycode =114 using PMIC
+<5>[ 1570.606157] [Power/PMIC] [mt6329_pmic_eint_irq] receive interrupt
+<5>[ 1570.606906] [Power/PMIC] [wake_up_pmic]
+<6>[ 1570.607418] [Power/PMIC] [pmic_thread_kthread] running
+<6>[ 1570.607649] [Power/PMIC] [BATTERY] Reg[0x21]=0x7b, Reg[0x22]=0xa2, Reg[0x38]=0xf4
+<5>[ 1570.607982] [Power/PMIC] [pmic_thread_kthread_E2] Get HomeKey EINT
+<5>[ 1570.608814] [Power/PMIC] [pmic_thread_kthread_E2] Release HomeKey
+<4>[ 1570.609572] kpd: PMIC reset Key generate, pressed=0
+<4>[ 1570.610269] kpd: (released) HW keycode =114 using PMIC
+<5>[ 1570.770951] [Power/Battery] [FGADC] 1,5008,0,0,3790,48,32,26,1135,1135,-85,0,0,1000,0,3876,1000,68,68,4816,104,103
+<4>[ 1571.644346] MSG_X = 53,MSG_Y = 510
+<4>[ 1571.654296] MSG_X = 53,MSG_Y = 510
+<4>[ 1571.664258] MSG_X = 53,MSG_Y = 510
+<4>[ 1571.674224] MSG_X = 53,MSG_Y = 510
+<4>[ 1571.684142] MSG_X = 53,MSG_Y = 510
+<4>[ 1571.694120] MSG_X = 53,MSG_Y = 510
+<4>[ 1571.704075] MSG_X = 53,MSG_Y = 510
+<4>[ 1571.714045] MSG_X = 53,MSG_Y = 510
+<4>[ 1571.724014] MSG_X = 53,MSG_Y = 510
+<4>[ 1571.733936] MSG_X = 53,MSG_Y = 510
+<4>[ 1571.743906] MSG_X = 53,MSG_Y = 510
+<4>[ 1571.753876] MSG_X = 53,MSG_Y = 510
+<4>[ 1571.763847] MSG_X = 53,MSG_Y = 510
+<4>[ 1571.773769] MSG_X = 53,MSG_Y = 510
+<4>[ 1571.783735] MSG_X = 53,MSG_Y = 510
+<4>[ 1571.793706] MSG_X = 53,MSG_Y = 510
+<4>[ 1571.803675] MSG_X = 53,MSG_Y = 510
+<4>[ 1571.813588] MSG_X = 53,MSG_Y = 510
+<4>[ 1571.823560] MSG_X = 53,MSG_Y = 510
+<5>[ 1571.831144] [Power/Battery] [BATTERY] FTM charging : 10
+<4>[ 1571.833529] MSG_X = 53,MSG_Y = 510
+<6>[ 1571.836648] [Power/Battery] **** unlocked_ioctl : Channel 3 * 5 times = 25442
+<6>[ 1571.839280] [Power/Battery] **** unlocked_ioctl : Channel 1 * 5 times = 18700
+<6>[ 1571.841879] [Power/Battery] **** unlocked_ioctl : Channel 0 * 5 times = 18725
+<6>[ 1571.841929] [Power/Battery] **** unlocked_ioctl : CAL:0
+<6>[ 1571.841954] [Power/Battery] **** unlocked_ioctl : Channel 30 * 5 times = 29
+<6>[ 1571.841992] [Power/Battery] **** unlocked_ioctl : Channel 66 * 5 times = -500
+<4>[ 1571.843512] MSG_X = 53,MSG_Y = 510
+<4>[ 1571.853495] MSG_X = 53,MSG_Y = 510
+<4>[ 1571.863391] MSG_X = 53,MSG_Y = 510
+<5>[ 1571.901100] [Power/Battery] [FGADC] FGADC_Reset_SW_Parameter : Start 
+<6>[ 1571.901928] [Power/Battery] **** unlocked_ioctl : set_Charger_Current:12
+<5>[ 1571.902940] [Power/Battery] #
+<5>[ 1571.903276] [Power/Battery] [FGADC] FGADC_Reset_SW_Parameter : Done 
+<5>[ 1571.904100] [Power/Battery] [FGADC] Update DOD0(68) by 68 
+<5>[ 1571.920744] [Power/Battery] [FGADC] 0,1543,0,0,3793,49,32,26,1135,1135,31,0,0,1000,0,3867,1000,68,68,1484,104,103
+<7>[ 1572.116885] [1:init] fork [3289:init]
+<7>[ 1572.117413] [3289:init] set proc[3289] name: -> [logwrapper]
+<7>[ 1572.118757] [3289:logwrapper] fork [3290:logwrapper]
+<7>[ 1572.119268] [3290:logwrapper] exit
+<7>[ 1572.119391] [3290:logwrapper] sig 17 to [3289:logwrapper]
+<7>[ 1572.119570] [3289:logwrapper] exit
+<7>[ 1572.119765] [3289:logwrapper] sig 17 to [1:init]
+<5>[ 1572.750359] [Power/clkmgr] [enable_clock] enable wpll clksrc 0x2 for clock 16
+<5>[ 1572.751238] [Power/clkmgr] [enable_wpll_clksrc_op] wpll_clksrc_mask=0x2, wpll_clksrc_state=0x4003, WPLL_CON=0x403b
+<5>[ 1572.980807] [Power/Battery] [BATTERY] FTM charging : 12
+<6>[ 1572.985962] [Power/Battery] **** unlocked_ioctl : Channel 3 * 5 times = 25442
+<6>[ 1572.988648] [Power/Battery] **** unlocked_ioctl : Channel 1 * 5 times = 18725
+<6>[ 1572.991260] [Power/Battery] **** unlocked_ioctl : Channel 0 * 5 times = 18700
+<6>[ 1572.991311] [Power/Battery] **** unlocked_ioctl : CAL:0
+<6>[ 1572.991336] [Power/Battery] **** unlocked_ioctl : Channel 30 * 5 times = 29
+<6>[ 1572.991374] [Power/Battery] **** unlocked_ioctl : Channel 66 * 5 times = 154
+<7>[ 1574.008027] [82:adbd] fork [3291:adbd]
+<7>[ 1574.009190] [3291:adbd] set proc[3291] name: -> [sh]
+<6>[ 1574.010980] [Power/Battery] **** unlocked_ioctl : Channel 3 * 5 times = 23890
+<7>[ 1574.012409] [3291:sh] fork [3292:sh]
+<7>[ 1574.013442] [3292:sh] set proc[3292] name: -> [df]
+<6>[ 1574.013982] [Power/Battery] **** unlocked_ioctl : Channel 1 * 5 times = 19100
+<6>[ 1574.016855] [Power/Battery] **** unlocked_ioctl : Channel 0 * 5 times = 19545
+<6>[ 1574.016942] [Power/Battery] **** unlocked_ioctl : CAL:0
+<6>[ 1574.016971] [Power/Battery] **** unlocked_ioctl : Channel 30 * 5 times = 29
+<6>[ 1574.017010] [Power/Battery] **** unlocked_ioctl : Channel 66 * 5 times = 154
+<7>[ 1574.030995] [3292:df] exit
+<7>[ 1574.031141] [3292:df] sig 17 to [3291:sh]
+<7>[ 1574.031236] [3291:sh] exit
+<7>[ 1574.031370] [3291:sh] sig 1 to [3291:sh]
+<7>[ 1574.031390] [3291:sh] sig 17 to [82:adbd]
+<7>[ 1574.080540] [82:adbd] fork [3293:adbd]
+<7>[ 1574.081330] [3293:adbd] set proc[3293] name: -> [sh]
+<7>[ 1574.082889] [3293:sh] fork [3294:sh]
+<7>[ 1574.083437] [3294:sh] set proc[3294] name: -> [getprop]
+<7>[ 1574.085420] [3294:getprop] exit
+<7>[ 1574.085555] [3294:getprop] sig 17 to [3293:sh]
+<7>[ 1574.085648] [3293:sh] exit
+<7>[ 1574.085929] [82:adbd] sig 1 to [3293:sh]
+<7>[ 1574.085943] [82:adbd] sig 18 to [3293:sh]
+<7>[ 1574.086147] [3293:sh] sig 1 to [3293:sh]
+<7>[ 1574.086159] [3293:sh] sig 18 to [3293:sh]
+<7>[ 1574.086172] [3293:sh] sig 17 to [82:adbd]
+<7>[ 1574.124316] [82:adbd] fork [3295:adbd]
+<7>[ 1574.125094] [3295:adbd] set proc[3295] name: -> [sh]
+<7>[ 1574.126646] [3295:sh] fork [3296:sh]
+<7>[ 1574.127180] [3296:sh] set proc[3296] name: -> [dumpsys]
+<6>[ 1574.133409] binder: 3296:3296 refcount change on invalid ref 0
+<6>[ 1574.133422] binder: 3296:3296 refcount change on invalid ref 0
+<6>[ 1574.133436] binder: 3296:3296 binder_context_mgr_node is NULL
+<6>[ 1574.133446] binder: 3296:3296 transaction failed 29189, size 96-0
+<7>[ 1574.134009] [3296:dumpsys] exit
+<7>[ 1574.134353] [3296:dumpsys] sig 17 to [3295:sh]
+<7>[ 1574.134441] [3295:sh] exit
+<7>[ 1574.134586] [3295:sh] sig 1 to [3295:sh]
+<7>[ 1574.134605] [3295:sh] sig 17 to [82:adbd]
+<7>[ 1574.175797] [82:adbd] fork [3297:adbd]
+<7>[ 1574.176577] [3297:adbd] set proc[3297] name: -> [sh]
+<7>[ 1574.178117] [3297:sh] fork [3298:sh]
+<7>[ 1574.178649] [3298:sh] set proc[3298] name: -> [dumpsys]
+<6>[ 1574.184911] binder: 3298:3298 refcount change on invalid ref 0
+<6>[ 1574.184924] binder: 3298:3298 refcount change on invalid ref 0
+<6>[ 1574.184937] binder: 3298:3298 binder_context_mgr_node is NULL
+<6>[ 1574.184948] binder: 3298:3298 transaction failed 29189, size 100-0
+<7>[ 1574.185447] [3298:dumpsys] exit
+<7>[ 1574.185796] [3298:dumpsys] sig 17 to [3297:sh]
+<7>[ 1574.185884] [3297:sh] exit
+<7>[ 1574.186022] [3297:sh] sig 1 to [3297:sh]
+<7>[ 1574.186042] [3297:sh] sig 17 to [82:adbd]
+<4>[ 1574.309434] kpd: register = fffd ffff ffff ffff ff
+<4>[ 1574.310023] kpd: (pressed) HW keycode = 1
+<4>[ 1574.310551] kpd: report Linux keycode = 115
+<4>[ 1574.311059] kpd: save new keymap state
+<4>[ 1574.386033] kpd: register = ffff ffff ffff ffff ff
+<4>[ 1574.386634] kpd: (released) HW keycode = 1
+<4>[ 1574.387174] kpd: report Linux keycode = 115
+<4>[ 1574.387682] kpd: save new keymap state
+<6>[ 1575.037588] [Power/Battery] **** unlocked_ioctl : Channel 3 * 5 times = 23890
+<6>[ 1575.040210] [Power/Battery] **** unlocked_ioctl : Channel 1 * 5 times = 19170
+<6>[ 1575.042809] [Power/Battery] **** unlocked_ioctl : Channel 0 * 5 times = 19590
+<6>[ 1575.042860] [Power/Battery] **** unlocked_ioctl : CAL:0
+<6>[ 1575.042885] [Power/Battery] **** unlocked_ioctl : Channel 30 * 5 times = 29
+<6>[ 1575.042922] [Power/Battery] **** unlocked_ioctl : Channel 66 * 5 times = 154
+<5>[ 1575.538039] [Power/PMIC] [mt6329_pmic_eint_irq] receive interrupt
+<5>[ 1575.538787] [Power/PMIC] [wake_up_pmic]
+<6>[ 1575.539305] [Power/PMIC] [pmic_thread_kthread] running
+<6>[ 1575.539520] [Power/PMIC] [BATTERY] Reg[0x21]=0x7b, Reg[0x22]=0xa2, Reg[0x38]=0xf4
+<5>[ 1575.539860] [Power/PMIC] [pmic_thread_kthread_E2] Get HomeKey EINT
+<5>[ 1575.540708] [Power/PMIC] [pmic_thread_kthread_E2] Press HomeKey
+<4>[ 1575.541444] kpd: PMIC reset Key generate, pressed=1
+<4>[ 1575.550403] kpd: (pressed) HW keycode =114 using PMIC
+<5>[ 1575.701522] [Power/PMIC] [mt6329_pmic_eint_irq] receive interrupt
+<5>[ 1575.702271] [Power/PMIC] [wake_up_pmic]
+<6>[ 1575.702782] [Power/PMIC] [pmic_thread_kthread] running
+<6>[ 1575.702998] [Power/PMIC] [BATTERY] Reg[0x21]=0x7b, Reg[0x22]=0xa2, Reg[0x38]=0xf4
+<5>[ 1575.703325] [Power/PMIC] [pmic_thread_kthread_E2] Get HomeKey EINT
+<5>[ 1575.704156] [Power/PMIC] [pmic_thread_kthread_E2] Release HomeKey
+<4>[ 1575.704914] kpd: PMIC reset Key generate, pressed=0
+<4>[ 1575.705611] kpd: (released) HW keycode =114 using PMIC
+<6>[ 1576.061493] [Power/Battery] **** unlocked_ioctl : Channel 3 * 5 times = 23890
+<6>[ 1576.064114] [Power/Battery] **** unlocked_ioctl : Channel 1 * 5 times = 19170
+<6>[ 1576.066702] [Power/Battery] **** unlocked_ioctl : Channel 0 * 5 times = 19615
+<6>[ 1576.066748] [Power/Battery] **** unlocked_ioctl : CAL:0
+<6>[ 1576.066772] [Power/Battery] **** unlocked_ioctl : Channel 30 * 5 times = 29
+<6>[ 1576.066809] [Power/Battery] **** unlocked_ioctl : Channel 66 * 5 times = 154
+<4>[ 1576.166092] kpd: register = fffd ffff ffff ffff ff
+<4>[ 1576.166682] kpd: (pressed) HW keycode = 1
+<4>[ 1576.167212] kpd: report Linux keycode = 115
+<4>[ 1576.167720] kpd: save new keymap state
+<4>[ 1576.300796] kpd: register = ffff ffff ffff ffff ff
+<4>[ 1576.301385] kpd: (released) HW keycode = 1
+<4>[ 1576.301924] kpd: report Linux keycode = 115
+<4>[ 1576.302432] kpd: save new keymap state
+<4>[ 1576.438608] kpd: register = fffd ffff ffff ffff ff
+<4>[ 1576.439194] kpd: (pressed) HW keycode = 1
+<4>[ 1576.439713] kpd: report Linux keycode = 115
+<4>[ 1576.440221] kpd: save new keymap state
+<4>[ 1576.552810] kpd: register = ffff ffff ffff ffff ff
+<4>[ 1576.553399] kpd: (released) HW keycode = 1
+<4>[ 1576.553937] kpd: report Linux keycode = 115
+<4>[ 1576.554445] kpd: save new keymap state
+<4>[ 1576.680462] kpd: register = fffd ffff ffff ffff ff
+<4>[ 1576.681049] kpd: (pressed) HW keycode = 1
+<4>[ 1576.681562] kpd: report Linux keycode = 115
+<4>[ 1576.682083] kpd: save new keymap state
+<4>[ 1576.809798] kpd: register = ffff ffff ffff ffff ff
+<4>[ 1576.810387] kpd: (released) HW keycode = 1
+<4>[ 1576.810925] kpd: report Linux keycode = 115
+<4>[ 1576.811433] kpd: save new keymap state
+<6>[ 1577.086222] [Power/Battery] **** unlocked_ioctl : Channel 3 * 5 times = 23890
+<6>[ 1577.088844] [Power/Battery] **** unlocked_ioctl : Channel 1 * 5 times = 19170
+<6>[ 1577.091493] [Power/Battery] **** unlocked_ioctl : Channel 0 * 5 times = 19615
+<6>[ 1577.091547] [Power/Battery] **** unlocked_ioctl : CAL:0
+<6>[ 1577.091572] [Power/Battery] **** unlocked_ioctl : Channel 30 * 5 times = 29
+<6>[ 1577.091610] [Power/Battery] **** unlocked_ioctl : Channel 66 * 5 times = 154
+<7>[ 1577.125154] [1:init] fork [3299:init]
+<7>[ 1577.125692] [3299:init] set proc[3299] name: -> [logwrapper]
+<7>[ 1577.127064] [3299:logwrapper] fork [3300:logwrapper]
+<7>[ 1577.127580] [3300:logwrapper] exit
+<7>[ 1577.127705] [3300:logwrapper] sig 17 to [3299:logwrapper]
+<7>[ 1577.127877] [3299:logwrapper] exit
+<7>[ 1577.128070] [3299:logwrapper] sig 17 to [1:init]
+<4>[ 1577.240195] MSG_X = 53,MSG_Y = 510
+<4>[ 1577.250136] MSG_X = 53,MSG_Y = 510
+<4>[ 1577.260090] MSG_X = 53,MSG_Y = 510
+<4>[ 1577.270062] MSG_X = 53,MSG_Y = 510
+<4>[ 1577.280025] MSG_X = 53,MSG_Y = 510
+<4>[ 1577.289952] MSG_X = 53,MSG_Y = 510
+<4>[ 1577.299904] MSG_X = 53,MSG_Y = 510
+<4>[ 1577.309863] MSG_X = 53,MSG_Y = 510
+<4>[ 1577.319837] MSG_X = 53,MSG_Y = 510
+<4>[ 1577.329808] MSG_X = 53,MSG_Y = 510
+<4>[ 1577.339777] MSG_X = 53,MSG_Y = 510
+<4>[ 1577.349695] MSG_X = 53,MSG_Y = 510
+<4>[ 1577.359661] MSG_X = 53,MSG_Y = 510
+<4>[ 1577.369626] MSG_X = 53,MSG_Y = 510
+<4>[ 1577.379593] MSG_X = 53,MSG_Y = 510
+<4>[ 1577.389564] MSG_X = 53,MSG_Y = 510
+<4>[ 1577.399478] MSG_X = 53,MSG_Y = 510
+<4>[ 1577.409443] MSG_X = 53,MSG_Y = 510
+<4>[ 1577.419403] MSG_X = 53,MSG_Y = 510
+<4>[ 1577.429361] MSG_X = 53,MSG_Y = 510
+<4>[ 1577.439326] MSG_X = 53,MSG_Y = 510
+<4>[ 1577.449286] MSG_X = 53,MSG_Y = 510
+<7>[ 1577.506628] [3278:factory] exit
+<5>[ 1577.760315] [Power/clkmgr] [disable_clock] disable wpll clksrc 0x2 for clock 16
+<5>[ 1577.761217] [Power/clkmgr] [disable_wpll_clksrc_op] wpll_clksrc_mask=0x2, wpll_clksrc_state=0x4001, WPLL_CON=0x4039
+<5>[ 1578.625346] [Power/PMIC] [mt6329_pmic_eint_irq] receive interrupt
+<5>[ 1578.626095] [Power/PMIC] [wake_up_pmic]
+<6>[ 1578.626607] [Power/PMIC] [pmic_thread_kthread] running
+<6>[ 1578.626817] [Power/PMIC] [BATTERY] Reg[0x21]=0x7b, Reg[0x22]=0xa2, Reg[0x38]=0xf4
+<5>[ 1578.627150] [Power/PMIC] [pmic_thread_kthread_E2] Get HomeKey EINT
+<5>[ 1578.627983] [Power/PMIC] [pmic_thread_kthread_E2] Press HomeKey
+<4>[ 1578.628718] kpd: PMIC reset Key generate, pressed=1
+<4>[ 1578.629459] kpd: (pressed) HW keycode =114 using PMIC
+<5>[ 1578.785442] [Power/PMIC] [mt6329_pmic_eint_irq] receive interrupt
+<5>[ 1578.786192] [Power/PMIC] [wake_up_pmic]
+<6>[ 1578.786703] [Power/PMIC] [pmic_thread_kthread] running
+<6>[ 1578.786919] [Power/PMIC] [BATTERY] Reg[0x21]=0x7b, Reg[0x22]=0xa2, Reg[0x38]=0xf4
+<5>[ 1578.787244] [Power/PMIC] [pmic_thread_kthread_E2] Get HomeKey EINT
+<5>[ 1578.788076] [Power/PMIC] [pmic_thread_kthread_E2] Release HomeKey
+<4>[ 1578.788833] kpd: PMIC reset Key generate, pressed=0
+<4>[ 1578.789530] kpd: (released) HW keycode =114 using PMIC
+<4>[ 1578.982703] MSG_X = 53,MSG_Y = 510
+<4>[ 1578.992663] MSG_X = 53,MSG_Y = 510
+<4>[ 1579.002621] MSG_X = 53,MSG_Y = 510
+<4>[ 1579.012582] MSG_X = 53,MSG_Y = 510
+<7>[ 1579.019848] [82:adbd] fork [3301:adbd]
+<7>[ 1579.020688] [3301:adbd] set proc[3301] name: -> [sh]
+<7>[ 1579.022367] [3301:sh] fork [3302:sh]
+<4>[ 1579.022584] MSG_X = 53,MSG_Y = 510
+<7>[ 1579.023596] [3302:sh] set proc[3302] name: -> [df]
+<7>[ 1579.025769] [3302:df] exit
+<7>[ 1579.025904] [3302:df] sig 17 to [3301:sh]
+<7>[ 1579.025997] [3301:sh] exit
+<7>[ 1579.026134] [3301:sh] sig 1 to [3301:sh]
+<7>[ 1579.026153] [3301:sh] sig 17 to [82:adbd]
+<4>[ 1579.032525] MSG_X = 53,MSG_Y = 510
+<4>[ 1579.042473] MSG_X = 53,MSG_Y = 510
+<4>[ 1579.052438] MSG_X = 53,MSG_Y = 510
+<4>[ 1579.062412] MSG_X = 53,MSG_Y = 510
+<7>[ 1579.068510] [82:adbd] fork [3303:adbd]
+<7>[ 1579.069298] [3303:adbd] set proc[3303] name: -> [sh]
+<7>[ 1579.070916] [3303:sh] fork [3304:sh]
+<7>[ 1579.071557] [3304:sh] set proc[3304] name: -> [getprop]
+<4>[ 1579.072368] MSG_X = 53,MSG_Y = 510
+<7>[ 1579.074128] [3304:getprop] exit
+<7>[ 1579.074262] [3304:getprop] sig 17 to [3303:sh]
+<7>[ 1579.074353] [3303:sh] exit
+<7>[ 1579.074487] [3303:sh] sig 1 to [3303:sh]
+<7>[ 1579.074507] [3303:sh] sig 17 to [82:adbd]
+<4>[ 1579.082308] MSG_X = 53,MSG_Y = 510
+<4>[ 1579.092262] MSG_X = 53,MSG_Y = 510
+<4>[ 1579.102218] MSG_X = 53,MSG_Y = 510
+<4>[ 1579.112191] MSG_X = 53,MSG_Y = 510
+<7>[ 1579.120147] [82:adbd] fork [3305:adbd]
+<7>[ 1579.120988] [3305:adbd] set proc[3305] name: -> [sh]
+<4>[ 1579.122192] MSG_X = 53,MSG_Y = 510
+<7>[ 1579.123126] [3305:sh] fork [3306:sh]
+<7>[ 1579.123669] [3306:sh] set proc[3306] name: -> [dumpsys]
+<6>[ 1579.129899] binder: 3306:3306 refcount change on invalid ref 0
+<6>[ 1579.129913] binder: 3306:3306 refcount change on invalid ref 0
+<6>[ 1579.129926] binder: 3306:3306 binder_context_mgr_node is NULL
+<6>[ 1579.129936] binder: 3306:3306 transaction failed 29189, size 96-0
+<7>[ 1579.130737] [3306:dumpsys] exit
+<7>[ 1579.131322] [3306:dumpsys] sig 17 to [3305:sh]
+<7>[ 1579.131407] [3305:sh] exit
+<7>[ 1579.131547] [3305:sh] sig 1 to [3305:sh]
+<7>[ 1579.131567] [3305:sh] sig 17 to [82:adbd]
+<4>[ 1579.132090] MSG_X = 53,MSG_Y = 510
+<4>[ 1579.142027] MSG_X = 53,MSG_Y = 510
+<7>[ 1579.171216] [82:adbd] fork [3307:adbd]
+<7>[ 1579.180817] [3307:adbd] set proc[3307] name: -> [sh]
+<7>[ 1579.182402] [3307:sh] fork [3308:sh]
+<7>[ 1579.182947] [3308:sh] set proc[3308] name: -> [dumpsys]
+<6>[ 1579.189105] binder: 3308:3308 refcount change on invalid ref 0
+<6>[ 1579.189118] binder: 3308:3308 refcount change on invalid ref 0
+<6>[ 1579.189131] binder: 3308:3308 binder_context_mgr_node is NULL
+<6>[ 1579.189142] binder: 3308:3308 transaction failed 29189, size 100-0
+<7>[ 1579.189637] [3308:dumpsys] exit
+<7>[ 1579.194838] [Power/dcm] 
+<4>[ 1579.194848] =============== Idle State ================
+<7>[ 1579.195492] [Power/dcm] [enable_low_power_settings]: entry
+<0>[ 1579.195503] [LED]#6:0
+<4>[ 1579.195773] mt65xx_leds_set_cust: set brightness, name:lcd-backlight, mode:4, level:0
+<7>[ 1579.196752] [Power/dcm] [enable_low_power_settings]: success to mask all irq lines
+<4>[ 1582.460184] kpd: register = fffd ffff ffff ffff ff
+<4>[ 1582.460769] kpd: (pressed) HW keycode = 1
+<4>[ 1582.461307] kpd: report Linux keycode = 115
+<4>[ 1582.461816] kpd: save new keymap state
+<7>[ 1582.462528] [3308:dumpsys] sig 17 to [3307:sh]
+<7>[ 1582.462614] [3307:sh] exit
+<7>[ 1582.462763] [3307:sh] sig 1 to [3307:sh]
+<7>[ 1582.462783] [3307:sh] sig 17 to [82:adbd]
+<7>[ 1582.463070] [Power/dcm] [disable_low_power_settings]: entry
+<5>[ 1582.463202] [Power/PMIC] [mt6329_pmic_eint_irq] receive interrupt
+<5>[ 1582.463950] [Power/PMIC] [wake_up_pmic]
+<7>[ 1582.464841] [1:init] fork [3309:init]
+<6>[ 1582.464961] [Power/PMIC] [pmic_thread_kthread] running
+<6>[ 1582.465202] yaffs: userdata sync do_checkpoint 0,gc_urgen 0
+<6>[ 1582.465214] yaffs: userdata yaffs_FlushSuperBlock 0
+<7>[ 1582.465549] [Power/dcm] [disable_low_power_settings]: success to restore all irq lines
+<0>[ 1582.465607] [LED]#6:255
+<4>[ 1582.465929] mt65xx_leds_set_cust: set brightness, name:lcd-backlight, mode:4, level:255
+<6>[ 1582.467413] [Power/PMIC] [BATTERY] Reg[0x21]=0x7b, Reg[0x22]=0xa2, Reg[0x38]=0xf4
+<5>[ 1582.467782] [Power/PMIC] [pmic_thread_kthread_E2] Get HomeKey EINT
+<5>[ 1582.468626] [Power/PMIC] [pmic_thread_kthread_E2] Release HomeKey
+<4>[ 1582.469383] kpd: PMIC reset Key generate, pressed=0
+<4>[ 1582.469998] kpd: (released) HW keycode =114 using PMIC
+<7>[ 1582.470750] [3309:init] set proc[3309] name: -> [logwrapper]
+<4>[ 1582.470939] Backlight level = 1 
+<4>[ 1582.470943] 
+<7>[ 1582.472366] [Power/dcm] =========================================
+<7>[ 1582.476625] [3309:logwrapper] fork [3310:logwrapper]
+<7>[ 1582.483198] [3310:logwrapper] exit
+<7>[ 1582.483763] [3310:logwrapper] sig 17 to [3309:logwrapper]
+<7>[ 1582.483977] [3309:logwrapper] exit
+<7>[ 1582.484161] [3309:logwrapper] sig 17 to [1:init]
+<5>[ 1582.489512] [Power/Battery] [FGADC] 1,3651,0,0,3792,49,32,26,1135,1135,-67,0,0,1000,0,3820,1000,68,68,3511,104,103
+<4>[ 1582.603194] kpd: register = ffff ffff ffff ffff ff
+<4>[ 1582.603783] kpd: (released) HW keycode = 1
+<4>[ 1582.604317] kpd: report Linux keycode = 115
+<4>[ 1582.604825] kpd: save new keymap state
+<5>[ 1582.750371] [Power/clkmgr] [enable_clock] enable wpll clksrc 0x2 for clock 16
+<5>[ 1582.751250] [Power/clkmgr] [enable_wpll_clksrc_op] wpll_clksrc_mask=0x2, wpll_clksrc_state=0x4003, WPLL_CON=0x403b
+<5>[ 1583.550844] [Power/Battery] [BATTERY] FTM charging : 12
+<7>[ 1584.024259] [82:adbd] fork [3311:adbd]
+<7>[ 1584.025057] [3311:adbd] set proc[3311] name: -> [sh]
+<7>[ 1584.026615] [3311:sh] fork [3312:sh]
+<7>[ 1584.027163] [3312:sh] set proc[3312] name: -> [df]
+<7>[ 1584.029332] [3312:df] exit
+<7>[ 1584.029468] [3312:df] sig 17 to [3311:sh]
+<7>[ 1584.029559] [3311:sh] exit
+<7>[ 1584.029844] [82:adbd] sig 1 to [3311:sh]
+<7>[ 1584.029858] [82:adbd] sig 18 to [3311:sh]
+<7>[ 1584.030062] [3311:sh] sig 1 to [3311:sh]
+<7>[ 1584.030074] [3311:sh] sig 18 to [3311:sh]
+<7>[ 1584.030088] [3311:sh] sig 17 to [82:adbd]
+<7>[ 1584.071443] [82:adbd] fork [3313:adbd]
+<7>[ 1584.072234] [3313:adbd] set proc[3313] name: -> [sh]
+<7>[ 1584.073782] [3313:sh] fork [3314:sh]
+<7>[ 1584.074323] [3314:sh] set proc[3314] name: -> [getprop]
+<7>[ 1584.076307] [3314:getprop] exit
+<7>[ 1584.076441] [3314:getprop] sig 17 to [3313:sh]
+<7>[ 1584.076532] [3313:sh] exit
+<7>[ 1584.076815] [82:adbd] sig 1 to [3313:sh]
+<7>[ 1584.076829] [82:adbd] sig 18 to [3313:sh]
+<7>[ 1584.077033] [3313:sh] sig 1 to [3313:sh]
+<7>[ 1584.077044] [3313:sh] sig 18 to [3313:sh]
+<7>[ 1584.077058] [3313:sh] sig 17 to [82:adbd]
+<5>[ 1584.116888] [Power/PMIC] [mt6329_pmic_eint_irq] receive interrupt
+<5>[ 1584.117637] [Power/PMIC] [wake_up_pmic]
+<6>[ 1584.118152] [Power/PMIC] [pmic_thread_kthread] running
+<6>[ 1584.118372] [Power/PMIC] [BATTERY] Reg[0x21]=0x7b, Reg[0x22]=0xa2, Reg[0x38]=0xf4
+<5>[ 1584.118706] [Power/PMIC] [pmic_thread_kthread_E2] Get HomeKey EINT
+<5>[ 1584.119539] [Power/PMIC] [pmic_thread_kthread_E2] Press HomeKey
+<4>[ 1584.120274] kpd: PMIC reset Key generate, pressed=1
+<4>[ 1584.127244] kpd: (pressed) HW keycode =114 using PMIC
+<7>[ 1584.128274] [82:adbd] fork [3315:adbd]
+<7>[ 1584.140404] [3315:adbd] set proc[3315] name: -> [sh]
+<7>[ 1584.142057] [3315:sh] fork [3316:sh]
+<7>[ 1584.142606] [3316:sh] set proc[3316] name: -> [dumpsys]
+<6>[ 1584.148759] binder: 3316:3316 refcount change on invalid ref 0
+<6>[ 1584.148772] binder: 3316:3316 refcount change on invalid ref 0
+<6>[ 1584.148785] binder: 3316:3316 binder_context_mgr_node is NULL
+<6>[ 1584.148796] binder: 3316:3316 transaction failed 29189, size 96-0
+<7>[ 1584.149295] [3316:dumpsys] exit
+<7>[ 1584.151320] [3316:dumpsys] sig 17 to [3315:sh]
+<7>[ 1584.151402] [3315:sh] exit
+<7>[ 1584.151548] [3315:sh] sig 1 to [3315:sh]
+<7>[ 1584.151567] [3315:sh] sig 17 to [82:adbd]
+<7>[ 1584.195231] [82:adbd] fork [3317:adbd]
+<7>[ 1584.196018] [3317:adbd] set proc[3317] name: -> [sh]
+<7>[ 1584.197561] [3317:sh] fork [3318:sh]
+<7>[ 1584.198097] [3318:sh] set proc[3318] name: -> [dumpsys]
+<6>[ 1584.204401] binder: 3318:3318 refcount change on invalid ref 0
+<6>[ 1584.204415] binder: 3318:3318 refcount change on invalid ref 0
+<6>[ 1584.204428] binder: 3318:3318 binder_context_mgr_node is NULL
+<6>[ 1584.204439] binder: 3318:3318 transaction failed 29189, size 100-0
+<7>[ 1584.204941] [3318:dumpsys] exit
+<7>[ 1584.205289] [3318:dumpsys] sig 17 to [3317:sh]
+<7>[ 1584.205377] [3317:sh] exit
+<7>[ 1584.205516] [3317:sh] sig 1 to [3317:sh]
+<7>[ 1584.205536] [3317:sh] sig 17 to [82:adbd]
+<4>[ 1584.210347] 2013-03-09 17:42:52.275387 UTC; android time 2013-03-09 17:42:52.275387
+<5>[ 1584.327641] [Power/PMIC] [mt6329_pmic_eint_irq] receive interrupt
+<5>[ 1584.328389] [Power/PMIC] [wake_up_pmic]
+<6>[ 1584.328900] [Power/PMIC] [pmic_thread_kthread] running
+<6>[ 1584.329118] [Power/PMIC] [BATTERY] Reg[0x21]=0x7b, Reg[0x22]=0xa2, Reg[0x38]=0xf4
+<5>[ 1584.329451] [Power/PMIC] [pmic_thread_kthread_E2] Get HomeKey EINT
+<5>[ 1584.330306] [Power/PMIC] [pmic_thread_kthread_E2] Release HomeKey
+<4>[ 1584.331063] kpd: PMIC reset Key generate, pressed=0
+<4>[ 1584.331758] kpd: (released) HW keycode =114 using PMIC
+<4>[ 1584.688292] MSG_X = 53,MSG_Y = 510
+<4>[ 1584.698245] MSG_X = 53,MSG_Y = 510
+<4>[ 1584.708206] MSG_X = 53,MSG_Y = 510
+<4>[ 1584.718168] MSG_X = 53,MSG_Y = 510
+<4>[ 1584.728131] MSG_X = 53,MSG_Y = 510
+<4>[ 1584.738106] MSG_X = 53,MSG_Y = 510
+<4>[ 1584.748061] MSG_X = 53,MSG_Y = 510
+<4>[ 1584.758021] MSG_X = 53,MSG_Y = 510
+<4>[ 1584.767939] MSG_X = 53,MSG_Y = 510
+<4>[ 1584.777902] MSG_X = 53,MSG_Y = 510
+<4>[ 1584.787865] MSG_X = 53,MSG_Y = 510
+<4>[ 1584.797836] MSG_X = 53,MSG_Y = 510
+<4>[ 1584.807803] MSG_X = 53,MSG_Y = 510
+<4>[ 1584.817723] MSG_X = 53,MSG_Y = 510
+<4>[ 1584.827693] MSG_X = 53,MSG_Y = 510
+<4>[ 1584.837655] MSG_X = 53,MSG_Y = 510
+<4>[ 1584.847620] MSG_X = 53,MSG_Y = 510
+<4>[ 1584.857586] MSG_X = 53,MSG_Y = 510
+<4>[ 1584.867551] MSG_X = 53,MSG_Y = 510
+<4>[ 1584.877512] MSG_X = 53,MSG_Y = 510
+<4>[ 1584.887425] MSG_X = 53,MSG_Y = 510
+<4>[ 1584.897383] MSG_X = 53,MSG_Y = 510
+<4>[ 1586.062416] kpd: register = fffd ffff ffff ffff ff
+<4>[ 1586.063005] kpd: (pressed) HW keycode = 1
+<4>[ 1586.063532] kpd: report Linux keycode = 115
+<4>[ 1586.064040] kpd: save new keymap state
+<4>[ 1586.216164] kpd: register = ffff ffff ffff ffff ff
+<4>[ 1586.216754] kpd: (released) HW keycode = 1
+<4>[ 1586.217293] kpd: report Linux keycode = 115
+<4>[ 1586.217801] kpd: save new keymap state
+<4>[ 1586.430851] kpd: register = fffd ffff ffff ffff ff
+<4>[ 1586.431438] kpd: (pressed) HW keycode = 1
+<4>[ 1586.431956] kpd: report Linux keycode = 115
+<4>[ 1586.432464] kpd: save new keymap state
+<4>[ 1586.556770] kpd: register = ffff ffff ffff ffff ff
+<4>[ 1586.557359] kpd: (released) HW keycode = 1
+<4>[ 1586.557897] kpd: report Linux keycode = 115
+<4>[ 1586.558405] kpd: save new keymap state
+<4>[ 1587.110300] kpd: register = fffd ffff ffff ffff ff
+<4>[ 1587.110888] kpd: (pressed) HW keycode = 1
+<4>[ 1587.111408] kpd: report Linux keycode = 115
+<4>[ 1587.111916] kpd: save new keymap state
+<4>[ 1587.192759] kpd: register = ffff ffff ffff ffff ff
+<4>[ 1587.193359] kpd: (released) HW keycode = 1
+<4>[ 1587.193889] kpd: report Linux keycode = 115
+<4>[ 1587.194398] kpd: save new keymap state
+<7>[ 1587.489553] [1:init] fork [3319:init]
+<7>[ 1587.490087] [3319:init] set proc[3319] name: -> [logwrapper]
+<7>[ 1587.491509] [3319:logwrapper] fork [3320:logwrapper]
+<7>[ 1587.492023] [3320:logwrapper] exit
+<7>[ 1587.492175] [3320:logwrapper] sig 17 to [3319:logwrapper]
+<7>[ 1587.492337] [3319:logwrapper] exit
+<7>[ 1587.492512] [3319:logwrapper] sig 17 to [1:init]
+<5>[ 1587.760313] [Power/clkmgr] [disable_clock] disable wpll clksrc 0x2 for clock 16
+<5>[ 1587.761214] [Power/clkmgr] [disable_wpll_clksrc_op] wpll_clksrc_mask=0x2, wpll_clksrc_state=0x4001, WPLL_CON=0x4039
+<5>[ 1587.825778] [Power/PMIC] [mt6329_pmic_eint_irq] receive interrupt
+<5>[ 1587.826526] [Power/PMIC] [wake_up_pmic]
+<6>[ 1587.827038] [Power/PMIC] [pmic_thread_kthread] running
+<6>[ 1587.827256] [Power/PMIC] [BATTERY] Reg[0x21]=0x7b, Reg[0x22]=0xa2, Reg[0x38]=0xf4
+<5>[ 1587.827589] [Power/PMIC] [pmic_thread_kthread_E2] Get HomeKey EINT
+<5>[ 1587.828422] [Power/PMIC] [pmic_thread_kthread_E2] Press HomeKey
+<4>[ 1587.829157] kpd: PMIC reset Key generate, pressed=1
+<4>[ 1587.840366] kpd: (pressed) HW keycode =114 using PMIC
+<5>[ 1587.957281] [Power/PMIC] [mt6329_pmic_eint_irq] receive interrupt
+<5>[ 1587.958031] [Power/PMIC] [wake_up_pmic]
+<6>[ 1587.958545] [Power/PMIC] [pmic_thread_kthread] running
+<6>[ 1587.958764] [Power/PMIC] [BATTERY] Reg[0x21]=0x7b, Reg[0x22]=0xa2, Reg[0x38]=0xf4
+<5>[ 1587.959098] [Power/PMIC] [pmic_thread_kthread_E2] Get HomeKey EINT
+<5>[ 1587.959931] [Power/PMIC] [pmic_thread_kthread_E2] Release HomeKey
+<4>[ 1587.960710] kpd: PMIC reset Key generate, pressed=0
+<4>[ 1587.961397] kpd: (released) HW keycode =114 using PMIC
+<6>[ 1588.040332] yaffs: userdata sync do_checkpoint 0,gc_urgen 0
+<6>[ 1588.040343] yaffs: userdata yaffs_FlushSuperBlock 0
+<5>[ 1588.078616] [Power/PMIC] [mt6329_pmic_eint_irq] receive interrupt
+<5>[ 1588.079364] [Power/PMIC] [wake_up_pmic]
+<6>[ 1588.079875] [Power/PMIC] [pmic_thread_kthread] running
+<6>[ 1588.080088] [Power/PMIC] [BATTERY] Reg[0x21]=0x7b, Reg[0x22]=0xa2, Reg[0x38]=0xf4
+<5>[ 1588.080424] [Power/PMIC] [pmic_thread_kthread_E2] Get HomeKey EINT
+<5>[ 1588.081256] [Power/PMIC] [pmic_thread_kthread_E2] Press HomeKey
+<4>[ 1588.081991] kpd: PMIC reset Key generate, pressed=1
+<4>[ 1588.090368] kpd: (pressed) HW keycode =114 using PMIC
+<5>[ 1588.183143] [Power/PMIC] [mt6329_pmic_eint_irq] receive interrupt
+<5>[ 1588.183892] [Power/PMIC] [wake_up_pmic]
+<6>[ 1588.184406] [Power/PMIC] [pmic_thread_kthread] running
+<6>[ 1588.184639] [Power/PMIC] [BATTERY] Reg[0x21]=0x7b, Reg[0x22]=0xa2, Reg[0x38]=0xf4
+<5>[ 1588.184974] [Power/PMIC] [pmic_thread_kthread_E2] Get HomeKey EINT
+<5>[ 1588.185807] [Power/PMIC] [pmic_thread_kthread_E2] Release HomeKey
+<4>[ 1588.186564] kpd: PMIC reset Key generate, pressed=0
+<4>[ 1588.187260] kpd: (released) HW keycode =114 using PMIC
+<4>[ 1588.671280] MSG_X = 53,MSG_Y = 510
+<4>[ 1588.681237] MSG_X = 53,MSG_Y = 510
+<4>[ 1588.691203] MSG_X = 53,MSG_Y = 510
+<4>[ 1588.701121] MSG_X = 53,MSG_Y = 510
+<4>[ 1588.711084] MSG_X = 53,MSG_Y = 510
+<4>[ 1588.721071] MSG_X = 53,MSG_Y = 510
+<4>[ 1588.731031] MSG_X = 53,MSG_Y = 510
+<4>[ 1588.740951] MSG_X = 53,MSG_Y = 510
+<4>[ 1588.750919] MSG_X = 53,MSG_Y = 510
+<4>[ 1588.760891] MSG_X = 53,MSG_Y = 510
+<4>[ 1588.770818] MSG_X = 53,MSG_Y = 510
+<4>[ 1588.780787] MSG_X = 53,MSG_Y = 510
+<4>[ 1588.790758] MSG_X = 53,MSG_Y = 510
+<4>[ 1588.800724] MSG_X = 53,MSG_Y = 510
+<4>[ 1588.810639] MSG_X = 53,MSG_Y = 510
+<4>[ 1588.820606] MSG_X = 53,MSG_Y = 510
+<7>[ 1589.032456] [82:adbd] fork [3321:adbd]
+<7>[ 1589.033253] [3321:adbd] set proc[3321] name: -> [sh]
+<7>[ 1589.034812] [3321:sh] fork [3322:sh]
+<7>[ 1589.035357] [3322:sh] set proc[3322] name: -> [df]
+<7>[ 1589.037515] [3322:df] exit
+<7>[ 1589.037653] [3322:df] sig 17 to [3321:sh]
+<7>[ 1589.037745] [3321:sh] exit
+<7>[ 1589.038033] [82:adbd] sig 1 to [3321:sh]
+<7>[ 1589.038047] [82:adbd] sig 18 to [3321:sh]
+<7>[ 1589.038250] [3321:sh] sig 1 to [3321:sh]
+<7>[ 1589.038261] [3321:sh] sig 18 to [3321:sh]
+<7>[ 1589.038275] [3321:sh] sig 17 to [82:adbd]
+<7>[ 1589.080552] [82:adbd] fork [3323:adbd]
+<7>[ 1589.081342] [3323:adbd] set proc[3323] name: -> [sh]
+<7>[ 1589.082895] [3323:sh] fork [3324:sh]
+<7>[ 1589.083438] [3324:sh] set proc[3324] name: -> [getprop]
+<7>[ 1589.085423] [3324:getprop] exit
+<7>[ 1589.085554] [3324:getprop] sig 17 to [3323:sh]
+<7>[ 1589.085648] [3323:sh] exit
+<7>[ 1589.085928] [82:adbd] sig 1 to [3323:sh]
+<7>[ 1589.085943] [82:adbd] sig 18 to [3323:sh]
+<7>[ 1589.086146] [3323:sh] sig 1 to [3323:sh]
+<7>[ 1589.086157] [3323:sh] sig 18 to [3323:sh]
+<7>[ 1589.086192] [3323:sh] sig 17 to [82:adbd]
+<7>[ 1589.126266] [82:adbd] fork [3325:adbd]
+<7>[ 1589.127053] [3325:adbd] set proc[3325] name: -> [sh]
+<7>[ 1589.128602] [3325:sh] fork [3326:sh]
+<7>[ 1589.129142] [3326:sh] set proc[3326] name: -> [dumpsys]
+<6>[ 1589.135380] binder: 3326:3326 refcount change on invalid ref 0
+<6>[ 1589.135393] binder: 3326:3326 refcount change on invalid ref 0
+<6>[ 1589.135406] binder: 3326:3326 binder_context_mgr_node is NULL
+<6>[ 1589.135416] binder: 3326:3326 transaction failed 29189, size 96-0
+<7>[ 1589.135924] [3326:dumpsys] exit
+<7>[ 1589.136275] [3326:dumpsys] sig 17 to [3325:sh]
+<7>[ 1589.136361] [3325:sh] exit
+<7>[ 1589.136500] [3325:sh] sig 1 to [3325:sh]
+<7>[ 1589.136519] [3325:sh] sig 17 to [82:adbd]
+<7>[ 1589.179635] [82:adbd] fork [3327:adbd]
+<7>[ 1589.180465] [3327:adbd] set proc[3327] name: -> [sh]
+<7>[ 1589.182019] [3327:sh] fork [3328:sh]
+<7>[ 1589.182560] [3328:sh] set proc[3328] name: -> [dumpsys]
+<6>[ 1589.188714] binder: 3328:3328 refcount change on invalid ref 0
+<6>[ 1589.188726] binder: 3328:3328 refcount change on invalid ref 0
+<6>[ 1589.188740] binder: 3328:3328 binder_context_mgr_node is NULL
+<6>[ 1589.188751] binder: 3328:3328 transaction failed 29189, size 100-0
+<7>[ 1589.189255] [3328:dumpsys] exit
+<7>[ 1589.189605] [3328:dumpsys] sig 17 to [3327:sh]
+<7>[ 1589.189691] [3327:sh] exit
+<7>[ 1589.189829] [3327:sh] sig 1 to [3327:sh]
+<7>[ 1589.189849] [3327:sh] sig 17 to [82:adbd]
+<5>[ 1590.774736] [Power/Battery] [FGADC] 1,2326,0,0,3792,49,32,26,1135,1135,-39,0,0,1000,0,3834,1000,68,68,2237,104,103
+<5>[ 1591.830834] [Power/Battery] [BATTERY] FTM charging : 12
+<7>[ 1592.497892] [1:init] fork [3329:init]
+<7>[ 1592.498422] [3329:init] set proc[3329] name: -> [logwrapper]
+<7>[ 1592.499770] [3329:logwrapper] fork [3330:logwrapper]
+<7>[ 1592.500282] [3330:logwrapper] exit
+<7>[ 1592.500459] [3330:logwrapper] sig 17 to [3329:logwrapper]
+<7>[ 1592.500641] [3329:logwrapper] exit
+<7>[ 1592.500834] [3329:logwrapper] sig 17 to [1:init]
+<6>[ 1594.040331] yaffs: userdata sync do_checkpoint 0,gc_urgen 0
+<6>[ 1594.040343] yaffs: userdata yaffs_FlushSuperBlock 0
+<7>[ 1594.042898] [82:adbd] fork [3331:adbd]
+<7>[ 1594.043681] [3331:adbd] set proc[3331] name: -> [sh]
+<7>[ 1594.045241] [3331:sh] fork [3332:sh]
+<7>[ 1594.045785] [3332:sh] set proc[3332] name: -> [df]
+<7>[ 1594.047948] [3332:df] exit
+<7>[ 1594.048084] [3332:df] sig 17 to [3331:sh]
+<7>[ 1594.048175] [3331:sh] exit
+<7>[ 1594.048461] [82:adbd] sig 1 to [3331:sh]
+<7>[ 1594.048475] [82:adbd] sig 18 to [3331:sh]
+<7>[ 1594.048681] [3331:sh] sig 1 to [3331:sh]
+<7>[ 1594.048693] [3331:sh] sig 18 to [3331:sh]
+<7>[ 1594.048706] [3331:sh] sig 17 to [82:adbd]
+<7>[ 1594.092466] [82:adbd] fork [3333:adbd]
+<7>[ 1594.093250] [3333:adbd] set proc[3333] name: -> [sh]
+<7>[ 1594.094815] [3333:sh] fork [3334:sh]
+<7>[ 1594.095366] [3334:sh] set proc[3334] name: -> [getprop]
+<7>[ 1594.097354] [3334:getprop] exit
+<7>[ 1594.097487] [3334:getprop] sig 17 to [3333:sh]
+<7>[ 1594.097579] [3333:sh] exit
+<7>[ 1594.097862] [82:adbd] sig 1 to [3333:sh]
+<7>[ 1594.097876] [82:adbd] sig 18 to [3333:sh]
+<7>[ 1594.098079] [3333:sh] sig 1 to [3333:sh]
+<7>[ 1594.098091] [3333:sh] sig 18 to [3333:sh]
+<7>[ 1594.098104] [3333:sh] sig 17 to [82:adbd]
+<7>[ 1594.139579] [82:adbd] fork [3335:adbd]
+<7>[ 1594.140404] [3335:adbd] set proc[3335] name: -> [sh]
+<7>[ 1594.141956] [3335:sh] fork [3336:sh]
+<7>[ 1594.142496] [3336:sh] set proc[3336] name: -> [dumpsys]
+<6>[ 1594.148635] binder: 3336:3336 refcount change on invalid ref 0
+<6>[ 1594.148648] binder: 3336:3336 refcount change on invalid ref 0
+<6>[ 1594.148662] binder: 3336:3336 binder_context_mgr_node is NULL
+<6>[ 1594.148673] binder: 3336:3336 transaction failed 29189, size 96-0
+<7>[ 1594.149174] [3336:dumpsys] exit
+<7>[ 1594.149524] [3336:dumpsys] sig 17 to [3335:sh]
+<7>[ 1594.149611] [3335:sh] exit
+<7>[ 1594.149750] [3335:sh] sig 1 to [3335:sh]
+<7>[ 1594.149770] [3335:sh] sig 17 to [82:adbd]
+<7>[ 1594.193332] [82:adbd] fork [3337:adbd]
+<7>[ 1594.194113] [3337:adbd] set proc[3337] name: -> [sh]
+<7>[ 1594.195668] [3337:sh] fork [3338:sh]
+<7>[ 1594.196207] [3338:sh] set proc[3338] name: -> [dumpsys]
+<6>[ 1594.202411] binder: 3338:3338 refcount change on invalid ref 0
+<6>[ 1594.202424] binder: 3338:3338 refcount change on invalid ref 0
+<6>[ 1594.202437] binder: 3338:3338 binder_context_mgr_node is NULL
+<6>[ 1594.202448] binder: 3338:3338 transaction failed 29189, size 100-0
+<7>[ 1594.202952] [3338:dumpsys] exit
+<7>[ 1594.203301] [3338:dumpsys] sig 17 to [3337:sh]
+<7>[ 1594.203391] [3337:sh] exit
+<7>[ 1594.203530] [3337:sh] sig 1 to [3337:sh]
+<7>[ 1594.203550] [3337:sh] sig 17 to [82:adbd]
+<7>[ 1597.506205] [1:init] fork [3339:init]
+<7>[ 1597.506726] [3339:init] set proc[3339] name: -> [logwrapper]
+<7>[ 1597.508082] [3339:logwrapper] fork [3340:logwrapper]
+<7>[ 1597.508600] [3340:logwrapper] exit
+<7>[ 1597.508726] [3340:logwrapper] sig 17 to [3339:logwrapper]
+<7>[ 1597.508903] [3339:logwrapper] exit
+<7>[ 1597.509098] [3339:logwrapper] sig 17 to [1:init]
+<7>[ 1599.054480] [82:adbd] fork [3341:adbd]
+<7>[ 1599.055273] [3341:adbd] set proc[3341] name: -> [sh]
+<7>[ 1599.056829] [3341:sh] fork [3342:sh]
+<7>[ 1599.057376] [3342:sh] set proc[3342] name: -> [df]
+<7>[ 1599.059545] [3342:df] exit
+<7>[ 1599.059683] [3342:df] sig 17 to [3341:sh]
+<7>[ 1599.059773] [3341:sh] exit
+<7>[ 1599.060055] [82:adbd] sig 1 to [3341:sh]
+<7>[ 1599.060070] [82:adbd] sig 18 to [3341:sh]
+<7>[ 1599.060274] [3341:sh] sig 1 to [3341:sh]
+<7>[ 1599.060285] [3341:sh] sig 18 to [3341:sh]
+<7>[ 1599.060364] [3341:sh] sig 17 to [82:adbd]
+<7>[ 1599.100262] [82:adbd] fork [3343:adbd]
+<7>[ 1599.101105] [3343:adbd] set proc[3343] name: -> [sh]
+<7>[ 1599.102657] [3343:sh] fork [3344:sh]
+<7>[ 1599.103205] [3344:sh] set proc[3344] name: -> [getprop]
+<7>[ 1599.105185] [3344:getprop] exit
+<7>[ 1599.105319] [3344:getprop] sig 17 to [3343:sh]
+<7>[ 1599.105411] [3343:sh] exit
+<7>[ 1599.105691] [82:adbd] sig 1 to [3343:sh]
+<7>[ 1599.105705] [82:adbd] sig 18 to [3343:sh]
+<7>[ 1599.105906] [3343:sh] sig 1 to [3343:sh]
+<7>[ 1599.105918] [3343:sh] sig 18 to [3343:sh]
+<7>[ 1599.105955] [3343:sh] sig 17 to [82:adbd]
+<7>[ 1599.157646] [82:adbd] fork [3345:adbd]
+<7>[ 1599.158417] [3345:adbd] set proc[3345] name: -> [sh]
+<7>[ 1599.159958] [3345:sh] fork [3346:sh]
+<7>[ 1599.160548] [3346:sh] set proc[3346] name: -> [dumpsys]
+<6>[ 1599.166719] binder: 3346:3346 refcount change on invalid ref 0
+<6>[ 1599.166732] binder: 3346:3346 refcount change on invalid ref 0
+<6>[ 1599.166745] binder: 3346:3346 binder_context_mgr_node is NULL
+<6>[ 1599.166756] binder: 3346:3346 transaction failed 29189, size 96-0
+<7>[ 1599.167267] [3346:dumpsys] exit
+<7>[ 1599.167619] [3346:dumpsys] sig 17 to [3345:sh]
+<7>[ 1599.167706] [3345:sh] exit
+<7>[ 1599.167844] [3345:sh] sig 1 to [3345:sh]
+<7>[ 1599.167863] [3345:sh] sig 17 to [82:adbd]
+<7>[ 1599.210772] [82:adbd] fork [3347:adbd]
+<7>[ 1599.211559] [3347:adbd] set proc[3347] name: -> [sh]
+<7>[ 1599.213107] [3347:sh] fork [3348:sh]
+<7>[ 1599.213645] [3348:sh] set proc[3348] name: -> [dumpsys]
+<6>[ 1599.219797] binder: 3348:3348 refcount change on invalid ref 0
+<6>[ 1599.219810] binder: 3348:3348 refcount change on invalid ref 0
+<6>[ 1599.219824] binder: 3348:3348 binder_context_mgr_node is NULL
+<6>[ 1599.219834] binder: 3348:3348 transaction failed 29189, size 100-0
+<7>[ 1599.220618] [3348:dumpsys] exit
+<7>[ 1599.221128] [3348:dumpsys] sig 17 to [3347:sh]
+<7>[ 1599.221209] [3347:sh] exit
+<7>[ 1599.221351] [3347:sh] sig 1 to [3347:sh]
+<7>[ 1599.221369] [3347:sh] sig 17 to [82:adbd]
+<6>[ 1600.040331] yaffs: userdata sync do_checkpoint 0,gc_urgen 0
+<6>[ 1600.040343] yaffs: userdata yaffs_FlushSuperBlock 0
+<5>[ 1600.776799] [Power/Battery] [FGADC] 1,2331,0,1,3792,49,32,26,1135,1135,-39,0,0,1000,0,3834,1000,68,68,2242,104,103
+<5>[ 1601.830831] [Power/Battery] [BATTERY] FTM charging : 12
+<7>[ 1602.514462] [1:init] fork [3349:init]
+<7>[ 1602.514987] [3349:init] set proc[3349] name: -> [logwrapper]
+<7>[ 1602.516328] [3349:logwrapper] fork [3350:logwrapper]
+<7>[ 1602.516839] [3350:logwrapper] exit
+<7>[ 1602.516963] [3350:logwrapper] sig 17 to [3349:logwrapper]
+<7>[ 1602.517137] [3349:logwrapper] exit
+<7>[ 1602.517331] [3349:logwrapper] sig 17 to [1:init]
+<7>[ 1604.060143] [82:adbd] fork [3351:adbd]
+<7>[ 1604.060995] [3351:adbd] set proc[3351] name: -> [sh]
+<7>[ 1604.062558] [3351:sh] fork [3352:sh]
+<7>[ 1604.063107] [3352:sh] set proc[3352] name: -> [df]
+<7>[ 1604.065261] [3352:df] exit
+<7>[ 1604.065397] [3352:df] sig 17 to [3351:sh]
+<7>[ 1604.065485] [3351:sh] exit
+<7>[ 1604.065769] [82:adbd] sig 1 to [3351:sh]
+<7>[ 1604.065784] [82:adbd] sig 18 to [3351:sh]
+<7>[ 1604.065988] [3351:sh] sig 1 to [3351:sh]
+<7>[ 1604.066000] [3351:sh] sig 18 to [3351:sh]
+<7>[ 1604.066013] [3351:sh] sig 17 to [82:adbd]
+<7>[ 1604.107347] [82:adbd] fork [3353:adbd]
+<7>[ 1604.108120] [3353:adbd] set proc[3353] name: -> [sh]
+<7>[ 1604.109679] [3353:sh] fork [3354:sh]
+<7>[ 1604.110221] [3354:sh] set proc[3354] name: -> [getprop]
+<7>[ 1604.112276] [3354:getprop] exit
+<7>[ 1604.112410] [3354:getprop] sig 17 to [3353:sh]
+<7>[ 1604.112501] [3353:sh] exit
+<7>[ 1604.112783] [82:adbd] sig 1 to [3353:sh]
+<7>[ 1604.112797] [82:adbd] sig 18 to [3353:sh]
+<7>[ 1604.113022] [3353:sh] sig 1 to [3353:sh]
+<7>[ 1604.113033] [3353:sh] sig 18 to [3353:sh]
+<7>[ 1604.113046] [3353:sh] sig 17 to [82:adbd]
+<7>[ 1604.157216] [82:adbd] fork [3355:adbd]
+<7>[ 1604.157994] [3355:adbd] set proc[3355] name: -> [sh]
+<7>[ 1604.159527] [3355:sh] fork [3356:sh]
+<7>[ 1604.160069] [3356:sh] set proc[3356] name: -> [dumpsys]
+<6>[ 1604.166298] binder: 3356:3356 refcount change on invalid ref 0
+<6>[ 1604.166311] binder: 3356:3356 refcount change on invalid ref 0
+<6>[ 1604.166325] binder: 3356:3356 binder_context_mgr_node is NULL
+<6>[ 1604.166335] binder: 3356:3356 transaction failed 29189, size 96-0
+<7>[ 1604.166840] [3356:dumpsys] exit
+<7>[ 1604.167188] [3356:dumpsys] sig 17 to [3355:sh]
+<7>[ 1604.167275] [3355:sh] exit
+<7>[ 1604.167412] [3355:sh] sig 1 to [3355:sh]
+<7>[ 1604.167431] [3355:sh] sig 17 to [82:adbd]
+<7>[ 1604.212834] [82:adbd] fork [3357:adbd]
+<7>[ 1604.213620] [3357:adbd] set proc[3357] name: -> [sh]
+<7>[ 1604.215163] [3357:sh] fork [3358:sh]
+<7>[ 1604.215703] [3358:sh] set proc[3358] name: -> [dumpsys]
+<4>[ 1604.220367] 2013-03-09 17:43:12.285405 UTC; android time 2013-03-09 17:43:12.285405
+<6>[ 1604.222940] binder: 3358:3358 refcount change on invalid ref 0
+<6>[ 1604.222952] binder: 3358:3358 refcount change on invalid ref 0
+<6>[ 1604.222965] binder: 3358:3358 binder_context_mgr_node is NULL
+<6>[ 1604.222976] binder: 3358:3358 transaction failed 29189, size 100-0
+<7>[ 1604.223474] [3358:dumpsys] exit
+<7>[ 1604.223826] [3358:dumpsys] sig 17 to [3357:sh]
+<7>[ 1604.223914] [3357:sh] exit
+<7>[ 1604.224054] [3357:sh] sig 1 to [3357:sh]
+<7>[ 1604.224074] [3357:sh] sig 17 to [82:adbd]
+<6>[ 1606.040329] yaffs: userdata sync do_checkpoint 0,gc_urgen 0
+<6>[ 1606.040341] yaffs: userdata yaffs_FlushSuperBlock 0
+<7>[ 1607.522704] [1:init] fork [3359:init]
+<7>[ 1607.523227] [3359:init] set proc[3359] name: -> [logwrapper]
+<7>[ 1607.524595] [3359:logwrapper] fork [3360:logwrapper]
+<7>[ 1607.525119] [3360:logwrapper] exit
+<7>[ 1607.525242] [3360:logwrapper] sig 17 to [3359:logwrapper]
+<7>[ 1607.525421] [3359:logwrapper] exit
+<7>[ 1607.525615] [3359:logwrapper] sig 17 to [1:init]
+<7>[ 1609.078089] [82:adbd] fork [3361:adbd]
+<7>[ 1609.078876] [3361:adbd] set proc[3361] name: -> [sh]
+<7>[ 1609.080476] [3361:sh] fork [3362:sh]
+<7>[ 1609.081030] [3362:sh] set proc[3362] name: -> [df]
+<7>[ 1609.083195] [3362:df] exit
+<7>[ 1609.083332] [3362:df] sig 17 to [3361:sh]
+<7>[ 1609.083422] [3361:sh] exit
+<7>[ 1609.083555] [3361:sh] sig 1 to [3361:sh]
+<7>[ 1609.083575] [3361:sh] sig 17 to [82:adbd]
+<7>[ 1609.126031] [82:adbd] fork [3363:adbd]
+<7>[ 1609.126820] [3363:adbd] set proc[3363] name: -> [sh]
+<7>[ 1609.128365] [3363:sh] fork [3364:sh]
+<7>[ 1609.128905] [3364:sh] set proc[3364] name: -> [getprop]
+<7>[ 1609.130963] [3364:getprop] exit
+<7>[ 1609.131095] [3364:getprop] sig 17 to [3363:sh]
+<7>[ 1609.131187] [3363:sh] exit
+<7>[ 1609.131472] [82:adbd] sig 1 to [3363:sh]
+<7>[ 1609.131486] [82:adbd] sig 18 to [3363:sh]
+<7>[ 1609.131691] [3363:sh] sig 1 to [3363:sh]
+<7>[ 1609.131702] [3363:sh] sig 18 to [3363:sh]
+<7>[ 1609.131739] [3363:sh] sig 17 to [82:adbd]
+<7>[ 1609.175033] [82:adbd] fork [3365:adbd]
+<7>[ 1609.175810] [3365:adbd] set proc[3365] name: -> [sh]
+<7>[ 1609.177362] [3365:sh] fork [3366:sh]
+<7>[ 1609.177909] [3366:sh] set proc[3366] name: -> [dumpsys]
+<6>[ 1609.184174] binder: 3366:3366 refcount change on invalid ref 0
+<6>[ 1609.184187] binder: 3366:3366 refcount change on invalid ref 0
+<6>[ 1609.184201] binder: 3366:3366 binder_context_mgr_node is NULL
+<6>[ 1609.184211] binder: 3366:3366 transaction failed 29189, size 96-0
+<7>[ 1609.184722] [3366:dumpsys] exit
+<7>[ 1609.185076] [3366:dumpsys] sig 17 to [3365:sh]
+<7>[ 1609.185163] [3365:sh] exit
+<7>[ 1609.185299] [3365:sh] sig 1 to [3365:sh]
+<7>[ 1609.185319] [3365:sh] sig 17 to [82:adbd]
+<7>[ 1609.228203] [82:adbd] fork [3367:adbd]
+<7>[ 1609.228986] [3367:adbd] set proc[3367] name: -> [sh]
+<7>[ 1609.230586] [3367:sh] fork [3368:sh]
+<7>[ 1609.231126] [3368:sh] set proc[3368] name: -> [dumpsys]
+<6>[ 1609.237284] binder: 3368:3368 refcount change on invalid ref 0
+<6>[ 1609.237297] binder: 3368:3368 refcount change on invalid ref 0
+<6>[ 1609.237311] binder: 3368:3368 binder_context_mgr_node is NULL
+<6>[ 1609.237321] binder: 3368:3368 transaction failed 29189, size 100-0
+<7>[ 1609.237823] [3368:dumpsys] exit
+<7>[ 1609.238175] [3368:dumpsys] sig 17 to [3367:sh]
+<7>[ 1609.238263] [3367:sh] exit
+<7>[ 1609.238401] [3367:sh] sig 1 to [3367:sh]
+<7>[ 1609.238421] [3367:sh] sig 17 to [82:adbd]
+<5>[ 1610.778699] [Power/Battery] [FGADC] 1,2335,0,1,3793,49,32,26,1135,1135,-39,0,0,1000,0,3834,1000,68,68,2246,104,103
+<5>[ 1611.840824] [Power/Battery] [BATTERY] FTM charging : 12
+<7>[ 1612.530981] [1:init] fork [3369:init]
+<7>[ 1612.531506] [3369:init] set proc[3369] name: -> [logwrapper]
+<7>[ 1612.532856] [3369:logwrapper] fork [3370:logwrapper]
+<7>[ 1612.533370] [3370:logwrapper] exit
+<7>[ 1612.533492] [3370:logwrapper] sig 17 to [3369:logwrapper]
+<7>[ 1612.533671] [3369:logwrapper] exit
+<7>[ 1612.533862] [3369:logwrapper] sig 17 to [1:init]
+<5>[ 1612.750358] [Power/clkmgr] [enable_clock] enable wpll clksrc 0x2 for clock 16
+<5>[ 1612.751238] [Power/clkmgr] [enable_wpll_clksrc_op] wpll_clksrc_mask=0x2, wpll_clksrc_state=0x4003, WPLL_CON=0x403b
+<7>[ 1614.078515] [82:adbd] fork [3371:adbd]
+<7>[ 1614.079307] [3371:adbd] set proc[3371] name: -> [sh]
+<7>[ 1614.080918] [3371:sh] fork [3372:sh]
+<7>[ 1614.081462] [3372:sh] set proc[3372] name: -> [df]
+<7>[ 1614.083626] [3372:df] exit
+<7>[ 1614.083765] [3372:df] sig 17 to [3371:sh]
+<7>[ 1614.083857] [3371:sh] exit
+<7>[ 1614.083991] [3371:sh] sig 1 to [3371:sh]
+<7>[ 1614.084011] [3371:sh] sig 17 to [82:adbd]
+<7>[ 1614.128966] [82:adbd] fork [3373:adbd]
+<7>[ 1614.129733] [3373:adbd] set proc[3373] name: -> [sh]
+<7>[ 1614.131356] [3373:sh] fork [3374:sh]
+<7>[ 1614.131905] [3374:sh] set proc[3374] name: -> [getprop]
+<7>[ 1614.133890] [3374:getprop] exit
+<7>[ 1614.134025] [3374:getprop] sig 17 to [3373:sh]
+<7>[ 1614.134116] [3373:sh] exit
+<7>[ 1614.134252] [3373:sh] sig 1 to [3373:sh]
+<7>[ 1614.134272] [3373:sh] sig 17 to [82:adbd]
+<7>[ 1614.173462] [82:adbd] fork [3375:adbd]
+<7>[ 1614.174246] [3375:adbd] set proc[3375] name: -> [sh]
+<7>[ 1614.175895] [3375:sh] fork [3376:sh]
+<7>[ 1614.176435] [3376:sh] set proc[3376] name: -> [dumpsys]
+<6>[ 1614.182647] binder: 3376:3376 refcount change on invalid ref 0
+<6>[ 1614.182660] binder: 3376:3376 refcount change on invalid ref 0
+<6>[ 1614.182673] binder: 3376:3376 binder_context_mgr_node is NULL
+<6>[ 1614.182684] binder: 3376:3376 transaction failed 29189, size 96-0
+<7>[ 1614.183183] [3376:dumpsys] exit
+<7>[ 1614.184091] [3376:dumpsys] sig 17 to [3375:sh]
+<7>[ 1614.184188] [3375:sh] exit
+<7>[ 1614.184335] [3375:sh] sig 1 to [3375:sh]
+<7>[ 1614.184355] [3375:sh] sig 17 to [82:adbd]
+<7>[ 1614.226123] [82:adbd] fork [3377:adbd]
+<7>[ 1614.226900] [3377:adbd] set proc[3377] name: -> [sh]
+<7>[ 1614.228446] [3377:sh] fork [3378:sh]
+<7>[ 1614.228988] [3378:sh] set proc[3378] name: -> [dumpsys]
+<6>[ 1614.235230] binder: 3378:3378 refcount change on invalid ref 0
+<6>[ 1614.235243] binder: 3378:3378 refcount change on invalid ref 0
+<6>[ 1614.235256] binder: 3378:3378 binder_context_mgr_node is NULL
+<6>[ 1614.235266] binder: 3378:3378 transaction failed 29189, size 100-0
+<7>[ 1614.235765] [3378:dumpsys] exit
+<7>[ 1614.236113] [3378:dumpsys] sig 17 to [3377:sh]
+<7>[ 1614.236201] [3377:sh] exit
+<7>[ 1614.236340] [3377:sh] sig 1 to [3377:sh]
+<7>[ 1614.236360] [3377:sh] sig 17 to [82:adbd]
+<7>[ 1617.539229] [1:init] fork [3379:init]
+<7>[ 1617.539755] [3379:init] set proc[3379] name: -> [logwrapper]
+<7>[ 1617.541163] [3379:logwrapper] fork [3380:logwrapper]
+<7>[ 1617.541680] [3380:logwrapper] exit
+<7>[ 1617.541832] [3380:logwrapper] sig 17 to [3379:logwrapper]
+<7>[ 1617.541994] [3379:logwrapper] exit
+<7>[ 1617.542169] [3379:logwrapper] sig 17 to [1:init]
+<5>[ 1617.760311] [Power/clkmgr] [disable_clock] disable wpll clksrc 0x2 for clock 16
+<5>[ 1617.761212] [Power/clkmgr] [disable_wpll_clksrc_op] wpll_clksrc_mask=0x2, wpll_clksrc_state=0x4001, WPLL_CON=0x4039
+<7>[ 1619.074711] [82:adbd] fork [3381:adbd]
+<7>[ 1619.075511] [3381:adbd] set proc[3381] name: -> [sh]
+<7>[ 1619.077176] [3381:sh] fork [3382:sh]
+<7>[ 1619.077720] [3382:sh] set proc[3382] name: -> [df]
+<7>[ 1619.079896] [3382:df] exit
+<7>[ 1619.080035] [3382:df] sig 17 to [3381:sh]
+<7>[ 1619.080126] [3381:sh] exit
+<7>[ 1619.080261] [3381:sh] sig 1 to [3381:sh]
+<7>[ 1619.080280] [3381:sh] sig 17 to [82:adbd]
+<7>[ 1619.122661] [82:adbd] fork [3383:adbd]
+<7>[ 1619.123439] [3383:adbd] set proc[3383] name: -> [sh]
+<7>[ 1619.125000] [3383:sh] fork [3384:sh]
+<7>[ 1619.125547] [3384:sh] set proc[3384] name: -> [getprop]
+<7>[ 1619.127527] [3384:getprop] exit
+<7>[ 1619.127660] [3384:getprop] sig 17 to [3383:sh]
+<7>[ 1619.127752] [3383:sh] exit
+<7>[ 1619.128035] [82:adbd] sig 1 to [3383:sh]
+<7>[ 1619.128049] [82:adbd] sig 18 to [3383:sh]
+<7>[ 1619.128249] [3383:sh] sig 1 to [3383:sh]
+<7>[ 1619.128261] [3383:sh] sig 18 to [3383:sh]
+<7>[ 1619.128275] [3383:sh] sig 17 to [82:adbd]
+<7>[ 1619.174027] [82:adbd] fork [3385:adbd]
+<7>[ 1619.174803] [3385:adbd] set proc[3385] name: -> [sh]
+<7>[ 1619.176346] [3385:sh] fork [3386:sh]
+<7>[ 1619.176973] [3386:sh] set proc[3386] name: -> [dumpsys]
+<6>[ 1619.183221] binder: 3386:3386 refcount change on invalid ref 0
+<6>[ 1619.183234] binder: 3386:3386 refcount change on invalid ref 0
+<6>[ 1619.183247] binder: 3386:3386 binder_context_mgr_node is NULL
+<6>[ 1619.183258] binder: 3386:3386 transaction failed 29189, size 96-0
+<7>[ 1619.183762] [3386:dumpsys] exit
+<7>[ 1619.184110] [3386:dumpsys] sig 17 to [3385:sh]
+<7>[ 1619.184196] [3385:sh] exit
+<7>[ 1619.184333] [3385:sh] sig 1 to [3385:sh]
+<7>[ 1619.184353] [3385:sh] sig 17 to [82:adbd]
+<7>[ 1619.227172] [82:adbd] fork [3387:adbd]
+<7>[ 1619.227945] [3387:adbd] set proc[3387] name: -> [sh]
+<7>[ 1619.229484] [3387:sh] fork [3388:sh]
+<7>[ 1619.230029] [3388:sh] set proc[3388] name: -> [dumpsys]
+<6>[ 1619.236259] binder: 3388:3388 refcount change on invalid ref 0
+<6>[ 1619.236272] binder: 3388:3388 refcount change on invalid ref 0
+<6>[ 1619.236285] binder: 3388:3388 binder_context_mgr_node is NULL
+<6>[ 1619.236295] binder: 3388:3388 transaction failed 29189, size 100-0
+<7>[ 1619.236796] [3388:dumpsys] exit
+<7>[ 1619.237148] [3388:dumpsys] sig 17 to [3387:sh]
+<7>[ 1619.237234] [3387:sh] exit
+<7>[ 1619.237372] [3387:sh] sig 1 to [3387:sh]
+<7>[ 1619.237393] [3387:sh] sig 17 to [82:adbd]
+<5>[ 1620.780925] [Power/Battery] [FGADC] 1,2328,0,2,3793,49,32,26,1135,1135,-39,0,0,1000,0,3834,1000,68,68,2239,104,103
+<5>[ 1621.841007] [Power/Battery] [BATTERY] FTM charging : 12
+<7>[ 1622.547547] [1:init] fork [3389:init]
+<7>[ 1622.548074] [3389:init] set proc[3389] name: -> [logwrapper]
+<7>[ 1622.549424] [3389:logwrapper] fork [3390:logwrapper]
+<7>[ 1622.549937] [3390:logwrapper] exit
+<7>[ 1622.550061] [3390:logwrapper] sig 17 to [3389:logwrapper]
+<7>[ 1622.550236] [3389:logwrapper] exit
+<7>[ 1622.550479] [3389:logwrapper] sig 17 to [1:init]
+<7>[ 1624.095672] [82:adbd] fork [3391:adbd]
+<7>[ 1624.096459] [3391:adbd] set proc[3391] name: -> [sh]
+<7>[ 1624.098021] [3391:sh] fork [3392:sh]
+<7>[ 1624.098573] [3392:sh] set proc[3392] name: -> [df]
+<7>[ 1624.100796] [3392:df] exit
+<7>[ 1624.100935] [3392:df] sig 17 to [3391:sh]
+<7>[ 1624.101024] [3391:sh] exit
+<7>[ 1624.101309] [82:adbd] sig 1 to [3391:sh]
+<7>[ 1624.101323] [82:adbd] sig 18 to [3391:sh]
+<7>[ 1624.101548] [3391:sh] sig 1 to [3391:sh]
+<7>[ 1624.101560] [3391:sh] sig 18 to [3391:sh]
+<7>[ 1624.101574] [3391:sh] sig 17 to [82:adbd]
+<7>[ 1624.146983] [82:adbd] fork [3393:adbd]
+<7>[ 1624.147766] [3393:adbd] set proc[3393] name: -> [sh]
+<7>[ 1624.149330] [3393:sh] fork [3394:sh]
+<7>[ 1624.149877] [3394:sh] set proc[3394] name: -> [getprop]
+<7>[ 1624.151947] [3394:getprop] exit
+<7>[ 1624.152081] [3394:getprop] sig 17 to [3393:sh]
+<7>[ 1624.152173] [3393:sh] exit
+<7>[ 1624.152456] [82:adbd] sig 1 to [3393:sh]
+<7>[ 1624.152470] [82:adbd] sig 18 to [3393:sh]
+<7>[ 1624.152674] [3393:sh] sig 1 to [3393:sh]
+<7>[ 1624.152686] [3393:sh] sig 18 to [3393:sh]
+<7>[ 1624.152699] [3393:sh] sig 17 to [82:adbd]
+<7>[ 1624.192622] [82:adbd] fork [3395:adbd]
+<7>[ 1624.193408] [3395:adbd] set proc[3395] name: -> [sh]
+<7>[ 1624.194954] [3395:sh] fork [3396:sh]
+<7>[ 1624.195495] [3396:sh] set proc[3396] name: -> [dumpsys]
+<6>[ 1624.201739] binder: 3396:3396 refcount change on invalid ref 0
+<6>[ 1624.201752] binder: 3396:3396 refcount change on invalid ref 0
+<6>[ 1624.201765] binder: 3396:3396 binder_context_mgr_node is NULL
+<6>[ 1624.201775] binder: 3396:3396 transaction failed 29189, size 96-0
+<7>[ 1624.202273] [3396:dumpsys] exit
+<7>[ 1624.202620] [3396:dumpsys] sig 17 to [3395:sh]
+<7>[ 1624.202706] [3395:sh] exit
+<7>[ 1624.202845] [3395:sh] sig 1 to [3395:sh]
+<7>[ 1624.202865] [3395:sh] sig 17 to [82:adbd]
+<4>[ 1624.230327] 2013-03-09 17:43:32.295366 UTC; android time 2013-03-09 17:43:32.295366
+<7>[ 1624.245242] [82:adbd] fork [3397:adbd]
+<7>[ 1624.246019] [3397:adbd] set proc[3397] name: -> [sh]
+<7>[ 1624.247568] [3397:sh] fork [3398:sh]
+<7>[ 1624.248111] [3398:sh] set proc[3398] name: -> [dumpsys]
+<6>[ 1624.254332] binder: 3398:3398 refcount change on invalid ref 0
+<6>[ 1624.254345] binder: 3398:3398 refcount change on invalid ref 0
+<6>[ 1624.254359] binder: 3398:3398 binder_context_mgr_node is NULL
+<6>[ 1624.254369] binder: 3398:3398 transaction failed 29189, size 100-0
+<7>[ 1624.254869] [3398:dumpsys] exit
+<7>[ 1624.255218] [3398:dumpsys] sig 17 to [3397:sh]
+<7>[ 1624.255304] [3397:sh] exit
+<7>[ 1624.255441] [3397:sh] sig 1 to [3397:sh]
+<7>[ 1624.255462] [3397:sh] sig 17 to [82:adbd]
+<7>[ 1627.555850] [1:init] fork [3399:init]
+<7>[ 1627.556373] [3399:init] set proc[3399] name: -> [logwrapper]
+<7>[ 1627.557729] [3399:logwrapper] fork [3400:logwrapper]
+<7>[ 1627.558246] [3400:logwrapper] exit
+<7>[ 1627.558369] [3400:logwrapper] sig 17 to [3399:logwrapper]
+<7>[ 1627.558547] [3399:logwrapper] exit
+<7>[ 1627.558741] [3399:logwrapper] sig 17 to [1:init]
+<7>[ 1629.089218] [82:adbd] fork [3401:adbd]
+<7>[ 1629.090009] [3401:adbd] set proc[3401] name: -> [sh]
+<7>[ 1629.091629] [3401:sh] fork [3402:sh]
+<7>[ 1629.092175] [3402:sh] set proc[3402] name: -> [df]
+<7>[ 1629.094341] [3402:df] exit
+<7>[ 1629.094479] [3402:df] sig 17 to [3401:sh]
+<7>[ 1629.094570] [3401:sh] exit
+<7>[ 1629.094704] [3401:sh] sig 1 to [3401:sh]
+<7>[ 1629.094724] [3401:sh] sig 17 to [82:adbd]
+<7>[ 1629.135801] [82:adbd] fork [3403:adbd]
+<7>[ 1629.136577] [3403:adbd] set proc[3403] name: -> [sh]
+<7>[ 1629.138136] [3403:sh] fork [3404:sh]
+<7>[ 1629.138677] [3404:sh] set proc[3404] name: -> [getprop]
+<7>[ 1629.140735] [3404:getprop] exit
+<7>[ 1629.140868] [3404:getprop] sig 17 to [3403:sh]
+<7>[ 1629.140955] [3403:sh] exit
+<7>[ 1629.141238] [82:adbd] sig 1 to [3403:sh]
+<7>[ 1629.141252] [82:adbd] sig 18 to [3403:sh]
+<7>[ 1629.141454] [3403:sh] sig 1 to [3403:sh]
+<7>[ 1629.141488] [3403:sh] sig 18 to [3403:sh]
+<7>[ 1629.141502] [3403:sh] sig 17 to [82:adbd]
+<7>[ 1629.183821] [82:adbd] fork [3405:adbd]
+<7>[ 1629.184608] [3405:adbd] set proc[3405] name: -> [sh]
+<7>[ 1629.186148] [3405:sh] fork [3406:sh]
+<7>[ 1629.186691] [3406:sh] set proc[3406] name: -> [dumpsys]
+<6>[ 1629.192949] binder: 3406:3406 refcount change on invalid ref 0
+<6>[ 1629.192962] binder: 3406:3406 refcount change on invalid ref 0
+<6>[ 1629.192975] binder: 3406:3406 binder_context_mgr_node is NULL
+<6>[ 1629.192985] binder: 3406:3406 transaction failed 29189, size 96-0
+<7>[ 1629.193492] [3406:dumpsys] exit
+<7>[ 1629.193839] [3406:dumpsys] sig 17 to [3405:sh]
+<7>[ 1629.193928] [3405:sh] exit
+<7>[ 1629.194065] [3405:sh] sig 1 to [3405:sh]
+<7>[ 1629.194085] [3405:sh] sig 17 to [82:adbd]
+<7>[ 1629.238172] [82:adbd] fork [3407:adbd]
+<7>[ 1629.238948] [3407:adbd] set proc[3407] name: -> [sh]
+<7>[ 1629.240541] [3407:sh] fork [3408:sh]
+<7>[ 1629.241082] [3408:sh] set proc[3408] name: -> [dumpsys]
+<6>[ 1629.247242] binder: 3408:3408 refcount change on invalid ref 0
+<6>[ 1629.247255] binder: 3408:3408 refcount change on invalid ref 0
+<6>[ 1629.247268] binder: 3408:3408 binder_context_mgr_node is NULL
+<6>[ 1629.247279] binder: 3408:3408 transaction failed 29189, size 100-0
+<7>[ 1629.247776] [3408:dumpsys] exit
+<7>[ 1629.248125] [3408:dumpsys] sig 17 to [3407:sh]
+<7>[ 1629.248211] [3407:sh] exit
+<7>[ 1629.248348] [3407:sh] sig 1 to [3407:sh]
+<7>[ 1629.248368] [3407:sh] sig 17 to [82:adbd]
+<6>[ 1630.040331] yaffs: userdata sync do_checkpoint 0,gc_urgen 0
+<6>[ 1630.040343] yaffs: userdata yaffs_FlushSuperBlock 0
+<7>[ 1630.510734] [3267:sh] fork [3409:sh]
+<5>[ 1630.511334] [Power/clkmgr] [enable_clock] enable wpll clksrc 0x2 for clock 16
+<5>[ 1630.512213] [Power/clkmgr] [enable_wpll_clksrc_op] wpll_clksrc_mask=0x2, wpll_clksrc_state=0x4003, WPLL_CON=0x403b
+<7>[ 1630.516318] [3409:sh] set proc[3409] name: -> [dmesg]

@@ -1,0 +1,15 @@
+Ну что, накопал в логах такую 
+инфу об оборудовании 256:
+Als/PS(приближения): cm3607
+GPS: bcm4751
+BT: bcm4330
+Audio: pmic 6329
+Magnetometr: ami304d (наверное отсутствует)
+Cam: hal_3a_yuv
+Lens: mdp89, dummy_lens
+WiFi: Ivan_wifi
+ADC: chanels-0,1,3,30,66
+Bus: VGP2
+PWR_KEY-116
+Home-114
+ 

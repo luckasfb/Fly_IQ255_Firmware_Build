@@ -1,0 +1,3948 @@
+--------- beginning of /dev/log/main
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (161,159,159,159) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq tpd->width=320 
+I/FTM     (   86): [Touch] tpd_fwq tpd->height=480 
+I/FTM     (   86): [Touch] tpd_fwq d=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 1... j=0 count=1 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=2 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=3 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=4 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=5 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=6 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=7 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=8 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=9 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=10 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line(53,53,53,480) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,53,53,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,427,267,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,427,267,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,106,106,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,106,106,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,374,214,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,374,214,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,159,159,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (161,159,159,159) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq tpd->width=320 
+I/FTM     (   86): [Touch] tpd_fwq tpd->height=480 
+I/FTM     (   86): [Touch] tpd_fwq d=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 1... j=0 count=1 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=2 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=3 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=4 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=5 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=6 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=7 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=8 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=9 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=10 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line(53,53,53,480) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,53,53,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,427,267,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,427,267,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,106,106,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,106,106,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,374,214,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,374,214,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,159,159,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (161,159,159,159) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq tpd->width=320 
+I/FTM     (   86): [Touch] tpd_fwq tpd->height=480 
+I/FTM     (   86): [Touch] tpd_fwq d=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 1... j=0 count=1 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=2 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=3 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=4 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=5 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=6 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=7 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=8 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=9 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=10 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line(53,53,53,480) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,53,53,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,427,267,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,427,267,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,106,106,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,106,106,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,374,214,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,374,214,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,159,159,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (161,159,159,159) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq tpd->width=320 
+I/FTM     (   86): [Touch] tpd_fwq tpd->height=480 
+I/FTM     (   86): [Touch] tpd_fwq d=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 1... j=0 count=1 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=2 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=3 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=4 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=5 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=6 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=7 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=8 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=9 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=10 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line(53,53,53,480) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,53,53,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,427,267,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,427,267,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,106,106,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,106,106,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,374,214,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,374,214,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,159,159,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (161,159,159,159) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq tpd->width=320 
+I/FTM     (   86): [Touch] tpd_fwq tpd->height=480 
+I/FTM     (   86): [Touch] tpd_fwq d=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 1... j=0 count=1 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=2 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=3 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=4 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=5 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=6 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=7 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=8 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=9 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=10 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line(53,53,53,480) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,53,53,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,427,267,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,427,267,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,106,106,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,106,106,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,374,214,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,374,214,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,159,159,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (161,159,159,159) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq tpd->width=320 
+I/FTM     (   86): [Touch] tpd_fwq tpd->height=480 
+I/FTM     (   86): [Touch] tpd_fwq d=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 1... j=0 count=1 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=2 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=3 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=4 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=5 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=6 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=7 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=8 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=9 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=10 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line(53,53,53,480) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,53,53,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,427,267,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,427,267,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,106,106,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,106,106,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,374,214,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,374,214,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,159,159,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (161,159,159,159) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq tpd->width=320 
+I/FTM     (   86): [Touch] tpd_fwq tpd->height=480 
+I/FTM     (   86): [Touch] tpd_fwq d=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 1... j=0 count=1 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=2 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=3 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=4 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=5 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=6 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=7 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=8 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=9 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=10 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line(53,53,53,480) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,53,53,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,427,267,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,427,267,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,106,106,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,106,106,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,374,214,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,374,214,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,159,159,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (161,159,159,159) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq tpd->width=320 
+I/FTM     (   86): [Touch] tpd_fwq tpd->height=480 
+I/FTM     (   86): [Touch] tpd_fwq d=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 1... j=0 count=1 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=2 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=3 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=4 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=5 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=6 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=7 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=8 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=9 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=10 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line(53,53,53,480) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,53,53,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,427,267,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,427,267,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,106,106,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,106,106,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,374,214,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,374,214,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,159,159,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (161,159,159,159) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq tpd->width=320 
+I/FTM     (   86): [Touch] tpd_fwq tpd->height=480 
+I/FTM     (   86): [Touch] tpd_fwq d=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 1... j=0 count=1 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=2 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=3 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=4 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=5 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=6 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=7 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=8 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=9 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=10 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line(53,53,53,480) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,53,53,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,427,267,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,427,267,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,106,106,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,106,106,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,374,214,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,374,214,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,159,159,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (161,159,159,159) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq tpd->width=320 
+I/FTM     (   86): [Touch] tpd_fwq tpd->height=480 
+I/FTM     (   86): [Touch] tpd_fwq d=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 1... j=0 count=1 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=2 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=3 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=4 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=5 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=6 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=7 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=8 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=9 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=10 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line(53,53,53,480) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,53,53,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,427,267,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,427,267,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,106,106,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,106,106,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,374,214,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,374,214,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,159,159,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (161,159,159,159) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq tpd->width=320 
+I/FTM     (   86): [Touch] tpd_fwq tpd->height=480 
+I/FTM     (   86): [Touch] tpd_fwq d=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 1... j=0 count=1 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=2 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=3 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=4 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=5 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=6 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=7 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=8 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=9 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=10 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line(53,53,53,480) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,53,53,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,427,267,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,427,267,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,106,106,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,106,106,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,374,214,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,374,214,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,159,159,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (161,159,159,159) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq tpd->width=320 
+I/FTM     (   86): [Touch] tpd_fwq tpd->height=480 
+I/FTM     (   86): [Touch] tpd_fwq d=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 1... j=0 count=1 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=2 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=3 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=4 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=5 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=6 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=7 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=8 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=9 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=10 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line(53,53,53,480) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,53,53,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,427,267,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,427,267,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,106,106,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,106,106,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,374,214,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,374,214,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,159,159,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (161,159,159,159) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq tpd->width=320 
+I/FTM     (   86): [Touch] tpd_fwq tpd->height=480 
+I/FTM     (   86): [Touch] tpd_fwq d=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 1... j=0 count=1 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=2 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=3 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=4 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=5 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=6 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=7 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=8 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=9 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=10 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line(53,53,53,480) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,53,53,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,427,267,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,427,267,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,106,106,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,106,106,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,374,214,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,374,214,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,159,159,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (161,159,159,159) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq tpd->width=320 
+I/FTM     (   86): [Touch] tpd_fwq tpd->height=480 
+I/FTM     (   86): [Touch] tpd_fwq d=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 1... j=0 count=1 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=2 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=3 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=4 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=5 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=6 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=7 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=8 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=9 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=10 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line(53,53,53,480) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,53,53,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,427,267,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,427,267,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,106,106,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,106,106,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,374,214,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,374,214,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,159,159,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (161,159,159,159) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq tpd->width=320 
+I/FTM     (   86): [Touch] tpd_fwq tpd->height=480 
+I/FTM     (   86): [Touch] tpd_fwq d=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 1... j=0 count=1 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=2 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=3 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=4 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=5 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=6 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=7 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=8 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=9 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=10 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line(53,53,53,480) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,53,53,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,427,267,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,427,267,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,106,106,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,106,106,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,374,214,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,374,214,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,159,159,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (161,159,159,159) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq tpd->width=320 
+I/FTM     (   86): [Touch] tpd_fwq tpd->height=480 
+I/FTM     (   86): [Touch] tpd_fwq d=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 1... j=0 count=1 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=2 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=3 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=4 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=5 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=6 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=7 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=8 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=9 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=10 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line(53,53,53,480) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,53,53,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,427,267,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,427,267,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,106,106,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,106,106,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,374,214,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,374,214,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,159,159,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (161,159,159,159) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq tpd->width=320 
+I/FTM     (   86): [Touch] tpd_fwq tpd->height=480 
+I/FTM     (   86): [Touch] tpd_fwq d=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 1... j=0 count=1 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=2 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=3 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=4 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=5 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=6 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=7 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=8 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=9 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=10 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line(53,53,53,480) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,53,53,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,427,267,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,427,267,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,106,106,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,106,106,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,374,214,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,374,214,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,159,159,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (161,159,159,159) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq tpd->width=320 
+I/FTM     (   86): [Touch] tpd_fwq tpd->height=480 
+I/FTM     (   86): [Touch] tpd_fwq d=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 1... j=0 count=1 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=2 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=3 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=4 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=5 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=6 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=7 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=8 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=9 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=10 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line(53,53,53,480) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,53,53,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,427,267,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,427,267,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,106,106,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,106,106,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,374,214,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,374,214,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,159,159,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (161,159,159,159) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq tpd->width=320 
+I/FTM     (   86): [Touch] tpd_fwq tpd->height=480 
+I/FTM     (   86): [Touch] tpd_fwq d=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 1... j=0 count=1 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=2 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=3 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=4 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=5 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=6 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=7 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=8 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=9 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=10 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line(53,53,53,480) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,53,53,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,427,267,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,427,267,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,106,106,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,106,106,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,374,214,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,374,214,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,159,159,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (161,159,159,159) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq tpd->width=320 
+I/FTM     (   86): [Touch] tpd_fwq tpd->height=480 
+I/FTM     (   86): [Touch] tpd_fwq d=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 1... j=0 count=1 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=2 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=3 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=4 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=5 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=6 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=7 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=8 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=9 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=10 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line(53,53,53,480) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,53,53,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,427,267,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,427,267,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,106,106,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,106,106,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,374,214,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,374,214,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,159,159,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (161,159,159,159) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq tpd->width=320 
+I/FTM     (   86): [Touch] tpd_fwq tpd->height=480 
+I/FTM     (   86): [Touch] tpd_fwq d=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 1... j=0 count=1 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=2 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=3 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=4 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=5 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=6 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=7 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=8 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=9 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=10 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line(53,53,53,480) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,53,53,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,427,267,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,427,267,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,106,106,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,106,106,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,374,214,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,374,214,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,159,159,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (161,159,159,159) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq tpd->width=320 
+I/FTM     (   86): [Touch] tpd_fwq tpd->height=480 
+I/FTM     (   86): [Touch] tpd_fwq d=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 1... j=0 count=1 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=2 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=3 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=4 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=5 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=6 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=7 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=8 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=9 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=10 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line(53,53,53,480) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,53,53,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,427,267,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,427,267,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,106,106,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,106,106,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,374,214,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,374,214,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,159,159,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (161,159,159,159) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq tpd->width=320 
+I/FTM     (   86): [Touch] tpd_fwq tpd->height=480 
+I/FTM     (   86): [Touch] tpd_fwq d=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 1... j=0 count=1 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=2 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=3 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=4 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=5 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=6 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=7 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=8 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=9 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=10 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line(53,53,53,480) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,53,53,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,427,267,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,427,267,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,106,106,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,106,106,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,374,214,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,374,214,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,159,159,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (161,159,159,159) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq tpd->width=320 
+I/FTM     (   86): [Touch] tpd_fwq tpd->height=480 
+I/FTM     (   86): [Touch] tpd_fwq d=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 1... j=0 count=1 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=2 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=3 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=4 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=5 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=6 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=7 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=8 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=9 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=10 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line(53,53,53,480) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,53,53,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,427,267,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,427,267,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,106,106,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,106,106,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,374,214,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,374,214,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,159,159,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (161,159,159,159) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq tpd->width=320 
+I/FTM     (   86): [Touch] tpd_fwq tpd->height=480 
+I/FTM     (   86): [Touch] tpd_fwq d=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 1... j=0 count=1 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=2 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=3 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=4 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=5 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=6 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=7 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=8 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=9 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=10 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line(53,53,53,480) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,53,53,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,427,267,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,427,267,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,106,106,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,106,106,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,374,214,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,374,214,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,159,159,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (161,159,159,159) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq tpd->width=320 
+I/FTM     (   86): [Touch] tpd_fwq tpd->height=480 
+I/FTM     (   86): [Touch] tpd_fwq d=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 1... j=0 count=1 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=2 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=3 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=4 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=5 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=6 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=7 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=8 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=9 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=10 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line(53,53,53,480) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,53,53,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,427,267,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,427,267,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,106,106,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,106,106,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,374,214,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,374,214,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,159,159,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (161,159,159,159) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq tpd->width=320 
+I/FTM     (   86): [Touch] tpd_fwq tpd->height=480 
+I/FTM     (   86): [Touch] tpd_fwq d=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 1... j=0 count=1 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=2 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=3 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=4 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=5 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=6 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=7 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=8 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=9 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=10 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line(53,53,53,480) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,53,53,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,427,267,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,427,267,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,106,106,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,106,106,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,374,214,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,374,214,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,159,159,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (161,159,159,159) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq tpd->width=320 
+I/FTM     (   86): [Touch] tpd_fwq tpd->height=480 
+I/FTM     (   86): [Touch] tpd_fwq d=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 1... j=0 count=1 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=2 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=3 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=4 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=5 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=6 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=7 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=8 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=9 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=10 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line(53,53,53,480) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,53,53,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,427,267,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,427,267,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,106,106,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,106,106,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,374,214,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,374,214,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,159,159,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (161,159,159,159) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq tpd->width=320 
+I/FTM     (   86): [Touch] tpd_fwq tpd->height=480 
+I/FTM     (   86): [Touch] tpd_fwq d=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 1... j=0 count=1 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=2 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=3 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=4 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=5 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=6 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=7 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=8 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=9 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=10 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line(53,53,53,480) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,53,53,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,427,267,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,427,267,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,106,106,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,106,106,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,374,214,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,374,214,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,159,159,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (161,159,159,159) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq tpd->width=320 
+I/FTM     (   86): [Touch] tpd_fwq tpd->height=480 
+I/FTM     (   86): [Touch] tpd_fwq d=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 1... j=0 count=1 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=2 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=3 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=4 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=5 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=6 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=7 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=8 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=9 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq 2... j=0 count=10 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=214,dy=374,x=53,y=53,px=53,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line(53,53,53,480) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,53,53,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=267,py=53 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=161 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (267,427,267,53) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=267,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=321 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,427,267,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=106,py=427 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=108 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (106,106,106,427) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=106,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=268 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,106,106,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=214,py=106 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=55 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (214,374,214,106) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=2 ,px=214,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=215 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,374,214,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=3 ,px=159,py=374 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=2 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (159,159,159,374) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=0 ,px=159,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq dx=-51 ,dy=162 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq draw line2 (161,159,159,159) 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq i=1 ,px=161,py=159 
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break dx=-51,dy=162
+I/FTM     (   86):  
+I/FTM     (   86): [Touch] tpd_fwq  break x=161,y=159,px=161,py=159
+I/FTM     (   86):  
+D/FTM     (   86): [MIUI] msg2133_tpd Magnum
+D/FTM     (   86): [MIUI] NOT msg2133_tpd_reset
+D/FTM     (   86): [MIUI] KEY: 61
+D/FTM     (   86): [Touch] exit thread
+D/FTM     (   86): [MAIN] Save test result to 
+D/FTM     (   86): [MAIN]   Version=1
+D/FTM     (   86): [MAIN]   Keys=1
+D/FTM     (   86): [MAIN]   Touch Panel=0
+D/FTM     (   86): [MAIN]   LCD Color=1
+D/FTM     (   86): [MAIN]   LCD Contrast=1
+D/FTM     (   86): [MAIN]   Memory Card=1
+D/FTM     (   86): [MAIN]   SIM1 Detect=1
+D/FTM     (   86): [MAIN]   SIM2 Detect=1
+D/FTM     (   86): [MAIN]   Vibrator=1
+D/FTM     (   86): [MAIN]   LED=1
+D/FTM     (   86): [MAIN]   Speaker Test=1
+D/FTM     (   86): [MAIN]   Receiver=1
+D/FTM     (   86): [MAIN]   Loopback=1
+D/FTM     (   86): [MAIN]   Headset=1
+D/FTM     (   86): [MAIN]   G-Sensor Calibration=1
+D/FTM     (   86): [MAIN]   G-Sensor=1
+D/FTM     (   86): [MAIN]   ALS/PS=1
+D/FTM     (   86): [MAIN]   Main Camera=1
+D/FTM     (   86): [MAIN]   Sub Camera=1
+D/FTM     (   86): [MAIN]   GPS-Power=1
+D/FTM     (   86): [MAIN]   FM Radio=1
+D/FTM     (   86): [MAIN]   Bluetooth=1
+D/FTM     (   86): [MAIN]   Wi-Fi=1
+D/FTM     (   86): [MAIN]   Battery & Charger=1
+D/FTM     (   86): [MAIN]   Idle Current=1
+D/FTM     (   86): [MIUI] itemview_run 0xbe815c24
+E/IPCThreadState(  602): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper(  604): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  603): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState(  606): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  612): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper(  614): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  613): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState(  616): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  622): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper(  624): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  623): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState(  626): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  632): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper(  634): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  633): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState(  636): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  642): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper(  644): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  643): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState(  646): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  652): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper(  654): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  653): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState(  656): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  662): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper(  664): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  663): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState(  666): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  672): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper(  674): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  673): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState(  676): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  682): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper(  684): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  683): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState(  686): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  692): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper(  694): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  693): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState(  696): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  703): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper(  705): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  704): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState(  707): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  713): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper(  715): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  714): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState(  717): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  723): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper(  725): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  724): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState(  727): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  733): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper(  735): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  734): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState(  737): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  743): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper(  745): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  744): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState(  747): IPCThread::waitForResponse checking error 3 : -32
+E/IPCThreadState(  753): IPCThread::waitForResponse checking error 3 : -32
+E/logwrapper(  755): executing /system/bin/ami304d failed: No such file or directory
+I/logwrapper(  754): /system/bin/ami304d terminated by exit(255)
+E/IPCThreadState(  757): IPCThread::waitForResponse checking error 3 : -32
