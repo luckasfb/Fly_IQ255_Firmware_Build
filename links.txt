@@ -1,0 +1,9 @@
+Some interested links for patch errors in kernels:
+
+MMC-HOST:
+https://github.com/simar7/singh-kernel/blob/b3546c6415d9a426612a4c92d8528aa4f719d121/android-kernel-patches/flar2/0262-mmc-core-Refactor-bus-speed-selection-code.patch
+
+
+BCM modules:
+https://github.com/simar7/singh-kernel/blob/b3546c6415d9a426612a4c92d8528aa4f719d121/android-kernel-patches/flar2/0148-bluetooth-unlock-spin-on-bluesleep_stop-before-contr.patch
+
