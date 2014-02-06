@@ -2,7 +2,8 @@ Some interested links for patch errors in kernels:
 
 MMC-HOST:
 https://github.com/simar7/singh-kernel/blob/b3546c6415d9a426612a4c92d8528aa4f719d121/android-kernel-patches/flar2/0262-mmc-core-Refactor-bus-speed-selection-code.patch
-
+https://github.com/simar7/singh-kernel/blob/b3546c6415d9a426612a4c92d8528aa4f719d121/android-kernel-patches/flar2/0266-sdhci-sdhci_stop_request-returns-error-when-no-reque.patch
+https://github.com/simar7/singh-kernel/blob/b3546c6415d9a426612a4c92d8528aa4f719d121/android-kernel-patches/flar2/0268-mmc-block-Fix-error-path-of-mmc_blk_alloc_req.patch
 
 BCM modules:
 https://github.com/simar7/singh-kernel/blob/b3546c6415d9a426612a4c92d8528aa4f719d121/android-kernel-patches/flar2/0148-bluetooth-unlock-spin-on-bluesleep_stop-before-contr.patch
